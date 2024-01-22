@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald-highlights/","title":"3 Vital Questions","tags":["📚"],"created":"2023-09-19T22:09:01.122-05:00","updated":"2024-01-21T18:15:38.673-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald-highlights/","title":"3 Vital Questions","tags":["📚"],"created":"2023-09-19T22:09:01.122-05:00","updated":"2024-01-21T21:33:08.718-06:00"}
 ---
 
 # 3 Vital Questions
-
+ 
 Book ID: 27038539  
 ![cover|150](https://m.media-amazon.com/images/I/71-eZDMNMhL._SY160.jpg)  
 
