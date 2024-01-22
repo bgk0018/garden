@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2024-01-21T17:13:14.028-06:00","updated":"2024-01-21T22:01:52.388-06:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2024-01-21T17:13:14.028-06:00","updated":"2024-01-21T22:03:14.643-06:00"}
 ---
 
 # Welcome!
@@ -16,14 +16,10 @@ On the left, you should see a few folders.
 
 | Folder | Description |
 | ---- | ---- |
-| `/Articles` | Basic articles in chronological order I have written for this space |
-| `/Permanent` | Evergreen notes, zettlekasten adjacent notes, highlights, and other resources I will surface |
-| `/Reference` | Some useful references for understanding the meta data sprinkled throughout this website |
+| `/articles` | Basic articles in chronological order I have written for this space |
+| `/permanent` | Evergreen notes, zettlekasten adjacent notes, highlights, and other resources I will surface |
+| `/reference` | Some useful references for understanding the meta data sprinkled throughout this website |
 | `Home` | You're here now |
 
 You can start literally anywhere but here's a table of interesting entry points:
-
-
-
-## References
 
