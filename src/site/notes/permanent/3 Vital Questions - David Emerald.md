@@ -12,24 +12,21 @@
 # Concepts
 | Name                                                                                                                                                             | Weight     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation]]                                                                                         | Weight: 12 |
+| [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation - 202304261241]]                                                                          | Weight: 13 |
 | [[permanent/Problem - 202304261228\|Problem]]                                                                                                                 | Weight: 12 |
 | [[permanent/Problem Orientation - 202304201646\|Problem Orientation]]                                                                                         | Weight: 12 |
 | [[permanent/Focus - 202304201649\|Focus]]                                                                                                                     | Weight: 10 |
 | [[permanent/Outcome - 202304261242\|Outcome]]                                                                                                                 | Weight: 10 |
 | [[permanent/Victim - 202305251726\|Victim]]                                                                                                                   | Weight: 10 |
-| [[permanent/Creator - 202306271318\|Creator]]                                                                                                                 | Weight: 7  |
 | [[permanent/Dreaded Drama Triangle - 202305251725\|Dreaded Drama Triangle]]                                                                                   | Weight: 7  |
 | [[permanent/Inner State - 202304201654\|Inner State]]                                                                                                         | Weight: 7  |
 | [[permanent/Reaction - 202304261216\|Reaction]]                                                                                                               | Weight: 7  |
+| [[permanent/Creator - 202306271318\|Creator]]                                                                                                                 | Weight: 6  |
 | [[permanent/Persecutor - 202305271800\|Persecutor]]                                                                                                           | Weight: 6  |
 | [[permanent/Rescuer - 202305271811\|Rescuer]]                                                                                                                 | Weight: 6  |
-| [[permanent/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic]]                                                                                 | Weight: 6  |
 | [[permanent/Behavior - 202304201655\|Behavior]]                                                                                                               | Weight: 5  |
 | [[permanent/Result - 202304261252\|Result]]                                                                                                                   | Weight: 5  |
-| [[permanent/A.I.R. - 202304261249\|A.I.R. - 202304261249]]                                                                                                    | Weight: 5  |
 | [[permanent/Baby Step - 202304261244\|Baby Step]]                                                                                                             | Weight: 4  |
-| [[permanent/Challenger - 202306271330\|Challenger]]                                                                                                           | Weight: 4  |
 | [[permanent/FISBE - 202304201647\|FISBE]]                                                                                                                     | Weight: 4  |
 | [[permanent/Anxiety - 202304261229\|Anxiety]]                                                                                                                 | Weight: 3  |
 | [[permanent/External Shift - 202306291523\|External Shift]]                                                                                                   | Weight: 3  |
