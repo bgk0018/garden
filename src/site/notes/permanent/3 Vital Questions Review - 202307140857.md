@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-review-202307140857/","tags":["💡"],"created":"2023-09-19T22:08:56.793-05:00","updated":"2024-01-21T21:42:58.223-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-review-202307140857/","tags":["💡"],"created":"2023-07-14T08:57:41.745-05:00","updated":"2024-01-25T19:57:10.412-06:00"}
 ---
 
 # 3 Vital Questions Review
@@ -379,7 +379,7 @@ An acronym that describes how a human operates.[^1]
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/problem-orientation-202304201646/#problem-orientation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -438,7 +438,7 @@ When our [[permanent/Anxiety - 202304261229\|Anxiety]] raises, we [[permanent/Re
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/problem-202304261228/#problem" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -594,7 +594,7 @@ Each [[permanent/Baby Step - 202304261244\|Baby Step]] you take will either get 
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/outcome-202304261242/#outcome" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
