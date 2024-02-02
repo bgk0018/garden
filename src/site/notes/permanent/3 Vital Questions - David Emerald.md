@@ -12,45 +12,45 @@
 # Concepts
 | Name                                                                                                                                                             | Weight     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[permanent/Problem Orientation - 202304201646\|Problem Orientation - 202304201646]]                                                                          | Weight: 12 |
-| [[permanent/Problem - 202304261228\|Problem - 202304261228]]                                                                                                  | Weight: 12 |
 | [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation - 202304261241]]                                                                          | Weight: 12 |
+| [[permanent/Problem - 202304261228\|Problem - 202304261228]]                                                                                                  | Weight: 12 |
+| [[permanent/Problem Orientation - 202304201646\|Problem Orientation - 202304201646]]                                                                          | Weight: 12 |
 | [[permanent/Focus - 202304201649\|Focus]]                                                                                                                     | Weight: 10 |
 | [[permanent/Outcome - 202304261242\|Outcome - 202304261242]]                                                                                                  | Weight: 10 |
 | [[permanent/Victim - 202305251726\|Victim]]                                                                                                                   | Weight: 9  |
-| [[permanent/Reaction - 202304261216\|Reaction]]                                                                                                               | Weight: 7  |
 | [[permanent/Inner State - 202304201654\|Inner State]]                                                                                                         | Weight: 7  |
-| [[permanent/Dreaded Drama Triangle - 202305251725\|Dreaded Drama Triangle]]                                                                                   | Weight: 6  |
+| [[permanent/Reaction - 202304261216\|Reaction]]                                                                                                               | Weight: 7  |
 | [[permanent/Creator - 202306271318\|Creator]]                                                                                                                 | Weight: 6  |
-| [[permanent/Rescuer - 202305271811\|Rescuer]]                                                                                                                 | Weight: 5  |
-| [[permanent/Persecutor - 202305271800\|Persecutor]]                                                                                                           | Weight: 5  |
 | [[permanent/Behavior - 202304201655\|Behavior]]                                                                                                               | Weight: 5  |
-| [[permanent/Result - 202304261252\|Result]]                                                                                                                   | Weight: 4  |
-| [[permanent/FISBE - 202304201647\|FISBE]]                                                                                                                     | Weight: 4  |
+| [[permanent/Dreaded Drama Triangle - 202305251725\|Dreaded Drama Triangle]]                                                                                   | Weight: 5  |
+| [[permanent/Persecutor - 202305271800\|Persecutor]]                                                                                                           | Weight: 5  |
+| [[permanent/Rescuer - 202305271811\|Rescuer]]                                                                                                                 | Weight: 5  |
 | [[permanent/Baby Step - 202304261244\|Baby Step]]                                                                                                             | Weight: 4  |
-| [[permanent/Vital Question 3 - 202304171451\|Vital Question 3]]                                                                                               | Weight: 3  |
-| [[permanent/Vital Question 2 - 202304171450\|Vital Question 2]]                                                                                               | Weight: 3  |
-| [[permanent/Vital Question 1 - 202304171449\|Vital Question 1]]                                                                                               | Weight: 3  |
-| [[permanent/Theory Y - 202304201637\|Theory Y]]                                                                                                               | Weight: 3  |
-| [[permanent/Theory X - 202304201635\|Theory X]]                                                                                                               | Weight: 3  |
-| [[permanent/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation]]                                                                     | Weight: 3  |
-| [[permanent/Passion - 202304261243\|Passion]]                                                                                                                 | Weight: 3  |
-| [[permanent/Orientation - 202305280800\|Orientation]]                                                                                                         | Weight: 3  |
-| [[permanent/Mindset Shifting - 202306291518\|Mindset Shifting]]                                                                                               | Weight: 3  |
-| [[permanent/Internal Shift - 202306291522\|Internal Shift]]                                                                                                   | Weight: 3  |
+| [[permanent/FISBE - 202304201647\|FISBE]]                                                                                                                     | Weight: 4  |
+| [[permanent/Result - 202304261252\|Result]]                                                                                                                   | Weight: 4  |
 | [[permanent/Intention - 202304261251\|Intention]]                                                                                                             | Weight: 3  |
+| [[permanent/Passion - 202304261243\|Passion]]                                                                                                                 | Weight: 3  |
+| [[permanent/Theory X - 202304201635\|Theory X]]                                                                                                               | Weight: 3  |
+| [[permanent/Theory Y - 202304201637\|Theory Y]]                                                                                                               | Weight: 3  |
+| [[permanent/Vital Question 3 - 202304171451\|Vital Question 3]]                                                                                               | Weight: 3  |
+| [[permanent/Vital Question 1 - 202304171449\|Vital Question 1]]                                                                                               | Weight: 3  |
+| [[permanent/Vital Question 2 - 202304171450\|Vital Question 2]]                                                                                               | Weight: 3  |
+| [[permanent/Orientation - 202305280800\|Orientation]]                                                                                                         | Weight: 3  |
+| [[permanent/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation]]                                                                     | Weight: 3  |
 | [[permanent/External Shift - 202306291523\|External Shift]]                                                                                                   | Weight: 3  |
+| [[permanent/Internal Shift - 202306291522\|Internal Shift]]                                                                                                   | Weight: 3  |
+| [[permanent/Mindset Shifting - 202306291518\|Mindset Shifting]]                                                                                               | Weight: 3  |
 | [[permanent/Anxiety - 202304261229\|Anxiety - 202304261229]]                                                                                                  | Weight: 3  |
-| [[permanent/Three dimensions of work - 202304171439\|Three dimensions of work]]                                                                               | Weight: 2  |
-| [[permanent/Reactive Trigger - 202304271152\|Reactive Trigger]]                                                                                               | Weight: 2  |
-| [[permanent/Differences between the Victim and the Creator - 202306271324\|Differences between the Victim and the Creator]]                                   | Weight: 2  |
 | [[permanent/Attention - 202304261250\|Attention]]                                                                                                             | Weight: 2  |
-| [[permanent/Victimhood - 202305271757\|Victimhood]]                                                                                                           | Weight: 1  |
+| [[permanent/Reactive Trigger - 202304271152\|Reactive Trigger]]                                                                                               | Weight: 2  |
+| [[permanent/Three dimensions of work - 202304171439\|Three dimensions of work]]                                                                               | Weight: 2  |
+| [[permanent/Differences between the Victim and the Creator - 202306271324\|Differences between the Victim and the Creator]]                                   | Weight: 2  |
 | [[permanent/Thoughts Feelings and Actions Exercise - 202307141112\|Thoughts Feelings and Actions Exercise]]                                                   | Weight: 1  |
-| [[permanent/The Choice Point - 202306301414\|The Choice Point]]                                                                                               | Weight: 1  |
-| [[permanent/Going up on the balcony - 202304271153\|Observing]]                                                                                               | Weight: 1  |
-| [[permanent/Dynamic Tension - 202304171455\|Dynamic Tension]]                                                                                                 | Weight: 1  |
 | [[permanent/Change initiatives fail because we focus on the wrong dimension - 202304201639\|Change initiatives fail because we focus on the wrong dimension]] | Weight: 1  |
+| [[permanent/Dynamic Tension - 202304171455\|Dynamic Tension]]                                                                                                 | Weight: 1  |
+| [[permanent/Going up on the balcony - 202304271153\|Observing]]                                                                                               | Weight: 1  |
+| [[permanent/Victimhood - 202305271757\|Victimhood]]                                                                                                           | Weight: 1  |
+| [[permanent/The Choice Point - 202306301414\|The Choice Point]]                                                                                               | Weight: 1  |
 | [[permanent/Focusing on outcomes categorizes your problems - 202304271148\|Focusing on outcomes categorizes your problems]]                                   | Weight: 0  |
 
 { .block-language-dataview}
