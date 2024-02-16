@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald-highlights/","title":"3 Vital Questions","tags":["📚"],"created":"2023-07-02T12:02:12.300-05:00","updated":"2024-01-25T19:57:10.469-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald-highlights/","title":"3 Vital Questions","tags":["📚"],"created":"2024-02-16T17:31:04.459-06:00","updated":"2024-02-16T17:31:04.930-06:00"}
 ---
 
 # 3 Vital Questions
- 
-Book ID: 27038539  
-![cover|150](https://m.media-amazon.com/images/I/71-eZDMNMhL._SY160.jpg)  
 
+![cover|150](https://m.media-amazon.com/images/I/71-eZDMNMhL._SY160.jpg)
+## Metadata
 
 ## Highlights
-
+#📫
 ### Introduction
 >[!QUOTE]  
 >Gallup research indicates that there’s approximately $500 billion in lost productivity annually, in the United States alone, due to negative behavior in organizations. Other research has estimated that managers spend as much as 40% of their time dealing with conflict and drama. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=74)) #✂️ 
@@ -101,7 +100,7 @@ Book ID: 27038539
 
 
 ---
-### VITAL QUESTION 1 Where Are You Putting Your Focus?
+### VITAL QUESTION 1 Where are you putting your focus?
 #### CHAPTER ONE Late Night at the Office
 #### CHAPTER TWO Where Are You Putting Your Focus?
 >[!QUOTE]  
@@ -280,7 +279,7 @@ Book ID: 27038539
 
 
 ---
-### VITAL QUESTION 2 How Are You Relating?
+### VITAL QUESTION 2 How are you relating?
 #### CHAPTER FIVE How Are You Relating?
 >[!QUOTE]  
 >the Problem Orientation is actually a Victim Orientation, because usually we feel victimized by the problems we’re reacting to. On the other hand, the Outcome Orientation is really a Creator Orientation, from which you create outcomes and the baby steps you’ll take to accomplish those outcomes. ([Location 813](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=813)) #✂️ 
@@ -556,7 +555,7 @@ Book ID: 27038539
 
 
 ---
-### VITAL QUESTION 3 What Actions Are You Taking?
+### VITAL QUESTION 3 What actions are you taking?
 #### CHAPTER TEN What Actions Are You Taking?
 >[!QUOTE]  
 >Ted continued, “Sarah’s idea—that you can ‘pass or play’—is right on the money! When faced with a drama situation—especially with another person or in a group—a Creator can always choose whether to let the drama pass them by or play into the DDT. ([Location 1753](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=1753)) #✂️ 
