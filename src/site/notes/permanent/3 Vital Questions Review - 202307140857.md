@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-review-202307140857/","tags":["💡"],"created":"2023-07-14T08:57:41.745-05:00","updated":"2024-01-25T19:57:10.412-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-review-202307140857/","tags":["💡"],"created":"2023-07-14T08:57:41.745-05:00","updated":"2024-02-07T19:52:08.834-06:00"}
 ---
 
 # 3 Vital Questions Review
