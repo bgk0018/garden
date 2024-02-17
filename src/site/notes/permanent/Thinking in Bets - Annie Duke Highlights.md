@@ -1,5 +1,5 @@
 ---
-{"tags":["📚"],"create-date":"2024-02-16","title":"Thinking in Bets","author":["[[Annie Duke]]"],"cover":"https://images-na.ssl-images-amazon.com/images/I/41oQkVLDeUL._SL200_.jpg","url":null,"source":"kindle","parent":"[[Thinking in Bets - Annie Duke]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/thinking-in-bets-annie-duke-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:07.370-06:00","updated":"2024-02-16T17:31:07.762-06:00"}
+{"dg-publish":true,"permalink":"/permanent/thinking-in-bets-annie-duke-highlights/","title":"Thinking in Bets","tags":["📚"],"created":"2024-02-16T17:31:07.370-06:00","updated":"2024-02-16T17:31:07.762-06:00"}
 ---
 
 # Thinking in Bets
