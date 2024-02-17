@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-empowerment-dynamic-202306271410/","tags":["📖"],"created":"2023-06-27T14:10:17.411-05:00","updated":"2024-02-07T19:51:05.275-06:00"}
+{"aliases":["The Empowerment Dynamic"],"tags":["📖"],"create-date":"2023-06-27","date":"[[2023-06-27]]","challenges":["[[Dreaded Drama Triangle - 202305251725|Dreaded Drama Triangle]]"],"parent":"[[Outcome Orientation - 202304261241|Outcome Orientation]]","dg-publish":true,"permalink":"/permanent/the-empowerment-dynamic-202306271410/","dgPassFrontmatter":true,"created":"2023-06-27T14:10:17.411-05:00","updated":"2024-02-07T19:51:05.275-06:00"}
 ---
 
 
