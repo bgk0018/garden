@@ -1,5 +1,5 @@
 ---
-{"tags":["📰"],"create-date":"2024-02-16","title":"Gun Violence Is Actually Worse in Red States. It’s Not Even Close.","author":["[[POLITICO]]"],"cover":"https://static.politico.com/06/45/59d18a854cfe9248a57bd21a0913/mag-woodward-regions.png","url":"https://www.politico.com/news/magazine/2023/04/23/surprising-geography-of-gun-violence-00092413","source":"reader","parent":"[[Gun Violence Is Actually Worse in Red States. It’s Not Even Close. - POLITICO]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/gun-violence-is-actually-worse-in-red-states-it-s-not-even-close-politico-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:00.977-06:00","updated":"2024-02-16T17:31:01.378-06:00"}
+{"dg-publish":true,"permalink":"/permanent/gun-violence-is-actually-worse-in-red-states-it-s-not-even-close-politico-highlights/","title":"Gun Violence Is Actually Worse in Red States. It’s Not Even Close.","tags":["📰"],"created":"2024-02-16T17:31:00.977-06:00","updated":"2024-02-16T17:31:01.378-06:00"}
 ---
 
 # Gun Violence Is Actually Worse in Red States. It’s Not Even Close.
