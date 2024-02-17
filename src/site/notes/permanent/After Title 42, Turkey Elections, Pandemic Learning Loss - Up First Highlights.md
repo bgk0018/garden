@@ -1,5 +1,5 @@
 ---
-{"tags":["🎧"],"create-date":"2024-02-16","title":"After Title 42, Turkey Elections, Pandemic Learning Loss","author":["[[Up First]]"],"cover":"https://wsrv.nl/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F09%2F23%2Fup-first_tile_npr-network-01_sq-cd1dc7e35846274fc57247cfcb9cd4dddbb2d635.jpg%3Fs%3D1400%26c%3D66%26f%3Djpg&w=100&h=100","url":"https://share.snipd.com/episode/a7f862bd-01a4-4be1-91d8-9ca5376353d0","source":"snipd","parent":"[[After Title 42, Turkey Elections, Pandemic Learning Loss - Up First]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/after-title-42-turkey-elections-pandemic-learning-loss-up-first-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:03.241-06:00","updated":"2024-02-16T17:31:03.762-06:00"}
+{"dg-publish":true,"permalink":"/permanent/after-title-42-turkey-elections-pandemic-learning-loss-up-first-highlights/","title":"After Title 42, Turkey Elections, Pandemic Learning Loss","tags":["🎧"],"created":"2024-02-16T17:31:03.241-06:00","updated":"2024-02-16T17:31:03.762-06:00"}
 ---
 
 # After Title 42, Turkey Elections, Pandemic Learning Loss
