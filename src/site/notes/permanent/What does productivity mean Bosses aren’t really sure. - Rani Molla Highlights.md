@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/what-does-productivity-mean-bosses-aren-t-really-sure-rani-molla-highlights/","title":"What does productivity mean? Bosses aren’t really sure.","tags":["📰"],"created":"2024-02-16T17:31:02.878-06:00","updated":"2024-02-16T17:31:03.397-06:00"}
+{"tags":["📰"],"create-date":"2024-02-16","title":"What does productivity mean? Bosses aren’t really sure.","author":["[[Rani Molla]]"],"cover":"https://cdn.vox-cdn.com/thumbor/1rt0keQapHwI5CenFS3S2rnElRQ=/387x0:6574x4640/1310x983/cdn.vox-cdn.com/uploads/chorus_image/image/72251441/GettyImages_97232619.0.jpg","url":"https://www.vox.com/technology/23710261/productivity-definition-measures-remote-work-management","source":"reader","parent":"[[What does productivity mean? Bosses aren’t really sure. - Rani Molla]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/what-does-productivity-mean-bosses-aren-t-really-sure-rani-molla-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:02.878-06:00","updated":"2024-02-16T17:31:03.397-06:00"}
 ---
 
 # What does productivity mean? Bosses aren’t really sure.
