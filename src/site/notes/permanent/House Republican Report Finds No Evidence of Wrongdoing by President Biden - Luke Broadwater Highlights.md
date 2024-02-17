@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/house-republican-report-finds-no-evidence-of-wrongdoing-by-president-biden-luke-broadwater-highlights/","title":"House Republican Report Finds No Evidence of Wrongdoing by President Biden","tags":["📰"],"created":"2024-02-16T17:31:03.042-06:00","updated":"2024-02-16T17:31:03.464-06:00"}
+{"tags":["📰"],"create-date":"2024-02-16","title":"House Republican Report Finds No Evidence of Wrongdoing by President Biden","author":["[[Luke Broadwater]]"],"cover":"https://static01.nyt.com/images/2023/05/10/multimedia/10dc-investigate1-fqjw/10dc-investigate1-fqjw-facebookJumbo.jpg","url":"https://www.nytimes.com/2023/05/10/us/politics/hunter-biden-house-republicans-report.html","source":"reader","parent":"[[House Republican Report Finds No Evidence of Wrongdoing by President Biden - Luke Broadwater]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/house-republican-report-finds-no-evidence-of-wrongdoing-by-president-biden-luke-broadwater-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:03.042-06:00","updated":"2024-02-16T17:31:03.464-06:00"}
 ---
 
 # House Republican Report Finds No Evidence of Wrongdoing by President Biden
