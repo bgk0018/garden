@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/tdd-where-did-it-all-go-wrong-ian-cooper-dev-ternity-conference-highlights/","title":"🚀  TDD, Where Did It All Go Wrong (Ian Cooper)","tags":["🎥"],"created":"2024-02-16T17:31:01.873-06:00","updated":"2024-02-16T17:31:02.365-06:00"}
+{"dg-publish":true,"permalink":"/permanent/tdd-where-did-it-all-go-wrong-ian-cooper-dev-ternity-conference-highlights/","title":"🚀  TDD, Where Did It All Go Wrong (Ian Cooper)","tags":["🎥"],"created":"2023-09-19T22:09:02.325-05:00","updated":"2024-02-16T17:31:02.000-06:00"}
 ---
 
 # 🚀  TDD, Where Did It All Go Wrong (Ian Cooper)
