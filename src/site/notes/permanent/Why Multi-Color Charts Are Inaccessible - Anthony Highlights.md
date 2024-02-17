@@ -1,5 +1,5 @@
 ---
-{"tags":["📰"],"create-date":"2024-02-16","title":"Why Multi-Color Charts Are Inaccessible","author":["[[Anthony]]"],"cover":"https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0668af4-fe93-4c1d-a4dd-c1f8e78f8198_1140x900.png","url":"https://open.substack.com/pub/uxmovement/p/why-multi-color-marks-are-inaccessible?utm_source=share&utm_medium=android&r=2kccsn","source":"reader","parent":"[[Why Multi-Color Charts Are Inaccessible - Anthony]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/why-multi-color-charts-are-inaccessible-anthony-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:05.200-06:00","updated":"2024-02-16T17:31:05.692-06:00"}
+{"dg-publish":true,"permalink":"/permanent/why-multi-color-charts-are-inaccessible-anthony-highlights/","title":"Why Multi-Color Charts Are Inaccessible","tags":["📰"],"created":"2024-02-16T17:31:05.200-06:00","updated":"2024-02-16T17:31:05.692-06:00"}
 ---
 
 # Why Multi-Color Charts Are Inaccessible
