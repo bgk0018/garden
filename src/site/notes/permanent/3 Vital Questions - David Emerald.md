@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald/","title":"3 Vital Questions","tags":["📕"],"created":"2023-04-16T08:57:39.332-05:00","updated":"2024-02-07T19:52:08.951-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald/","title":"3 Vital Questions","tags":["📕"],"created":"2023-09-19T22:08:56.809-05:00","updated":"2024-02-07T19:52:08.000-06:00"}
 ---
 
 
@@ -20,24 +20,24 @@
 | [[permanent/Victim - 202305251726\|Victim]]                                                                                                                   | Weight: 10 |
 | [[permanent/Inner State - 202304201654\|Inner State]]                                                                                                         | Weight: 7  |
 | [[permanent/Reaction - 202304261216\|Reaction]]                                                                                                               | Weight: 7  |
-| [[permanent/Dreaded Drama Triangle - 202305251725\|Dreaded Drama Triangle]]                                                                                   | Weight: 6  |
 | [[permanent/Creator - 202306271318\|Creator]]                                                                                                                 | Weight: 6  |
+| [[permanent/Dreaded Drama Triangle - 202305251725\|Dreaded Drama Triangle]]                                                                                   | Weight: 6  |
 | [[permanent/Persecutor - 202305271800\|Persecutor]]                                                                                                           | Weight: 6  |
 | [[permanent/Rescuer - 202305271811\|Rescuer]]                                                                                                                 | Weight: 6  |
 | [[permanent/Behavior - 202304201655\|Behavior]]                                                                                                               | Weight: 5  |
 | [[permanent/Result - 202304261252\|Result]]                                                                                                                   | Weight: 5  |
 | [[permanent/Baby Step - 202304261244\|Baby Step]]                                                                                                             | Weight: 4  |
 | [[permanent/FISBE - 202304201647\|FISBE]]                                                                                                                     | Weight: 4  |
-| [[permanent/Orientation - 202305280800\|Orientation]]                                                                                                         | Weight: 3  |
 | [[permanent/Anxiety - 202304261229\|Anxiety - 202304261229]]                                                                                                  | Weight: 3  |
 | [[permanent/External Shift - 202306291523\|External Shift]]                                                                                                   | Weight: 3  |
 | [[permanent/Intention - 202304261251\|Intention]]                                                                                                             | Weight: 3  |
 | [[permanent/Internal Shift - 202306291522\|Internal Shift]]                                                                                                   | Weight: 3  |
 | [[permanent/Mindset Shifting - 202306291518\|Mindset Shifting]]                                                                                               | Weight: 3  |
+| [[permanent/Orientation - 202305280800\|Orientation]]                                                                                                         | Weight: 3  |
 | [[permanent/Passion - 202304261243\|Passion]]                                                                                                                 | Weight: 3  |
+| [[permanent/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation]]                                                                     | Weight: 3  |
 | [[permanent/Theory X - 202304201635\|Theory X]]                                                                                                               | Weight: 3  |
 | [[permanent/Theory Y - 202304201637\|Theory Y]]                                                                                                               | Weight: 3  |
-| [[permanent/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation]]                                                                     | Weight: 3  |
 | [[permanent/Vital Question 1 - 202304171449\|Vital Question 1]]                                                                                               | Weight: 3  |
 | [[permanent/Vital Question 2 - 202304171450\|Vital Question 2]]                                                                                               | Weight: 3  |
 | [[permanent/Vital Question 3 - 202304171451\|Vital Question 3]]                                                                                               | Weight: 3  |
