@@ -1,5 +1,5 @@
 ---
-{"aliases":["A.I.R."],"tags":["📖"],"create-date":"2023-04-26","dg-publish":true,"parent":"[[Orientation - 202305280800|Orientation]]","date":"[[2023-04-26]]","permalink":"/permanent/a-i-r-202304261249/","dgPassFrontmatter":true,"created":"2023-04-26T12:49:01.132-05:00","updated":"2024-02-07T19:52:07.808-06:00"}
+{"dg-publish":true,"permalink":"/permanent/a-i-r-202304261249/","tags":["📖"],"created":"2023-04-26T12:49:01.132-05:00","updated":"2024-02-07T19:52:07.808-06:00"}
 ---
 
 # A.I.R.
