@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/house-republican-report-finds-no-evidence-of-wrongdoing-by-president-biden-luke-broadwater-highlights/","title":"House Republican Report Finds No Evidence of Wrongdoing by President Biden","tags":["📰"],"created":"2024-02-16T17:31:03.042-06:00","updated":"2024-02-16T17:31:03.464-06:00"}
+{"dg-publish":true,"permalink":"/permanent/house-republican-report-finds-no-evidence-of-wrongdoing-by-president-biden-luke-broadwater-highlights/","title":"House Republican Report Finds No Evidence of Wrongdoing by President Biden","tags":["📰"],"created":"2023-09-19T22:09:01.091-05:00","updated":"2024-02-16T17:31:03.000-06:00"}
 ---
 
 # House Republican Report Finds No Evidence of Wrongdoing by President Biden
