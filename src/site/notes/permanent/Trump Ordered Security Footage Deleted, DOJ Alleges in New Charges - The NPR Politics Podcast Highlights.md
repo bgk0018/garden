@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/trump-ordered-security-footage-deleted-doj-alleges-in-new-charges-the-npr-politics-podcast-highlights/","title":"Trump Ordered Security Footage Deleted, DOJ Alleges in New Charges","tags":["🎧"],"created":"2024-02-16T17:31:05.719-06:00","updated":"2024-02-16T17:31:06.232-06:00"}
+{"tags":["🎧"],"create-date":"2024-02-16","title":"Trump Ordered Security Footage Deleted, DOJ Alleges in New Charges","author":["[[The NPR Politics Podcast]]"],"cover":"https://wsrv.nl/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F09%2F23%2Fpolitics-podcast_tile_npr-network-01_sq-c0594aa52f374aa9b3b37c87ef9e6e4367ed3e88.jpg%3Fs%3D1400%26c%3D66%26f%3Djpg&w=100&h=100","url":"https://share.snipd.com/episode/7edd8497-fbc6-4ec2-93e0-3afd8d28fbed","source":"snipd","parent":"[[Trump Ordered Security Footage Deleted, DOJ Alleges in New Charges - The NPR Politics Podcast]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/trump-ordered-security-footage-deleted-doj-alleges-in-new-charges-the-npr-politics-podcast-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:05.719-06:00","updated":"2024-02-16T17:31:06.232-06:00"}
 ---
 
 # Trump Ordered Security Footage Deleted, DOJ Alleges in New Charges
