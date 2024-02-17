@@ -1,5 +1,5 @@
 ---
-{"tags":["📰"],"create-date":"2024-02-16","title":"World's Most Popular Painkiller Raises Heart Attack Risk","author":["[[Richard Knox]]"],"cover":"https://media.npr.org/assets/img/2013/02/12/voltaren_wide-924fdcc6c21055e265d70149f23a876e746b90a0-s1400-c100.jpg","url":"https://www.npr.org/sections/health-shots/2013/02/12/171832741/worlds-most-popular-painkiller-raises-heart-attack-risk","source":"reader","parent":"[[World's Most Popular Painkiller Raises Heart Attack Risk - Richard Knox]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/world-s-most-popular-painkiller-raises-heart-attack-risk-richard-knox-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:03.810-06:00","updated":"2024-02-16T17:31:04.209-06:00"}
+{"dg-publish":true,"permalink":"/permanent/world-s-most-popular-painkiller-raises-heart-attack-risk-richard-knox-highlights/","title":"World's Most Popular Painkiller Raises Heart Attack Risk","tags":["📰"],"created":"2024-02-16T17:31:03.810-06:00","updated":"2024-02-16T17:31:04.209-06:00"}
 ---
 
 # World's Most Popular Painkiller Raises Heart Attack Risk
