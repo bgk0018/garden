@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/righting-software-juval-loewy-highlights/","title":"Righting Software","tags":["📚"],"created":"2024-02-16T17:31:04.079-06:00","updated":"2024-02-16T17:31:04.088-06:00"}
+{"tags":["📚"],"create-date":"2024-02-16","title":"Righting Software","author":["[[Juval Löwy]]"],"cover":"https://m.media-amazon.com/images/I/51JOQUhq9ML._SY160.jpg","url":null,"source":"kindle","parent":"[[Righting Software - Juval Löwy]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/righting-software-juval-loewy-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:04.079-06:00","updated":"2024-02-16T17:31:04.088-06:00"}
 ---
 
 # Righting Software
