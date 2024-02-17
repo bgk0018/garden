@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-power-of-ted-david-emerald/","title":"The Power of Ted","tags":["📕"],"created":"2022-12-17T22:18:43.055-06:00","updated":"2024-02-07T19:51:01.393-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-power-of-ted-david-emerald/","title":"The Power of Ted","tags":["📕"],"created":"2023-09-19T22:09:31.987-05:00","updated":"2024-02-07T19:51:01.000-06:00"}
 ---
 
 
