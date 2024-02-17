@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/professional-networking-makes-people-feel-dirty-hbs-working-knowledge-highlights/","title":"Professional Networking Makes People Feel Dirty","tags":["📰"],"created":"2024-02-16T17:31:05.027-06:00","updated":"2024-02-16T17:31:05.511-06:00"}
+{"tags":["📰"],"create-date":"2024-02-16","title":"Professional Networking Makes People Feel Dirty","author":["[[HBS Working Knowledge]]"],"cover":"https://hbswk.hbs.edu/PublishingImages/social/hbswk_260.jpg","url":"https://hbswk.hbs.edu/item/professional-networking-makes-people-feel-dirty","source":"reader","parent":"[[Professional Networking Makes People Feel Dirty - HBS Working Knowledge]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/professional-networking-makes-people-feel-dirty-hbs-working-knowledge-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:05.027-06:00","updated":"2024-02-16T17:31:05.511-06:00"}
 ---
 
 # Professional Networking Makes People Feel Dirty
