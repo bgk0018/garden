@@ -1,5 +1,5 @@
 ---
-{"tags":["📚"],"create-date":"2024-02-16","title":"The Storytelling Animal","author":["[[Jonathan Gottschall]]"],"cover":"https://images-na.ssl-images-amazon.com/images/I/41uId-4MunL._SL200_.jpg","url":null,"source":"kindle","parent":"[[The Storytelling Animal - Jonathan Gottschall]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/the-storytelling-animal-jonathan-gottschall-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:00.708-06:00","updated":"2024-02-16T17:31:01.162-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-storytelling-animal-jonathan-gottschall-highlights/","title":"The Storytelling Animal","tags":["📚"],"created":"2024-02-16T17:31:00.708-06:00","updated":"2024-02-16T17:31:01.162-06:00"}
 ---
 
 # The Storytelling Animal
