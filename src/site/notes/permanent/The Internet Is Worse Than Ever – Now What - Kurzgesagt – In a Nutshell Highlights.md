@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-internet-is-worse-than-ever-now-what-kurzgesagt-in-a-nutshell-highlights/","title":"The Internet Is Worse Than Ever – Now What?","tags":["🎥"],"created":"2024-02-16T17:31:06.801-06:00","updated":"2024-02-16T17:31:07.293-06:00"}
+{"tags":["🎥"],"create-date":"2024-02-16","title":"The Internet Is Worse Than Ever – Now What?","author":["[[Kurzgesagt – In a Nutshell]]"],"cover":"https://i.ytimg.com/vi/fuFlMtZmvY0/maxresdefault.jpg","url":"https://www.youtube.com/watch?v=fuFlMtZmvY0","source":"reader","parent":"[[The Internet Is Worse Than Ever – Now What? - Kurzgesagt – In a Nutshell]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/the-internet-is-worse-than-ever-now-what-kurzgesagt-in-a-nutshell-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:06.801-06:00","updated":"2024-02-16T17:31:07.293-06:00"}
 ---
 
 # The Internet Is Worse Than Ever – Now What?
