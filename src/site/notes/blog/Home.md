@@ -1,5 +1,5 @@
 ---
-{"aliases":["Home"],"tags":["gardenEntry"],"create-date":"2024-01-21","date":"[[2024-01-21]]","parent":null,"related":null,"challenges":null,"dg-publish":true,"dg-home":true,"permalink":"/blog/home/","dgPassFrontmatter":true,"created":"2024-01-22T08:42:13.875-06:00","updated":"2024-02-07T19:47:22.658-06:00"}
+{"dg-publish":true,"permalink":"/blog/home/","tags":["gardenEntry"],"created":"2024-01-22T08:42:13.875-06:00","updated":"2024-02-16T19:22:12.658-06:00"}
 ---
 
 # Welcome!
@@ -23,3 +23,4 @@ On the left, you should see a few folders.
 
 You can start literally anywhere but here's a table of interesting entry points:
 
+- [[permanent/Highlights\|Media Highlights]]
