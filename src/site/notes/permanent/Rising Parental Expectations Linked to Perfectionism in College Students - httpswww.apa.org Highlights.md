@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/rising-parental-expectations-linked-to-perfectionism-in-college-students-httpswww-apa-org-highlights/","title":"Rising Parental Expectations Linked to Perfectionism in College Students","tags":["📰"],"created":"2024-02-16T17:31:02.737-06:00","updated":"2024-02-16T17:31:03.178-06:00"}
+{"tags":["📰"],"create-date":"2024-02-16","title":"Rising Parental Expectations Linked to Perfectionism in College Students","author":["[[https://www.apa.org]]"],"cover":"https://www.apa.org/images/tile-press-rising-parental-expectations_tcm7-303716.jpg","url":"https://www.apa.org/news/press/releases/2022/03/parental-expectations-perfectionism","source":"reader","parent":"[[Rising Parental Expectations Linked to Perfectionism in College Students - https://www.apa.org]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/rising-parental-expectations-linked-to-perfectionism-in-college-students-httpswww-apa-org-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:02.737-06:00","updated":"2024-02-16T17:31:03.178-06:00"}
 ---
 
 # Rising Parental Expectations Linked to Perfectionism in College Students
