@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/more-americans-say-they-support-political-violence-ahead-of-the-2024-election-ashley-lopez-highlights/","title":"More Americans Say They Support Political Violence Ahead of the 2024 Election","tags":["📰"],"created":"2024-02-16T17:31:06.426-06:00","updated":"2024-02-16T17:31:06.916-06:00"}
+{"tags":["📰"],"create-date":"2024-02-16","title":"More Americans Say They Support Political Violence Ahead of the 2024 Election","author":["[[Ashley Lopez]]"],"cover":"https://media.npr.org/assets/img/2023/10/24/ap20274636373301_wide-7dcf88c98b6a342c24d874a91051f08611a38c68-s1400-c100.jpg","url":"https://www.npr.org/2023/10/25/1208373493/political-violence-democracy-2024-presidential-election-extremism","source":"reader","parent":"[[More Americans Say They Support Political Violence Ahead of the 2024 Election - Ashley Lopez]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/more-americans-say-they-support-political-violence-ahead-of-the-2024-election-ashley-lopez-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:06.426-06:00","updated":"2024-02-16T17:31:06.916-06:00"}
 ---
 
 # More Americans Say They Support Political Violence Ahead of the 2024 Election
