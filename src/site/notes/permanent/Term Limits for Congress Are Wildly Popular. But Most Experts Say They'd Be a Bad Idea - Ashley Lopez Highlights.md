@@ -1,5 +1,5 @@
 ---
-{"tags":["📰"],"create-date":"2024-02-16","title":"Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea","author":["[[Ashley Lopez]]"],"cover":"https://media.npr.org/assets/img/2023/10/27/2023-10-04-dc-stock--cdull--87-2_wide-e51ca2ae04a0130c434e2ca2557c661fc74ebf0f-s1400-c100.jpg","url":"https://www.npr.org/2023/10/29/1207593168/congressional-term-limits-explainer","source":"reader","parent":"[[Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea - Ashley Lopez]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/term-limits-for-congress-are-wildly-popular-but-most-experts-say-they-d-be-a-bad-idea-ashley-lopez-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:06.265-06:00","updated":"2024-02-16T17:31:06.613-06:00"}
+{"dg-publish":true,"permalink":"/permanent/term-limits-for-congress-are-wildly-popular-but-most-experts-say-they-d-be-a-bad-idea-ashley-lopez-highlights/","title":"Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea","tags":["📰"],"created":"2024-02-16T17:31:06.265-06:00","updated":"2024-02-16T17:31:06.613-06:00"}
 ---
 
 # Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea
