@@ -1,5 +1,5 @@
 ---
-{"tags":["🎧"],"create-date":"2024-02-16","title":"Selects —  Does the Body Replace Itself?","author":["[[Stuff You Should Know]]"],"cover":"https://wsrv.nl/?url=https%3A%2F%2Fwww.omnycontent.com%2Fd%2Fplaylist%2Fe73c998e-6e60-432f-8610-ae210140c5b1%2Fa91018a4-ea4f-4130-bf55-ae270180c327%2F44710ecc-10bb-48d1-93c7-ae270180c33e%2Fimage.jpg%3Ft%3D1643066471%26size%3DLarge&w=100&h=100","url":"https://share.snipd.com/episode/74775d84-454e-439c-9f84-7accc4a88207","source":"snipd","parent":"[[Selects —  Does the Body Replace Itself? - Stuff You Should Know]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/selects-does-the-body-replace-itself-stuff-you-should-know-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:02.235-06:00","updated":"2024-02-16T17:31:02.705-06:00"}
+{"dg-publish":true,"permalink":"/permanent/selects-does-the-body-replace-itself-stuff-you-should-know-highlights/","title":"Selects —  Does the Body Replace Itself?","tags":["🎧"],"created":"2024-02-16T17:31:02.235-06:00","updated":"2024-02-16T17:31:02.705-06:00"}
 ---
 
 # Selects —  Does the Body Replace Itself?
