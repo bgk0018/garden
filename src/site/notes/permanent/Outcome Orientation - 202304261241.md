@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/outcome-orientation-202304261241/","tags":["📖"],"created":"2023-04-26T12:41:34.918-05:00","updated":"2024-02-07T19:51:19.058-06:00"}
+{"aliases":["Outcome Orientation","Creator Orientation"],"tags":["📖"],"create-date":"2023-04-26","dg-publish":true,"date":"[[2023-04-26]]","parent":"[[Orientation - 202305280800|Orientation]]","challenges":["[[Problem Orientation - 202304201646|Victim Orientation]]"],"referenced-in":"[[3 Vital Questions - David Emerald|3 Vital Questions]]","permalink":"/permanent/outcome-orientation-202304261241/","dgPassFrontmatter":true,"created":"2023-04-26T12:41:34.918-05:00","updated":"2024-02-07T19:51:19.058-06:00"}
 ---
 
 # Outcome Orientation
