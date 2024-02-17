@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/digest-what-you-read-walkthrough-of-my-process-for-understanding-rationality-by-eliezer-yudkowsky-zsolt-s-visual-personal-knowledge-management-highlights/","title":"Digest What You Read: Walkthrough of My Process for Understanding Rationality by Eliezer Yudkowsky","tags":["🎥"],"created":"2024-02-16T17:31:02.601-06:00","updated":"2024-02-16T17:31:03.005-06:00"}
+{"dg-publish":true,"permalink":"/permanent/digest-what-you-read-walkthrough-of-my-process-for-understanding-rationality-by-eliezer-yudkowsky-zsolt-s-visual-personal-knowledge-management-highlights/","title":"Digest What You Read: Walkthrough of My Process for Understanding Rationality by Eliezer Yudkowsky","tags":["🎥"],"created":"2023-09-19T22:09:01.060-05:00","updated":"2024-02-16T17:31:03.000-06:00"}
 ---
 
 # Digest What You Read: Walkthrough of My Process for Understanding Rationality by Eliezer Yudkowsky
