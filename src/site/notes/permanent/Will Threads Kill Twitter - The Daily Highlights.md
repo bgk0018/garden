@@ -1,5 +1,5 @@
 ---
-{"tags":["🎧"],"create-date":"2024-02-16","title":"Will Threads Kill Twitter?","author":["[[The Daily]]"],"cover":"https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F03d8b493-87fc-4bd1-931f-8a8e9b945d8a%2F2cce5659-f647-4366-b318-46e4b67afcfa%2F3000x3000%2Fc81936f538106550b804e7e4fe2c236319bab7fba37941a6e8f7e5c3d3048b88fc5b2182fb790f7d446bdc820406456c94287f245db89d8656c105d5511ec3de.jpeg%3Faid%3Drss_feed&w=100&h=100","url":"https://share.snipd.com/episode/a368e53e-5512-4167-8908-ed355be34d2f","source":"snipd","parent":"[[Will Threads Kill Twitter? - The Daily]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/will-threads-kill-twitter-the-daily-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:05.414-06:00","updated":"2024-02-16T17:31:05.945-06:00"}
+{"dg-publish":true,"permalink":"/permanent/will-threads-kill-twitter-the-daily-highlights/","title":"Will Threads Kill Twitter?","tags":["🎧"],"created":"2024-02-16T17:31:05.414-06:00","updated":"2024-02-16T17:31:05.945-06:00"}
 ---
 
 # Will Threads Kill Twitter?
