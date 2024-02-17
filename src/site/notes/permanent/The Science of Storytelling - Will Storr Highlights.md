@@ -1,5 +1,5 @@
 ---
-{"tags":["📚"],"create-date":"2024-02-16","title":"The Science of Storytelling","author":["[[Will Storr]]"],"cover":"https://images-na.ssl-images-amazon.com/images/I/31J-l%2BeyzAL._SL200_.jpg","url":null,"source":"kindle","parent":"[[The Science of Storytelling - Will Storr]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/the-science-of-storytelling-will-storr-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:01.428-06:00","updated":"2024-02-16T17:31:01.829-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-science-of-storytelling-will-storr-highlights/","title":"The Science of Storytelling","tags":["📚"],"created":"2024-02-16T17:31:01.428-06:00","updated":"2024-02-16T17:31:01.829-06:00"}
 ---
 
 # The Science of Storytelling
