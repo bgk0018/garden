@@ -1,5 +1,5 @@
 ---
-{"tags":["🎧"],"create-date":"2024-02-16","title":"The Inflammation Theory of Disease","author":["[[Stuff You Should Know]]"],"cover":"https://wsrv.nl/?url=https%3A%2F%2Fwww.omnycontent.com%2Fd%2Fplaylist%2Fe73c998e-6e60-432f-8610-ae210140c5b1%2Fa91018a4-ea4f-4130-bf55-ae270180c327%2F44710ecc-10bb-48d1-93c7-ae270180c33e%2Fimage.jpg%3Ft%3D1643066471%26size%3DLarge&w=100&h=100","url":"https://share.snipd.com/episode/b09939cf-d83a-4569-b9b2-73452fcbc868","source":"snipd","parent":"[[The Inflammation Theory of Disease - Stuff You Should Know]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/the-inflammation-theory-of-disease-stuff-you-should-know-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:03.586-06:00","updated":"2024-02-16T17:31:04.071-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-inflammation-theory-of-disease-stuff-you-should-know-highlights/","title":"The Inflammation Theory of Disease","tags":["🎧"],"created":"2024-02-16T17:31:03.586-06:00","updated":"2024-02-16T17:31:04.071-06:00"}
 ---
 
 # The Inflammation Theory of Disease
