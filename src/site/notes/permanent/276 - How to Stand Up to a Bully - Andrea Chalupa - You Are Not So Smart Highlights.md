@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/276-how-to-stand-up-to-a-bully-andrea-chalupa-you-are-not-so-smart-highlights/","title":"276 - How to Stand Up to a Bully - Andrea Chalupa","tags":["🎧"],"created":"2024-02-16T17:31:06.997-06:00","updated":"2024-02-16T17:31:07.360-06:00"}
+{"tags":["🎧"],"create-date":"2024-02-16","title":"276 - How to Stand Up to a Bully - Andrea Chalupa","author":["[[You Are Not So Smart]]"],"cover":"https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Faa9f2648-25e9-472a-af42-4e5017da38cf%2Fc4115b5c-702b-4b99-8ec4-641226e777e2%2F3000x3000%2Fimage.jpg%3Faid%3Drss_feed&w=100&h=100","url":"https://share.snipd.com/episode/ccbd4513-45ac-4e7d-9703-ba20dc2798c2","source":"snipd","parent":"[[276 - How to Stand Up to a Bully - Andrea Chalupa - You Are Not So Smart]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/276-how-to-stand-up-to-a-bully-andrea-chalupa-you-are-not-so-smart-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:06.997-06:00","updated":"2024-02-16T17:31:07.360-06:00"}
 ---
 
 # 276 - How to Stand Up to a Bully - Andrea Chalupa
