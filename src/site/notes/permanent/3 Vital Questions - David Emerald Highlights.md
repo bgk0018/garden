@@ -1,5 +1,5 @@
 ---
-{"tags":["📚"],"create-date":"2024-02-16","title":"3 Vital Questions","author":["[[David Emerald]]"],"cover":"https://m.media-amazon.com/images/I/71-eZDMNMhL._SY160.jpg","url":null,"source":"kindle","parent":"[[3 Vital Questions - David Emerald]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:04.459-06:00","updated":"2024-02-16T17:31:04.930-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald-highlights/","title":"3 Vital Questions","tags":["📚"],"created":"2024-02-16T17:31:04.459-06:00","updated":"2024-02-16T17:31:04.930-06:00"}
 ---
 
 # 3 Vital Questions
