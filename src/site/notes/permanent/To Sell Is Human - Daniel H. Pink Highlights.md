@@ -1,5 +1,5 @@
 ---
-{"tags":["📚"],"create-date":"2024-02-16","title":"To Sell Is Human","author":["[[Daniel H. Pink]]"],"cover":"https://images-na.ssl-images-amazon.com/images/I/41HdJ4wAeqL._SL200_.jpg","url":null,"source":"kindle","parent":"[[To Sell Is Human - Daniel H. Pink]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/to-sell-is-human-daniel-h-pink-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:00.600-06:00","updated":"2024-02-16T17:31:01.108-06:00"}
+{"dg-publish":true,"permalink":"/permanent/to-sell-is-human-daniel-h-pink-highlights/","title":"To Sell Is Human","tags":["📚"],"created":"2024-02-16T17:31:00.600-06:00","updated":"2024-02-16T17:31:01.108-06:00"}
 ---
 
 # To Sell Is Human
