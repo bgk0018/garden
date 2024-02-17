@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/home/","tags":["gardenEntry"],"created":"2024-01-22T08:42:13.875-06:00","updated":"2024-02-07T19:47:22.658-06:00"}
+{"aliases":["Home"],"tags":["gardenEntry"],"create-date":"2024-01-21","date":"[[2024-01-21]]","parent":null,"related":null,"challenges":null,"dg-publish":true,"dg-home":true,"permalink":"/blog/home/","dgPassFrontmatter":true,"created":"2024-01-22T08:42:13.875-06:00","updated":"2024-02-07T19:47:22.658-06:00"}
 ---
 
 # Welcome!
