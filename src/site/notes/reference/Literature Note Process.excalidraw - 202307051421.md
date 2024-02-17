@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/literature-note-process-excalidraw-202307051421/","tags":["excalidraw"],"created":"2023-07-05T14:21:04.356-05:00","updated":"2024-02-16T19:25:26.028-06:00"}
+{"dg-publish":true,"permalink":"/reference/literature-note-process-excalidraw-202307051421/","tags":["excalidraw"],"created":"2023-09-19T22:09:01.044-05:00","updated":"2024-02-16T19:25:26.000-06:00"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
