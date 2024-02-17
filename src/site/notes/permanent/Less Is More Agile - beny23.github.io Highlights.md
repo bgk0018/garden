@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/less-is-more-agile-beny23-github-io-highlights/","title":"Less Is More Agile","tags":["📰"],"created":"2024-02-16T17:31:06.620-06:00","updated":"2024-02-16T17:31:07.133-06:00"}
+{"tags":["📰"],"create-date":"2024-02-16","title":"Less Is More Agile","author":["[[beny23.github.io]]"],"cover":"https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png","url":"https://beny23.github.io/posts/my_take_on_engineering_room_9/","source":"reader","parent":"[[Less Is More Agile - beny23.github.io]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/less-is-more-agile-beny23-github-io-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:06.620-06:00","updated":"2024-02-16T17:31:07.133-06:00"}
 ---
 
 # Less Is More Agile
