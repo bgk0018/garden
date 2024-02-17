@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/teen-marijuana-use-has-been-declining-since-legal-dispensaries-started-opening-federal-cdc-study-shows-kyle-jaeger-highlights/","title":"Teen Marijuana Use Has Been Declining Since Legal Dispensaries Started Opening, Federal CDC Study Shows","tags":["📰"],"created":"2024-02-16T17:31:02.447-06:00","updated":"2024-02-16T17:31:02.866-06:00"}
+{"dg-publish":true,"permalink":"/permanent/teen-marijuana-use-has-been-declining-since-legal-dispensaries-started-opening-federal-cdc-study-shows-kyle-jaeger-highlights/","title":"Teen Marijuana Use Has Been Declining Since Legal Dispensaries Started Opening, Federal CDC Study Shows","tags":["📰"],"created":"2023-09-19T22:09:01.075-05:00","updated":"2024-02-16T17:31:02.000-06:00"}
 ---
 
 # Teen Marijuana Use Has Been Declining Since Legal Dispensaries Started Opening, Federal CDC Study Shows
