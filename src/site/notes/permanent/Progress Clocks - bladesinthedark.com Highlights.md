@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/progress-clocks-bladesinthedark-com-highlights/","title":"Progress Clocks","tags":["📰"],"created":"2024-02-16T17:31:04.661-06:00","updated":"2024-02-16T17:31:05.085-06:00"}
+{"tags":["📰"],"create-date":"2024-02-16","title":"Progress Clocks","author":["[[bladesinthedark.com]]"],"cover":"https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png","url":"https://bladesinthedark.com/progress-clocks","source":"reader","parent":"[[Progress Clocks - bladesinthedark.com]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/progress-clocks-bladesinthedark-com-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:04.661-06:00","updated":"2024-02-16T17:31:05.085-06:00"}
 ---
 
 # Progress Clocks
