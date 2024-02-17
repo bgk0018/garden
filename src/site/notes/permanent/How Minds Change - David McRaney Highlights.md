@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/how-minds-change-david-mc-raney-highlights/","title":"How Minds Change","tags":["📚"],"created":"2024-02-16T17:31:05.591-06:00","updated":"2024-02-16T17:31:06.226-06:00"}
+{"tags":["📚"],"create-date":"2024-02-16","title":"How Minds Change","author":["[[David McRaney]]"],"cover":"https://m.media-amazon.com/images/I/71fxrIVQK0S._SY160.jpg","url":null,"source":"kindle","parent":"[[How Minds Change - David McRaney]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/how-minds-change-david-mc-raney-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:05.591-06:00","updated":"2024-02-16T17:31:06.226-06:00"}
 ---
 
 # How Minds Change
