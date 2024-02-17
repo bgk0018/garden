@@ -1,5 +1,5 @@
 ---
-{"tags":["📚"],"create-date":"2024-02-16","title":"Atomic Habits","author":["[[James Clear]]"],"cover":"https://images-na.ssl-images-amazon.com/images/I/51Eqf-URhoL._SL200_.jpg","url":null,"source":"kindle","parent":"[[Atomic Habits - James Clear]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/atomic-habits-james-clear-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:07.218-06:00","updated":"2024-02-16T17:31:07.748-06:00"}
+{"dg-publish":true,"permalink":"/permanent/atomic-habits-james-clear-highlights/","title":"Atomic Habits","tags":["📚"],"created":"2024-02-16T17:31:07.218-06:00","updated":"2024-02-16T17:31:07.748-06:00"}
 ---
 
 # Atomic Habits
