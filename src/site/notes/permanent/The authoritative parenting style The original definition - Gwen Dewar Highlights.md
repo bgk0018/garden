@@ -1,5 +1,5 @@
 ---
-{"tags":["📰"],"create-date":"2024-02-16","title":"The authoritative parenting style: The original definition","author":["[[Gwen Dewar]]"],"cover":"https://parentingscience.com/wp-content/uploads/authoritative-parenting-by-Dishant_S-istock-min.jpg","url":"https://parentingscience.com/authoritative-parenting-style/","source":"reader","parent":"[[The authoritative parenting style: The original definition - Gwen Dewar]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/the-authoritative-parenting-style-the-original-definition-gwen-dewar-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:03.473-06:00","updated":"2024-02-16T17:31:04.001-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-authoritative-parenting-style-the-original-definition-gwen-dewar-highlights/","title":"The authoritative parenting style: The original definition","tags":["📰"],"created":"2024-02-16T17:31:03.473-06:00","updated":"2024-02-16T17:31:04.001-06:00"}
 ---
 
 # The authoritative parenting style: The original definition
