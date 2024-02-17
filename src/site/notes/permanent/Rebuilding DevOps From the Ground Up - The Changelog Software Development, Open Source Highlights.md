@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/rebuilding-dev-ops-from-the-ground-up-the-changelog-software-development-open-source-highlights/","title":"Rebuilding DevOps From the Ground Up","tags":["🎧"],"created":"2024-02-16T17:31:04.304-06:00","updated":"2024-02-16T17:31:04.778-06:00"}
+{"tags":["🎧"],"create-date":"2024-02-16","title":"Rebuilding DevOps From the Ground Up","author":["[[The Changelog: Software Development]]","[[Open Source]]"],"cover":"https://wsrv.nl/?url=https%3A%2F%2Fcdn.changelog.com%2Fstatic%2Fimages%2Fpodcasts%2Fpodcast-original-f16d0363067166f241d080ee2e2d4a28.png&w=100&h=100","url":"https://share.snipd.com/episode/2bd83cb4-3a90-49bf-8d7e-08b6b3f537a4","source":"snipd","parent":"[[Rebuilding DevOps From the Ground Up - The Changelog: Software Development, Open Source]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/rebuilding-dev-ops-from-the-ground-up-the-changelog-software-development-open-source-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:04.304-06:00","updated":"2024-02-16T17:31:04.778-06:00"}
 ---
 
 # Rebuilding DevOps From the Ground Up
