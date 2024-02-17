@@ -1,5 +1,5 @@
 ---
-{"tags":["📰"],"create-date":"2024-02-16","title":"New Data Show How the Pandemic Affected Learning Across Whole Communities","author":["[[Harvard Graduate School of Education]]"],"cover":"https://www.gse.harvard.edu/sites/default/files/content-images/1000x500-education-recovery-scorecard.jpg","url":"https://www.gse.harvard.edu/news/23/05/new-data-show-how-pandemic-affected-learning-across-whole-communities","source":"reader","parent":"[[New Data Show How the Pandemic Affected Learning Across Whole Communities - Harvard Graduate School of Education]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/new-data-show-how-the-pandemic-affected-learning-across-whole-communities-harvard-graduate-school-of-education-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:04.221-06:00","updated":"2024-02-16T17:31:04.655-06:00"}
+{"dg-publish":true,"permalink":"/permanent/new-data-show-how-the-pandemic-affected-learning-across-whole-communities-harvard-graduate-school-of-education-highlights/","title":"New Data Show How the Pandemic Affected Learning Across Whole Communities","tags":["📰"],"created":"2024-02-16T17:31:04.221-06:00","updated":"2024-02-16T17:31:04.655-06:00"}
 ---
 
 # New Data Show How the Pandemic Affected Learning Across Whole Communities
