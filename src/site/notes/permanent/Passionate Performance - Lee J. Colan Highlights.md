@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/passionate-performance-lee-j-colan-highlights/","title":"Passionate Performance","tags":["📚"],"created":"2024-02-16T17:31:01.562-06:00","updated":"2024-02-16T17:31:02.130-06:00"}
+{"tags":["📚"],"create-date":"2024-02-16","title":"Passionate Performance","author":["[[Lee J. Colan]]"],"cover":"https://images-na.ssl-images-amazon.com/images/I/51zFgaD1-eL._SL200_.jpg","url":null,"source":"kindle","parent":"[[Passionate Performance - Lee J. Colan]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/passionate-performance-lee-j-colan-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:01.562-06:00","updated":"2024-02-16T17:31:02.130-06:00"}
 ---
 
 # Passionate Performance
