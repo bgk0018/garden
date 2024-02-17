@@ -1,5 +1,5 @@
 ---
-{"tags":["📚"],"create-date":"2024-02-16","title":"Crucial Conversations","author":["[[Joseph Grenny]]","[[Kerry Patterson]]","[[Ron McMillan]]","[[Al Switzler]]","[[Emily Gregory]]"],"cover":"https://m.media-amazon.com/images/I/713QZ2-tPWL._SY160.jpg","url":null,"source":"kindle","parent":"[[Crucial Conversations - Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, and Emily Gregory]]","related":"[[Highlights]]","date":"[[2024-02-16]]","dg-publish":true,"permalink":"/permanent/crucial-conversations-joseph-grenny-kerry-patterson-ron-mc-millan-al-switzler-and-emily-gregory-highlights/","dgPassFrontmatter":true,"created":"2024-02-16T17:31:00.473-06:00","updated":"2024-02-16T17:31:00.890-06:00"}
+{"dg-publish":true,"permalink":"/permanent/crucial-conversations-joseph-grenny-kerry-patterson-ron-mc-millan-al-switzler-and-emily-gregory-highlights/","title":"Crucial Conversations","tags":["📚"],"created":"2024-02-16T17:31:00.473-06:00","updated":"2024-02-16T17:31:00.890-06:00"}
 ---
 
 # Crucial Conversations
