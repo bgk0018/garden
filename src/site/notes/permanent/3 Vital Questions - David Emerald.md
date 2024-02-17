@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald/","title":"3 Vital Questions","tags":["📕"],"created":"2023-04-16T08:57:39.332-05:00","updated":"2024-02-07T19:52:08.951-06:00"}
+{"tags":["📕"],"aliases":["3 Vital Questions"],"create-date":"2023-07-19","status":"todo","title":"3 Vital Questions","author":["David Emerald"],"publisher":null,"publish-date":"2019-03-26","page-count":226,"isbn10":996871837,"isbn13":9780996871839,"cover":"http://books.google.com/books/content?id=WJbxvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","cssclasses":["cards","cards-cols-4"],"dg-publish":true,"recommended-by":"[[Kevin Baker]]","date":"[[2023-07-19]]","permalink":"/permanent/3-vital-questions-david-emerald/","dgPassFrontmatter":true,"created":"2023-04-16T08:57:39.332-05:00","updated":"2024-02-07T19:52:08.951-06:00"}
 ---
 
 
