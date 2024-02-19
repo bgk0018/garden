@@ -50,5 +50,6 @@
 | [[permanent/Will Threads Kill Twitter - The Daily Highlights\|Will Threads Kill Twitter - The Daily Highlights]]                                                                                                                                                                                                                       |
 | [[permanent/World's Most Popular Painkiller Raises Heart Attack Risk - Richard Knox Highlights\|World's Most Popular Painkiller Raises Heart Attack Risk - Richard Knox Highlights]]                                                                                                                                                   |
 | [[permanent/🚀  TDD, Where Did It All Go Wrong (Ian Cooper) - DevTernity Conference Highlights\|🚀  TDD, Where Did It All Go Wrong (Ian Cooper) - DevTernity Conference Highlights]]                                                                                                                                                   |
+| [[permanent/The Transtheoretical Model - Boston University Highlights\|The Transtheoretical Model - Boston University Highlights]]                                                                                                                                                                                                     |
 
 { .block-language-dataview}
