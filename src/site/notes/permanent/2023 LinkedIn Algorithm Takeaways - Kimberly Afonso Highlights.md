@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/2023-linked-in-algorithm-takeaways-kimberly-afonso-highlights/","title":"2023 LinkedIn Algorithm Takeaways","tags":["📰"],"created":"2024-02-17T17:08:43.131-06:00","updated":"2024-02-17T09:11:24.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/2023-linked-in-algorithm-takeaways-kimberly-afonso-highlights/","title":"2023 LinkedIn Algorithm Takeaways","tags":["📰"],"created":"2024-02-17T09:11:23.599-06:00","updated":"2024-02-17T09:11:24.132-06:00"}
 ---
 
 # 2023 LinkedIn Algorithm Takeaways
