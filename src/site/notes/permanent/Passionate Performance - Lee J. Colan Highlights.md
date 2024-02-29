@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/passionate-performance-lee-j-colan-highlights/","title":"Passionate Performance","tags":["📚"],"created":"2023-09-19T22:09:02.325-05:00","updated":"2024-02-16T17:31:02.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/passionate-performance-lee-j-colan-highlights/","title":"Passionate Performance","tags":["📚"],"created":"2024-02-16T17:31:01.562-06:00","updated":"2024-02-16T17:31:02.130-06:00"}
 ---
 
 # Passionate Performance
