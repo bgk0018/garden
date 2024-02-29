@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/how-to-truly-succeed-with-agile-transformation-leading-agile-sound-notes-an-agile-podcast-highlights/","title":"How to Truly Succeed With Agile Transformation","tags":["🎧"],"created":"2023-09-19T22:09:02.325-05:00","updated":"2024-02-16T17:31:02.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/how-to-truly-succeed-with-agile-transformation-leading-agile-sound-notes-an-agile-podcast-highlights/","title":"How to Truly Succeed With Agile Transformation","tags":["🎧"],"created":"2024-02-16T17:31:01.690-06:00","updated":"2024-02-16T17:31:02.219-06:00"}
 ---
 
 # How to Truly Succeed With Agile Transformation
