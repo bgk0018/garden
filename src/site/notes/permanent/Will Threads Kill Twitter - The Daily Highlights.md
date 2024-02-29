@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/will-threads-kill-twitter-the-daily-highlights/","title":"Will Threads Kill Twitter?","tags":["🎧"],"created":"2023-09-19T22:08:58.169-05:00","updated":"2024-02-16T17:31:05.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/will-threads-kill-twitter-the-daily-highlights/","title":"Will Threads Kill Twitter?","tags":["🎧"],"created":"2024-02-16T17:31:05.414-06:00","updated":"2024-02-16T17:31:05.945-06:00"}
 ---
 
 # Will Threads Kill Twitter?
