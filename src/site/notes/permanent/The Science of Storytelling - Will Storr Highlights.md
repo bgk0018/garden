@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-science-of-storytelling-will-storr-highlights/","title":"The Science of Storytelling","tags":["📚"],"created":"2023-09-19T22:09:02.325-05:00","updated":"2024-02-16T17:31:01.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-science-of-storytelling-will-storr-highlights/","title":"The Science of Storytelling","tags":["📚"],"created":"2024-02-16T17:31:01.428-06:00","updated":"2024-02-16T17:31:01.829-06:00"}
 ---
 
 # The Science of Storytelling
