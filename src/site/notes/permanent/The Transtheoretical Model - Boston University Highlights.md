@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-transtheoretical-model-boston-university-highlights/","title":"The Transtheoretical Model","tags":["📰"],"created":"2024-02-18T18:00:27.466-06:00","updated":"2024-02-18T18:00:28.802-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-transtheoretical-model-boston-university-highlights/","title":"The Transtheoretical Model","tags":["📰"],"created":"2024-02-18T12:36:59.197-06:00","updated":"2024-02-18T18:00:28.000-06:00"}
 ---
 
 # The Transtheoretical Model
