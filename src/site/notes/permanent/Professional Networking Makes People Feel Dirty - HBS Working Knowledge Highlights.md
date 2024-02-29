@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/professional-networking-makes-people-feel-dirty-hbs-working-knowledge-highlights/","title":"Professional Networking Makes People Feel Dirty","tags":["📰"],"created":"2023-09-19T22:09:01.091-05:00","updated":"2024-02-16T17:31:05.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/professional-networking-makes-people-feel-dirty-hbs-working-knowledge-highlights/","title":"Professional Networking Makes People Feel Dirty","tags":["📰"],"created":"2024-02-16T17:31:05.027-06:00","updated":"2024-02-16T17:31:05.511-06:00"}
 ---
 
 # Professional Networking Makes People Feel Dirty
