@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/crucial-conversations-joseph-grenny-kerry-patterson-ron-mc-millan-al-switzler-and-emily-gregory-highlights/","title":"Crucial Conversations","tags":["📚"],"created":"2023-09-19T22:09:02.310-05:00","updated":"2024-02-16T17:31:00.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/crucial-conversations-joseph-grenny-kerry-patterson-ron-mc-millan-al-switzler-and-emily-gregory-highlights/","title":"Crucial Conversations","tags":["📚"],"created":"2024-02-16T17:31:00.473-06:00","updated":"2024-02-16T17:31:00.890-06:00"}
 ---
 
 # Crucial Conversations
