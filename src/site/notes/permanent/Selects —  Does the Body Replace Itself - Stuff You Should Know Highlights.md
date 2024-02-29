@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/selects-does-the-body-replace-itself-stuff-you-should-know-highlights/","title":"Selects —  Does the Body Replace Itself?","tags":["🎧"],"created":"2023-09-19T22:09:01.060-05:00","updated":"2024-02-16T17:31:02.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/selects-does-the-body-replace-itself-stuff-you-should-know-highlights/","title":"Selects —  Does the Body Replace Itself?","tags":["🎧"],"created":"2024-02-16T17:31:02.235-06:00","updated":"2024-02-16T17:31:02.705-06:00"}
 ---
 
 # Selects —  Does the Body Replace Itself?
