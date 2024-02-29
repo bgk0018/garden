@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/beyond-the-matrix-theory-of-the-mind-archive-is-highlights/","title":"Beyond the ‘Matrix’ Theory of the Mind","tags":["📰"],"created":"2024-02-16T21:28:40.625-06:00","updated":"2024-02-17T09:11:01.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/beyond-the-matrix-theory-of-the-mind-archive-is-highlights/","title":"Beyond the ‘Matrix’ Theory of the Mind","tags":["📰"],"created":"2024-02-17T09:00:14.092-06:00","updated":"2024-02-17T09:11:01.999-06:00"}
 ---
 
 # Beyond the ‘Matrix’ Theory of the Mind
