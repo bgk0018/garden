@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-status-game-will-storr-highlights/","title":"The Status Game","tags":["📚"],"created":"2023-09-19T22:09:01.122-05:00","updated":"2024-02-16T17:31:06.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-status-game-will-storr-highlights/","title":"The Status Game","tags":["📚"],"created":"2024-02-16T17:31:06.086-06:00","updated":"2024-02-16T17:31:06.108-06:00"}
 ---
 
 # The Status Game
