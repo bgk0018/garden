@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/all-you-need-is-links-gordon-brander-highlights/","title":"All You Need Is Links","tags":["📰"],"created":"2024-02-16T21:28:41.148-06:00","updated":"2024-02-17T09:10:59.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/all-you-need-is-links-gordon-brander-highlights/","title":"All You Need Is Links","tags":["📰"],"created":"2024-02-17T09:00:14.115-06:00","updated":"2024-02-17T09:10:59.216-06:00"}
 ---
 
 # All You Need Is Links
