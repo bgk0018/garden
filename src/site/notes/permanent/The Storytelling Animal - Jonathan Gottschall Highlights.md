@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-storytelling-animal-jonathan-gottschall-highlights/","title":"The Storytelling Animal","tags":["📚"],"created":"2023-09-19T22:09:02.310-05:00","updated":"2024-02-16T17:31:01.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-storytelling-animal-jonathan-gottschall-highlights/","title":"The Storytelling Animal","tags":["📚"],"created":"2024-02-16T17:31:00.708-06:00","updated":"2024-02-16T17:31:01.162-06:00"}
 ---
 
 # The Storytelling Animal
