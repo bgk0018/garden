@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald/","title":"3 Vital Questions","tags":["📕"],"created":"2023-04-16T08:57:39.332-05:00","updated":"2024-02-07T19:52:08.951-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald/","title":"3 Vital Questions","tags":["📕"],"created":"2023-09-19T22:08:56.809-05:00","updated":"2024-02-29T21:26:02.000-06:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 | [[permanent/Dreaded Drama Triangle - 202305251725\|Dreaded Drama Triangle]]                                                                                   | Weight: 6  |
 | [[permanent/Persecutor - 202305271800\|Persecutor]]                                                                                                           | Weight: 6  |
 | [[permanent/Rescuer - 202305271811\|Rescuer]]                                                                                                                 | Weight: 6  |
-| [[permanent/Behavior - 202304201655\|Behavior]]                                                                                                               | Weight: 5  |
+| [[permanent/Behavior - 202304201655\|Behavior - 202304201655]]                                                                                                | Weight: 5  |
 | [[permanent/Result - 202304261252\|Result]]                                                                                                                   | Weight: 5  |
 | [[permanent/Baby Step - 202304261244\|Baby Step]]                                                                                                             | Weight: 4  |
 | [[permanent/FISBE - 202304201647\|FISBE]]                                                                                                                     | Weight: 4  |
