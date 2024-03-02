@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/less-is-more-agile-beny23-github-io-highlights/","title":"Less Is More Agile","tags":["📰"],"created":"2024-02-16T17:31:06.620-06:00","updated":"2024-02-16T17:31:07.133-06:00"}
+{"dg-publish":true,"permalink":"/permanent/less-is-more-agile-beny23-github-io-highlights/","title":"Less Is More Agile","tags":["✂️","📰"],"created":"2024-03-01T16:09:43.103-06:00","updated":"2024-02-29T21:25:12.000-06:00"}
 ---
 
 # Less Is More Agile
