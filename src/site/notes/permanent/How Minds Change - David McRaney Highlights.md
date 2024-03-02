@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/how-minds-change-david-mc-raney-highlights/","title":"How Minds Change","tags":["📚"],"created":"2024-02-16T17:31:05.591-06:00","updated":"2024-02-16T17:31:06.226-06:00"}
+{"dg-publish":true,"permalink":"/permanent/how-minds-change-david-mc-raney-highlights/","title":"How Minds Change","tags":["✂️","📚"],"created":"2024-03-01T16:09:43.824-06:00","updated":"2024-02-29T21:25:12.000-06:00"}
 ---
 
 # How Minds Change
@@ -521,7 +521,7 @@
 ### WESTBORO
 ### THE TRUTH IS TRIBAL
 >[!QUOTE]  
->“Remember that the brain’s first and primary job is to protect our selves,” Kaplan told me. “That extends beyond our physical self, to our psychological self. Once these things [beliefs, attitudes, and values] become part of our psychological self, they are then afforded all the same protections that the brain gives to the body.” But why? I asked. Kaplan said he didn’t know, but it likely had to do with group identity, and suggested I speak with psychologists who study how group identity affects our beliefs. ([Location 2412](https://readwise.io/to_kindle?action=open&asin=B093R2CP2V&location=2412)) #✂️ 
+>“Remember that the brain’s first and primary job is to protect our selves,” Kaplan told me. “That extends beyond our physical self, to our psychological self. Once these things [beliefs, attitudes, and values] become part of our psychological self, they are then afforded all the same protections that the brain gives to the body.” But why? I asked. Kaplan said he didn’t know, but it likely had to do with group identity, and suggested I speak with psychologists who study how group identity affects our beliefs. ([Location 2412](https://readwise.io/to_kindle?action=open&asin=B093R2CP2V&location=2412)) #✂️ #favorite 
 { #ref-578518021}
 
 
@@ -641,7 +641,7 @@
 
 ---
 >[!QUOTE]  
->As social animals with the power to persuade and be persuaded, there is a way out. When we feel it’s not them, but our own peers who have become untrustworthy, we will unconsciously attempt to change the group through argumentation. If that fails, we reach for empathy, for connection, outside our group if we must. If we find it, we become open to the challenging ideas of those who show us kindness: first about them, then about us. The beliefs, attitudes, and values we share with the group then become safer to question. If we change our minds about them, we then change our minds about us. ([Location 2594](https://readwise.io/to_kindle?action=open&asin=B093R2CP2V&location=2594)) #✂️ 
+>As social animals with the power to persuade and be persuaded, there is a way out. When we feel it’s not them, but our own peers who have become untrustworthy, we will unconsciously attempt to change the group through argumentation. If that fails, we reach for empathy, for connection, outside our group if we must. If we find it, we become open to the challenging ideas of those who show us kindness: first about them, then about us. The beliefs, attitudes, and values we share with the group then become safer to question. If we change our minds about them, we then change our minds about us. ([Location 2594](https://readwise.io/to_kindle?action=open&asin=B093R2CP2V&location=2594)) #✂️ #favorite 
 { #ref-578518041}
 
 
