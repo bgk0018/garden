@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/atomic-habits-how-to-get-1-better-every-day-james-clear-apb-speakers-highlights/","title":"Atomic Habits: How to Get 1% Better Every Day - James Clear","tags":["🎥"],"created":"2024-02-16T17:31:04.853-06:00","updated":"2024-02-16T17:31:05.331-06:00"}
+{"dg-publish":true,"permalink":"/permanent/atomic-habits-how-to-get-1-better-every-day-james-clear-apb-speakers-highlights/","title":"Atomic Habits: How to Get 1% Better Every Day - James Clear","tags":["✂️","🎥"],"created":"2024-03-01T16:09:48.823-06:00","updated":"2024-02-29T21:25:12.000-06:00"}
 ---
 
 # Atomic Habits: How to Get 1% Better Every Day - James Clear
