@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/world-s-most-popular-painkiller-raises-heart-attack-risk-richard-knox-highlights/","title":"World's Most Popular Painkiller Raises Heart Attack Risk","tags":["✂️","📰"],"created":"2023-09-19T22:09:01.106-05:00","updated":"2024-02-29T21:25:13.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/world-s-most-popular-painkiller-raises-heart-attack-risk-richard-knox-highlights/","title":"World's Most Popular Painkiller Raises Heart Attack Risk","tags":["✂️","📰"],"created":"2024-02-29T17:21:06.987-06:00","updated":"2024-02-29T21:25:13.521-06:00"}
 ---
 
 # World's Most Popular Painkiller Raises Heart Attack Risk
