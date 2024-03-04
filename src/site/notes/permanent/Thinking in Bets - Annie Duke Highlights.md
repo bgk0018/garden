@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/thinking-in-bets-annie-duke-highlights/","title":"Thinking in Bets","tags":["✂️","📚"],"created":"2023-09-19T22:08:54.604-05:00","updated":"2024-02-29T21:25:11.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/thinking-in-bets-annie-duke-highlights/","title":"Thinking in Bets","tags":["✂️","📚"],"created":"2024-02-29T17:21:12.204-06:00","updated":"2024-02-29T21:25:11.931-06:00"}
 ---
 
 # Thinking in Bets
