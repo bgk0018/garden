@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/highlights/","created":"2023-09-19T22:08:54.541-05:00","updated":"2024-02-29T21:25:45.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/highlights/","created":"2023-08-08T15:53:06.560-05:00","updated":"2024-02-29T21:25:45.142-06:00"}
 ---
 
 | File                                                                                                                                                                                                                                                                      |
@@ -15,6 +15,7 @@
 | [[permanent/CEOs Are Using Return to Office Mandates to Mask Poor Management - Q Hamirani Highlights\|CEOs Are Using Return to Office Mandates to Mask Poor Management - Q Hamirani Highlights]]                                                                       |
 | [[permanent/Crucial Conversations - Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, and Emily Gregory Highlights\|Crucial Conversations - Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, and Emily Gregory Highlights]]                         |
 | [[permanent/HMC - Previous Highlights\|HMC - Previous Highlights]]                                                                                                                                                                                                     |
+| [[permanent/House Republican Report Finds No Evidence of Wrongdoing by President Biden - New York Times Highlights\|House Republican Report Finds No Evidence of Wrongdoing by President Biden - New York Times Highlights]]                                           |
 | [[permanent/How Minds Change - David McRaney Highlights\|How Minds Change - David McRaney Highlights]]                                                                                                                                                                 |
 | [[permanent/Less Is More Agile - beny23.github.io Highlights\|Less Is More Agile - beny23.github.io Highlights]]                                                                                                                                                       |
 | [[permanent/More Americans Say They Support Political Violence Ahead of the 2024 Election - Ashley Lopez Highlights\|More Americans Say They Support Political Violence Ahead of the 2024 Election - Ashley Lopez Highlights]]                                         |
@@ -35,6 +36,6 @@
 | [[permanent/Why Multi-Color Charts Are Inaccessible - Anthony Highlights\|Why Multi-Color Charts Are Inaccessible - Anthony Highlights]]                                                                                                                               |
 | [[permanent/World's Most Popular Painkiller Raises Heart Attack Risk - Richard Knox Highlights\|World's Most Popular Painkiller Raises Heart Attack Risk - Richard Knox Highlights]]                                                                                   |
 | [[projects/Whoever Tells the Best Story Wins/Whoever Tells the Best Story Wins - Annette Simmons Highlights\|Whoever Tells the Best Story Wins - Annette Simmons Highlights]]                                                                                          |
-| [[permanent/House Republican Report Finds No Evidence of Wrongdoing by President Biden - New York Times Highlights\|House Republican Report Finds No Evidence of Wrongdoing by President Biden - New York Times Highlights]]                                           |
+| [[permanent/The Myth of Multitasking - Christine Rosen Highlights\|The Myth of Multitasking - Christine Rosen Highlights]]                                                                                                                                             |
 
 { .block-language-dataview}
