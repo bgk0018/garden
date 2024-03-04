@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/progressive-summarization-ii-examples-and-metaphors-tiago-forte-highlights/","title":"Progressive Summarization II: Examples and Metaphors","tags":["✂️","📰"],"created":"2024-03-01T16:09:42.413-06:00","updated":"2024-02-29T21:25:11.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/progressive-summarization-ii-examples-and-metaphors-tiago-forte-highlights/","title":"Progressive Summarization II: Examples and Metaphors","tags":["✂️","📰"],"created":"2024-02-29T17:21:13.569-06:00","updated":"2024-02-29T21:25:11.579-06:00"}
 ---
 
 # Progressive Summarization II: Examples and Metaphors
