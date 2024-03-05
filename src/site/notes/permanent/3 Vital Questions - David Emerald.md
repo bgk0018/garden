@@ -30,7 +30,6 @@
 | [[permanent/FISBE - 202304201647\|FISBE]]                                                                                                                     | Weight: 4  |
 | [[permanent/Anxiety - 202304261229\|Anxiety - 202304261229]]                                                                                                  | Weight: 3  |
 | [[permanent/External Shift - 202306291523\|External Shift]]                                                                                                   | Weight: 3  |
-| [[permanent/Intention - 202304261251\|Intention]]                                                                                                             | Weight: 3  |
 | [[permanent/Internal Shift - 202306291522\|Internal Shift]]                                                                                                   | Weight: 3  |
 | [[permanent/Mindset Shifting - 202306291518\|Mindset Shifting]]                                                                                               | Weight: 3  |
 | [[permanent/Orientation - 202305280800\|Orientation]]                                                                                                         | Weight: 3  |
@@ -41,6 +40,7 @@
 | [[permanent/Vital Question 2 - 202304171450\|Vital Question 2]]                                                                                               | Weight: 3  |
 | [[permanent/Vital Question 1 - 202304171449\|Vital Question 1]]                                                                                               | Weight: 3  |
 | [[permanent/Vital Question 3 - 202304171451\|Vital Question 3]]                                                                                               | Weight: 3  |
+| [[permanent/Intention - 202304261251\|Intention]]                                                                                                             | Weight: 3  |
 | [[permanent/Attention - 202304261250\|Attention]]                                                                                                             | Weight: 2  |
 | [[permanent/Differences between the Victim and the Creator - 202306271324\|Differences between the Victim and the Creator]]                                   | Weight: 2  |
 | [[permanent/Dynamic Tension - 202304171455\|Dynamic Tension]]                                                                                                 | Weight: 2  |
