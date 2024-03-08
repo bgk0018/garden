@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/belief-change-blindness-202307131621/","tags":["📖"],"created":"2023-07-13T16:21:41.560-05:00","updated":"2024-03-05T16:32:47.920-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/belief-change-blindness-202307131621/","tags":["📖"],"created":"2023-07-13T16:21:41.560-05:00","updated":"2024-03-07T15:35:48.609-06:00"}
 ---
 
 # Content
 
-When people seem unaware that their arguments from the beginning of a conversation don't match the ones they shared at the end.[^1][^2]
+When people seem unaware that their arguments from the beginning of a conversation don't match the ones they shared at the end.[^3][^2][^1]
 
 # References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517960" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -18,8 +18,9 @@ When people seem unaware that their arguments from the beginning of a conversati
 
 </div></div>
 
+
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517961" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -29,8 +30,8 @@ When people seem unaware that their arguments from the beginning of a conversati
 </div></div>
 
 
-[^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/how-minds-change-david-mc-raney-highlights/#ref-578517945" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+[^3]: 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517945" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -39,12 +40,4 @@ When people seem unaware that their arguments from the beginning of a conversati
 
 </div></div>
 
-[^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/how-minds-change-david-mc-raney-highlights/#ref-578517945" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-
-
->[!QUOTE]  
->“There is no superior argument, no piece of information that we can offer, that is going to change their mind,” he said, taking a long pause before continuing. “The only way they are going to change their mind is by changing their own mind—by talking themselves through their own thinking, by processing things they’ve never thought about before, things from their own life that are going to help them see things differently.” ([Location 628](https://readwise.io/to_kindle?action=open&asin=B093R2CP2V&location=628)) #✂️  
-
-</div></div>
