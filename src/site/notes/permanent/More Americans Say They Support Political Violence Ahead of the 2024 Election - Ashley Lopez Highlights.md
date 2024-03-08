@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/more-americans-say-they-support-political-violence-ahead-of-the-2024-election-ashley-lopez-highlights/","title":"More Americans Say They Support Political Violence Ahead of the 2024 Election","tags":["✂️","📰"],"created":"2024-02-29T17:21:10.058-06:00","updated":"2024-02-29T21:25:12.608-06:00"}
+{"dg-publish":true,"permalink":"/permanent/more-americans-say-they-support-political-violence-ahead-of-the-2024-election-ashley-lopez-highlights/","title":"More Americans Say They Support Political Violence Ahead of the 2024 Election","tags":["✂️","📰"],"created":"2024-02-29T17:21:10.058-06:00","updated":"2024-03-07T15:35:41.330-06:00"}
 ---
 
 # More Americans Say They Support Political Violence Ahead of the 2024 Election
@@ -29,3 +29,4 @@
 
 
 ---
+
