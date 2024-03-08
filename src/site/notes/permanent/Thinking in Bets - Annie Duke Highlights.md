@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/thinking-in-bets-annie-duke-highlights/","title":"Thinking in Bets","tags":["✂️","📚"],"created":"2024-02-29T17:21:12.204-06:00","updated":"2024-02-29T21:25:11.931-06:00"}
+{"dg-publish":true,"permalink":"/permanent/thinking-in-bets-annie-duke-highlights/","title":"Thinking in Bets","tags":["✂️","📚"],"created":"2024-02-29T17:21:12.204-06:00","updated":"2024-03-07T15:35:44.972-06:00"}
 ---
 
 # Thinking in Bets
@@ -357,3 +357,4 @@
 #### All-or-nothing thinking rears its head again
 #### People watching
 #### Other people’s outcomes reflect on us
+
