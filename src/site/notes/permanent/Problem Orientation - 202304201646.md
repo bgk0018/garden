@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/problem-orientation-202304201646/","tags":["📖"],"created":"2023-04-20T16:46:12.594-05:00","updated":"2024-02-29T21:25:31.016-06:00"}
+{"dg-publish":true,"permalink":"/permanent/problem-orientation-202304201646/","tags":["📖"],"created":"2023-04-20T16:46:12.594-05:00","updated":"2024-03-07T15:35:42.183-06:00"}
 ---
 
 # Problem Orientation
@@ -44,3 +44,4 @@ When our [[permanent/Anxiety - 202304261229\|Anxiety]] raises, we [[permanent/Re
 >the Problem Orientation is actually a Victim Orientation, because usually we feel victimized by the problems we’re reacting to. On the other hand, the Outcome Orientation is really a Creator Orientation, from which you create outcomes and the baby steps you’ll take to accomplish those outcomes. ([Location 813](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=813)) #✂️  
 
 </div></div>
+
