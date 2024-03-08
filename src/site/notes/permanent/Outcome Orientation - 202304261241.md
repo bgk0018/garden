@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/outcome-orientation-202304261241/","tags":["📖"],"created":"2023-04-26T12:41:34.918-05:00","updated":"2024-02-29T21:25:32.675-06:00"}
+{"dg-publish":true,"permalink":"/permanent/outcome-orientation-202304261241/","tags":["📖"],"created":"2023-04-26T12:41:34.918-05:00","updated":"2024-03-07T15:35:41.800-06:00"}
 ---
 
 # Outcome Orientation
@@ -23,3 +23,4 @@ Each [[permanent/Baby Step - 202304261244\|Baby Step]] you take will either get 
 >“In this orientation, you have a much different focus. Here your thinking is oriented toward envisioning an outcome. Sometimes the outcome you have in mind is clear—you know almost exactly what it is and how you want it to happen. Other times this outcome may be somewhat vague in your mind, but you have a general idea of the direction you’re heading. ([Location 401](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=401)) #✂️  
 
 </div></div>
+
