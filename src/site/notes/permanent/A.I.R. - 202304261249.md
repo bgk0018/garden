@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/a-i-r-202304261249/","tags":["📖"],"created":"2023-04-26T12:49:01.132-05:00","updated":"2024-02-29T21:26:01.534-06:00"}
+{"dg-publish":true,"permalink":"/permanent/a-i-r-202304261249/","tags":["📖"],"created":"2023-04-26T12:49:01.132-05:00","updated":"2024-03-07T15:35:35.091-06:00"}
 ---
 
 # A.I.R.
@@ -20,3 +20,4 @@ An acronym that stands for the three major distinctions between [[permanent/Prob
 >AIR stands for three major distinctions between the two FISBEs: your attention, intention, and results. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=436)) #✂️  
 
 </div></div>
+
