@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/deep-canvassing-202307091701/","tags":["📖"],"created":"2023-07-09T17:00:58.445-05:00","updated":"2024-03-05T16:33:01.532-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/deep-canvassing-202307091701/","tags":["📖"],"created":"2023-07-09T17:00:58.445-05:00","updated":"2024-03-07T15:35:48.705-06:00"}
 ---
 
 # Content
@@ -15,7 +15,7 @@ Deep Canvassing is partly effective because it's likely to push your interlocuto
 # References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517943" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -25,7 +25,7 @@ Deep Canvassing is partly effective because it's likely to push your interlocuto
 </div></div>
 
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517956" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -35,7 +35,7 @@ Deep Canvassing is partly effective because it's likely to push your interlocuto
 </div></div>
 
 [^3]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517957" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -45,7 +45,7 @@ Deep Canvassing is partly effective because it's likely to push your interlocuto
 </div></div>
 
 [^4]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517958" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -55,7 +55,7 @@ Deep Canvassing is partly effective because it's likely to push your interlocuto
 </div></div>
 
 [^5]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517959" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -65,7 +65,7 @@ Deep Canvassing is partly effective because it's likely to push your interlocuto
 </div></div>
 
 [^6]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517964" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -73,3 +73,4 @@ Deep Canvassing is partly effective because it's likely to push your interlocuto
 >When I asked Broockman and Kalla for a lead or two, they said to look deeper into something psychologists call elaboration, a state of active learning in which a person unpacks a new idea by relating to something they already understand. For example, on first viewing, you might describe Alien as “Jaws in space,” but, if you saw Alien first, you might describe Jaws as “Alien in the ocean.” Most of the time, when on autopilot or performing routine tasks, we see the world as we expect to see it, and most of the time that’s fine; but the brain often gets things wrong because it prefers to sacrifice accuracy for speed. When we stop ourselves from going with our first instincts, or our “guts,” when we are thinking about our own thinking, we become more open to elaborating, to adding something new to ourselves by reaching a deeper understanding of something we thought we already understood quite well. In short, deep canvassing likely encourages elaboration by offering people an opportunity to stop and think. ([Location 908](https://readwise.io/to_kindle?action=open&asin=B093R2CP2V&location=908)) #✂️  
 
 </div></div>
+
