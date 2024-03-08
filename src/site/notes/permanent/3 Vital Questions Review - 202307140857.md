@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-review-202307140857/","tags":["💡"],"created":"2023-07-14T08:57:41.745-05:00","updated":"2024-02-29T21:26:02.495-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-review-202307140857/","tags":["💡"],"created":"2023-07-14T08:57:41.745-05:00","updated":"2024-03-07T15:35:34.889-06:00"}
 ---
 
 # 3 Vital Questions Review
@@ -59,6 +59,7 @@ An observation by [[permanent/Douglas Engelbart\|Douglas Engelbart]] that every 
 </div></div>
 
 
+
 </div></div>
 
 
@@ -89,6 +90,7 @@ Proposed by [[permanent/Douglas McGregor\|Douglas McGregor]], the theory focuses
 >Douglas McGregor, at MIT’s Sloan School of Management in the 1940s, developed a theory of employee motivation that addresses thinking about how we think, interact, and act. He called it, simply, Theory X and Theory Y. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=122)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -123,6 +125,7 @@ Proposed by [[permanent/Douglas McGregor\|Douglas McGregor]], the theory focuses
 </div></div>
 
 
+
 </div></div>
   
 
@@ -153,6 +156,7 @@ Proposed by [[permanent/Douglas McGregor\|Douglas McGregor]], the theory focuses
 >Theory Y, on the other hand, assumes that employees and co-workers are inherently self-motivated and seek out work and responsibility that satisfies their desire to create products and services that meet the needs of others. ([Location 128](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=128)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -208,6 +212,7 @@ change initiatives tend to fail.[^1]
 </div></div>
 
 
+
 </div></div>
 
 
@@ -250,6 +255,7 @@ This question prompts us to upgrade our [[permanent/Problem Orientation - 202304
 >The key to this first vital question is to upgrade to the Outcome Orientation as your primary way of thinking, here at work and, really, throughout your life.” ([Location 428](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=428)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -301,6 +307,7 @@ There are several layers to this question:[^2]
 </div></div>
 
 
+
 </div></div>
 
 
@@ -333,6 +340,7 @@ Are you merely [[permanent/Reaction - 202304261216\|reacting]] to the [[permanen
 >Question 1. Where are you putting your focus? Are you focusing on problems or on outcomes? Question 2. How are you relating? How are you relating to others, to your experience, and even to yourself? Are you relating in ways that produce or perpetuate drama, or in ways that empower others and yourself to be more resourceful, resilient, and innovative? Question 3. What actions are you taking? Are you merely reacting to the problems of the moment, or are you taking creative and generative action—including the solving of problems—in service to outcomes? ([Location 150](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=150)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -371,6 +379,7 @@ An acronym that describes how a human operates.[^1]
 >“The F in FISBE stands for focus,” he said, writing the word in the top circle, “and this focus sets up the rest of the operating system. That’s because whatever you focus on, that’s what gets your inner state going. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=308)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -432,6 +441,7 @@ When our [[permanent/Anxiety - 202304261229\|Anxiety]] raises, we [[permanent/Re
 </div></div>
 
 
+
 </div></div>
 
 
@@ -474,6 +484,7 @@ Problems do not just go away. Problems will always be there. [^1][^2]
 </div></div>
 
 
+
 </div></div>
 
 
@@ -504,6 +515,7 @@ Anxiety drives your [[permanent/Behavior - 202304201655\|Behavior]] in the [[per
 >“You’re telling yourself you’re reacting to the problem, when really you’re reacting to the anxiety you feel about the problem. If you didn’t feel some level of anxiety, you’d let the situation pass on by. The false assumption is that the problem is driving this operating system. But it isn’t—the Problem Orientation, the operating system, only sets it in motion. It’s actually your anxiety that’s driving the whole shebang.” ([Location 375](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=375)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -550,6 +562,7 @@ Reactions are driven by your need to reduce your [[permanent/Anxiety - 202304261
 </div></div>
 
 
+
 </div></div>
 
 
@@ -588,6 +601,7 @@ Each [[permanent/Baby Step - 202304261244\|Baby Step]] you take will either get 
 </div></div>
 
 
+
 </div></div>
 
 
@@ -618,6 +632,7 @@ Something you want that creates a [[permanent/Passion - 202304261243\|Passion]] 
 >“What’s important is that you care about the outcome you envision. Because when you really care about it, that ignites an inner state of passion,” said Ted, and he wrote the word Passion in the inner state circle. In the behavior circle he wrote Baby Step, then turned to face Lucas. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=404)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -662,6 +677,7 @@ The [[permanent/Inner State - 202304201654\|Inner State]] produced when someone 
 </div></div>
   
 
+
 </div></div>
 
 
@@ -691,6 +707,7 @@ A [[permanent/Behavior - 202304201655\|Behavior]] that is a small action that ta
 >“As you focus on your envisioned outcome, your passion goes up.” He drew a plus sign. “As your passion increases, your desire to take the next baby step increases, too.” Another plus sign. “Then, as you take that next step, you get closer to, or clearer about, the outcome”—a third plus sign on the board—“and that increases your passion and your will to take action.” ([Location 516](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=516)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -728,6 +745,7 @@ An acronym that stands for the three major distinctions between [[permanent/Prob
 </div></div>
 
 
+
 </div></div>
 
 
@@ -757,6 +775,7 @@ Where you place your [[permanent/Focus - 202304201649\|Focus]].
 >“your attention begins to move naturally toward whatever it is that you do want, and what you really care about. That doesn’t mean you won’t have any more problems, but it does mean there will be a big shift in your relationship to those problems. Instead of seeing problems everywhere you look, you start taking on only the problems that need to be solved to create the outcome you want. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=444)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -789,6 +808,7 @@ Moving away from [[permanent/Problem - 202304261228\|Problems]] you don't want t
 >“your intention is to move toward the outcome and, through the baby steps, or the actions you take, to bring that intention into being over time.” Lucas joined in. “So, the difference is between moving away from what you don’t want—the problem—and moving toward the outcome you do want.” ([Location 457](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=457)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -833,6 +853,7 @@ This represents how the different [[permanent/Outcome - 202304261242\|Outcomes]]
 </div></div>
 
 
+
 </div></div>
 
 
@@ -862,6 +883,7 @@ An exercise in reflecting on what you're experiencing and how you're acting. If 
 >“The first exercise has to do with the thoughts and feelings you experience … and the actions you take … in each of the orientations. And just a note about ‘thoughts’—they can be things you say silently to yourself as well as things you say out loud to other people,” Kasey explained. Lucas wrote “thoughts, feelings, and actions” ([Location 674](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=674)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -900,6 +922,7 @@ An exercise in reflecting on what things trigger you to react and what strategy 
 >“A reactive trigger is anything or anyone that causes or activates you to react—to see that person or thing as a problem that engages some form of anxiety. Once you’re triggered, you react with a fight, flight, freeze, or appease response. Those are the reactive strategies. ([Location 703](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=703)) #✂️  
 
 </div></div>
+
 
 
 </div></div>
@@ -941,6 +964,7 @@ Anything that causes you to [[permanent/Reaction - 202304261216\|React]] and use
 </div></div>
 
 
+
 </div></div>
 
 
@@ -968,8 +992,10 @@ Being able to step back and reflect. The more you can observe, the more you will
 </div></div>
 
 
+
 </div></div>
 
 
 ---
+
 
