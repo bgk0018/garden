@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/self-persuasion-202307091729/","tags":["💡","📖"],"created":"2023-07-09T17:29:42.973-05:00","updated":"2024-03-05T16:33:40.333-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/self-persuasion-202307091729/","tags":["💡","📖"],"created":"2023-07-09T17:29:42.973-05:00","updated":"2024-03-07T15:35:48.957-06:00"}
 ---
 
 # Content
@@ -14,7 +14,7 @@ Just the process of verbal [[Self-talk\|Self-talk]] can trigger this processing.
 # References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517950" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -25,11 +25,12 @@ Just the process of verbal [[Self-talk\|Self-talk]] can trigger this processing.
 
 
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/#ref-578517951" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 >[!QUOTE]  
->As people explain themselves, they begin to produce fresh insights into why they feel one way or another. This indicates they’ve engaged in active processing. Instead of defending, they begin contemplating, and once a person is contemplating, they often produce their own counterarguments, and a newfound ambivalence washes over them. If enough counterarguments stack up, the balance may tip in favor of change. ([Location 727](https://readwise.io/to_kindle?action=open&asin=B093R2CP2V&location=727)) #✂️  
+>As people explain themselves, they begin to produce fresh insights into why they feel one way or another. This indicates they’ve engaged in active processing. Instead of defending, they begin contemplating, and once a person is contemplating, they often produce their own counterarguments, and a newfound ambivalence washes over them. If enough counterarguments stack up, the balance may tip in favor of change. ([Location 727](https://readwise.io/to_kindle?action=open&asin=B093R2CP2V&location=727)) #✂️ #favorite  
 
 </div></div>
+
