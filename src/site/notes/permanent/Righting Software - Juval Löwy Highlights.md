@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/righting-software-juval-loewy-highlights/","title":"Righting Software","tags":["✂️","📚"],"created":"2024-02-29T17:21:07.292-06:00","updated":"2024-02-29T21:25:13.418-06:00"}
+{"dg-publish":true,"permalink":"/permanent/righting-software-juval-loewy-highlights/","title":"Righting Software","tags":["✂️","📚"],"created":"2024-02-29T17:21:07.292-06:00","updated":"2024-03-07T15:35:42.739-06:00"}
 ---
 
 # Righting Software
@@ -1710,3 +1710,4 @@
 ##### Project Design Guidelines
 ##### Project Tracking Guidelines
 ##### Service Contract Design Guidelines
+
