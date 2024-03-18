@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/what-is-confirmation-bias-202307031640/","tags":["❓"],"created":"2023-07-03T16:40:39.936-05:00","updated":"2024-03-07T15:35:49.093-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/what-is-confirmation-bias-202307031640/","tags":["❓"],"created":"2024-03-10T08:47:26.844-05:00","updated":"2024-03-15T15:37:56.855-05:00"}
 ---
 
 # Content
 
 What is confirmation bias?
 
+implies:: [[foobarbaz2\|foobarbaz2]]
 # References
 
 
