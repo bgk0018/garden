@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/perspective-taking-202307131640/","tags":["📖"],"created":"2023-07-13T16:40:38.234-05:00","updated":"2024-03-08T15:04:09.505-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/perspective-taking-202307131640/","tags":["📖"],"created":"2024-03-10T08:47:17.088-05:00","updated":"2024-03-08T15:04:09.000-06:00"}
 ---
 
 # Content
