@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/radical-hospitality-202307091704/","tags":["📖"],"created":"2023-07-09T17:04:19.389-05:00","updated":"2024-03-07T15:35:48.940-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/radical-hospitality-202307091704/","tags":["📖"],"created":"2024-03-10T08:47:22.984-05:00","updated":"2024-03-08T15:18:17.000-06:00"}
 ---
 
 # Content
