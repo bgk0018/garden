@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/arguing-conclusions-is-ineffectual-202307091709/","tags":["📖"],"created":"2023-07-09T17:09:28.720-05:00","updated":"2024-03-07T15:35:48.589-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/arguing-conclusions-is-ineffectual-202307091709/","tags":["📖"],"created":"2024-03-10T08:47:17.548-05:00","updated":"2024-03-08T15:17:04.000-06:00"}
 ---
 
 # Content
