@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/self-persuasion-202307091729/","tags":["💡","📖"],"created":"2023-07-09T17:29:42.973-05:00","updated":"2024-03-07T15:35:48.957-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/self-persuasion-202307091729/","tags":["💡","📖"],"created":"2024-03-10T08:47:23.464-05:00","updated":"2024-03-08T15:18:22.000-06:00"}
 ---
 
 # Content
