@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/trump-ordered-security-footage-deleted-doj-alleges-in-new-charges-the-npr-politics-podcast-highlights/","title":"Trump Ordered Security Footage Deleted, DOJ Alleges in New Charges","tags":["✂️","🎧"],"created":"2024-02-29T17:21:09.230-06:00","updated":"2024-03-07T15:35:45.326-06:00"}
+{"dg-publish":true,"permalink":"/permanent/trump-ordered-security-footage-deleted-doj-alleges-in-new-charges-the-npr-politics-podcast-highlights/","title":"Trump Ordered Security Footage Deleted, DOJ Alleges in New Charges","tags":["✂️","🎧"],"created":"2024-03-09T22:13:28.685-06:00","updated":"2024-03-07T15:35:45.000-06:00"}
 ---
 
 # Trump Ordered Security Footage Deleted, DOJ Alleges in New Charges
