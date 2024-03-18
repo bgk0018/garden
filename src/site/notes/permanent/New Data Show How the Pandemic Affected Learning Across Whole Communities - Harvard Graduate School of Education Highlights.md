@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/new-data-show-how-the-pandemic-affected-learning-across-whole-communities-harvard-graduate-school-of-education-highlights/","title":"New Data Show How the Pandemic Affected Learning Across Whole Communities","tags":["✂️","📰"],"created":"2024-02-29T17:21:07.509-06:00","updated":"2024-03-07T15:35:41.510-06:00"}
+{"dg-publish":true,"permalink":"/permanent/new-data-show-how-the-pandemic-affected-learning-across-whole-communities-harvard-graduate-school-of-education-highlights/","title":"New Data Show How the Pandemic Affected Learning Across Whole Communities","tags":["✂️","📰"],"created":"2024-03-09T22:13:35.365-06:00","updated":"2024-03-07T15:35:41.000-06:00"}
 ---
 
 # New Data Show How the Pandemic Affected Learning Across Whole Communities
