@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/deep-canvassing-202307091701/","tags":["📖"],"created":"2023-07-09T17:00:58.445-05:00","updated":"2024-03-07T15:35:48.705-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/deep-canvassing-202307091701/","tags":["📖"],"created":"2024-03-10T08:47:19.524-05:00","updated":"2024-03-08T15:17:34.000-06:00"}
 ---
 
 # Content
