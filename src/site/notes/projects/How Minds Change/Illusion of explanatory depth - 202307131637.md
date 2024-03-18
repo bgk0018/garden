@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/illusion-of-explanatory-depth-202307131637/","tags":["📖"],"created":"2023-07-13T16:37:16.696-05:00","updated":"2024-03-07T15:35:48.829-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/illusion-of-explanatory-depth-202307131637/","tags":["📖"],"created":"2024-03-10T08:47:21.468-05:00","updated":"2024-03-08T15:17:59.000-06:00"}
 ---
 
 # Content
