@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/structural-versus-nominal-type-system-202403051455/","tags":["📖"],"created":"2024-03-05T14:54:35.157-06:00","updated":"2024-03-07T15:35:43.371-06:00"}
+{"dg-publish":true,"permalink":"/permanent/structural-versus-nominal-type-system-202403051455/","tags":["📖"],"created":"2024-03-09T22:13:32.981-06:00","updated":"2024-03-07T15:35:43.000-06:00"}
 ---
 
 # Structural versus Nominal Type System
