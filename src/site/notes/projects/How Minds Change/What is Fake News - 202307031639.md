@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/what-is-fake-news-202307031639/","tags":["❓"],"created":"2023-07-03T16:39:26.978-05:00","updated":"2024-03-07T15:35:49.110-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/what-is-fake-news-202307031639/","tags":["❓"],"created":"2024-03-10T08:47:27.264-05:00","updated":"2024-03-08T15:18:53.000-06:00"}
 ---
 
 # Content
