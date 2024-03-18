@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/after-title-42-turkey-elections-pandemic-learning-loss-up-first-highlights/","title":"After Title 42, Turkey Elections, Pandemic Learning Loss","tags":["✂️","🎧"],"created":"2024-02-29T17:21:06.156-06:00","updated":"2024-03-07T15:35:35.160-06:00"}
+{"dg-publish":true,"permalink":"/permanent/after-title-42-turkey-elections-pandemic-learning-loss-up-first-highlights/","title":"After Title 42, Turkey Elections, Pandemic Learning Loss","tags":["✂️","🎧"],"created":"2024-03-09T22:13:41.489-06:00","updated":"2024-03-07T15:35:35.000-06:00"}
 ---
 
 # After Title 42, Turkey Elections, Pandemic Learning Loss
