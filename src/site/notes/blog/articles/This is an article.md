@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/articles/this-is-an-article/","title":"This is an article","tags":["📄"],"created":"2024-01-22T08:42:13.690-06:00","updated":"2024-03-07T15:35:32.573-06:00"}
+{"dg-publish":true,"permalink":"/blog/articles/this-is-an-article/","title":"This is an article","tags":["📄"],"created":"2024-03-09T22:59:48.943-06:00","updated":"2024-03-07T15:35:32.000-06:00"}
 ---
 
 # This is an article
