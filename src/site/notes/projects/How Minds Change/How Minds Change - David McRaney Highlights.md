@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/","title":"How Minds Change","tags":["✂️","📚"],"created":"2024-02-29T17:21:08.955-06:00","updated":"2024-03-08T14:53:26.270-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/","title":"How Minds Change","tags":["✂️","📚"],"created":"2024-03-09T22:14:08.113-06:00","updated":"2024-03-08T14:53:26.000-06:00"}
 ---
 
 # How Minds Change
