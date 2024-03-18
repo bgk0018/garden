@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald/","title":"3 Vital Questions","tags":["📕"],"created":"2023-04-16T08:57:39.332-05:00","updated":"2024-03-07T15:35:34.867-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald/","title":"3 Vital Questions","tags":["📕"],"created":"2024-03-10T08:46:58.388-05:00","updated":"2024-03-07T15:35:34.000-06:00"}
 ---
 
 
@@ -35,9 +35,9 @@
 | [[permanent/Mindset Shifting - 202306291518\|Mindset Shifting]]                                                                                               | Weight: 3  |
 | [[permanent/Orientation - 202305280800\|Orientation]]                                                                                                         | Weight: 3  |
 | [[permanent/Passion - 202304261243\|Passion]]                                                                                                                 | Weight: 3  |
-| [[permanent/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation]]                                                                     | Weight: 3  |
 | [[permanent/Theory X - 202304201635\|Theory X]]                                                                                                               | Weight: 3  |
 | [[permanent/Theory Y - 202304201637\|Theory Y]]                                                                                                               | Weight: 3  |
+| [[permanent/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation]]                                                                     | Weight: 3  |
 | [[permanent/Vital Question 1 - 202304171449\|Vital Question 1]]                                                                                               | Weight: 3  |
 | [[permanent/Vital Question 2 - 202304171450\|Vital Question 2]]                                                                                               | Weight: 3  |
 | [[permanent/Vital Question 3 - 202304171451\|Vital Question 3]]                                                                                               | Weight: 3  |
