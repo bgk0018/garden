@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-myth-of-multitasking-christine-rosen-highlights/","title":"The Myth of Multitasking","tags":["✂️","📰"],"created":"2024-03-04T08:30:22.091-06:00","updated":"2024-03-07T15:35:44.230-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-myth-of-multitasking-christine-rosen-highlights/","title":"The Myth of Multitasking","tags":["✂️","📰"],"created":"2024-03-09T22:13:30.321-06:00","updated":"2024-03-07T15:35:44.000-06:00"}
 ---
 
 # The Myth of Multitasking
