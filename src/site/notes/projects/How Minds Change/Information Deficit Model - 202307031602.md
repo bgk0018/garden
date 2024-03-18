@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/information-deficit-model-202307031602/","tags":["📖"],"created":"2023-07-03T16:02:37.994-05:00","updated":"2024-03-07T15:35:48.844-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/information-deficit-model-202307031602/","tags":["📖"],"created":"2024-03-10T08:47:22.032-05:00","updated":"2024-03-08T15:18:02.000-06:00"}
 ---
 
 # Content
