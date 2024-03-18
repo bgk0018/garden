@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/to-sell-is-human-daniel-h-pink-highlights/","title":"To Sell Is Human","tags":["✂️","📚"],"created":"2024-02-29T17:17:59.908-06:00","updated":"2024-03-07T15:35:45.092-06:00"}
+{"dg-publish":true,"permalink":"/permanent/to-sell-is-human-daniel-h-pink-highlights/","title":"To Sell Is Human","tags":["✂️","📚"],"created":"2024-03-09T22:13:29.013-06:00","updated":"2024-03-07T15:35:45.000-06:00"}
 ---
 
 # To Sell Is Human
