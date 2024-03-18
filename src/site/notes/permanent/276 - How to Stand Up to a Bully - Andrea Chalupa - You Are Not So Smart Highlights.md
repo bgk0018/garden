@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/276-how-to-stand-up-to-a-bully-andrea-chalupa-you-are-not-so-smart-highlights/","title":"276 - How to Stand Up to a Bully - Andrea Chalupa","tags":["✂️","🎧"],"created":"2024-02-29T17:21:11.350-06:00","updated":"2024-03-07T15:35:34.810-06:00"}
+{"dg-publish":true,"permalink":"/permanent/276-how-to-stand-up-to-a-bully-andrea-chalupa-you-are-not-so-smart-highlights/","title":"276 - How to Stand Up to a Bully - Andrea Chalupa","tags":["✂️","🎧"],"created":"2024-03-09T22:13:41.789-06:00","updated":"2024-03-07T15:35:34.000-06:00"}
 ---
 
 # 276 - How to Stand Up to a Bully - Andrea Chalupa
