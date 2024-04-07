@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/conflict-causes-perspective-blindness-202403081511/","tags":["📖"],"created":"2024-03-09T20:11:50.181-06:00","updated":"2024-03-08T15:15:51.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/conflict-causes-perspective-blindness-202403081511/","tags":["📖"],"created":"2024-03-09T17:57:29.713-06:00","updated":"2024-03-08T15:15:51.000-06:00"}
 ---
 
 # Conflict causes perspective blindness
