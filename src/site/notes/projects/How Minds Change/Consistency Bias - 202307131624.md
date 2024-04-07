@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/consistency-bias-202307131624/","tags":["📖"],"created":"2024-03-10T08:47:18.484-05:00","updated":"2024-03-08T15:17:29.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/consistency-bias-202307131624/","tags":["📖"],"created":"2024-03-19T13:32:45.565-05:00","updated":"2024-03-08T15:17:29.000-06:00"}
 ---
 
 # Content
