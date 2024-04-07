@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald-highlights/","title":"3 Vital Questions","tags":["✂️","📚"],"created":"2024-03-09T22:13:42.097-06:00","updated":"2024-03-07T15:35:34.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/3-vital-questions-david-emerald-highlights/","title":"3 Vital Questions","tags":["✂️","📚"],"created":"2024-03-19T13:32:23.255-05:00","updated":"2024-04-04T15:32:05.219-05:00"}
 ---
 
 # 3 Vital Questions
