@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/rebuilding-dev-ops-from-the-ground-up-the-changelog-software-development-open-source-highlights/","title":"Rebuilding DevOps From the Ground Up","tags":["✂️","🎧"],"created":"2024-03-09T22:13:33.881-06:00","updated":"2024-03-07T15:35:42.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/rebuilding-dev-ops-from-the-ground-up-the-changelog-software-development-open-source-highlights/","title":"Rebuilding DevOps From the Ground Up","tags":["✂️","🎧"],"created":"2024-03-19T13:32:23.156-05:00","updated":"2024-03-07T15:35:42.000-06:00"}
 ---
 
 # Rebuilding DevOps From the Ground Up
