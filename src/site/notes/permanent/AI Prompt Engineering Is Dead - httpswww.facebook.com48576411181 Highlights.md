@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/ai-prompt-engineering-is-dead-httpswww-facebook-com48576411181-highlights/","title":"AI Prompt Engineering Is Dead","tags":["✂️","📰"],"created":"2024-03-09T20:11:49.065-06:00","updated":"2024-03-09T16:37:06.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/ai-prompt-engineering-is-dead-httpswww-facebook-com48576411181-highlights/","title":"AI Prompt Engineering Is Dead","tags":["✂️","📰"],"created":"2024-03-09T17:57:29.682-06:00","updated":"2024-03-09T16:37:06.000-06:00"}
 ---
 
 # AI Prompt Engineering Is Dead
