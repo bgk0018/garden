@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/house-republican-report-finds-no-evidence-of-wrongdoing-by-president-biden-new-york-times-highlights/","title":"House Republican Report Finds No Evidence of Wrongdoing by President Biden","tags":["✂️","📰"],"created":"2024-03-09T22:13:38.933-06:00","updated":"2024-03-07T15:35:38.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/house-republican-report-finds-no-evidence-of-wrongdoing-by-president-biden-new-york-times-highlights/","title":"House Republican Report Finds No Evidence of Wrongdoing by President Biden","tags":["✂️","📰"],"created":"2024-03-19T13:32:23.205-05:00","updated":"2024-03-07T15:35:38.000-06:00"}
 ---
 
 # House Republican Report Finds No Evidence of Wrongdoing by President Biden
