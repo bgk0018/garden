@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/designing-event-driven-systems-ben-stopford-highlights/","title":"Designing Event-Driven Systems","tags":["✂️","📰"],"created":"2024-03-17T14:18:49.399-05:00","updated":"2024-03-17T12:27:11.000-05:00"}
+{"dg-publish":true,"permalink":"/permanent/designing-event-driven-systems-ben-stopford-highlights/","title":"Designing Event-Driven Systems","tags":["✂️","📰"],"created":"2024-03-19T13:30:40.970-05:00","updated":"2024-03-17T12:27:11.000-05:00"}
 ---
 
 # Designing Event-Driven Systems
