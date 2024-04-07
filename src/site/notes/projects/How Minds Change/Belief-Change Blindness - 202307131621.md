@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/belief-change-blindness-202307131621/","tags":["📖"],"created":"2024-03-10T08:47:18.040-05:00","updated":"2024-03-08T15:17:16.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/belief-change-blindness-202307131621/","tags":["📖"],"created":"2024-03-19T13:32:45.557-05:00","updated":"2024-03-08T15:17:16.000-06:00"}
 ---
 
 # Content
