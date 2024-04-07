@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-inflammation-theory-of-disease-stuff-you-should-know-highlights/","title":"The Inflammation Theory of Disease","tags":["✂️","🎧"],"created":"2024-03-09T22:13:30.981-06:00","updated":"2024-03-07T15:35:44.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-inflammation-theory-of-disease-stuff-you-should-know-highlights/","title":"The Inflammation Theory of Disease","tags":["✂️","🎧"],"created":"2024-03-19T13:32:23.139-05:00","updated":"2024-03-07T15:35:44.000-06:00"}
 ---
 
 # The Inflammation Theory of Disease
