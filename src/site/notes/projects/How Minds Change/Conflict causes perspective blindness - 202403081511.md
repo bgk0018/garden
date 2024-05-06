@@ -4,7 +4,7 @@
 
 # Conflict causes perspective blindness
 
-[[permanent/Lee Ross\|Lee Ross]] noted that when doing conflict resolution where the stakes are high, people rarely consider the other's perspective unless asked to do so.[^1][^2]
+[[Lee Ross\|Lee Ross]] noted that when doing conflict resolution where the stakes are high, people rarely consider the other's perspective unless asked to do so.[^1][^2]
 
 ## References
 
