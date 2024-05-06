@@ -4,20 +4,20 @@
 
 # Subjective Experience
 
-[[permanent/Jakob von Uexküll\|Jakob von Uexküll]] coined the term Umwelt to describe individuals subjective experiences.[^1] Each species, and even individuals within a species, have their own umwelt, which is influenced by factors such as their sensory organs, neural processing, behavior, and ecological niche. For example, the umwelt of a bee is vastly different from that of a human, as bees perceive the world primarily through ultraviolet light and chemical cues.
+[[Jakob von Uexküll\|Jakob von Uexküll]] coined the term Umwelt to describe individuals subjective experiences.[^1] Each species, and even individuals within a species, have their own umwelt, which is influenced by factors such as their sensory organs, neural processing, behavior, and ecological niche. For example, the umwelt of a bee is vastly different from that of a human, as bees perceive the world primarily through ultraviolet light and chemical cues.
 
 Umwelt emphasizes that reality is not objective or universal but rather subjective and individualized, shaped by the unique sensory and cognitive abilities of each organism.
 
 Because you can't experience the world in any other way, then it's likely to understand that how you experience the world is the only way to experience the world.
 
-[[permanent/Thomas Nagel\|Thomas Nagel]] made a similar argument in [[permanent/What Is It Like to Be a Bat - Thomas Nagel\|What Is It Like to Be a Bat?]]
+[[Thomas Nagel\|Thomas Nagel]] made a similar argument in [[What Is It Like to Be a Bat - Thomas Nagel\|What Is It Like to Be a Bat?]]
 
 Other authors:
-- [[permanent/Timothy Leary\|Timothy Leary]] - [[permanent/What is a reality tunnel - 202403151601\|What is a reality tunnel]]
-- [[permanent/JJ Gibson\|JJ Gibson]] - [[permanent/What is ecological optic - 202403151615\|What is ecological optic]]
-- [[permanent/Charles Tart\|Charles Tart]] - [[permanent/What is consensus trance - 202403151616\|What is concensus trance]]
-- [[permanent/Immanuel Kant\|Immanuel Kant]] - [[permanent/What is noumenon - 202403151617\|What is noumenon]]
-- [[permanent/Daniel Dennett\|Daniel Dennett]] - [[permanent/What is a conscious robot - 202403151617\|What is a conscious robot]]
+- [[Timothy Leary\|Timothy Leary]] - [[What is a reality tunnel - 202403151601\|What is a reality tunnel]]
+- [[JJ Gibson\|JJ Gibson]] - [[What is ecological optic - 202403151615\|What is ecological optic]]
+- [[Charles Tart\|Charles Tart]] - [[What is consensus trance - 202403151616\|What is concensus trance]]
+- [[Immanuel Kant\|Immanuel Kant]] - [[What is noumenon - 202403151617\|What is noumenon]]
+- [[Daniel Dennett\|Daniel Dennett]] - [[What is a conscious robot - 202403151617\|What is a conscious robot]]
 ## References
 
 [^1]: 
