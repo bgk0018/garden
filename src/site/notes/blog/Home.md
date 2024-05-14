@@ -23,4 +23,4 @@ On the left, you should see a few folders.
 
 You can start literally anywhere but here's a table of interesting entry points:
 
-- [[Highlights\|Media Highlights]]
+- [[permanent/Highlights\|Media Highlights]]
