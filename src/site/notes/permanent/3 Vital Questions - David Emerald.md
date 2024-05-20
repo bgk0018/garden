@@ -13,8 +13,8 @@
 | Name                                                                                                                                                             | Weight     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation - 202304261241]]                                                                          | Weight: 13 |
-| [[permanent/Problem - 202304261228\|Problem - 202304261228]]                                                                                                  | Weight: 12 |
 | [[permanent/Problem Orientation - 202304201646\|Problem Orientation - 202304201646]]                                                                          | Weight: 12 |
+| [[permanent/Problem - 202304261228\|Problem - 202304261228]]                                                                                                  | Weight: 12 |
 | [[permanent/Outcome - 202304261242\|Outcome - 202304261242]]                                                                                                  | Weight: 10 |
 | [[permanent/Focus - 202304201649\|Focus]]                                                                                                                     | Weight: 10 |
 | [[permanent/Victim - 202305251726\|Victim - 202305251726]]                                                                                                    | Weight: 8  |
@@ -28,12 +28,12 @@
 | [[permanent/Mindset Shifting - 202306291518\|Mindset Shifting - 202306291518]]                                                                                | Weight: 4  |
 | [[permanent/FISBE - 202304201647\|FISBE]]                                                                                                                     | Weight: 4  |
 | [[permanent/Baby Step - 202304261244\|Baby Step]]                                                                                                             | Weight: 4  |
-| [[permanent/Vital Question 2 - 202304171450\|Vital Question 2 - 202304171450]]                                                                                | Weight: 3  |
-| [[permanent/Vital Question 3 - 202304171451\|Vital Question 3 - 202304171451]]                                                                                | Weight: 3  |
 | [[permanent/Vital Question 1 - 202304171449\|Vital Question 1 - 202304171449]]                                                                                | Weight: 3  |
-| [[permanent/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation - 202305280808]]                                                      | Weight: 3  |
-| [[permanent/Theory Y - 202304201637\|Theory Y - 202304201637]]                                                                                                | Weight: 3  |
+| [[permanent/Vital Question 3 - 202304171451\|Vital Question 3 - 202304171451]]                                                                                | Weight: 3  |
+| [[permanent/Vital Question 2 - 202304171450\|Vital Question 2 - 202304171450]]                                                                                | Weight: 3  |
 | [[permanent/Theory X - 202304201635\|Theory X - 202304201635]]                                                                                                | Weight: 3  |
+| [[permanent/Theory Y - 202304201637\|Theory Y - 202304201637]]                                                                                                | Weight: 3  |
+| [[permanent/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation - 202305280808]]                                                      | Weight: 3  |
 | [[permanent/Reactive Trigger - 202304271152\|Reactive Trigger - 202304271152]]                                                                                | Weight: 3  |
 | [[permanent/Passion - 202304261243\|Passion]]                                                                                                                 | Weight: 3  |
 | [[permanent/Orientation - 202305280800\|Orientation]]                                                                                                         | Weight: 3  |
