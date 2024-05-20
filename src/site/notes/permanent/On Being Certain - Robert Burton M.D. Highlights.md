@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-04-14T15:20:36.556-05:00","updated":"2024-05-09T09:15:09.107-05:00"}
+{"dg-publish":true,"permalink":"/permanent/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-04-14T15:20:36.556-05:00","updated":"2024-05-19T13:30:19.614-05:00"}
 ---
 
 # On Being Certain
@@ -270,3 +270,92 @@
 ### The Pleasure of Your Thoughts
 *New highlights added May 9, 2024 at 9:15 AM* #📫
 #### The Pleasure Principle
+*New highlights added May 15, 2024 at 9:00 AM* #📫
+>[!QUOTE]  
+>The general principle equally applicable to the worst cocaine addiction, stamp collecting, or idle musings is that for a behavior to persist, there must be some brain-mediated reward. ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1243)) #✂️ 
+{ #ref-720065133}
+
+
+---
+>[!QUOTE]  
+>The feeling of knowing and the decision to climb the tree become linked together in the neural network labeled “what to do in the case of a charging lion.” The more powerful the experience and the more times it occurs, the greater becomes the linkage between the decision and the feeling that the decision is correct. ([Location 1247](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1247)) #✂️ 
+{ #ref-720065134}
+
+
+---
+>[!QUOTE]  
+>Feelings of strangeness and unfamiliarity can warn us that we are making a wrong turn in our thinking. ([Location 1252](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1252)) #✂️ 
+{ #ref-720065135}
+
+
+---
+>[!QUOTE]  
+>Thoughts have become more complex and abstract; much of what we think about today has no clear answer, no obvious cause-and-effect result, and isn’t easily measurable. We can never know with certainty whether decisions to invade Iraq, to restrict stem cell research, or to permit private ownership of handguns are the best decisions. The law of unforeseen consequences tells us that today’s seemingly positive result might be next decade’s catastrophe. ([Location 1255](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1255)) #✂️ 
+{ #ref-720065136}
+
+
+---
+>[!QUOTE]  
+>In order to pursue a new thought, we must feel the thought is worth pursuing before we have any supporting evidence or justification. Otherwise, we would only consider ideas we already know to be correct. But what would the reward be for a new or unique idea? We talk of the pleasure of knowledge for knowledge’s sake, but this presumes that what you are acquiring is bona fide knowledge. Proceeding without any sense of a thought’s value isn’t a high-priority activity. Just watch your kid avoid his homework, complaining bitterly that studying Latin or logic is worthless. “What’s the point?” is nothing more than thought’s reward system switched to off (or running on empty if you prefer the neurochemical metaphor). ([Location 1260](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1260)) #✂️ 
+{ #ref-720065137}
+
+
+---
+#### I Can’t Go On, I Must Go On
+>[!QUOTE]  
+>Most physiological reward systems are measured with a stopwatch, not a calendar. With fight or flight, you know pronto whether running away was the right choice. Cocaine and gambling are now rewards. No one ever listened to Bach with the goal of experiencing enjoyment in a month, or told a joke to make you laugh next year. Pleasure systems don’t have a memory; they’re now or never, measured within the time frame of synaptic transmission and neurotransmitter metabolism. ([Location 1280](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1280)) #✂️ 
+{ #ref-720065139}
+
+
+---
+#### The Big What-if
+#### Double-Edged Single-Mindedness
+*New highlights added May 16, 2024 at 8:44 AM* #📫
+>[!QUOTE]  
+>In being constantly on the lookout for the last word, they often appear as compelled and driven as the worst of addicts. And perhaps they are. Might the know-it-all personality trait be seen as an addiction to the pleasure of the feeling of knowing? ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1372)) #✂️ 
+{ #ref-720524752}
+
+
+---
+>[!QUOTE]  
+>The feeling of knowing, the reward for both proven and unproven thoughts, is learning’s best friend, and mental flexibility’s worst enemy. ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1411)) #✂️ 
+{ #ref-720524753}
+
+
+---
+### Genes and Thought
+*New highlights added May 17, 2024 at 8:17 AM* #📫
+>[!QUOTE]  
+>We are raised believing that reasonable discourse can establish the superiority of one line of thought over another. The underlying presumption is that each of us has an innate faculty of reason that can overcome our perceptual differences and see a problem from the “optimal perspective.” One goal of this book is to dispel this misconception. ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1423)) #✂️ 
+{ #ref-721023630}
+
+
+---
+>[!QUOTE]  
+>LeDoux’s structural studies showing that destruction of the amygdala made animals less fearful have now been confirmed at a biochemical level. What once required gross anatomic destruction of an area of the brain can now be accomplished through precise manipulation of a single gene. ([Location 1503](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1503)) #✂️ 
+{ #ref-721023631}
+
+
+---
+#### Alice in Genetic Wonderland, or Through Hyperbole’s Looking Glass
+*New highlights added May 19, 2024 at 1:30 PM* #📫
+>[!QUOTE]  
+>What you can’t know is how the gene affected his thoughts in undetectable ways. An additional piece of history is that the husband’s prior two marriages ended in bitter divorces with both departing wives accusing him of being cowardly, consumed with anxiety, and filled with self-doubt. His self-esteem is lower than his remaining Enron shares. The decision when to leave for the airport kicks his genetic predisposition to be fearful into overdrive, but not in a single direction. He is faced with two competing sets of disaster probabilities—getting to the airport late and missing the flight versus upsetting his new bride by revealing his cowardly neurotic ways. Both risk-reward probabilities are inputted into his hidden layer where they silently duke it out. If the fear of rejection is greater than missing the plane, the husband will quickly agree with his wife. ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1532)) #✂️ 
+{ #ref-721866299}
+
+
+---
+>[!QUOTE]  
+>In the Bouchard studies, the twins expressed how they feel and what they are interested in and attracted to. Such attitudinal studies tell us what the twins want to do (under ideal circumstances), not what they will do. So many of the arguments over free will and determinism fail to make this simple distinction. Desire and action are not synonymous. ([Location 1542](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1542)) #✂️ 
+{ #ref-721866300}
+
+
+---
+#### Why I Can’t Play Poker
+>[!QUOTE]  
+>To expect that we can get others to think as we do is to believe that we can overcome innate differences that make each of our thought processes as unique as our fingerprints. ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1697)) #✂️ 
+{ #ref-721866302}
+
+
+---
+### Sensational Thoughts
