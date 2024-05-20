@@ -16,24 +16,24 @@
 | [[projects/How Minds Change/The Leadership LAB - 202307091706\|The Leadership LAB - 202307091706]]                                                         | Weight: 3 |
 | [[projects/How Minds Change/Certainty - 202307012227\|Certainty - 202307012227]]                                                                           | Weight: 3 |
 | [[permanent/Intention - 202304261251\|Intention]]                                                                                                          | Weight: 3 |
-| [[projects/How Minds Change/Information Deficit Model - 202307031602\|Information Deficit Model - 202307031602]]                                           | Weight: 2 |
 | [[projects/How Minds Change/Perspective taking - 202307131640\|Perspective taking - 202307131640]]                                                         | Weight: 2 |
 | [[projects/How Minds Change/Focus on the lived experience to change a mind - 202307091716\|Focus on the lived experience to change a mind - 202307091716]] | Weight: 2 |
+| [[projects/How Minds Change/Information Deficit Model - 202307031602\|Information Deficit Model - 202307031602]]                                           | Weight: 2 |
 | [[projects/How Minds Change/Elaboration - 202307131626\|Elaboration - 202307131626]]                                                                       | Weight: 2 |
 | [[projects/How Minds Change/Theory of Mind - 202403061621\|Theory of Mind - 202403061621]]                                                                 | Weight: 1 |
 | [[projects/How Minds Change/Conversations instead of debates - 202307091648\|Conversations instead of debates - 202307091648]]                             | Weight: 1 |
-| [[projects/How Minds Change/Belief-Change Blindness - 202307131621\|Belief-Change Blindness - 202307131621]]                                               | Weight: 1 |
 | [[projects/How Minds Change/Arguing conclusions is ineffectual - 202307091709\|Arguing conclusions is ineffectual - 202307091709]]                         | Weight: 1 |
+| [[projects/How Minds Change/Belief-Change Blindness - 202307131621\|Belief-Change Blindness - 202307131621]]                                               | Weight: 1 |
 | [[projects/How Minds Change/The brain sacrifices accuracy for speed - 202307131632\|The brain sacrifices accuracy for speed - 202307131632]]               | Weight: 0 |
 | [[projects/How Minds Change/Subjective Experience - 202403151541\|Subjective Experience - 202403151541]]                                                   | Weight: 0 |
 | [[projects/How Minds Change/Share your intention - 202307091654\|Share your intention - 202307091654]]                                                     | Weight: 0 |
 | [[projects/How Minds Change/Self-persuasion - 202307091729\|Self-persuasion - 202307091729]]                                                               | Weight: 0 |
-| [[projects/How Minds Change/Punctuated Equilibrium - 202307012224\|Punctuated Equilibrium - 202307012224]]                                                 | Weight: 0 |
 | [[projects/How Minds Change/Radical Hospitality - 202307091704\|Radical Hospitality - 202307091704]]                                                       | Weight: 0 |
-| [[projects/How Minds Change/Illusion of explanatory depth - 202307131637\|Illusion of explanatory depth - 202307131637]]                                   | Weight: 0 |
+| [[projects/How Minds Change/Punctuated Equilibrium - 202307012224\|Punctuated Equilibrium - 202307012224]]                                                 | Weight: 0 |
 | [[projects/How Minds Change/Modeling Vulnerability - 202307091739\|Modeling Vulnerability - 202307091739]]                                                 | Weight: 0 |
-| [[projects/How Minds Change/Conflict causes perspective blindness - 202403081511\|Conflict causes perspective blindness - 202403081511]]                   | Weight: 0 |
-| [[projects/How Minds Change/Consistency Bias - 202307131624\|Consistency Bias - 202307131624]]                                                             | Weight: 0 |
+| [[projects/How Minds Change/Illusion of explanatory depth - 202307131637\|Illusion of explanatory depth - 202307131637]]                                   | Weight: 0 |
 | [[projects/How Minds Change/Connecting on values - 202307191506\|Connecting on values - 202307191506]]                                                     | Weight: 0 |
+| [[projects/How Minds Change/Consistency Bias - 202307131624\|Consistency Bias - 202307131624]]                                                             | Weight: 0 |
+| [[projects/How Minds Change/Conflict causes perspective blindness - 202403081511\|Conflict causes perspective blindness - 202403081511]]                   | Weight: 0 |
 
 { .block-language-dataview}
