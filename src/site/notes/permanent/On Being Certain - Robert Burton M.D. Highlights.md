@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-04-14T15:20:36.556-05:00","updated":"2024-05-19T13:30:19.614-05:00"}
+{"dg-publish":true,"permalink":"/permanent/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-04-14T15:20:36.556-05:00","updated":"2024-05-29T08:18:38.571-05:00"}
 ---
 
 # On Being Certain
@@ -359,3 +359,30 @@
 
 ---
 ### Sensational Thoughts
+*New highlights added May 28, 2024 at 10:35 AM* #📫
+>[!QUOTE]  
+>As an isolated system, thought is doomed to the perpetual “yes, but,” that arises out of not being able to know what you don’t know. Without a circuit breaker, indecision and inaction would rule the day. What is needed is a mental switch that stops infinite ruminations and calms our fears of missing an unknown superior alternative. Such a switch can’t be a thought or we would be back at the same problem. The simplest solution would be a sensation that feels like a thought but isn’t subject to thought’s perpetual self-questioning. ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1711)) #✂️ 
+{ #ref-725633909}
+
+
+---
+>[!QUOTE]  
+>Most neuroscientists believe that conscious thoughts are the mere tip of a cognitive iceberg and that the vast majority of “thought” occurs outside of awareness. ([Location 1783](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1783)) #✂️ 
+{ #ref-725633910}
+
+
+---
+>[!QUOTE]  
+>Having myriad dissimilar intentions simultaneously present in consciousness would create a chaotic and confused mind; attention would be scattered among all the questions being entertained. Not having all intentions simultaneously front and center in awareness creates the illusion that some thoughts aren’t intentional, but simply “occur to us.” It would appear that evolution has chosen the uncluttered mind at the expense of stripping the feeling of intention from unconscious thoughts. ([Location 1837](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1837)) #✂️ 
+{ #ref-725633911}
+
+
+---
+*New highlights added May 29, 2024 at 8:18 AM* #📫
+>[!QUOTE]  
+>Conscious thoughts have the embedded sensation of willful effort and intention; unconscious thoughts lack this sensation. Conscious thoughts feel as if they are being thought; unconscious thoughts don’t. Unconscious thoughts that reach consciousness have been prescreened and assigned a higher likelihood of being worth pursuing than those ideas that do not reach consciousness. Unconscious thoughts with a sufficiently high calculated likelihood of correctness will be consciously experienced as feeling right. ([Location 1878](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1878)) #✂️ 
+{ #ref-726063683}
+
+
+---
+#### Intuition and Gut Feelings Are Unconscious Thoughts Plus the Feeling of Knowing
