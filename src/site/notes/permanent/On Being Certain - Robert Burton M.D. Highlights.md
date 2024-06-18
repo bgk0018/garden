@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-04-14T15:20:36.556-05:00","updated":"2024-05-29T08:18:38.571-05:00"}
+{"dg-publish":true,"permalink":"/permanent/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-04-14T15:20:36.556-05:00","updated":"2024-06-18T09:08:14.174-05:00"}
 ---
 
 # On Being Certain
@@ -386,3 +386,137 @@
 
 ---
 #### Intuition and Gut Feelings Are Unconscious Thoughts Plus the Feeling of Knowing
+*New highlights added June 1, 2024 at 12:10 PM* #📫
+>[!QUOTE]  
+>The most on-the-money observation—that a gut feeling is a deep down conviction that occurs without any underlying sense of knowing why—is nothing more than the description of the feeling of knowing unaccompanied by the awareness of a precipitating thought or a specific line of reasoning. ([Location 1897](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1897)) #✂️ 
+{ #ref-727686985}
+
+
+---
+>[!QUOTE]  
+>Thoughts require sensory information. A disembodied mind cannot contemplate beauty or feel the differences between deep love, infatuation, and pure lust. To avoid confusion and chaos, our brains have sensory systems that selectively tell us when we are thinking a thought. These sensory systems also determine how we experience mental cause-and-effect and intentionality. And they are instrumental in imbuing our thoughts with a sense of their correctness or incorrectness. Without the embedded sensation of being on the right track, a thought wouldn’t be worth the mind it’s printed on. ([Location 1907](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1907)) #✂️ 
+{ #ref-727686986}
+
+
+---
+>[!QUOTE]  
+>We know the nature and quality of our thoughts via feelings, not reason. Feelings such as certainty, conviction, rightness and wrongness, clarity, and faith arise out of involuntary mental sensory systems that are integral and inseparable components of the thoughts that they qualify. ([Location 1911](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1911)) #✂️ 
+{ #ref-727686987}
+
+
+---
+### The Twin Pillars of Certainty: Reason and Objectivity
+#### Abandoning the Idea of Rationality Is Unthinkable
+>[!QUOTE]  
+>Any concept of free will assumes that we possess a portion of mind that can rise above the biological processes that generated it. Scientific inquiry requires this same piece of mind to objectively weigh evidence. Without this belief, the feeling of knowing wouldn’t feel like knowing. Every time it arose, we would ask the same question: How do we know that this sense of knowledge can be trusted? Talking about the impossibility of a rational mind generates this general category in the same way that an atheist needs the concept of God in order to refute it. In short, relinquishing the idea of pure reason goes against the grain of how we lead our lives. ([Location 1936](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1936)) #✂️ 
+{ #ref-727686990}
+
+
+---
+#### Popular Psychology and the Myth of the Rational Mind
+>[!QUOTE]  
+>conscious perception takes longer than unconscious reaction times. Combine this observation with the role of the amygdala in unconscious fear responses, and you have the makings of the hugely popular theory of emotional intelligence. ([Location 1964](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1964)) #✂️ 
+{ #ref-727686992}
+
+
+---
+>[!QUOTE]  
+>Emotional intelligence is a different way of being smart. It includes knowing what your feelings are and using your feelings to make good decisions in life. It’s being able to manage distressing moods well and control impulses. ([Location 1973](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1973)) #✂️ 
+{ #ref-727686993}
+
+
+---
+>[!QUOTE]  
+>Though useful in emphasizing that unrecognized foul moods and emotions can impact clarity of thought, the theory of emotional intelligence ultimately sidesteps the crucial question of how we determine whether our thoughts are free of perceptual illusions and unsuspected biases. And the repeated assertion of a rational mind sounds suspiciously like a disembodied mind capable of pure thought without inputs from bodily and mental sensations. ([Location 1990](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1990)) #✂️ 
+{ #ref-727686994}
+
+
+---
+>[!QUOTE]  
+>Wilson suggests that we are better off by combining introspection with observing how others react to us, and deducing the otherwise inaccessible nature of our minds from their responses. If others see us differently than we see ourselves, we need to incorporate this alternative view of ourselves into our personal narrative. He warns us that introspection without looking outward at how others see us can actually be counterproductive. ([Location 2002](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2002)) #✂️ 
+{ #ref-727686995}
+
+
+---
+>[!QUOTE]  
+>All thoughts—the trivial, the brilliant, the mundane, the profound, the catastrophic, and truly dangerous—percolate up from the unconscious (the hidden layer). The issue isn’t whether or not unconscious thoughts can be of great value, but in sorting out those that are from those that aren’t. ([Location 2067](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2067)) #✂️ 
+{ #ref-727686996}
+
+
+---
+>[!QUOTE]  
+>We have no mechanism for establishing the accuracy of a line of reasoning until it has produced a testable idea. ([Location 2081](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2081)) #✂️ 
+{ #ref-727686997}
+
+
+---
+*New highlights added June 2, 2024 at 5:03 PM* #📫
+>[!QUOTE]  
+>This discussion isn’t about whether or not unconscious cognition should play a role in our decision making; without unconscious cognition there wouldn’t be any conscious decision making. The issue I have with gut feeling, intuition, and split-second decisions is in believing that we can know when to trust them without having any criteria for determining this trust. A feeling that a decision is right is not the same as providing evidence that it is right. Which brings us to the discussion of the relationship between the myth of the autonomous rational mind and our understanding of objectivity. ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2111)) #✂️ 
+{ #ref-728305955}
+
+
+---
+>[!QUOTE]  
+>The less obvious error is equating clarity with certainty. Clarity is an involuntary mental sensation, not an objective determination. Combining the limits of perception with recognition that the sensation of clarity of mind isn’t a conscious choice should be enough to lay the idea of pure objectivity to rest. ([Location 2157](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2157)) #✂️ 
+{ #ref-728305956}
+
+
+---
+>[!QUOTE]  
+>Stephen Jay Gould comes as close as is possible to a reasonable middle road: “Objectivity cannot be equated with mental blankness; rather, objectivity resides in recognizing your preferences and then subjecting them to especially harsh scrutiny.” ([Location 2161](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2161)) #✂️ 
+{ #ref-728305957}
+
+
+---
+>[!QUOTE]  
+>Our reluctance to face the problems of the rational mind stems in part from the feeling that the mind isn’t of the same category as the body. We don’t expect to jump twenty feet high or to swim underwater for a week; we can easily feel our physical limitations. But we don’t feel the same limits on our thoughts. For example, you feel free to accept or reject this paragraph. Acknowledging all the subliminal factors that influence this decision doesn’t override the more powerful feeling that you are in control of your thoughts. In essence, we are programmed to believe in bootstrap theories of improving our minds. Our mental limitations prevent us from accepting our mental limitations. ([Location 2188](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2188)) #✂️ 
+{ #ref-728305958}
+
+
+---
+#### Complementary and Alternative Medicine
+>[!QUOTE]  
+>Good science is more than the mechanics of research and experimentation. Good science requires that scientists look inward—to contemplate the origin of their thoughts. The failures of science do not begin with flawed evidence or fumbled statistics; they begin with personal self-deception and an unjustified sense of knowing. Once you adopt the position that personal experience is the “proof of the pudding,” reasoned discussion simply isn’t possible. Good science requires distinguishing between “felt knowledge” and knowledge arising out of testable observations. “I am sure” is a mental sensation, not a testable conclusion. ([Location 2291](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2291)) #✂️ 
+{ #ref-728305960}
+
+
+---
+### Faith
+#### Welcome to the F Word
+*New highlights added June 13, 2024 at 8:03 AM* #📫
+>[!QUOTE]  
+>Whether or not it is appropriate to use the word faith to describe a feeling of “now I know why I’m here,” or “this must be what it’s all about,” it is impossible to overlook the shared qualities of the feeling of knowing, a sense of faith, and feelings of purpose and meaning. All serve as both motivation and reward at the most basic level of thought. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2426)) #✂️ 
+{ #ref-733260333}
+
+
+---
+#### Tolstoy and the Biology of Despair
+>[!QUOTE]  
+>We don’t browbeat depressed patients to “get over it” because we are willing to accept that brain chemistry aberrations somehow result in a loss of a sense of meaning. But when a sense of purpose and meaning is present, it isn’t normally described as arising out of properly functioning neural mechanisms. Instead, purpose and meaning are discussed in metaphysical or religious terms. ([Location 2455](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2455)) #✂️ 
+{ #ref-733260335}
+
+
+---
+#### Caution: Deconstruction Zone Ahead
+>[!QUOTE]  
+>How different the science-religion controversy would be if we acknowledged that a deeply felt sense of purpose is as necessary as hunger and thirst—all are universally necessary for survival and homeostasis. How we express these sensations will be a matter of personal taste and predilection. ([Location 2500](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2500)) #✂️ 
+{ #ref-733260337}
+
+
+---
+*New highlights added June 18, 2024 at 9:08 AM* #📫
+>[!QUOTE]  
+>To expect well-reasoned arguments to easily alter personal expressions of purpose is to misunderstand the biology of belief. If there is to be any rapprochement between science and religion, both sides must accept this basic limitation. ([Location 2510](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2510)) #✂️ 
+{ #ref-735267380}
+
+
+---
+>[!QUOTE]  
+>Randomness is an observation; it isn’t evidence against a higher-order design. If I want my garden to look like a jungle, my best chance is to let the plants crawl all over one another. The garden may look like utter chaos, but that was my intent. Perhaps we are a well-designed experiment in futility. ([Location 2548](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2548)) #✂️ 
+{ #ref-735267381}
+
+
+---
+#### A Practical Suggestion?
+### Mind Speculations
