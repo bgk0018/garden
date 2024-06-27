@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/share-your-intention-202307091654/","tags":["📖"],"created":"2024-03-19T13:32:45.626-05:00","updated":"2024-03-08T15:18:31.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/share-your-intention-202307091654/","tags":["📖"],"created":"2024-03-19T18:32:45.626+00:00","updated":"2024-03-08T21:18:31.000+00:00"}
 ---
 
 

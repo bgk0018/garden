@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/delivery-semantics-202405302156/","tags":["📖","♣️/kafka"],"created":"2024-03-19T13:32:56.870-05:00","updated":"2024-06-11T21:18:11.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/delivery-semantics-202405302156/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.870+00:00","updated":"2024-06-12T03:18:11.000+01:00"}
 ---
 
 # Delivery Semantics

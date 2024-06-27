@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/284-awe-dacher-keltner-you-are-not-so-smart-highlights/","title":"284 - Awe - Dacher Keltner","tags":["✂️","🎧"],"created":"2024-03-31T14:14:54.094-05:00","updated":"2024-03-31T14:14:57.532-05:00"}
+{"dg-publish":true,"permalink":"/permanent/284-awe-dacher-keltner-you-are-not-so-smart-highlights/","title":"284 - Awe - Dacher Keltner","tags":["✂️","🎧"],"created":"2024-03-31T20:14:54.094+01:00","updated":"2024-03-31T20:14:57.532+01:00"}
 ---
 
 # 284 - Awe - Dacher Keltner

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-serializer-202405302131/","tags":["📖","♣️/kafka"],"created":"2024-03-19T13:32:56.696-05:00","updated":"2024-06-11T21:07:17.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-serializer-202405302131/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.696+00:00","updated":"2024-06-12T03:07:17.000+01:00"}
 ---
 
 # Message Serializer

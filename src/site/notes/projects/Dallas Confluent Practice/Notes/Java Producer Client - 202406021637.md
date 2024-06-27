@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.909-05:00","updated":"2024-06-13T14:00:23.393-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:24.909+01:00","updated":"2024-06-13T20:00:23.393+01:00"}
 ---
 
 # Java Producer Client

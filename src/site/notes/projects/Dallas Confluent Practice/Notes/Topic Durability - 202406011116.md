@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-durability-202406011116/","tags":["📖","♣️/kafka"],"created":"2024-03-19T13:32:56.550-05:00","updated":"2024-06-13T13:59:04.814-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-durability-202406011116/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.550+00:00","updated":"2024-06-13T19:59:04.814+01:00"}
 ---
 
 # Topic Durability

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-consumer-cli-202406011144/","tags":["📖","♣️/kafka"],"created":"2024-03-31T02:14:47.800-05:00","updated":"2024-06-13T13:44:07.762-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-consumer-cli-202406011144/","tags":["📖","♣️/kafka"],"created":"2024-03-31T08:14:47.800+01:00","updated":"2024-06-13T19:44:07.762+01:00"}
 ---
 
 # Kafka Consumer CLI

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-producer-cli-202406011140/","tags":["📖","♣️/kafka"],"created":"2024-03-31T02:14:47.761-05:00","updated":"2024-06-11T20:55:18.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-producer-cli-202406011140/","tags":["📖","♣️/kafka"],"created":"2024-03-31T08:14:47.761+01:00","updated":"2024-06-12T02:55:18.000+01:00"}
 ---
 
 # Kafka Producer CLI

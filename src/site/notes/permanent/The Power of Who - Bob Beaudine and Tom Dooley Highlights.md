@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-power-of-who-bob-beaudine-and-tom-dooley-highlights/","title":"The Power of Who","tags":["✂️","📚"],"created":"2024-03-19T13:32:23.123-05:00","updated":"2024-03-07T15:35:44.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-power-of-who-bob-beaudine-and-tom-dooley-highlights/","title":"The Power of Who","tags":["✂️","📚"],"created":"2024-03-19T18:32:23.123+00:00","updated":"2024-03-07T21:35:44.000+00:00"}
 ---
 
 # The Power of Who

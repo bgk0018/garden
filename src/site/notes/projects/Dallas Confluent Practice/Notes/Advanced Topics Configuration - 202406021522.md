@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advanced-topics-configuration-202406021522/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.112-05:00","updated":"2024-06-02T15:23:16.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advanced-topics-configuration-202406021522/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:23.112+01:00","updated":"2024-06-02T21:23:16.000+01:00"}
 ---
 
 # Advanced Topics Configuration

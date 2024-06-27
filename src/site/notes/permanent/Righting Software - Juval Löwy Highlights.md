@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/righting-software-juval-loewy-highlights/","title":"Righting Software","tags":["✂️","📚"],"created":"2024-03-19T13:32:23.156-05:00","updated":"2024-03-07T15:35:42.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/righting-software-juval-loewy-highlights/","title":"Righting Software","tags":["✂️","📚"],"created":"2024-03-19T18:32:23.156+00:00","updated":"2024-03-07T21:35:42.000+00:00"}
 ---
 
 # Righting Software

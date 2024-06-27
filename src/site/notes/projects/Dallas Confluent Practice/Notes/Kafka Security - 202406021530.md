@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-security-202406021530/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.477-05:00","updated":"2024-06-12T11:07:07.308-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-security-202406021530/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:23.477+01:00","updated":"2024-06-12T17:07:07.308+01:00"}
 ---
 
 # Kafka Security

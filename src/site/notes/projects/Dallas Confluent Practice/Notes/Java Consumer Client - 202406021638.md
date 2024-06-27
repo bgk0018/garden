@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-consumer-client-202406021638/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.599-05:00","updated":"2024-06-11T21:17:05.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-consumer-client-202406021638/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:24.599+01:00","updated":"2024-06-12T03:17:05.000+01:00"}
 ---
 
 # Java Consumer Client

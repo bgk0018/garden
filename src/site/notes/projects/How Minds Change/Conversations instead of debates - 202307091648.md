@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/conversations-instead-of-debates-202307091648/","tags":["📖"],"created":"2024-03-19T13:32:45.573-05:00","updated":"2024-03-08T15:17:31.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/conversations-instead-of-debates-202307091648/","tags":["📖"],"created":"2024-03-19T18:32:45.573+00:00","updated":"2024-03-08T21:17:31.000+00:00"}
 ---
 
 # Content

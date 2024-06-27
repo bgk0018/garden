@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-topics-cli-202406011123/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.532-05:00","updated":"2024-06-13T13:58:06.033-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-topics-cli-202406011123/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:24.532+01:00","updated":"2024-06-13T19:58:06.033+01:00"}
 ---
 
 # Kafka Topics CLI
