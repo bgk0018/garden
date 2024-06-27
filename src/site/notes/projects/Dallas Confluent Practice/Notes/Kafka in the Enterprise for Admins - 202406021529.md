@@ -54,7 +54,7 @@ If you enable an SSL endpoint in Kafka, what feature of Kafka will be lost?:: Ze
 <!--SR:!2024-06-16,4,270-->
 
 What is not a valid authentication mechanism in Kafka?:: SAML
-<!--SR:!2024-06-15,3,250-->
+<!--SR:!2024-07-05,8,250-->
 
 What is the protocol used by Kafka clients to securely connect to the Confluent REST Proxy?:: HTTPS (SSL/TLS) TLS - but it is still called SSL.
 <!--SR:!2024-06-16,4,270-->

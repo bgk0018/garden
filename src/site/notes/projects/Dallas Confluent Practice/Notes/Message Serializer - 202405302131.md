@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-serializer-202405302131/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.696+00:00","updated":"2024-06-12T03:07:17.000+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-serializer-202405302131/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.696+00:00","updated":"2024-06-27T22:25:24.686+01:00"}
 ---
 
 # Message Serializer
@@ -19,8 +19,8 @@ Common Serializers include
 ## Flashcards
 
 Used to transform objects/data into bytes to be sent to a [[projects/Dallas Confluent Practice/Notes/Broker - 202405302214\|Broker]]::: Message Serializer
-<!--SR:!2024-06-21,16,290!2024-06-16,12,270-->
+<!--SR:!2024-09-03,68,310!2024-06-16,12,270-->
 Message serialization is used on what parts of the message:: The value and the key of the message
 <!--SR:!2024-07-04,23,270-->
 Common Apache Kafka Serializers::: JSON, Int, Float, Avro, Protobuf
-<!--SR:!2024-06-19,14,290!2024-06-21,16,290-->
+<!--SR:!2024-08-19,53,310!2024-08-31,65,310-->

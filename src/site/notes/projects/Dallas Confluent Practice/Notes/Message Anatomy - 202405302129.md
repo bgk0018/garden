@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-anatomy-202405302129/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.710+00:00","updated":"2024-06-12T03:22:32.000+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-anatomy-202405302129/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.710+00:00","updated":"2024-06-27T22:16:30.739+01:00"}
 ---
 
 # Message Anatomy
@@ -18,7 +18,7 @@
 ## Flashcards
 
 True/False a Message Key can be null:: true
-<!--SR:!2024-06-21,16,290-->
+<!--SR:!2024-09-02,67,310-->
 True/False a Message Value can be null: true  
 The anatomy of a Topic Message:: a key, a value, compression type, headers, partition plus offset and system or user set timestamp
-<!--SR:!2024-06-17,6,210-->
+<!--SR:!2024-06-30,3,190-->

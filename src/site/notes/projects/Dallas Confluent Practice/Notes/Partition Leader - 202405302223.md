@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/partition-leader-202405302223/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.678+00:00","updated":"2024-06-13T19:44:31.859+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/partition-leader-202405302223/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.678+00:00","updated":"2024-06-27T22:33:16.078+01:00"}
 ---
 
 # Partition Leader
@@ -26,8 +26,8 @@ At any time, only one [[projects/Dallas Confluent Practice/Notes/Broker - 202405
 ## Flashcards
 
 How many [[projects/Dallas Confluent Practice/Notes/Broker - 202405302214\|Brokers]] can be a [[projects/Dallas Confluent Practice/Notes/Partition Leader - 202405302223\|Partition Leader]] for a given [[projects/Dallas Confluent Practice/Notes/Partitions - 202405282258\|Partition]]?:: 1
-<!--SR:!2024-06-18,13,290-->
+<!--SR:!2024-08-18,52,310-->
 [[projects/Dallas Confluent Practice/Notes/Producer - 202405302120\|Producers]] can only send data to:: The [[projects/Dallas Confluent Practice/Notes/Broker - 202405302214\|Broker]] that is the [[projects/Dallas Confluent Practice/Notes/Partition Leader - 202405302223\|Partition Leader]]
-<!--SR:!2024-06-20,9,230-->
+<!--SR:!2024-07-01,4,210-->
 [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumers]] can request data from:: The closest [[projects/Dallas Confluent Practice/Notes/In-sync Replica - 202405302227\|In-sync Replica]] or the [[projects/Dallas Confluent Practice/Notes/Partition Leader - 202405302223\|Partition Leader]]
-<!--SR:!2024-06-14,1,170-->
+<!--SR:!2024-06-28,1,150-->

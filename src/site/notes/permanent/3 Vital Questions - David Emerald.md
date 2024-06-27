@@ -37,9 +37,9 @@
 | [[permanent/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation - 202305280808]]                                                      | Weight: 3  |
 | [[permanent/Theory X - 202304201635\|Theory X - 202304201635]]                                                                                                | Weight: 3  |
 | [[permanent/Theory Y - 202304201637\|Theory Y - 202304201637]]                                                                                                | Weight: 3  |
-| [[permanent/Vital Question 2 - 202304171450\|Vital Question 2 - 202304171450]]                                                                                | Weight: 3  |
-| [[permanent/Vital Question 3 - 202304171451\|Vital Question 3 - 202304171451]]                                                                                | Weight: 3  |
 | [[permanent/Vital Question 1 - 202304171449\|Vital Question 1 - 202304171449]]                                                                                | Weight: 3  |
+| [[permanent/Vital Question 3 - 202304171451\|Vital Question 3 - 202304171451]]                                                                                | Weight: 3  |
+| [[permanent/Vital Question 2 - 202304171450\|Vital Question 2 - 202304171450]]                                                                                | Weight: 3  |
 | [[permanent/Attention - 202304261250\|Attention]]                                                                                                             | Weight: 2  |
 | [[permanent/Dynamic Tension - 202304171455\|Dynamic Tension]]                                                                                                 | Weight: 2  |
 | [[permanent/External Shift - 202306291523\|External Shift - 202306291523]]                                                                                    | Weight: 2  |

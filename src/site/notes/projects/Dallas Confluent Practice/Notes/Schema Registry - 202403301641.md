@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["📖","♣️/kafka"],"created":"2024-03-31T08:14:48.648+01:00","updated":"2024-06-13T19:42:56.997+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["📖","♣️/kafka"],"created":"2024-03-31T08:14:48.648+01:00","updated":"2024-06-27T22:33:43.740+01:00"}
 ---
 
 # Schema Registry
@@ -43,36 +43,36 @@ What isn't a feature of the Confluent schema registry?
 Store avro data
 <!--SR:!2024-06-06,4,270-->
 A consumer application is using KafkaAvroDeserializer to deserialize Avro messages. What happens if message schema is not present in AvroDeserializer local cache?:: Fetches schema from Schema Registry
-<!--SR:!2024-06-20,14,290-->
+<!--SR:!2024-08-22,56,310-->
 
 Using the Confluent Schema Registry, where are Avro schema stored?:: In the `_schemas` topic
-<!--SR:!2024-06-19,6,230-->
+<!--SR:!2024-07-18,21,250-->
 
 What client protocol is supported for the schema registry? (select two)
 - SASL
 - Websocket
 - HTTP
 - HTTPS
-- JDBC  
+- JDBC
 ?
 - HTTP
 - HTTPS
-<!--SR:!2024-06-23,17,290-->
+<!--SR:!2024-09-04,69,310-->
 
 I am producing Avro data on my Kafka cluster that is integrated with the Confluent Schema Registry. After a schema change that is incompatible, I know my data will be rejected. Which component will reject the data?:: The Confluent Schema Registry is your safeguard against incompatible schema changes and will be the component that ensures no breaking schema evolution will be possible. Kafka Brokers do not look at your payload and your payload schema, and therefore will not reject data
-<!--SR:!2024-06-16,11,270-->
+<!--SR:!2024-08-11,45,290-->
 
 When using the Confluent Kafka Distribution, where does the schema registry reside?:: As a separate JVM component. Schema registry is a separate application that provides RESTful interface for storing and retrieving Avro schemas.
 <!--SR:!2024-06-24,13,274-->
 
 In Avro, removing a field that does not have a default is a ==breaking== schema evolution
-<!--SR:!2024-06-25,14,294-->
+<!--SR:!2024-08-24,58,314-->
 
 In Java, Avro SpecificRecords classes are:: automatically generated from an Avro Schema + a Maven / Gradle Plugin. SpecificRecord is created from generated record classes
-<!--SR:!2024-06-17,6,254-->
+<!--SR:!2024-07-17,20,274-->
 
 In Avro, removing or adding a field that has a default is a ==full== schema evolution
-<!--SR:!2024-06-16,4,279-->
+<!--SR:!2024-07-15,18,299-->
 
 Which of the following is not an Avro primitive type?
 - string
@@ -85,5 +85,5 @@ date
 <!--SR:!2024-06-16,4,279-->
 
 In Avro, adding an element to an enum without a default is a ==breaking== schema evolution
-<!--SR:!2024-06-16,4,279-->
+<!--SR:!2024-07-13,16,299-->
 

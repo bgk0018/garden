@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-security-202406021530/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:23.477+01:00","updated":"2024-06-12T17:07:07.308+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-security-202406021530/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:23.477+01:00","updated":"2024-06-27T22:16:56.601+01:00"}
 ---
 
 # Kafka Security
@@ -23,7 +23,7 @@ If you enable an SSL endpoint in Kafka, what feature of Kafka will be lost?:: Ze
 <!--SR:!2024-06-16,4,270-->
 
 What is not a valid authentication mechanism in Kafka?:: SAML
-<!--SR:!2024-06-15,3,250-->
+<!--SR:!2024-07-05,8,250-->
 
 What is the protocol used by Kafka clients to securely connect to the Confluent REST Proxy?:: HTTPS (SSL/TLS) TLS - but it is still called SSL.
 <!--SR:!2024-06-16,4,270-->

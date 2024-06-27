@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/producer-acknowledgement-202405302231/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.635+00:00","updated":"2024-06-06T04:51:08.878+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/producer-acknowledgement-202405302231/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.635+00:00","updated":"2024-06-27T22:25:40.674+01:00"}
 ---
 
 # Producer Acknowledgement
@@ -17,9 +17,9 @@ acks=all: [[projects/Dallas Confluent Practice/Notes/Partition Leader - 20240530
 ## Flashcards
 
 T/F [[projects/Dallas Confluent Practice/Notes/Producer Acknowledgement - 202405302231\|Producer Acknowledgement]] is required:: false, acks=0 requires no acknowledgement
-<!--SR:!2024-06-18,13,290-->
+<!--SR:!2024-08-19,53,310-->
 acks=0::: [[projects/Dallas Confluent Practice/Notes/Producer - 202405302120\|Producer]] won't wait for acknowledgement (possible data loss)
-<!--SR:!2024-06-18,13,290!2024-06-21,16,290-->
+<!--SR:!2024-08-18,52,310!2024-06-21,16,290-->
 acks=1::: [[projects/Dallas Confluent Practice/Notes/Producer - 202405302120\|Producer]] will wait for [[projects/Dallas Confluent Practice/Notes/Partition Leader - 202405302223\|Partition Leader]] acknowledgement
 <!--SR:!2024-06-20,15,290!2024-06-20,15,290-->
 acks=all: [[projects/Dallas Confluent Practice/Notes/Producer - 202405302120\|Producer]] will wait for [[projects/Dallas Confluent Practice/Notes/Partition Leader - 202405302223\|Partition Leader]] and [[projects/Dallas Confluent Practice/Notes/In-sync Replica - 202405302227\|In-sync Replica]] acknowledgement (Out of sync replicas are not waited on)

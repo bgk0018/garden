@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-groups-202405302143/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.876+00:00","updated":"2024-06-17T15:24:16.506+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-groups-202405302143/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.876+00:00","updated":"2024-06-27T22:43:10.251+01:00"}
 ---
 
 # Consumer Groups
@@ -33,14 +33,14 @@ Each [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consume
 [[projects/Dallas Confluent Practice/Notes/Partitions - 202405282258\|Partition]] count limits what in a [[projects/Dallas Confluent Practice/Notes/Consumer Groups - 202405302143\|Consumer Groups]]:: the number of active [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumers]]
 <!--SR:!2024-06-18,13,290-->
 True/false it is acceptable for multiple [[projects/Dallas Confluent Practice/Notes/Consumer Groups - 202405302143\|Consumer Groups]] to read from the same [[projects/Dallas Confluent Practice/Notes/Topics - 202405282249\|Topic]] [[projects/Dallas Confluent Practice/Notes/Partitions - 202405282258\|Partitions]]:: true
-<!--SR:!2024-06-22,17,290-->
+<!--SR:!2024-09-07,72,310-->
 [[projects/Dallas Confluent Practice/Notes/Consumer Groups - 202405302143\|Consumer Groups]] are uniquely identified by::: `group.id`
-<!--SR:!2024-06-22,17,290!2024-06-19,14,290-->
+<!--SR:!2024-09-07,72,310!2024-08-23,57,310-->
 A topic receives all the orders for the products that are available on a commerce site. Two applications want to process all the messages independently - order fulfilment and monitoring. The topic has 4 partitions, how would you organise the consumers for optimal performance and resource usage?:: Create two consumer groups for two applications with 4 consumers in each
-<!--SR:!2024-06-20,13,280-->
+<!--SR:!2024-08-19,53,300-->
 
 There are two consumers C1 and C2 belonging to the same group G subscribed to topics T1 and T2. Each of the topics has 3 partitions. How will the partitions be assigned to consumers with PartitionAssignor being RoundRobinAssignor?:: C1 will be assigned partitions 0 and 2 from T1 and partition 1 from T2. C2 will have partition 1 from T1 and partitions 0 and 2 from T2.
-<!--SR:!2024-06-24,18,300-->
+<!--SR:!2024-09-09,74,320-->
 
 Which actions will trigger partition rebalance for a consumer group? (select three)
 - A consumer in a consumer group shuts down
@@ -56,7 +56,7 @@ Rebalance occurs when a new consumer is added, removed or consumer dies or parit
 <!--SR:!2024-06-27,16,309-->
 
 Two consumers share the same group.id (consumer group id). Each consumer will:: Read all the data on mutual exclusive partitions
-<!--SR:!2024-06-16,4,294-->
+<!--SR:!2024-07-14,17,314-->
 
 You have a consumer group of 12 consumers and when a consumer gets killed by the process management system, rather abruptly, it does not trigger a graceful shutdown of your consumer. Therefore, it takes up to 10 seconds for a rebalance to happen. The business would like to have a 3 seconds rebalance time. What should you do? (select two)
 - Decrease session.timeout.ms
@@ -69,4 +69,4 @@ You have a consumer group of 12 consumers and when a consumer gets killed by the
 - Decrease session.timeout.ms
 - Decrease heartbeat.interval.ms
 session.timeout.ms must be decreased to 3 seconds to allow for a faster rebalance, and the heartbeat thread must be quicker, so we also need to decrease heartbeat.interval.ms
-<!--SR:!2024-06-17,4,274-->
+<!--SR:!2024-06-29,2,254-->

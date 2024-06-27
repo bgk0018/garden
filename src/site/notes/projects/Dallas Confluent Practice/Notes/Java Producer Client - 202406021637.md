@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:24.909+01:00","updated":"2024-06-13T20:00:23.393+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:24.909+01:00","updated":"2024-06-27T22:44:53.885+01:00"}
 ---
 
 # Java Producer Client
@@ -16,14 +16,14 @@ Which of the following errors are retriable from a producer perspective? (select
 - TOPIC_AUTHORIZATION_FAILED
 - MESSAGE_TOO_LARGE
 - NOT_LEADER_FOR_PARTITION
-- NOT_ENOUGH_REPLICAS  
+- NOT_ENOUGH_REPLICAS
 ?
 - NOT_LEADER_FOR_PARTITION
 - NOT_ENOUGH_REPLICAS
-<!--SR:!2024-06-22,16,290-->
+<!--SR:!2024-08-31,65,310-->
 
 What is returned by a producer.send() call in the Java API?:: `Future<RecordMetadata>` object
-<!--SR:!2024-06-19,6,232-->
+<!--SR:!2024-07-20,23,252-->
 
 When is the onCompletion() method called?
 ```java
@@ -42,7 +42,7 @@ private class ProducerCallback implements Callback {
 ```
 ?
 When the broker response is received, Callback is invoked when a broker response is received.
-<!--SR:!2024-06-27,16,292-->
+<!--SR:!2024-09-03,68,312-->
 
 Which of the following is true regarding thread safety in the Java Kafka Clients?
 - One Consumer needs to run in one thread
@@ -73,7 +73,7 @@ ProducerRecord<String, String> record =
 - SerializationException
 - BufferExhaustedException
 These are the client side exceptions that may be encountered before message is sent to the broker, and before a future is returned by the .send() method.
-<!--SR:!2024-06-16,3,254-->
+<!--SR:!2024-07-10,13,274-->
 
 The BufferedExhaustedException in the context of the Java Producer Client library for Apache Kafka is an exception that can be thrown when the producer is unable to send messages due to the internal buffer being full. This typically happens when the producer is producing messages faster than Kafka brokers can handle them, or when there are network or broker issues causing a delay in the acknowledgement of messages.
 <!--SR:!2024-06-13,1,234-->

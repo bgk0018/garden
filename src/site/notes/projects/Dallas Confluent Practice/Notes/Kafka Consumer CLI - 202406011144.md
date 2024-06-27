@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-consumer-cli-202406011144/","tags":["📖","♣️/kafka"],"created":"2024-03-31T08:14:47.800+01:00","updated":"2024-06-13T19:44:07.762+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-consumer-cli-202406011144/","tags":["📖","♣️/kafka"],"created":"2024-03-31T08:14:47.800+01:00","updated":"2024-06-27T22:20:05.091+01:00"}
 ---
 
 # Kafka Consumer CLI
@@ -14,7 +14,7 @@ The Kafka console consumer CLI, kafka-console-consumer is used to read data from
 ## Flashcards
 
 From the CLI, consume all people messages from the beginning:: `kafka-console-consumer --bootstrap-server localhost:9092 --topic people --from-beginning`
-<!--SR:!2024-06-16,12,270-->
+<!--SR:!2024-08-10,44,290-->
 
 From the CLI, consume all pet messages and print the key of messages from the beginning:: `kafka-console-consumer --bootstrap-server localhost:9092 --topic pets --from-beginning --property print.key=true`
 <!--SR:!2024-07-05,24,270-->
@@ -29,4 +29,4 @@ The kafka-console-consumer CLI, when used with the default options uses a ==rand
 <!--SR:!2024-06-26,15,296-->
 
 Which Kafka CLI should you use to consume from a topic?:: kafka-console-consumer
-<!--SR:!2024-06-25,14,296-->
+<!--SR:!2024-08-20,54,316-->

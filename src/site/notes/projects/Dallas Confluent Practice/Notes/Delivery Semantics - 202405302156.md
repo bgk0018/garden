@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/delivery-semantics-202405302156/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.870+00:00","updated":"2024-06-12T03:18:11.000+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/delivery-semantics-202405302156/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.870+00:00","updated":"2024-06-27T22:32:27.788+01:00"}
 ---
 
 # Delivery Semantics
@@ -79,7 +79,7 @@ This is a [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405
 ## Flashcards
 
 What are the 3 different ways [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumers]] handle message delivery?:: Atleast once, at most once, exactly once
-<!--SR:!2024-06-22,17,290-->
+<!--SR:!2024-09-04,69,310-->
 
 ```
 while (true) {
@@ -102,4 +102,4 @@ while (true) {
 What kind of delivery guarantee this consumer offers?
 ?
 At-most-once. Here offset is committed before processing the message. If consumer crashes before processing the message, message will be lost when it comes back up.
-<!--SR:!2024-06-26,15,294-->
+<!--SR:!2024-08-26,60,314-->
