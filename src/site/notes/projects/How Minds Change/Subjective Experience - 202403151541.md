@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/subjective-experience-202403151541/","tags":["📖"],"created":"2024-03-19T18:30:41.045+00:00","updated":"2024-03-18T16:38:56.000+00:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/subjective-experience-202403151541/","tags":["📖"],"created":"2024-03-19T13:30:41.045-05:00","updated":"2024-03-18T11:38:56.000-05:00"}
 ---
 
 # Subjective Experience

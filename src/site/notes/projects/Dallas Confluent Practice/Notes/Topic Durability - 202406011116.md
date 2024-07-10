@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-durability-202406011116/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.550+00:00","updated":"2024-06-27T22:22:55.904+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-durability-202406011116/","tags":["📖","♣️/kafka"],"created":"2024-03-19T13:32:56.550-05:00","updated":"2024-07-09T17:22:17.571-05:00"}
 ---
 
 # Topic Durability
@@ -22,4 +22,4 @@ As a rule, for a replication factor of N, you can permanently lose up to N-1 [[p
 - [[Log Retention\|Log Retention]]
 - [[Unclean Leader Election\|Unclean Leader Election]]
 - [[Replication Throttling\|Replication Throttling]]
-<!--SR:!2024-06-28,1,130-->
+<!--SR:!2024-07-10,1,130-->

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-unhappy-voters-who-could-swing-the-election-the-daily-highlights/","title":"The Unhappy Voters Who Could Swing the Election","tags":["✂️","🎧"],"created":"2024-03-09T23:57:29.666+00:00","updated":"2024-03-08T15:37:28.000+00:00"}
+{"dg-publish":true,"permalink":"/permanent/the-unhappy-voters-who-could-swing-the-election-the-daily-highlights/","title":"The Unhappy Voters Who Could Swing the Election","tags":["✂️","🎧"],"created":"2024-03-09T17:57:29.666-06:00","updated":"2024-03-08T09:37:28.000-06:00"}
 ---
 
 # The Unhappy Voters Who Could Swing the Election

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-extended-ap-is-for-developers-202406021528/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:23.231+01:00","updated":"2024-06-03T14:32:00.149+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-extended-ap-is-for-developers-202406021528/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.231-05:00","updated":"2024-06-03T08:32:00.149-05:00"}
 ---
 
 # Kafka Extended APIs for Developers

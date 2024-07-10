@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/k-streams-and-k-tables-simple-operations-stateless-202406021532/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:23.552+01:00","updated":"2024-06-02T21:32:44.000+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/k-streams-and-k-tables-simple-operations-stateless-202406021532/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.552-05:00","updated":"2024-06-02T15:32:44.000-05:00"}
 ---
 
 # KStreams and KTables Simple Operations (Stateless)

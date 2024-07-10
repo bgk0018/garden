@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-offsets-202405302152/","tags":["📖","♣️/kafka"],"created":"2024-03-19T18:32:56.876+00:00","updated":"2024-06-27T22:33:51.417+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-offsets-202405302152/","tags":["📖","♣️/kafka"],"created":"2024-03-19T13:32:56.876-05:00","updated":"2024-07-09T17:08:44.962-05:00"}
 ---
 
 # Consumer Offsets
@@ -21,6 +21,6 @@ If a [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consume
 ## Flashcards
 
 [[projects/Dallas Confluent Practice/Notes/Consumer Offsets - 202405302152\|Consumer Offsets]] are stored::: `__consumer-offsets`
-<!--SR:!2024-06-15,11,270!2024-07-03,22,270-->
+<!--SR:!2024-08-18,40,290!2024-09-29,82,290-->
 True/False, [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumers]] are responsible for committing their [[projects/Dallas Confluent Practice/Notes/Consumer Offsets - 202405302152\|Consumer Offsets]] to the `__consumer_offsets` topic:: false, the [[projects/Dallas Confluent Practice/Notes/Broker - 202405302214\|Broker]] will write to `__consumer_offsets`
 <!--SR:!2024-08-08,42,290-->

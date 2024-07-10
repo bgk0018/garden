@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["📖","♣️/kafka"],"created":"2024-03-31T08:14:48.648+01:00","updated":"2024-06-27T22:33:43.740+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["📖","♣️/kafka"],"created":"2024-03-31T02:14:48.648-05:00","updated":"2024-07-09T17:16:11.621-05:00"}
 ---
 
 # Schema Registry
@@ -63,7 +63,7 @@ I am producing Avro data on my Kafka cluster that is integrated with the Conflue
 <!--SR:!2024-08-11,45,290-->
 
 When using the Confluent Kafka Distribution, where does the schema registry reside?:: As a separate JVM component. Schema registry is a separate application that provides RESTful interface for storing and retrieving Avro schemas.
-<!--SR:!2024-06-24,13,274-->
+<!--SR:!2024-08-27,49,294-->
 
 In Avro, removing a field that does not have a default is a ==breaking== schema evolution
 <!--SR:!2024-08-24,58,314-->
@@ -82,7 +82,7 @@ Which of the following is not an Avro primitive type?
 - null
 ?
 date
-<!--SR:!2024-06-16,4,279-->
+<!--SR:!2024-07-27,18,299-->
 
 In Avro, adding an element to an enum without a default is a ==breaking== schema evolution
 <!--SR:!2024-07-13,16,299-->

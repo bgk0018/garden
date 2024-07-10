@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/inside-the-meltdown-at-cnn-mark-peterson-highlights/","title":"Inside the Meltdown at CNN","tags":["✂️","📰"],"created":"2024-03-19T18:32:20.825+00:00","updated":"2024-03-07T21:35:39.000+00:00"}
+{"dg-publish":true,"permalink":"/permanent/inside-the-meltdown-at-cnn-mark-peterson-highlights/","title":"Inside the Meltdown at CNN","tags":["✂️","📰"],"created":"2024-03-19T13:32:20.825-05:00","updated":"2024-03-07T15:35:39.000-06:00"}
 ---
 
 # Inside the Meltdown at CNN

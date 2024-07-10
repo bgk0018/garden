@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/connecting-on-values-202307191506/","tags":["📖"],"created":"2024-03-19T18:32:44.187+00:00","updated":"2024-03-08T21:17:26.000+00:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/connecting-on-values-202307191506/","tags":["📖"],"created":"2024-03-19T13:32:44.187-05:00","updated":"2024-03-08T15:17:26.000-06:00"}
 ---
 
 # Content

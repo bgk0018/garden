@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/conversations-instead-of-debates-202307091648/","tags":["📖"],"created":"2024-03-19T18:32:45.573+00:00","updated":"2024-03-08T21:17:31.000+00:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/conversations-instead-of-debates-202307091648/","tags":["📖"],"created":"2024-03-19T13:32:45.573-05:00","updated":"2024-03-08T15:17:31.000-06:00"}
 ---
 
 # Content
 
-Debates have winners and losers, and no one wants to be a loser. We must feel [[projects/Dare to Lead/Psychological Safety\|Psychological Safety]] to explore our [[reasoning\|reasoning]], [[motivations\|motivations]], and be [[self-reflective\|self-reflective]].[^1]
+Debates have winners and losers, and no one wants to be a loser. We must feel [[archive/2024/projects/Dare to Lead/Psychological Safety\|Psychological Safety]] to explore our [[reasoning\|reasoning]], [[motivations\|motivations]], and be [[self-reflective\|self-reflective]].[^1]
 
 We should instead invoke the common goal of learning the truth.[^2]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/could-trump-curious-black-voters-swing-the-election-pod-save-america-highlights/","title":"Could Trump-Curious Black Voters Swing the Election?","tags":["✂️","🎧"],"created":"2024-06-11T16:03:45.298+01:00","updated":"2024-06-11T16:03:46.028+01:00"}
+{"dg-publish":true,"permalink":"/permanent/could-trump-curious-black-voters-swing-the-election-pod-save-america-highlights/","title":"Could Trump-Curious Black Voters Swing the Election?","tags":["✂️","🎧"],"created":"2024-06-11T10:03:45.298-05:00","updated":"2024-06-11T10:03:46.028-05:00"}
 ---
 
 # Could Trump-Curious Black Voters Swing the Election?

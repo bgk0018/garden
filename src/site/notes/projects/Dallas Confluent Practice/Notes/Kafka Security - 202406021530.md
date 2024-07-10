@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-security-202406021530/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:23.477+01:00","updated":"2024-06-27T22:16:56.601+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-security-202406021530/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.477-05:00","updated":"2024-07-09T17:19:08.935-05:00"}
 ---
 
 # Kafka Security
@@ -20,10 +20,10 @@ Need to setup
 # Flashcards
 
 If you enable an SSL endpoint in Kafka, what feature of Kafka will be lost?:: Zero copy. With SSL, messages will need to be encrypted and decrypted, by being first loaded into the JVM, so you lose the zero copy optimization.
-<!--SR:!2024-06-16,4,270-->
+<!--SR:!2024-07-25,16,290-->
 
 What is not a valid authentication mechanism in Kafka?:: SAML
-<!--SR:!2024-07-05,8,250-->
+<!--SR:!2024-08-05,27,270-->
 
 What is the protocol used by Kafka clients to securely connect to the Confluent REST Proxy?:: HTTPS (SSL/TLS) TLS - but it is still called SSL.
-<!--SR:!2024-06-16,4,270-->
+<!--SR:!2024-07-23,14,290-->

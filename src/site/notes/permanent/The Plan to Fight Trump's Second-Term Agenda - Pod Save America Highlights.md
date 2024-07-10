@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-plan-to-fight-trump-s-second-term-agenda-pod-save-america-highlights/","title":"The Plan to Fight Trump's Second-Term Agenda","tags":["✂️","🎧"],"created":"2024-06-24T22:36:12.513+01:00","updated":"2024-06-23T08:52:21.000+01:00"}
+{"dg-publish":true,"permalink":"/permanent/the-plan-to-fight-trump-s-second-term-agenda-pod-save-america-highlights/","title":"The Plan to Fight Trump's Second-Term Agenda","tags":["✂️","🎧"],"created":"2024-06-24T16:36:12.513-05:00","updated":"2024-06-23T02:52:21.000-05:00"}
 ---
 
 # The Plan to Fight Trump's Second-Term Agenda
