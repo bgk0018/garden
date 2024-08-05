@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-topics-cli-202406011123/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.532-05:00","updated":"2024-07-09T17:21:58.221-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-topics-cli-202406011123/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.532-05:00","updated":"2024-07-15T21:33:43.564-05:00"}
 ---
 
 # Kafka Topics CLI
@@ -16,7 +16,7 @@ From the CLI, create people topic with 3 paritions and replication factor of 1::
 <!--SR:!2024-09-26,79,290-->
 
 From the CLI, list topics:: `kafka-topics --bootstrap-server localhost:9092 --list`
-<!--SR:!2024-07-15,6,250-->
+<!--SR:!2024-07-18,3,230-->
 
 From the CLI, describe people topic:: `kafka-topic --bootstrap-server localhost:9092 --describe --topic people`
 <!--SR:!2024-09-17,70,310-->
@@ -25,10 +25,10 @@ From the CLI, create a topic people.promotions with configuration compact clean 
 <!--SR:!2024-08-06,28,230-->
 
 How will you find out all the partitions where one or more of the replicas for the partition are not in-sync with the leader?:: `kafka-topics.sh --zookeeper localhost:2181 --describe --under-replicated-partitions`
-<!--SR:!2024-07-11,2,150-->
+<!--SR:!2024-07-16,1,130-->
 
 How will you find out all the unavailable partitions?:: `kafka-topics.sh --zookeeper localhost:2181 --describe --unavailable-partitions` Please note that as of Kafka 2.2, the --zookeeper option is deprecated and you can now use: `kafka-topics.sh --bootstrap-server localhost:9092 --describe --unavailable-partitions`
-<!--SR:!2024-07-10,1,130-->
+<!--SR:!2024-07-19,4,170-->
 
 
 

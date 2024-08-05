@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-rest-proxy-202406021526/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.865-05:00","updated":"2024-06-27T16:24:25.793-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-rest-proxy-202406021526/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.865-05:00","updated":"2024-07-15T21:22:49.223-05:00"}
 ---
 
 # Confluent REST Proxy
@@ -41,4 +41,4 @@ What data format isn't natively available with the Confluent REST Proxy?:: Proto
 <!--SR:!2024-08-30,64,312-->
 
 If I want to send binary data through the REST proxy, it needs to be base64 encoded. Which component needs to encode the binary data into base 64?:: The Producer. The REST Proxy requires to receive data over REST that is already base64 encoded, hence it is the responsibility of the producer
-<!--SR:!2024-07-14,17,299-->
+<!--SR:!2024-09-22,69,319-->

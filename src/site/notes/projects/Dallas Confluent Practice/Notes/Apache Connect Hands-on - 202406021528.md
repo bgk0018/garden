@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/apache-connect-hands-on-202406021528/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:23.622+01:00","updated":"2024-06-03T14:32:00.189+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/apache-connect-hands-on-202406021528/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.622-05:00","updated":"2024-06-03T08:32:00.189-05:00"}
 ---
 
 # Kafka Connect Hands-on

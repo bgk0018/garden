@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["📖","♣️/kafka"],"created":"2024-06-03T14:22:24.909+01:00","updated":"2024-06-27T22:44:53.885+01:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.909-05:00","updated":"2024-07-15T22:42:50.909-05:00"}
 ---
 
 # Java Producer Client
@@ -53,10 +53,10 @@ Which of the following is true regarding thread safety in the Java Kafka Clients
 - One Consumer needs to run in one thread
 - One Producer can be safely used in multiple threads
 KafkaConsumer is not thread-safe, KafkaProducer is thread safe.
-<!--SR:!2024-06-16,4,274-->
+<!--SR:!2024-07-26,17,294-->
 
 What's is true about Kafka brokers and clients from version 0.10.2 onwards?:: A newer client can talk to a newer broker, and an older client can talk to a newer broker. Kafka's new bidirectional client compatibility introduced in 0.10.2 allows this.
-<!--SR:!2024-06-16,3,254-->
+<!--SR:!2024-07-20,8,254-->
 
 
 What exceptions may be caught by the following producer? (select two)
@@ -73,7 +73,15 @@ ProducerRecord<String, String> record =
 - SerializationException
 - BufferExhaustedException
 These are the client side exceptions that may be encountered before message is sent to the broker, and before a future is returned by the .send() method.
-<!--SR:!2024-07-10,13,274-->
+<!--SR:!2024-08-30,49,294-->
 
 The BufferedExhaustedException in the context of the Java Producer Client library for Apache Kafka is an exception that can be thrown when the producer is unable to send messages due to the internal buffer being full. This typically happens when the producer is producing messages faster than Kafka brokers can handle them, or when there are network or broker issues causing a delay in the acknowledgement of messages.
 <!--SR:!2024-06-13,1,234-->
+
+If you want to modify the behavior of your producer without modifying the code, you should use:: `ProducerInterceptor`
+<!--SR:!2024-07-19,4,286-->
+
+`ProducerInterceptor` has what 2 methods?
+?
+- `ProducerRecord<K,V> onSend(ProducerRecord<K, V> record)` Called before the produced record is sent to kafka, can modify the Records being produced
+- `void onAcknowledgement(RecordMetadata metadata, Exception exception)` This methold will be called if and when Kafka responds with an acknowledge for a send. You cannot modify the response

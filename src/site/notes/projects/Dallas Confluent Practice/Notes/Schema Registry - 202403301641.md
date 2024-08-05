@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["📖","♣️/kafka"],"created":"2024-03-31T02:14:48.648-05:00","updated":"2024-07-09T17:16:11.621-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["📖","♣️/kafka"],"created":"2024-03-31T02:14:48.648-05:00","updated":"2024-07-15T21:29:18.636-05:00"}
 ---
 
 # Schema Registry
@@ -72,7 +72,7 @@ In Java, Avro SpecificRecords classes are:: automatically generated from an Avro
 <!--SR:!2024-07-17,20,274-->
 
 In Avro, removing or adding a field that has a default is a ==full== schema evolution
-<!--SR:!2024-07-15,18,299-->
+<!--SR:!2024-09-29,76,319-->
 
 Which of the following is not an Avro primitive type?
 - string
@@ -85,5 +85,5 @@ date
 <!--SR:!2024-07-27,18,299-->
 
 In Avro, adding an element to an enum without a default is a ==breaking== schema evolution
-<!--SR:!2024-07-13,16,299-->
+<!--SR:!2024-09-19,68,319-->
 
