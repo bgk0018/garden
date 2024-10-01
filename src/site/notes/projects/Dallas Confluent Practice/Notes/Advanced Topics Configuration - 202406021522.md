@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advanced-topics-configuration-202406021522/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.112-05:00","updated":"2024-08-05T09:31:46.539-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advanced-topics-configuration-202406021522/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.160-05:00","updated":"2024-08-05T09:31:46.000-05:00"}
 ---
 
 # Advanced Topics Configuration
@@ -75,11 +75,11 @@ This allows you to control the size of data on disk and limits maintenance work 
 	- Max size in Bytes for each partition 
 	- useful to keep the size of a log under a threshold
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330175918393.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330175918393.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330175918393.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330175918393.webp)
 
 ## Log Compaction Theory
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330180109019.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330180109019.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330180109019.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330180109019.webp)
 
 - Any consumer that is reading from the tail of a log (current data) will still see all the messages sent to the topic
 - Ordering of messages is kept, log compaction only removes some messages, but does not re-order them
@@ -102,7 +102,7 @@ Mythbusting:
 > You can't trigger log compaction using an api call currently
 
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330180532927.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330180532927.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330180532927.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330180532927.webp)
 
 ## Unclean Leader Election
 
@@ -126,7 +126,7 @@ Basically what this says if if your In Sync Replicas go offline and have out of 
 	- Consumer: `max.partition.fetch.bytes`
 	- Producer: `max.request.size`
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330181341202.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330181341202.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330181341202.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330181341202.webp)
 
 # References
 

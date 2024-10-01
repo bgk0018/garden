@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advertised-listeners-202406021523/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.213-05:00","updated":"2024-06-02T15:28:37.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advertised-listeners-202406021523/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.677-05:00","updated":"2024-06-02T15:28:37.000-05:00"}
 ---
 
 # Advertised Listeners
@@ -197,9 +197,9 @@ Default Partition and Sticky Partitioner
 	- The Schema Registry must be able to reject bad data before sent to Kafka
 	- Supports Avro, Protobuf and JSON
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330170029132.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330170029132.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330170029132.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330170029132.webp)
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330170119062.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330170119062.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330170119062.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330170119062.webp)
 
 Gotchas:
 - Needs to be highly available
@@ -212,7 +212,7 @@ Schema changes are versioned (v1, v2, etc.)
 You can also assign default values for new properties as the schemas evolve.
 
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330170923135.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330170923135.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330170923135.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330170923135.webp)
 
 - Known data source use kafka connect source or sink depending on data flow
 - Use Producer to collect directly from the source

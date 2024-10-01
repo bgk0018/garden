@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/in-sync-replica-202405302227/","tags":["📖","♣️/kafka"],"created":"2024-03-19T13:32:56.765-05:00","updated":"2024-07-09T17:10:29.519-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/in-sync-replica-202405302227/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:41:19.155-05:00","updated":"2024-07-09T17:10:29.000-05:00"}
 ---
 
 # In-sync Replica

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-in-the-enterprise-for-admins-202406021529/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.273-05:00","updated":"2024-06-03T08:32:00.163-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-in-the-enterprise-for-admins-202406021529/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.887-05:00","updated":"2024-06-03T08:32:00.000-05:00"}
 ---
 
 # Kafka in the Enterprise for Admins
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330172205211.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330172205211.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330172205211.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330172205211.webp)
 
 ## Monitoring and Operations
 
@@ -40,10 +40,10 @@ Need to setup
 - Authorization
 - Encryption
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330173015032.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330173015032.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330173015032.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330173015032.webp)
 
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330173051955.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330173051955.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330173051955.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330173051955.webp)
 
 # References
 
@@ -88,7 +88,7 @@ Replication: Active/Active, or Active/Passive (readonly)
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/event-driven-architecture-is-an-integration-model-built-around-the-publication-capture-processing-and-storage-of-application-or-service-events-ibm-com-highlights/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/event-driven-architecture-is-an-integration-model-built-around-the-publication-capture-processing-and-storage-of-application-or-service-events-ibm-com-highlights/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-consumer-client-202406021638/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.599-05:00","updated":"2024-07-15T22:43:32.446-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-consumer-client-202406021638/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.192-05:00","updated":"2024-08-06T08:39:38.000-05:00"}
 ---
 
 # Java Consumer Client
@@ -43,7 +43,7 @@ When shutting down your consumer and calling `consumer.wakeUp()` you should also
 <!--SR:!2024-07-19,4,284-->
 
 If you want to start reading all messages from the beginning of the partition:: `seekToBeginning(Collection<TopicPartition> tp)`
-<!--SR:!2024-07-19,4,284-->
+<!--SR:!2024-08-08,2,264-->
 
 If you want to start reading all messages from the end of the partition and only consume new messages:: `seekToBeginning(Collection<TopicPartition> tp)`
 <!--SR:!2024-07-19,4,284-->

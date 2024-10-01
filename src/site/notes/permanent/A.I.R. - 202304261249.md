@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/a-i-r-202304261249/","tags":["📖"],"created":"2024-03-19T13:32:54.766-05:00","updated":"2024-03-07T15:35:35.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/a-i-r-202304261249/","tags":["📖"],"created":"2024-08-29T16:41:14.630-05:00","updated":"2024-09-10T19:17:47.761-05:00"}
 ---
 
 # A.I.R.
@@ -12,7 +12,7 @@ An acronym that stands for the three major distinctions between [[permanent/Prob
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/3-vital-questions-david-emerald-highlights/#ref-518217217" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217217" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

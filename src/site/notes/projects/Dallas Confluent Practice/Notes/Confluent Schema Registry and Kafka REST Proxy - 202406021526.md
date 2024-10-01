@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-schema-registry-and-kafka-rest-proxy-202406021526/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.152-05:00","updated":"2024-06-03T08:32:00.133-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-schema-registry-and-kafka-rest-proxy-202406021526/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.731-05:00","updated":"2024-06-03T08:32:00.000-05:00"}
 ---
 
 # Confluent Schema Registry and Kafka REST Proxy

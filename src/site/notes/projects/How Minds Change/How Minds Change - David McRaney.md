@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney/","title":"How Minds Change","tags":["📕"],"created":"2024-03-19T13:32:44.187-05:00","updated":"2024-04-02T18:13:34.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney/","title":"How Minds Change","tags":["📕"],"created":"2024-08-29T16:41:00.977-05:00","updated":"2024-04-02T18:13:34.000-05:00"}
 ---
 
 
@@ -32,8 +32,8 @@
 | [[projects/How Minds Change/Punctuated Equilibrium - 202307012224\|Punctuated Equilibrium - 202307012224]]                                                 | Weight: 0 |
 | [[projects/How Minds Change/Radical Hospitality - 202307091704\|Radical Hospitality - 202307091704]]                                                       | Weight: 0 |
 | [[projects/How Minds Change/Self-persuasion - 202307091729\|Self-persuasion - 202307091729]]                                                               | Weight: 0 |
-| [[projects/How Minds Change/Share your intention - 202307091654\|Share your intention - 202307091654]]                                                     | Weight: 0 |
 | [[projects/How Minds Change/Subjective Experience - 202403151541\|Subjective Experience - 202403151541]]                                                   | Weight: 0 |
+| [[projects/How Minds Change/Share your intention - 202307091654\|Share your intention - 202307091654]]                                                     | Weight: 0 |
 | [[projects/How Minds Change/The brain sacrifices accuracy for speed - 202307131632\|The brain sacrifices accuracy for speed - 202307131632]]               | Weight: 0 |
 
 { .block-language-dataview}

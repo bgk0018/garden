@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-connect-source-202406022136/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.950-05:00","updated":"2024-06-27T15:55:09.530-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-connect-source-202406022136/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.092-05:00","updated":"2024-06-27T15:55:09.000-05:00"}
 ---
 
 # Kafka Connect Source

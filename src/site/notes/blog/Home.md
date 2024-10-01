@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/home/","tags":["gardenEntry"],"created":"2024-03-19T13:32:34.345-05:00","updated":"2024-03-07T15:35:32.000-06:00"}
+{"dg-publish":true,"permalink":"/blog/home/","tags":["gardenEntry"],"created":"2024-08-29T16:40:39.661-05:00","updated":"2024-09-22T11:20:37.000-05:00"}
 ---
 
 # Welcome!
@@ -23,4 +23,4 @@ On the left, you should see a few folders.
 
 You can start literally anywhere but here's a table of interesting entry points:
 
-- [[permanent/Highlights\|Media Highlights]]
+- [[blog/Highlights\|Media Highlights]]

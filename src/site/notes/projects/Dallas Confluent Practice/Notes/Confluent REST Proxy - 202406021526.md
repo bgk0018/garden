@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-rest-proxy-202406021526/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.865-05:00","updated":"2024-07-15T21:22:49.223-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-rest-proxy-202406021526/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.132-05:00","updated":"2024-07-15T21:22:49.000-05:00"}
 ---
 
 # Confluent REST Proxy

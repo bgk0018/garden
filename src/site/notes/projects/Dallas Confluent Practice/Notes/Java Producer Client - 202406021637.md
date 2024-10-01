@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:24.909-05:00","updated":"2024-07-15T22:42:50.909-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.172-05:00","updated":"2024-08-06T08:34:36.000-05:00"}
 ---
 
 # Java Producer Client
@@ -53,7 +53,7 @@ Which of the following is true regarding thread safety in the Java Kafka Clients
 - One Consumer needs to run in one thread
 - One Producer can be safely used in multiple threads
 KafkaConsumer is not thread-safe, KafkaProducer is thread safe.
-<!--SR:!2024-07-26,17,294-->
+<!--SR:!2024-10-13,68,314-->
 
 What's is true about Kafka brokers and clients from version 0.10.2 onwards?:: A newer client can talk to a newer broker, and an older client can talk to a newer broker. Kafka's new bidirectional client compatibility introduced in 0.10.2 allows this.
 <!--SR:!2024-07-20,8,254-->

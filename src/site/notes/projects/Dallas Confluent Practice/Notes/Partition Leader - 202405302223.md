@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/partition-leader-202405302223/","tags":["📖","♣️/kafka"],"created":"2024-03-19T13:32:56.678-05:00","updated":"2024-07-15T21:28:17.332-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/partition-leader-202405302223/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:41:19.200-05:00","updated":"2024-07-15T21:28:17.000-05:00"}
 ---
 
 # Partition Leader

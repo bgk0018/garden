@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-offsets-202405302152/","tags":["📖","♣️/kafka"],"created":"2024-03-19T13:32:56.876-05:00","updated":"2024-07-09T17:08:44.962-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-offsets-202405302152/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:41:19.171-05:00","updated":"2024-07-09T17:08:44.000-05:00"}
 ---
 
 # Consumer Offsets

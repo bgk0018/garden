@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/apache-connect-hands-on-202406021528/","tags":["📖","♣️/kafka"],"created":"2024-06-03T08:22:23.622-05:00","updated":"2024-06-03T08:32:00.189-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/apache-connect-hands-on-202406021528/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.669-05:00","updated":"2024-06-03T08:32:00.000-05:00"}
 ---
 
 # Kafka Connect Hands-on
@@ -12,7 +12,7 @@ Kafka Connect are a series of connectors that someone else has written for very 
 
 ## Kafka Connect Architecture
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240421093804909.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240421093804909.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240421093804909.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240421093804909.webp)
 
 ## Kafka Connect Concepts
 
@@ -37,7 +37,7 @@ Kafka Connect are a series of connectors that someone else has written for very 
 	- Easy to scale and fault tolerant
 	- Useful for production deployment of connectors
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240421094600531.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240421094600531.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240421094600531.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240421094600531.webp)
 
 Connect Cluster will do automatic rebalancing for Connector Tasks if a worker (typically a server) goes down
 

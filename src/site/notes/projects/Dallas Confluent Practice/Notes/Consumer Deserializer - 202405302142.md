@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-deserializer-202405302142/","tags":["📖","♣️/kafka"],"created":"2024-03-19T13:32:56.885-05:00","updated":"2024-07-09T16:56:22.277-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-deserializer-202405302142/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:41:19.171-05:00","updated":"2024-07-09T16:56:22.000-05:00"}
 ---
 
 # Consumer Deserializer

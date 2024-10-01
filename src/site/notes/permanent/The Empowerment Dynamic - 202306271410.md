@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-empowerment-dynamic-202306271410/","tags":["📖"],"created":"2024-03-19T13:32:45.274-05:00","updated":"2024-03-07T15:35:43.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/the-empowerment-dynamic-202306271410/","tags":["📖"],"created":"2024-08-29T16:41:08.275-05:00","updated":"2024-03-07T15:35:43.000-06:00"}
 ---
 
 

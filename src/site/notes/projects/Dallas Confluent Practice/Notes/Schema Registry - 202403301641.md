@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["📖","♣️/kafka"],"created":"2024-03-31T02:14:48.648-05:00","updated":"2024-07-15T21:29:18.636-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:59.810-05:00","updated":"2024-09-18T14:13:59.666-05:00"}
 ---
 
 # Schema Registry
 
-Helps with schema problems in [[Kafka\|Kafka]]
+Helps with schema problems in [[areas/Apache Kafka\|Apache Kafka]]
 
 First local cache is checked for the message schema. In case of cache miss, schema is pulled from the schema registry. An exception will be thrown in the Schema Registry does not have the schema (which should never happen if you set it up properly)
 
@@ -22,13 +22,13 @@ First local cache is checked for the message schema. In case of cache miss, sche
 - Kafka distributes bytes, would require deserialization
 - Would lose performance overall
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240406180923577.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240406180923577.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240406180923577.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240406180923577.webp)
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330164342140.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330164342140.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330164342140.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330164342140.webp)
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330165312505.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330165312505.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330165312505.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330165312505.webp)
 
-![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330165732173.webp](/img/user/assets/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330165732173.webp)
+![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330165732173.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330165732173.webp)
 
 # References
 
@@ -39,11 +39,11 @@ What isn't a feature of the Confluent schema registry?
 - Store avro data
 - Enforce compatibility rules
 - Store schemas  
-?  
+?
 Store avro data
-<!--SR:!2024-06-06,4,270-->
+
 A consumer application is using KafkaAvroDeserializer to deserialize Avro messages. What happens if message schema is not present in AvroDeserializer local cache?:: Fetches schema from Schema Registry
-<!--SR:!2024-08-22,56,310-->
+<!--SR:!2024-06-06,4,270-->
 
 Using the Confluent Schema Registry, where are Avro schema stored?:: In the `_schemas` topic
 <!--SR:!2024-07-18,21,250-->
