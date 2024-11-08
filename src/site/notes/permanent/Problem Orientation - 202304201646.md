@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/problem-orientation-202304201646/","tags":["📖"],"created":"2024-08-29T16:41:19.688-05:00","updated":"2024-03-28T12:14:51.000-05:00"}
+{"dg-publish":true,"permalink":"/permanent/problem-orientation-202304201646/","tags":["📖"],"created":"2024-08-29T16:41:19.688-05:00","updated":"2024-11-08T09:43:56.190-06:00"}
 ---
 
 # Problem Orientation

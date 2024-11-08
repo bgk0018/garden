@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/how-removing-unauthorized-immigrants-from-census-statistics-could-affect-house-reapportionment-jeffrey-s-passel-highlights/","title":"How Removing Unauthorized Immigrants From Census Statistics Could Affect House Reapportionment","tags":["✂️","📰"],"created":"2024-08-29T16:39:01.160-05:00","updated":"2024-04-07T08:11:15.000-05:00"}
+{"dg-publish":true,"permalink":"/reference/how-removing-unauthorized-immigrants-from-census-statistics-could-affect-house-reapportionment-jeffrey-s-passel-highlights/","title":"How Removing Unauthorized Immigrants From Census Statistics Could Affect House Reapportionment","tags":["✂️"],"created":"2024-08-29T16:39:01.160-05:00","updated":"2024-11-08T09:43:59.875-06:00"}
 ---
 
 # How Removing Unauthorized Immigrants From Census Statistics Could Affect House Reapportionment

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-anatomy-202405302129/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:41:19.232-05:00","updated":"2024-07-15T22:42:16.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-anatomy-202405302129/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:41:19.232-05:00","updated":"2024-11-08T09:43:56.914-06:00"}
 ---
 
 # Message Anatomy

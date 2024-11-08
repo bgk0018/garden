@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-streams-for-data-processing-202406021531/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.072-05:00","updated":"2024-06-13T17:49:53.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-streams-for-data-processing-202406021531/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.072-05:00","updated":"2024-11-08T09:43:56.868-06:00"}
 ---
 
 # Kafka Streams for Data Processing

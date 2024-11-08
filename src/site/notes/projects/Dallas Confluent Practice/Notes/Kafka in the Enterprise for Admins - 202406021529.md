@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-in-the-enterprise-for-admins-202406021529/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.887-05:00","updated":"2024-06-03T08:32:00.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-in-the-enterprise-for-admins-202406021529/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.887-05:00","updated":"2024-11-08T09:43:56.817-06:00"}
 ---
 
 # Kafka in the Enterprise for Admins

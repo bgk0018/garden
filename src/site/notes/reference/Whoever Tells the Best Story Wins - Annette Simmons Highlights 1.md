@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/whoever-tells-the-best-story-wins-annette-simmons-highlights-1/","title":"Whoever Tells the Best Story Wins","tags":["✂️","📚"],"created":"2024-08-29T16:41:03.112-05:00","updated":"2024-09-10T09:11:43.507-05:00"}
+{"dg-publish":true,"permalink":"/reference/whoever-tells-the-best-story-wins-annette-simmons-highlights-1/","title":"Whoever Tells the Best Story Wins","tags":["✂️","📚"],"created":"2024-08-29T16:41:03.112-05:00","updated":"2024-11-08T09:44:00.915-06:00"}
 ---
 
 # Whoever Tells the Best Story Wins

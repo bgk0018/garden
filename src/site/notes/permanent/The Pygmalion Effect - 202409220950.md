@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/the-pygmalion-effect-202409220950/","tags":["📖","♣️"],"created":"2024-08-29T16:42:00.422-05:00","updated":"2024-09-22T09:51:31.000-05:00"}
+{"dg-publish":true,"permalink":"/permanent/the-pygmalion-effect-202409220950/","tags":["📖","♣️"],"created":"2024-08-29T16:42:00.422-05:00","updated":"2024-11-08T09:43:56.277-06:00"}
 ---
 
 # The Pygmalion Effect

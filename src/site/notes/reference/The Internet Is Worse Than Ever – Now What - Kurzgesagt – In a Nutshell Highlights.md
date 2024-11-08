@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-internet-is-worse-than-ever-now-what-kurzgesagt-in-a-nutshell-highlights/","title":"The Internet Is Worse Than Ever – Now What?","tags":["✂️","🎥"],"created":"2024-08-29T16:40:14.854-05:00","updated":"2024-09-08T17:13:54.000-05:00"}
+{"dg-publish":true,"permalink":"/reference/the-internet-is-worse-than-ever-now-what-kurzgesagt-in-a-nutshell-highlights/","title":"The Internet Is Worse Than Ever – Now What?","tags":["✂️","🎥"],"created":"2024-08-29T16:40:14.854-05:00","updated":"2024-11-08T09:44:00.495-06:00"}
 ---
 
 # The Internet Is Worse Than Ever – Now What?

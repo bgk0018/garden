@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-08-29T16:39:01.420-05:00","updated":"2024-06-18T09:08:14.000-05:00"}
+{"dg-publish":true,"permalink":"/reference/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-08-29T16:39:01.420-05:00","updated":"2024-11-08T09:44:00.115-06:00"}
 ---
 
 # On Being Certain

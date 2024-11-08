@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/why-are-stories-stickier-than-statistics-no-stupid-questions-highlights/","title":"Why Are Stories Stickier Than Statistics?","tags":["✂️","🎧"],"created":"2024-09-07T09:48:43.509-05:00","updated":"2024-09-07T21:29:59.000-05:00"}
+{"dg-publish":true,"permalink":"/reference/why-are-stories-stickier-than-statistics-no-stupid-questions-highlights/","title":"Why Are Stories Stickier Than Statistics?","tags":["✂️","🎧"],"created":"2024-09-07T09:48:43.509-05:00","updated":"2024-11-08T09:44:00.994-06:00"}
 ---
 
 # Why Are Stories Stickier Than Statistics?

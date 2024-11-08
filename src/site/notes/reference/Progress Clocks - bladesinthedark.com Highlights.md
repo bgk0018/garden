@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/progress-clocks-bladesinthedark-com-highlights/","title":"Progress Clocks","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.930-05:00","updated":"2024-09-08T18:04:53.000-05:00"}
+{"dg-publish":true,"permalink":"/reference/progress-clocks-bladesinthedark-com-highlights/","title":"Progress Clocks","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.930-05:00","updated":"2024-11-08T09:44:00.160-06:00"}
 ---
 
 # Progress Clocks

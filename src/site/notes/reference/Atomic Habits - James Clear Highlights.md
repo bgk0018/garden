@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/atomic-habits-james-clear-highlights/","title":"Atomic Habits","tags":["✂️","📚"],"created":"2024-08-29T16:40:15.193-05:00","updated":"2024-08-05T09:19:58.000-05:00"}
+{"dg-publish":true,"permalink":"/reference/atomic-habits-james-clear-highlights/","title":"Atomic Habits","tags":["✂️","📚"],"created":"2024-08-29T16:40:15.193-05:00","updated":"2024-11-08T09:43:59.490-06:00"}
 ---
 
 # Atomic Habits

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/outcome-orientation-202304261241/","tags":["📖"],"created":"2024-08-29T16:41:14.646-05:00","updated":"2024-03-28T12:13:34.000-05:00"}
+{"dg-publish":true,"permalink":"/permanent/outcome-orientation-202304261241/","tags":["📖"],"created":"2024-08-29T16:41:14.646-05:00","updated":"2024-11-08T09:43:56.155-06:00"}
 ---
 
 # Outcome Orientation

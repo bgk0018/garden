@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/everybody-outside-of-the-top-is-suffering-how-stress-is-harming-america-s-health-washington-post-highlights/","title":"‘Everybody Outside of the Top Is Suffering’: How Stress Is Harming America’s Health","tags":["✂️","📰"],"created":"2024-08-29T16:39:01.128-05:00","updated":"2024-04-07T08:11:16.000-05:00"}
+{"dg-publish":true,"permalink":"/reference/everybody-outside-of-the-top-is-suffering-how-stress-is-harming-america-s-health-washington-post-highlights/","title":"‘Everybody Outside of the Top Is Suffering’: How Stress Is Harming America’s Health","tags":["✂️","📰"],"created":"2024-08-29T16:39:01.128-05:00","updated":"2024-11-08T09:44:01.030-06:00"}
 ---
 
 # ‘Everybody Outside of the Top Is Suffering’: How Stress Is Harming America’s Health
