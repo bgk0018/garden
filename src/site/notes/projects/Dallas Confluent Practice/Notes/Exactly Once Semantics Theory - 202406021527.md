@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/exactly-once-semantics-theory-202406021527/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.763-05:00","updated":"2024-11-08T09:43:56.691-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/exactly-once-semantics-theory-202406021527/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:54.763-05:00","updated":"2024-11-10T13:37:10.272-06:00"}
 ---
+
 
 # Exactly Once Semantics Theory
 
@@ -15,7 +16,7 @@
 - The producers are now idempotent (If the same message is sent twice or more due to retries, Kafka will make sure to only keep one copy of it)
 - You can write multiple messages to different Kafka topics as part of one transaction (either all are written or none is written)
 
-## What's the problem with At Least Once Semantics anyway?
+## What's the Problem with At Least Once Semantics Anyway?
 
 - Cases when it's not acceptable to have at least once?
 	- Getting the exact count by key for a stream
@@ -27,11 +28,10 @@
 	- Approximate operations
 	- Idempotent operations
 
-## How to do exactly once in Kafka streams?
+## How to Do Exactly Once in Kafka Streams?
 
 - KafkaStreams properties
 
 # References
-
 
 # Flashcards

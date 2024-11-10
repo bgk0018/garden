@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-cli-tool-list-202406022252/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.048-05:00","updated":"2024-06-13T17:49:36.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-cli-tool-list-202406022252/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:55.048-05:00","updated":"2024-11-10T13:39:02.239-06:00"}
 ---
 
-# Kafka CLI Tool List
 
+# Kafka CLI Tool List
 
 Manage Kafka and configure metadata  
 	kafka-server-start.sh  
@@ -56,7 +56,7 @@ Manage security
 	kafka-jmx.sh  
 	trogdor.sh  
 	kafka-run-class.sh
-## References
 
+## References
 
 ## Flashcards

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/getting-things-done-web-archive-southampton-ac-uk-highlights/","title":"“Getting Things Done”","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.766-05:00","updated":"2024-09-24T09:46:21.572-05:00"}
+{"dg-publish":true,"permalink":"/reference/getting-things-done-web-archive-southampton-ac-uk-highlights/","title":"“Getting Things Done”","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.766-05:00","updated":"2024-11-08T09:44:01.035-06:00"}
 ---
 
 # “Getting Things Done”

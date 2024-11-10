@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/zookeeper-setup-202406021533/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.040-05:00","updated":"2024-06-13T17:49:26.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/zookeeper-setup-202406021533/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:55.040-05:00","updated":"2024-11-10T13:52:23.189-06:00"}
 ---
+
 
 kafka # Zookeeper Setup
 
@@ -72,11 +73,11 @@ For Zookeeper
 # Single Zookeeper Machine Setup
 
 You want to:
+
 - Disable RAM Swap
 	- `echo 'vm.swappiness=1 | sudo tee --append /etc/sysctl.conf`
 - Add hosts mapping from hostname to public ips to /etc/hosts
 	- `echo "172.31.9.1 kafka1 (etc) | sudo tee --append /etc/hosts`
-
 
 # Zookeeper Quorum Setup
 
@@ -94,7 +95,7 @@ You want to:
 - `wchs` lists brief information on watches for the server
 - `wchc` Lists detailed information on watches for the server by session
 
-# Factors impacting Zookeeper Performance
+# Factors Impacting Zookeeper Performance
 
 - Latency, low as possible
 - Fask disk is good
@@ -104,6 +105,5 @@ You want to:
 - Isolate zookeeper instances from other processes (3 zookeeper quorum + 3 kafka brokers = 6 servers)
 
 # References
-
 
 # Flashcards

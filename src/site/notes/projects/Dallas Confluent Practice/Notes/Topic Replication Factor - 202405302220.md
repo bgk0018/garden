@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-replication-factor-202405302220/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:41:19.088-05:00","updated":"2024-07-09T16:50:10.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-replication-factor-202405302220/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:41:19.088-05:00","updated":"2024-11-10T13:50:40.027-06:00"}
 ---
+
 
 # Topic Replication Factor
 
@@ -12,16 +13,24 @@ This way if a [[projects/Dallas Confluent Practice/Notes/Broker - 202405302214\|
 
 ## References
 
-
 ## Flashcards
 
 Topic Replication Factor Formula:: Number of Replicas for each Partition
+
 <!--SR:!2024-07-16,19,250-->
+
 The minimum replication factor is:: 1
+
 <!--SR:!2024-08-26,48,310-->
+
 The maximum replication factor is:: The number of brokers in a cluster
+
 <!--SR:!2024-09-05,70,310-->
+
 The recommended replication factor is at least:: 3
+
 <!--SR:!2024-09-01,66,310-->
+
 Kafka's controller assigns replicas in what way:: distributed evenly to ensure load balancing
+
 <!--SR:!2024-08-07,29,290-->

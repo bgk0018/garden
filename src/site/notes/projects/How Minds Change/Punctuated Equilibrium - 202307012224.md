@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/punctuated-equilibrium-202307012224/","tags":["📖"],"created":"2024-08-29T16:41:00.852-05:00","updated":"2024-03-08T15:18:14.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/punctuated-equilibrium-202307012224/","tags":["📖"],"created":"2024-08-29T16:41:00.852-05:00","updated":"2024-11-08T09:43:57.658-06:00"}
 ---
 
 # Content

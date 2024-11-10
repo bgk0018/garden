@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-streams-for-data-processing-202406021531/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.072-05:00","updated":"2024-11-08T09:43:56.868-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-streams-for-data-processing-202406021531/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:55.072-05:00","updated":"2024-11-10T13:42:41.119-06:00"}
 ---
+
 
 # Kafka Streams for Data Processing
 
@@ -16,6 +17,7 @@ What is Kafka Streams?
 ![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240331111226293.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240331111226293.webp)
 
 Kafka Stream vs Spark Streaming, NiFi, Flink?
+
 - Data streaming over micro batch
 - Cluster required for other options besides Kafka Stream
 - Scales easily by just adding java processes
@@ -23,6 +25,5 @@ Kafka Stream vs Spark Streaming, NiFi, Flink?
 - All code-based
 
 # References
-
 
 # Flashcards

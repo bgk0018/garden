@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-evolution-compatibility-matrix-202404101240/","tags":["📖"],"created":"2024-08-29T16:38:59.714-05:00","updated":"2024-04-10T12:40:22.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-evolution-compatibility-matrix-202404101240/","tags":["📖"],"created":"2024-08-29T16:38:59.714-05:00","updated":"2024-11-10T13:47:34.329-06:00"}
 ---
 
-# Schema Evolution Compatibility Matrix
 
+# Schema Evolution Compatibility Matrix
 
 | Compatibility Type    | Changes allowed                                   | Check against which schemas     | Upgrade first |
 | --------------------- | ------------------------------------------------- | ------------------------------- | ------------- |
@@ -16,5 +16,3 @@
 | `NONE`                | - All changes are accepted                        | Compatibility checking disabled | Depends       |
 
 ## References
-
-

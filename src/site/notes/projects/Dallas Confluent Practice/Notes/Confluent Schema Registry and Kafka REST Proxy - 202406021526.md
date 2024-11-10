@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-schema-registry-and-kafka-rest-proxy-202406021526/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.731-05:00","updated":"2024-06-03T08:32:00.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-schema-registry-and-kafka-rest-proxy-202406021526/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:54.731-05:00","updated":"2024-11-10T13:34:18.930-06:00"}
 ---
+
 
 # Confluent Schema Registry and Kafka REST Proxy
 
@@ -11,6 +12,7 @@
 - Decrease payload size
 
 Schema REST Operations:
+
 - Add
 - Retrieve
 - Update
@@ -31,6 +33,7 @@ You can use these and a schema registry reference to leverage the schema registr
 ## Reminder Schema Evolution
 
 Write with Old Schema (v1) --> Read with New Schema (v2) is Backwards compatible
+
 - Less common as all readers need to be updated before producer can change to v2  
 Write with New Schema (v2) --> Read with Old Schema (v1) is Forwards compatible
 - More common as producer can update immediately and consumers can update over time
@@ -41,6 +44,5 @@ Write with New Schema (v2) --> Read with Old Schema (v1) is Forwards compatible
 - You will want high durability and availability for your schema registry so consider creating a high availability cluster for the schema registry as well
 
 # References
-
 
 # Flashcards

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-acknowledgments-202407152115/","tags":["📖","♣️/kafka"],"created":"2024-11-08T08:05:41.295-06:00","updated":"2024-11-08T09:43:56.907-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-acknowledgments-202407152115/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:05:41.295-06:00","updated":"2024-11-10T13:44:28.655-06:00"}
 ---
+
 
 # Message Acknowledgments
 
@@ -33,10 +34,13 @@ The acks setting directly impacts [[projects/Dallas Confluent Practice/Notes/Top
 ## Flashcards
 
 What are the three possible values for producer acks?:: acks=0 (no ack), acks=1 (leader only), acks=all (all replicas)
+
 <!--SR:!2024-07-18,3,250-->
 
 Which acks setting provides the strongest durability guarantee?:: acks=all, especially when combined with min.insync.replicas
+
 <!--SR:!2024-07-19,4,250-->
 
 What is the trade-off when using acks=all?:: Highest durability but also highest latency since we wait for all replicas to acknowledge
+
 <!--SR:!2024-07-20,5,250--> 

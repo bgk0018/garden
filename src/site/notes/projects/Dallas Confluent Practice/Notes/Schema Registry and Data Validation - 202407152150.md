@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-and-data-validation-202407152150/","tags":["📖","♣️/kafka"],"created":"2024-11-08T08:10:03.333-06:00","updated":"2024-11-08T09:43:57.050-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-and-data-validation-202407152150/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:10:03.333-06:00","updated":"2024-11-10T13:48:10.754-06:00"}
 ---
+
 
 # Schema Registry and Data Validation
 
@@ -33,10 +34,13 @@
 ## Flashcards
 
 What happens when KafkaAvroDeserializer can't find schema in local cache?:: Fetches schema from Schema Registry
+
 <!--SR:!2024-07-18,3,250-->
 
 Adding a field without default in Avro is what type of schema evolution?:: Forward compatibility - old consumers can still read new records
+
 <!--SR:!2024-07-19,4,250-->
 
 Which component rejects incompatible schema changes?:: The Schema Registry, before data reaches Kafka brokers
+
 <!--SR:!2024-07-20,5,250--> 

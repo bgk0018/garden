@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/apache-connect-hands-on-202406021528/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.669-05:00","updated":"2024-11-08T09:43:56.550-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/apache-connect-hands-on-202406021528/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:54.669-05:00","updated":"2024-11-10T12:52:53.949-06:00"}
 ---
+
 
 # Kafka Connect Hands-on
 
@@ -22,7 +23,7 @@ Kafka Connect are a series of connectors that someone else has written for very 
 - Connectors + User Configuration = Tasks
 	- A task is linked to a connector configuration
 	- A job configuration may spawn multiple tasks
-- Tasks are executed by  Kafka Connect Workers
+- Tasks are executed by Kafka Connect Workers
 	- A worker is a single java process
 	- A worker can be standalone or in a cluster
 
@@ -42,6 +43,5 @@ Kafka Connect are a series of connectors that someone else has written for very 
 Connect Cluster will do automatic rebalancing for Connector Tasks if a worker (typically a server) goes down
 
 # References
-
 
 # Flashcards

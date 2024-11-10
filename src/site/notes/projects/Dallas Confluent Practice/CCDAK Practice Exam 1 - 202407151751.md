@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/ccdak-practice-exam-1-202407151751/","tags":["♣️/kafka"],"created":"2024-08-29T16:38:00.826-05:00","updated":"2024-08-06T08:39:45.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/ccdak-practice-exam-1-202407151751/","tags":["♣️/kafka"],"created":"2024-08-29T16:38:00.826-05:00","updated":"2024-11-10T12:30:18.669-06:00"}
 ---
 
 # CCDAK Practice Exam 1
@@ -25,8 +25,8 @@ Which class is used to create a Producer in kafka:
 -  KafkaProducer Class
 -  Kafka Class
 -  ConfluentProducer Class
--  Confluent Class
-?
+-  Confluent Class  
+?  
 KafkaProducer Class
 <!--SR:!2024-07-19,4,270-->
 
@@ -35,8 +35,8 @@ What happens when a broker is brought down for an upgrade and the topic has no r
 -  Kafka will automatically copy the topic partition on non replicated topic to some other machine
 -  Topic partition resident to that broker will be unavailable
 -  Kafka will not let you bring down a broker where a topic partition is hosted with no additional replication
--  Upgrade can only be possible when whole Kafka cluster is brought down.
-?
+-  Upgrade can only be possible when whole Kafka cluster is brought down.  
+?  
 Topic partition resident to that broker will be unavailable
 <!--SR:!2024-07-19,4,270-->
 
@@ -49,8 +49,8 @@ Which property is used to specify brokers for the initial connection in kafka:
 -  bootstrap.brokers
 -  bootstrap.servers
 -  servers.list
--  broker.servers
-?
+-  broker.servers  
+?  
 bootstrap.servers
 <!--SR:!2024-07-19,4,270-->
 
@@ -59,8 +59,8 @@ On our development cluster we have set auto.create.topics.enable to true. We hav
 -  The replication factor will be 1
 -  The replication will be configured according to the defaults in server.properties file of the brokers
 -  The replication factor will be 3
--  You cannot create a topic without specifying replication factor
-?
+-  You cannot create a topic without specifying replication factor  
+?  
 The replication will be configured according to the defaults in server.properties file of the brokers
 <!--SR:!2024-07-19,4,270-->
 
@@ -69,8 +69,8 @@ Kafka platform is not well suited for
 -  Simplifying data pipelines
 -  Data visualization and reporting
 -  Handling streaming data
--  Support real time analytics
-?
+-  Support real time analytics  
+?  
 Data visualization and reporting
 <!--SR:!2024-08-20,14,290-->
 
@@ -80,8 +80,8 @@ Which property is used to specify compression type:
 -  compression.type
 -  compression.format
 -  compression.technology
--  compression.strategy
-?
+-  compression.strategy  
+?  
 compression.type
 <!--SR:!2024-07-19,4,270-->
 
@@ -90,8 +90,8 @@ On our development cluster we have set auto.create.topics.enable to true. We hav
 -  The number of partitions will be 1
 -  The number of partitions will be configured according to the defaults in server.properties file of the brokers
 -  The number of partitions will be 3
--  You cannot create a topic without specifying number of partitions.
-?
+-  You cannot create a topic without specifying number of partitions.  
+?  
 The number of partitions will be configured according to the defaults in server.properties file of the brokers
 <!--SR:!2024-07-19,4,270-->
 
@@ -101,7 +101,7 @@ Which of the following are not part of the Kafka Ecosystem? Choose Two
 -  Schema Registry
 -  Oozie
 -  Sqoop
--  Rest Proxy
+-  Rest Proxy  
 ?
 -  Oozie
 -  Sqoop
@@ -113,7 +113,7 @@ Which of the following are invalid compression types to be specified in Kafka, C
 -  gzip
 -  Avro
 -  lz4
--  ORC
+-  ORC  
 ?
 - Avro
 - ORC
@@ -124,8 +124,8 @@ Which setting in the Kafka Cluster Configuration decides if automatic creation o
 -  default.replication.factor
 -  auto.create.topics.enable
 -  topic.creation.automatic
--  bootstrap.servers
-?
+-  bootstrap.servers  
+?  
 auto.create.topics.enable
 <!--SR:!2024-07-19,4,270-->
 
@@ -134,8 +134,8 @@ The non-Java clients are based on the following library which provides consisten
 -  Kafka-console-consumer
 -  Kafka-console-producer
 -  Zookeeper
--  librdkafka
-?
+-  librdkafka  
+?  
 librdkafka
 <!--SR:!2024-07-19,4,270-->
 
@@ -145,20 +145,20 @@ Which property is used to specify the datatype i.e. Class used to serialize the 
 -  key.serializer
 -  datatype.key
 -  datatype.key.serializer
--  data.key.type
-?
+-  data.key.type  
+?  
 key.serializer
 <!--SR:!2024-07-19,4,270-->
 
 
-While running the following two commands the second command does not go through and throws an error. What could be the root cause of the error:
-`$> kafka-topics --zookeeper zk:port --create --topic sometopic --partitions 6 --replication-factor 3`
+While running the following two commands the second command does not go through and throws an error. What could be the root cause of the error:  
+`$> kafka-topics --zookeeper zk:port --create --topic sometopic --partitions 6 --replication-factor 3`  
 `$> kafka-topics --zookeeper zk:port --alter --topic sometopic --partitions 2`
 -  Error arrives because in second command we are not mentioning replication factor
 -  Error arrives because you can increase the number of partitions but cannot reduce it
 -  There is no error
--  Error arrives because you cannot change no. of partitions once decided during creation.
-?
+-  Error arrives because you cannot change no. of partitions once decided during creation.  
+?  
 Error arrives because you can increase the number of partitions but cannot reduce it
 <!--SR:!2024-08-21,15,290-->
 
@@ -200,8 +200,8 @@ Brokers
 When writing a Kafka Producer the `compression.type` is set to snappy. What does this imply:
 -  Data is compressed on the producer, is decompressed as soon as it is written to Kafka
 -  Data is compressed on the producer, is stored as compressed on kafka and also stays compressed on the consumer. The message can only be decompressed after it is written to some file system like local, HDFS, or Amazon S3
--  Data is compressed on the producer, is stored as compressed on kafka broker, decompressed on the Consumer
-?
+-  Data is compressed on the producer, is stored as compressed on kafka broker, decompressed on the Consumer  
+?  
 Data is compressed on the producer, is stored as compressed on kafka broker, decompressed on the Consumer
 <!--SR:!2024-07-19,4,270-->
 
@@ -210,8 +210,8 @@ What is the default size of a log segment i.e. `log.segment.bytes`
 -  4 GB
 -  10 GB
 -  24 GB
--  1 GB
-?
+-  1 GB  
+?  
 1 GB
 <!--SR:!2024-07-19,4,270-->
 
@@ -228,8 +228,8 @@ What is the default period of time for log segment files to be rolled i.e. `log.
 -  1 day
 -  3 days
 -  7 days
--  1 month
-?
+-  1 month  
+?  
 7 days
 <!--SR:!2024-07-19,4,270-->
 
@@ -246,9 +246,9 @@ Client Authentication can be done using which two protocols
 -  SASL
 -  UDP
 -  TCP
--  HTTP
-?
-TLS
+-  HTTP  
+?  
+TLS  
 SASL
 <!--SR:!2024-07-19,4,270-->
 
@@ -256,8 +256,8 @@ __________________ is a concept that allows breaking up data, so that there is n
 -  Producers
 -  Topics
 -  Zookeeper
--  Kafka Cluster
-?
+-  Kafka Cluster  
+?  
 Topics
 <!--SR:!2024-07-19,4,270-->
 
@@ -270,8 +270,8 @@ Which of the following best describes Kafka Connect?
 - Kafka Connect is a framework for streaming data between Apache Kafka and other data systems
 -  Kafka Connect provides a serving layer for your metadata. It provides a RESTful interface for storing and retrieving Avro schemas. It stores a versioned history of all schemas, provides multiple compatibility settings and allows evolution of schemas
 -  Kafka Connect is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
--  Kafka Connect provides a RESTful interface to a Kafka cluster, making it easy to produce and consume messages, view the state of the cluster, and perform administrative actions without using the native Kafka protocol or clients
-?
+-  Kafka Connect provides a RESTful interface to a Kafka cluster, making it easy to produce and consume messages, view the state of the cluster, and perform administrative actions without using the native Kafka protocol or clients  
+?  
 Kafka Connect is a framework for streaming data between Apache Kafka and other data systems
 <!--SR:!2024-07-19,4,270-->
 
@@ -280,8 +280,8 @@ Following partitioner is used when there is no key specified.
 -  Hashpartitioner
 -  Round Robin Partitioner
 -  Rangepartitioner
--  Valuepartitioner
-?
+-  Valuepartitioner  
+?  
 Round Robin Partitioner
 <!--SR:!2024-07-19,4,270-->
 
@@ -291,8 +291,8 @@ In a Kafka Produce program how do you ensure Producer will not wait for any ackn
 -  Set acks=false
 -  Set acks=all
 -  Set acks=1
--  Set acks=true
-?
+-  Set acks=true  
+?  
 Set acks=0
 <!--SR:!2024-08-20,14,290-->
 
@@ -301,8 +301,8 @@ Which of the following is not a characteristic or benefit of Kafka Connect?
 -  Off-the-shelf, tested Connectors for common data sources are available
 -  Features fault tolerance and automatic load balancing when running in distributed mode
 -  Just write Plain Old Java code for Kafka Connect
--  Pluggable/Extensible by developers
-?
+-  Pluggable/Extensible by developers  
+?  
 Just write Plain Old Java code for Kafka Connect
 <!--SR:!2024-07-19,4,270-->
 
@@ -321,8 +321,8 @@ In a Kafka Produce program how do you ensure Producer will wait until the leader
 -  Set acks=false
 -  Set acks=all
 -  Set acks=1
--  Set acks=true
-?
+-  Set acks=true  
+?  
 Set acks=1
 <!--SR:!2024-07-19,4,270-->
 
@@ -332,8 +332,8 @@ Which component of Kafka Connect would be considered capable of reading data fro
 -  Kafka Connector Sinks
 -  Kafka Topic
 -  Kafka Connector Cluster
--  Zookeeper
-?
+-  Zookeeper  
+?  
 Kafka Connector Sources
 <!--SR:!2024-07-19,4,270-->
 
@@ -346,8 +346,8 @@ In a Kafka Produce program how do you ensure Producer will wait until all in-syn
 -  Set acks=false
 -  Set acks=all
 -  Set acks=1
--  Set acks=true
-?
+-  Set acks=true  
+?  
 Set acks=all
 <!--SR:!2024-07-19,4,270-->
 
@@ -366,8 +366,8 @@ REST server allows users to send Producer and Consumer requests to the cluster u
 -  UDP
 -  HTTP
 -  TCP
--  FTP
-?
+-  FTP  
+?  
 HTTP
 <!--SR:!2024-07-19,4,270-->
 
@@ -375,8 +375,8 @@ HTTP
 What is the best practice to handle transient failures if acks is a value other than 0:
 -  Set retries to non-zero value
 -  Set retries to zero
--  Don’t set retries value
-?
+-  Don’t set retries value  
+?  
 Set retries to non-zero value
 <!--SR:!2024-07-19,4,270-->
 
@@ -404,8 +404,8 @@ What is the difference between KafkaProducer class and ProducerRecord class?
 -  They both are the same, ProducerRecord is old class and KafkaProducer is the new one
 -  They both are the same, ProducerRecord is the new class and KafkaProducer is the old one
 -  KafkaProducer is the class that handles Producer and ProducerRecord is the class that handles messages. KafkaProducer’s send method takes object of ProducerRecord as an input
--  KafkaProducer is the class that handles messages and ProducerRecord is the class that handles Producer. ProducerRecord’s send method takes object of KafkaProducers class as an input
-?
+-  KafkaProducer is the class that handles messages and ProducerRecord is the class that handles Producer. ProducerRecord’s send method takes object of KafkaProducers class as an input  
+?  
 KafkaProducer is the class that handles Producer and ProducerRecord is the class that handles messages. KafkaProducer’s send method takes object of ProducerRecord as an input
 <!--SR:!2024-07-19,4,270-->
 
@@ -428,8 +428,8 @@ What should be the configurations looking like for High Throughput for batching:
 -  large batch.size and large linger.ms
 -  large batch.size and small linger.ms
 -  small batch.size and large linger.ms
--  small batch.size and small linger.ms
-?
+-  small batch.size and small linger.ms  
+?  
 large batch.size and large linger.ms
 <!--SR:!2024-07-19,4,270-->
 
@@ -438,8 +438,8 @@ What does Offset mean or correspond to for the Kafka Connector Source for a file
 -  timestamp
 -  Position in the file
 -  Sequence id
--  File name
-?
+-  File name  
+?  
 Position in the file
 <!--SR:!2024-07-19,4,270-->
 
@@ -457,8 +457,8 @@ What should be the configurations looking like for Low Latency for batching:
 -  large batch.size and large linger.ms
 -  large batch.size and small linger.ms
 -  small batch.size and large linger.ms
--  small batch.size and small linger.ms
-?
+-  small batch.size and small linger.ms  
+?  
 small batch.size and small linger.ms
 <!--SR:!2024-07-19,4,270-->
 
@@ -467,9 +467,9 @@ Which of the below components of Kafka support Exactly Once Semantic? (More than
 - Schema Registry
 -  Kafka SQL
 -  Auto Databalancer
--  Kafka Streams
-?
-Kafka SQL
+-  Kafka Streams  
+?  
+Kafka SQL  
 Kafka Streams
 <!--SR:!2024-07-19,4,270-->
 
@@ -478,8 +478,8 @@ How do we configure rack awareness in Kafka?
 -  Set rack.awareness to true
 -  Set broker.rack to rack id
 -  Set broker.rack to true
--  Set rack.available to true
-?
+-  Set rack.available to true  
+?  
 Set broker.rack to rack id
 <!--SR:!2024-07-19,4,270-->
 
@@ -498,8 +498,8 @@ How does Replicator solve the problem of infinite replication loop?
 -  It uses a message body to record origin cluster
 -  It uses another topic to keep track of the origin cluster
 -  It uses a partition to store origin cluster
--  It uses message header to record origin cluster
-?
+-  It uses message header to record origin cluster  
+?  
 It uses another topic to keep track of the origin cluster
 <!--SR:!2024-07-19,4,270-->
 
@@ -508,8 +508,8 @@ How can we ensure that the load balancer of Rest proxy binds a User’s session 
 -  Use 1 Rest proxy at a time
 -  Use Sticky Load balancer
 -  Use F5 Load Balancer
--  None of the above
-?
+-  None of the above  
+?  
 Use Sticky Load balancer
 <!--SR:!2024-07-19,4,270-->
 
@@ -518,8 +518,8 @@ Which is considered as the best format to work with Kafka?
 -  CSV
 -  Avro
 -  Parquet
--  JSON
-?
+-  JSON  
+?  
 Avro
 <!--SR:!2024-08-22,16,290-->
 
@@ -528,7 +528,7 @@ Which factors are considered while deciding the task.max for Kafka connector? (C
 - Number of Topics
 -  Number of Partitions
 -  Desired Throughput/Throughput per task
--  Machine * No of cores per machine
+-  Machine * No of cores per machine  
 ?
 -  Number of Partitions
 -  Desired Throughput/Throughput per task
@@ -558,8 +558,8 @@ How many max partitions are recommended in a broker?
 -  500
 -  1000
 -  2000
--  4000
-?
+-  4000  
+?  
 4000
 <!--SR:!2024-07-19,4,270-->
 
@@ -568,8 +568,8 @@ How much JVM memory is sufficient for Broker JVM in a typical deployment?
 -  1 GB
 -  4 GB
 -  20 GB
--  100 GB
-?
+-  100 GB  
+?  
 4 GB
 <!--SR:!2024-08-19,13,290-->
 
@@ -578,8 +578,8 @@ Which filesystem is recommended for deploying Kafka clusters?
 -  XFS
 -  NTFS
 -  FAT32
--  EXT3
-?
+-  EXT3  
+?  
 XFS
 <!--SR:!2024-07-19,4,270-->
 
@@ -588,8 +588,8 @@ Which component is responsible for checking the liveness of Consumers?
 -  Group Leader
 -  Consumer Group
 -  Group Coordinator
--  Zookeeper
-?
+-  Zookeeper  
+?  
 Group Coordinator
 <!--SR:!2024-07-19,4,270-->
 

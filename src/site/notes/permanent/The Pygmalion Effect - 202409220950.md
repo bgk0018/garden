@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/Pygmalion_effect
 
 Rosenthal and Jacobson held that high expectations lead to better performance and low expectations lead to worse,[[1\|1]](https://en.wikipedia.org/wiki/Pygmalion_effect#cite_note-Mitchell-1) both effects leading to [self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy "Self-fulfilling prophecy"). According to the Pygmalion effect, the targets of the expectations internalize their positive labels, and those with positive labels succeed accordingly; a similar process works in the opposite direction in the case of low expectations. The idea behind the Pygmalion effect is that increasing the leader's expectation of the follower's performance will result in better follower performance. Within [sociology](https://en.wikipedia.org/wiki/Sociology "Sociology"), the effect is often cited with regard to [education](https://en.wikipedia.org/wiki/Education "Education") and [social class](https://en.wikipedia.org/wiki/Social_class "Social class").
 
-![Pasted image 20221206102738.png|500](/img/user/assets/Pasted%20image%2020221206102738.png)
+![Pasted image 20221206102738.png|500](/img/user/reference/Pasted%20image%2020221206102738.png)
 
 
 ## References

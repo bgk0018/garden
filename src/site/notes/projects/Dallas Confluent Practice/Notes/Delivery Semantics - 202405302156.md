@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/delivery-semantics-202405302156/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:41:19.082-05:00","updated":"2024-06-27T16:32:27.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/delivery-semantics-202405302156/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:41:19.082-05:00","updated":"2024-11-10T13:36:53.588-06:00"}
 ---
+
 
 # Delivery Semantics
 
@@ -39,7 +40,6 @@ This is a [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405
 
 
 
-
 This is a [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405302156\|Delivery Semantics]] in which:
 
 - [[projects/Dallas Confluent Practice/Notes/Offset - 202405282304\|Offsets]] are committed as soon as messages are received.
@@ -67,18 +67,15 @@ This is a [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405
 - Kafka to External System us an [[permanent/Idempotent - 202303012108\|Idempotent]] [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumer]]
 
 
-
-
 </div></div>
-
 
 
 ## References
 
-
 ## Flashcards
 
 What are the 3 different ways [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumers]] handle message delivery?:: Atleast once, at most once, exactly once
+
 <!--SR:!2024-09-04,69,310-->
 
 ```
@@ -99,7 +96,11 @@ while (true) {
         }
 }
 ```
+
 What kind of delivery guarantee this consumer offers?
+
 ?
+
 At-most-once. Here offset is committed before processing the message. If consumer crashes before processing the message, message will be lost when it comes back up.
+
 <!--SR:!2024-08-26,60,314-->

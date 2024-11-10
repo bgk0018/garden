@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/producer-configuration-for-reliability-202407152140/","tags":["📖","♣️/kafka"],"created":"2024-11-08T08:09:03.173-06:00","updated":"2024-11-08T09:43:56.992-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/producer-configuration-for-reliability-202407152140/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:09:03.173-06:00","updated":"2024-11-10T13:46:22.577-06:00"}
 ---
+
 
 # Producer Configuration for Reliability
 
@@ -33,10 +34,13 @@
 ## Flashcards
 
 What configuration prevents network-induced duplicates in producers?:: enable.idempotence=true
+
 <!--SR:!2024-07-18,3,250-->
 
 What is the risk of increasing max.in.flight.requests while enabling retries?:: Message order may not be preserved if retries occur
+
 <!--SR:!2024-07-19,4,250-->
 
 What happens if you use producer.send().get()?:: Throughput decreases because it waits synchronously for broker response
+
 <!--SR:!2024-07-20,5,250--> 

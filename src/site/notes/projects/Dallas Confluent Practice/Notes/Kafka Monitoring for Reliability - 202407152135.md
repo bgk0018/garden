@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-monitoring-for-reliability-202407152135/","tags":["📖","♣️/kafka"],"created":"2024-11-08T08:08:17.312-06:00","updated":"2024-11-08T09:43:56.837-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-monitoring-for-reliability-202407152135/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:08:17.312-06:00","updated":"2024-11-10T13:41:49.798-06:00"}
 ---
+
 
 # Kafka Monitoring for Reliability
 
@@ -39,10 +40,13 @@
 ## Flashcards
 
 What are the most important producer metrics for reliability?:: Error rate and retry rate per record
+
 <!--SR:!2024-07-18,3,250-->
 
 What is the most important consumer metric to monitor?:: Consumer lag - indicates how far behind real-time the consumer is
+
 <!--SR:!2024-07-19,4,250-->
 
 What tool is recommended for monitoring consumer lag?:: Burrow - provides more sophisticated lag monitoring than simple threshold alerts
+
 <!--SR:!2024-07-20,5,250--> 

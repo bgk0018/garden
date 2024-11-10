@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advanced-topics-configuration-202406021522/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.160-05:00","updated":"2024-08-05T09:31:46.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advanced-topics-configuration-202406021522/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:55.160-05:00","updated":"2024-11-10T12:52:39.497-06:00"}
 ---
+
 
 # Advanced Topics Configuration
 
@@ -25,10 +26,12 @@ Example `kafka-configs --bootstrap-server localhost:9092 --entity-type topics --
 Topics are made of partitions and partitions are made of segments. There's only one active segment at a time. The active segment is the one being written to.
 
 Active segment can change either based on time or bytes in the segment:
+
 - `log.segment.bytes`
 - `log.segment.ms`
 
 2 indexes are available for segments:
+
 - Positional offset in the partition (file position 1, 2, 3)
 - Timestamp based offset
 
@@ -101,7 +104,6 @@ Mythbusting:
 > [!NOTE]  
 > You can't trigger log compaction using an api call currently
 
-
 ![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330180532927.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330180532927.webp)
 
 ## Unclean Leader Election
@@ -129,6 +131,5 @@ Basically what this says if if your In Sync Replicas go offline and have out of 
 ![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330181341202.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330181341202.webp)
 
 # References
-
 
 # Flashcards

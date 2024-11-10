@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advertised-listeners-202406021523/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:54.677-05:00","updated":"2024-06-02T15:28:37.000-05:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advertised-listeners-202406021523/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:54.677-05:00","updated":"2024-11-10T12:52:46.431-06:00"}
 ---
+
 
 # Advertised Listeners
 
@@ -19,17 +20,15 @@
 
 
 
+
 # Consumer Incremental Cooperative Rebalance
 
-
-
 ## References
-
-
 
 ## Flashcards
 
 Which events will initiate the consumer rebalancing? (Pick three)
+
 - Consumers joins the consumer group
 - A new producer starts writing messages to the topic in question
 - A consumer leaves the group
@@ -39,6 +38,7 @@ Which events will initiate the consumer rebalancing? (Pick three)
 - Consumers joins the consumer group
 - A consumer leaves the group
 - Partitions are added to the topic
+
 
 </div></div>
 
@@ -54,13 +54,10 @@ Which events will initiate the consumer rebalancing? (Pick three)
 
 
 
+
 # Consumer Group Auto Offset Commit Behavior
 
-
-
 ## References
-
-
 
 
 </div></div>
@@ -77,13 +74,10 @@ Which events will initiate the consumer rebalancing? (Pick three)
 
 
 
+
 # Producer Retries
 
-
-
 ## References
-
-
 
 
 </div></div>
@@ -100,13 +94,10 @@ Which events will initiate the consumer rebalancing? (Pick three)
 
 
 
+
 # Idempotent Producer
 
-
-
 ## References
-
-
 
 
 </div></div>
@@ -118,13 +109,10 @@ Which events will initiate the consumer rebalancing? (Pick three)
 
 
 
+
 # Safe Producers
 
-
-
 ## References
-
-
 
 
 </div></div>
@@ -141,13 +129,12 @@ Which events will initiate the consumer rebalancing? (Pick three)
 
 
 
+
 # Producer Batch Settings
 
 linger.ms and batch.size
 
 ## References
-
-
 
 
 </div></div>
@@ -164,14 +151,12 @@ linger.ms and batch.size
 
 
 
+
 # Producer Partitioners
 
 Default Partition and Sticky Partitioner
 
-
 ## References
-
-
 
 
 </div></div>
@@ -183,9 +168,11 @@ Default Partition and Sticky Partitioner
 
 
 
+
 # Kafka Extended APIs for Developers
 
 [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumers]] and [[projects/Dallas Confluent Practice/Notes/Producer - 202405302120\|Producers]] are considered low level, and since their introduction other higher level APIs have been created, specifically:
+
 - [[projects/Dallas Confluent Practice/Notes/Kafka Connect - 202403301639\|Kafka Connect]]
 - [[projects/Dallas Confluent Practice/Notes/Kafka Streams - 202403301640\|Kafka Streams]]
 - [[projects/Dallas Confluent Practice/Notes/Schema Registry - 202403301641\|Schema Registry]]
@@ -202,6 +189,7 @@ Default Partition and Sticky Partitioner
 ![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330170119062.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330170119062.webp)
 
 Gotchas:
+
 - Needs to be highly available
 - Schema formats have a learning curve (Avro, etc.)
 
@@ -210,7 +198,6 @@ You can also evolve schemas over time. The same problems you experience in chang
 Schema changes are versioned (v1, v2, etc.)
 
 You can also assign default values for new properties as the schemas evolve.
-
 
 ![Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109-20240330170923135.webp](/img/user/projects/Dallas%20Confluent%20Practice/Apache%20Kafka%20Series%20-%20Learn%20Apache%20Kafka%20for%20Beginners%20v3%20-%20202302211109-20240330170923135.webp)
 
@@ -222,13 +209,12 @@ You can also assign default values for new properties as the schemas evolve.
 
 # References
 
-
 # Flashcards
+
 
 </div></div>
 
 
 # References
-
 
 # Flashcards

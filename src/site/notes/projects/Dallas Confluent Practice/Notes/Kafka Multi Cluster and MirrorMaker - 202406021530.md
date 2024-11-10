@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-multi-cluster-and-mirror-maker-202406021530/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:55.080-05:00","updated":"2024-11-08T09:43:56.842-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-multi-cluster-and-mirror-maker-202406021530/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:55.080-05:00","updated":"2024-11-10T13:41:56.916-06:00"}
 ---
+
 
 # Kafka Multi Cluster and MirrorMaker
 
@@ -14,6 +15,5 @@ Mirror Maker 2 - Open source Kafka connector that ships with Kafka
 Replication: Active/Active, or Active/Passive (readonly)
 
 # References
-
 
 # Flashcards

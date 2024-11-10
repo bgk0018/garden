@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-controller-and-leadership-202407152155/","tags":["📖","♣️/kafka"],"created":"2024-11-08T08:11:13.129-06:00","updated":"2024-11-08T09:43:56.807-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-controller-and-leadership-202407152155/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:11:13.129-06:00","updated":"2024-11-10T13:41:09.531-06:00"}
 ---
+
 
 # Kafka Controller and Leadership
 
 ## Broker Roles
 
 Brokers can serve three distinct roles:
+
 1. Leader
 2. Group Coordinator
 3. Controller
@@ -45,10 +47,13 @@ Brokers can serve three distinct roles:
 ## Flashcards
 
 What are the three possible roles a broker can have?:: Leader, Group Coordinator, and Controller
+
 <!--SR:!2024-07-18,3,250-->
 
 How does Kafka prevent split-brain with controllers?:: Uses controller epoch numbers - higher numbers for new controllers and ignores old epoch messages
+
 <!--SR:!2024-07-19,4,250-->
 
 What happens when a broker loses ZooKeeper connection?:: Its ephemeral node is removed but broker ID remains in other data structures
+
 <!--SR:!2024-07-20,5,250--> 
