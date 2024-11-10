@@ -18,14 +18,9 @@ A Map of Content (MOC) serves as a navigational hub in your digital notes. Like 
 | ------------------------------------------------------------ | ----------- |
 | [[maps/Apache Kafka\|Apache Kafka]]                       | \-          |
 | [[maps/Certainty\|Certainty]]                             | \-          |
-| [[maps/Election 2024\|Election 2024]]                     | \-          |
-| [[maps/Home Server\|Home Server]]                         | \-          |
-| [[maps/Learning\|Learning]]                               | \-          |
-| [[maps/Obsidian\|Obsidian]]                               | \-          |
-| [[maps/Scotland 2024\|Scotland 2024]]                     | \-          |
-| [[maps/Storytelling\|Storytelling]]                       | \-          |
+| [[maps/Psychology\|Psychology]]                           | \-          |
+| [[maps/Sales Engineering\|Sales Engineering]]             | \-          |
 | [[maps/The Empowerment Dynamic\|The Empowerment Dynamic]] | \-          |
-| [[maps/Typescript\|Typescript]]                           | \-          |
 | [[maps/Vault\|Vault]]                                     | \-          |
 
 { .block-language-dataview}

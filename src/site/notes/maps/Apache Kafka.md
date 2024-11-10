@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T20:17:05.233-05:00","updated":"2024-11-10T17:19:01.455-06:00"}
+{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T20:17:05.233-05:00","updated":"2024-11-10T17:41:18.597-06:00"}
 ---
 
 
@@ -52,23 +52,23 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405302156\|Delivery Semantics]]                                                             | 4      |
 | [[projects/Dallas Confluent Practice/Notes/Message Anatomy - 202405302129\|Message Anatomy]]                                                                   | 4      |
 | [[projects/Dallas Confluent Practice/Notes/Message Key - 202303012028\|Message Key]]                                                                           | 4      |
+| [[projects/Dallas Confluent Practice/Notes/At Least Once Delivery - 202303012107\|At Least Once Delivery]]                                                     | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Consumer Groups - 202405302143\|Consumer Groups]]                                                                   | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Consumer Offsets - 202405302152\|Consumer Offsets]]                                                                 | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Extended APIs for Developers - 202406021528\|Kafka Extended APIs for Developers]]                             | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Reliable Data Delivery - 202407152100\|Reliable Data Delivery]]                                                     | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Topic Replication Factor - 202405302220\|Topic Replication Factor]]                                                 | 3      |
-| [[projects/Dallas Confluent Practice/Notes/At Least Once Delivery - 202303012107\|At Least Once Delivery]]                                                     | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Advanced Topics Configuration - 202406021522\|Advanced Topics Configuration]]                                       | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Broker Discovery - 202405302218\|Broker Discovery]]                                                                 | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Cluster - 202303012114\|Cluster]]                                                                                   | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Consumer Deserializer - 202405302142\|Consumer Deserializer]]                                                       | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Exactly Once Delivery - 202303012110\|Exactly Once Delivery]]                                                       | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Horizontal Scaling - 202302211120\|Horizontal Scaling]]                                                             | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Consumer Groups CLI - 202406011147\|Kafka Consumer Groups CLI]]                                               | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Message Serializer - 202405302131\|Message Serializer]]                                                             | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Schema Registry - 202403301641\|Schema Registry]]                                                                   | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Zookeeper - 202406011120\|Zookeeper]]                                                                               | 2      |
 | [[projects/Dallas Confluent Practice/Notes/At Most Once Delivery - 202303012109\|At Most Once Delivery]]                                                       | 2      |
-| [[projects/Dallas Confluent Practice/Notes/Exactly Once Delivery - 202303012110\|Exactly Once Delivery]]                                                       | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Advertised Listeners - 202406021523\|Advertised Listeners]]                                                         | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Apache Connect Hands-on - 202406021528\|Apache Connect Hands-on]]                                                   | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Avro in Java - 202406021524\|Avro in Java]]                                                                         | 1      |
@@ -80,12 +80,14 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Idempotent Producer - 202403301634\|Idempotent Producer]]                                                           | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Java Consumer Client - 202406021638\|Java Consumer Client]]                                                         | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Java Producer Client - 202406021637\|Java Producer Client]]                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/KSQL - 202406022143\|KSQL]]                                                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Advanced Operations - 202406021531\|KStreams and KTables Advanced Operations]]                 | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka ACLs - 202406021631\|Kafka ACLs]]                                                                             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Simple Operations Stateless - 202406021532\|KStreams and KTables Simple Operations Stateless]] | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Cluster - 202406021527\|Kafka Cluster]]                                                                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Connect - 202403301639\|Kafka Connect]]                                                                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Connect Source - 202406022136\|Kafka Connect Source]]                                                         | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Consumer CLI - 202406011144\|Kafka Consumer CLI]]                                                             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka in the Enterprise for Admins - 202406021529\|Kafka in the Enterprise for Admins]]                             | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Internals - 202411021210\|Kafka Internals]]                                                                   | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka KRaft - 202406011123\|Kafka KRaft]]                                                                           | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Multi Cluster and MirrorMaker - 202406021530\|Kafka Multi Cluster and MirrorMaker]]                           | 1      |
@@ -94,9 +96,7 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Kafka Streams - 202403301640\|Kafka Streams]]                                                                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Streams for Data Processing - 202406021531\|Kafka Streams for Data Processing]]                               | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Topics CLI - 202406011123\|Kafka Topics CLI]]                                                                 | 1      |
-| [[projects/Dallas Confluent Practice/Notes/KSQL - 202406022143\|KSQL]]                                                                                         | 1      |
-| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Advanced Operations - 202406021531\|KStreams and KTables Advanced Operations]]                 | 1      |
-| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Simple Operations Stateless - 202406021532\|KStreams and KTables Simple Operations Stateless]] | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka in the Enterprise for Admins - 202406021529\|Kafka in the Enterprise for Admins]]                             | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Metrics Collection - 202406062123\|Metrics Collection]]                                                             | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Producer Batch Settings - 202403301636\|Producer Batch Settings]]                                                   | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Producer Configuration for Reliability - 202407152140\|Producer Configuration for Reliability]]                     | 1      |
@@ -141,6 +141,7 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Kafka Test 2 Follow Up Discussion Meeting - 202404221205\|Kafka Test 2 Follow Up Discussion Meeting - 202404221205]]                                       |
 | [[projects/Dallas Confluent Practice/Kafka Test Follow Up Discussion Meeting - 202403291404\|Kafka Test Follow Up Discussion Meeting - 202403291404]]                                           |
 | [[projects/Dallas Confluent Practice/Confluent - Kafka Practice Primer Meeting - 202403011059\|Confluent - Kafka Practice Primer Meeting - 202403011059]]                                       |
+| [[notes/Build Streaming Applications using SwimOS and Kafka - 202402061825\|Build Streaming Applications using SwimOS and Kafka - 202402061825]]                                                |
 | [[projects/Dallas Confluent Practice/Confluent Practice Discussion Meeting - 202401151437\|Confluent Practice Discussion Meeting - 202401151437]]                                               |
 | [[projects/Dallas Confluent Practice/2024 Goals Meeting - 202312201601\|2024 Goals Meeting - 202312201601]]                                                                                     |
 | [[projects/Dallas Confluent Practice/Notes/Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109\|Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109]] |
@@ -156,6 +157,7 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[projects/Dallas Confluent Practice/Notes/Confluent Fundamentals Accreditation\|Confluent Fundamentals Accreditation]]                                                                         |
 | [[projects/Dallas Confluent Practice/SSKC Session 1 - 202403131206\|SSKC Session 1 - 202403131206]]                                                                                             |
+| [[notes/Build Streaming Applications using SwimOS and Kafka - 202402061825\|Build Streaming Applications using SwimOS and Kafka - 202402061825]]                                                |
 | [[projects/Dallas Confluent Practice/Kafka The Definitive Guide - Neha Narkhede Gwen Shapira Todd Palino\|Kafka The Definitive Guide - Neha Narkhede Gwen Shapira Todd Palino]]                 |
 | [[projects/Dallas Confluent Practice/Notes/Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109\|Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109]] |
 

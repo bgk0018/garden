@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/trump-is-using-election-lies-to-lay-the-groundwork-for-challenging-2024-results-if-he-loses-1/","title":"Trump is using election lies to lay the groundwork for challenging 2024 results if he loses","tags":["📰"],"created":"2024-11-03T23:32:00.005-06:00","updated":"2024-11-09T08:33:04.656-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/trump-is-using-election-lies-to-lay-the-groundwork-for-challenging-2024-results-if-he-loses-1/","title":"Trump is using election lies to lay the groundwork for challenging 2024 results if he loses","tags":["📰"],"created":"2024-11-03T23:32:00.005-06:00","updated":"2024-11-10T17:38:59.715-06:00"}
 ---
 
-# Trump is using election lies to lay the groundwork for challenging 2024 results if he loses
+
+# Trump is Using Election Lies to Lay the Groundwork for Challenging 2024 Results if He Loses
 
 >[!summary]- Description
 > Donald Trump has spent months laying the groundwork to challenge the results of the 2024 election if he loses. Rally after rally, he urges his supporters to deliver a victory “too big to rig,” telling them the only way he can lose is if Democrats cheat. He has refused to say, when asked on repeat occasions, whether he will accept the results regardless of the outcome. And he’s claimed cheating is already underway. The comments echo those he made four years ago, when Trump declared victory before votes were counted and refused to accept his defeat, culminating in the storming of the Capitol on Jan. 6, 2021.
 
 ## Concepts
+
 | Name | Weight |
 | ---- | ------ |
 
@@ -31,7 +33,7 @@ This year, he is backed by a sophisticated “election integrity” operation bu
 
 Here’s a look at Trump’s strategy to sow doubt in this year’s election and the facts behind each claim.
 
-## Non-citizen voting
+## Non-citizen Voting
 
 **THE CLAIM:** Trump [has alleged, without evidence](https://apnews.com/article/trump-migrants-border-voter-fraud-campaign-40bbf5748615a3b1f6087ff920f59278), that Democrats have allowed millions of migrants to enter the country illegally so that they can be registered to vote. In an [interview with Newsmax in September](https://x.com/MarioNawfal/status/1836963748138914216), Trump alleged such efforts were already underway.
 
@@ -41,7 +43,7 @@ Here’s a look at Trump’s strategy to sow doubt in this year’s election and
 
 Research has shown noncitizens illegally registering and casting ballots [is extremely rare](https://apnews.com/article/noncitizens-voting-republicans-election-2024-immigration-09b86e6768f755fd875f3c51b0e8ea70) and usually done by mistake.
 
-## Overseas ballots
+## Overseas Ballots
 
 **THE CLAIM:** Trump has pointed to Democratic efforts to secure the votes of Americans living abroad as another opportunity for fraud. He’s alleged that they are “getting ready to CHEAT!” and ”want to “dilute the TRUE vote of our beautiful military and their families.”
 
@@ -54,7 +56,7 @@ Research has shown noncitizens illegally registering and casting ballots [is ext
 - **Ground Game:** [Sign up for AP’s weekly politics newsletter](https://apnews.com/newsletters) to get it in your inbox every Monday.
 - **AP’s Role:** The Associated Press is the most trusted source of information on election night, with a history of accuracy dating to 1848. [Learn more.](https://apnews.com/ap-elections-explained)
 
-## Ominous warnings
+## Ominous Warnings
 
 **THE CLAIM:** Trump has begun to suggest that Harris might have access to some kind of secret inside information about the outcome of a race that has yet to be decided.
 
@@ -86,7 +88,7 @@ York County Chief Clerk Greg Monskie confirmed this week that his county was rev
 
 Officials in the state say the discovery and investigation into the applications — not votes — is evidence the system is working as it should.
 
-## Threats of prosecution
+## Threats of Prosecution
 
 **THE CLAIM:** Trump has threatened severe consequences for those engaged in what he deems “unscrupulous behavior.”
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/the-empowerment-dynamic/","tags":["🗺️"],"created":"2024-09-10T19:19:04.487-05:00","updated":"2024-11-10T14:17:58.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/the-empowerment-dynamic/","tags":["🗺️"],"created":"2024-09-10T19:19:04.487-05:00","updated":"2024-11-10T17:42:07.273-06:00"}
 ---
 
 
