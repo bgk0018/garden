@@ -35,13 +35,17 @@
 | Name                                                                                                                           | Weight |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------ |
 | [[permanent/Outcome Orientation - 202304261241\|Creator Orientation]]                                                       | 13     |
+| [[permanent/Problem - 202304261228\|Problem]]                                                                               | 12     |
+| [[permanent/Problem Orientation - 202304201646\|Problem Orientation]]                                                       | 12     |
 | [[permanent/Focus - 202304201649\|focus]]                                                                                   | 11     |
 | [[permanent/Outcome - 202304261242\|Outcome]]                                                                               | 10     |
+| [[permanent/Reaction - 202304261216\|react]]                                                                                | 8      |
 | [[permanent/Inner State - 202304201654\|Inner State]]                                                                       | 7      |
 | [[permanent/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic]]                                               | 6      |
 | [[permanent/Dreaded Drama Triangle - 202305251725\|DDT]]                                                                    | 6      |
 | [[permanent/Behavior - 202304201655\|Behavior]]                                                                             | 5      |
 | [[permanent/A.I.R. - 202304261249\|A.I.R.]]                                                                                 | 5      |
+| [[permanent/Persecutor - 202305271800\|Persecutor]]                                                                         | 5      |
 | [[permanent/FISBE - 202304201647\|FISBE]]                                                                                   | 4      |
 | [[permanent/Creator - 202306271318\|Creator]]                                                                               | 4      |
 | [[permanent/Baby Step - 202304261244\|Baby Step]]                                                                           | 4      |
@@ -77,8 +81,10 @@
 > [!quote]- References I've used  
 > This section maintains a curated list of learning resources including documentation, articles, videos, and other materials that contribute to understanding the topic. It serves as a bibliography of valuable information sources for future reference.
 
-| Title |
-| ----- |
+| Title                                                                                 |
+| ------------------------------------------------------------------------------------- |
+| [[reference/3 Vital Questions - David Emerald\|3 Vital Questions - David Emerald]] |
+| [[reference/The Power of Ted - David Emerald\|The Power of Ted - David Emerald]]   |
 
 { .block-language-dataview}
 

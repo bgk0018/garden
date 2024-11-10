@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T20:17:05.233-05:00","updated":"2024-11-10T14:14:45.718-06:00"}
+{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T20:17:05.233-05:00","updated":"2024-11-10T17:19:01.455-06:00"}
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/reference/3-vital-questions-david-emerald/","title":"3 Vital Questions","tags":["📕"],"created":"2024-08-29T16:41:02.924-05:00","updated":"2024-11-08T09:43:59.398-06:00"}
+{"dg-publish":true,"permalink":"/reference/3-vital-questions-david-emerald/","title":"3 Vital Questions","tags":["📕"],"created":"2024-08-29T16:41:02.924-05:00","updated":"2024-11-10T17:20:48.603-06:00"}
 ---
+
 
 ![cover|150](http://books.google.com/books/content?id=WJbxvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
@@ -8,6 +9,7 @@
 > Finalist, 2019 Indie Book Awards, Careers Category Transform Workplace Drama into Workforce Empowerment! If you have ever experienced infighting, such as a team or a department pitting itself against another team or department; if you have ever worked for a micromanaging and overbearing boss; if you have ever navigated the changes that come with a merger or other significant restructuring process, then you have had a front-row seat for organizational drama. 3 Vital Questions is a teaching story about transforming workplace drama and its heavy costs to organizations. Working late at night, Lucas, a middle manager in a large organization, meets a custodian named Ted. The two strike up a friendship as Ted teaches Lucas three vital questions with the power to transform the disillusionment he is experiencing at work. Readers follow Lucas as he learns how to shift from feeling like a Victim to acting as a Creator in his career. With the wise guidance of Ted and Kasey, a senior manager, Lucas applies the three vital questions and begins transforming his workplace relationships, with exciting results. At home, Lucas and his wife Sarah discover how the questions can spark creative collaboration with each other and their two young children. This long-awaited and highly enjoyable read by the author of the bestselling self-leadership title, The Power of TED* (*The Empowerment Dynamic) ushers in a new era of possibility for the world of work. This book teaches David Emerald's groundbreaking 3 Vital Questions(R) approach for empowering leaders and teams to become collaborative, engaged, and resilient in the face of the rapid changes that mark today's increasingly complex competitive environment.
 
 # Concepts
+
 | Name                                                                                                                                                                            | Weight     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation - 202304261241]]                                                                                         | Weight: 13 |
@@ -15,8 +17,8 @@
 | [[permanent/Problem Orientation - 202304201646\|Problem Orientation - 202304201646]]                                                                                         | Weight: 12 |
 | [[permanent/Focus - 202304201649\|Focus - 202304201649]]                                                                                                                     | Weight: 11 |
 | [[permanent/Outcome - 202304261242\|Outcome - 202304261242]]                                                                                                                 | Weight: 10 |
-| [[permanent/Reaction - 202304261216\|Reaction - 202304261216]]                                                                                                               | Weight: 8  |
 | [[permanent/Victim - 202305251726\|Victim - 202305251726]]                                                                                                                   | Weight: 8  |
+| [[permanent/Reaction - 202304261216\|Reaction - 202304261216]]                                                                                                               | Weight: 8  |
 | [[permanent/Inner State - 202304201654\|Inner State - 202304201654]]                                                                                                         | Weight: 7  |
 | [[permanent/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic - 202306271410]]                                                                                 | Weight: 6  |
 | [[permanent/Rescuer - 202305271811\|Rescuer - 202305271811]]                                                                                                                 | Weight: 6  |
