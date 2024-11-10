@@ -165,7 +165,7 @@ Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/change-initiatives-fail-because-we-focus-on-the-wrong-dimension-202304201639/#change-initiatives-fail-because-we-focus-on-the-wrong-dimension" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -174,7 +174,7 @@ Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on
 </div>
 
 
-# Change initiatives fail because we focus on the wrong dimension
+# Change Initiatives Fail Because We Focus on the Wrong Dimension
 
 [[people/David Emerald\|David Emerald]] contends that because we [[permanent/Focus - 202304201649\|focus]] on 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -349,7 +349,7 @@ Are you merely [[permanent/Reaction - 202304261216\|reacting]] to the [[permanen
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/fisbe-202304201647/#fisbe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -491,7 +491,7 @@ Problems do not just go away. Problems will always be there. [^1][^2]
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/anxiety-202304261229/#anxiety" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -641,7 +641,7 @@ Something you want that creates a [[permanent/Passion - 202304261243\|Passion]] 
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/passion-202304261243/#passion" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -684,7 +684,7 @@ The [[permanent/Inner State - 202304201654\|Inner State]] produced when someone 
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/baby-step-202304261244/#baby-step" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -696,6 +696,7 @@ The [[permanent/Inner State - 202304201654\|Inner State]] produced when someone 
 # Baby Step
 
 A [[permanent/Behavior - 202304201655\|Behavior]] that is a small action that takes you closer to the [[permanent/Outcome - 202304261242\|Outcome]] you want.[^1]
+
 ## References
 
 [^1]: 
@@ -728,6 +729,7 @@ A [[permanent/Behavior - 202304201655\|Behavior]] that is a small action that ta
 # A.I.R.
 
 An acronym that stands for the three major distinctions between [[permanent/Problem Orientation - 202304201646\|Problem Orientation]] and [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation]].[^1]
+
 - [[permanent/Attention - 202304261250\|Attention]]
 - [[permanent/Intention - 202304261251\|Intention]]
 - [[permanent/Result - 202304261252\|Result]]
@@ -752,7 +754,7 @@ An acronym that stands for the three major distinctions between [[permanent/Prob
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/attention-202304261250/#attention" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -764,6 +766,7 @@ An acronym that stands for the three major distinctions between [[permanent/Prob
 # Attention
 
 Where you place your [[permanent/Focus - 202304201649\|Focus]].
+
 ## References
 
 
@@ -784,7 +787,7 @@ Where you place your [[permanent/Focus - 202304201649\|Focus]].
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/intention-202304261251/#intention" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -971,11 +974,11 @@ Anything that causes you to [[permanent/Reaction - 202304261216\|React]] and use
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/going-up-on-the-balcony-202304271153/#going-up-on-the-balcony" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-# Going up on the balcony
+# Going up on the Balcony
 
 Being able to step back and reflect. The more you can observe, the more you will be able to make different choices on how to respond.[^1]
 

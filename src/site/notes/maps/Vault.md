@@ -32,8 +32,15 @@
 > [!info]- Concepts I've Broken Out  
 > This section breaks down fundamental concepts into manageable components. It focuses on core principles, terminology, and essential knowledge areas that form the foundation of understanding the subject matter.
 
-| Name | Weight |
-| ---- | ------ |
+| Name                                                                                                         | Weight |
+| ------------------------------------------------------------------------------------------------------------ | ------ |
+| [[permanent/LATCH - 202304281226\|LATCH]]                                                                 | 7      |
+| [[permanent/Category organizing in Obsidian - 202304281322\|Category organizing in Obsidian]]             | 1      |
+| [[permanent/Hierarchy organizing in Obsidian - 202304281323\|Hierarchy organizing in Obsidian]]           | 1      |
+| [[permanent/Find concepts that emerge in Obsidian - 202304281339\|Find concepts that emerge in Obsidian]] | 0      |
+| [[permanent/Alphabet organizing in Obsidian - 202304281320\|Alphabet organizing in Obsidian]]             | 0      |
+| [[permanent/Idea Compass - 202306081233\|Idea Compass]]                                                   | 0      |
+| [[permanent/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]             | 0      |
 
 { .block-language-dataview}
 
@@ -42,8 +49,9 @@
 > [!note]- Notes I've Taken  
 > This section contains detailed notes from various learning sources such as meetings, workshops, tutorials, and personal observations. It serves as a repository for insights, challenges encountered, and key takeaways from practical experiences.
 
-| Name |
-| ---- |
+| Name                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| [[notes/Emergent note taking what ants can teach us about notes\|Emergent note taking what ants can teach us about notes]] |
 
 { .block-language-dataview}
 
@@ -52,8 +60,9 @@
 > [!quote]- References I've used  
 > This section maintains a curated list of learning resources including documentation, articles, videos, and other materials that contribute to understanding the topic. It serves as a bibliography of valuable information sources for future reference.
 
-| Title |
-| ----- |
+| Title                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| [[notes/Emergent note taking what ants can teach us about notes\|Emergent note taking what ants can teach us about notes]] |
 
 { .block-language-dataview}
 

@@ -12,9 +12,9 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [[projects/How Minds Change/Persuasion - 202307012230\|Persuasion - 202307012230]]                                                                         | Weight: 9 |
 | [[projects/How Minds Change/Deep Canvassing - 202307091701\|Deep Canvassing - 202307091701]]                                                               | Weight: 6 |
-| [[permanent/Intention - 202304261251\|Intention]]                                                                                                          | Weight: 3 |
 | [[projects/How Minds Change/Certainty - 202307012227\|Certainty - 202307012227]]                                                                           | Weight: 3 |
 | [[projects/How Minds Change/The Leadership LAB - 202307091706\|The Leadership LAB - 202307091706]]                                                         | Weight: 3 |
+| [[permanent/Intention - 202304261251\|Intention - 202304261251]]                                                                                           | Weight: 3 |
 | [[projects/How Minds Change/Elaboration - 202307131626\|Elaboration - 202307131626]]                                                                       | Weight: 2 |
 | [[projects/How Minds Change/Focus on the lived experience to change a mind - 202307091716\|Focus on the lived experience to change a mind - 202307091716]] | Weight: 2 |
 | [[projects/How Minds Change/Information Deficit Model - 202307031602\|Information Deficit Model - 202307031602]]                                           | Weight: 2 |

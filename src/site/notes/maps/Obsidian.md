@@ -33,9 +33,11 @@
 > [!info]- Concepts I've Broken Out  
 > This section breaks down fundamental concepts into manageable components. It focuses on core principles, terminology, and essential knowledge areas that form the foundation of understanding the subject matter.
 
-| Name                                                                      | Weight |
-| ------------------------------------------------------------------------- | ------ |
-| [[permanent/Idea Compass - 202306081233\|Idea Compass - 202306081233]] | 0      |
+| Name                                                                                             | Weight |
+| ------------------------------------------------------------------------------------------------ | ------ |
+| [[permanent/LATCH - 202304281226\|LATCH]]                                                     | 7      |
+| [[permanent/Idea Compass - 202306081233\|Idea Compass]]                                       | 0      |
+| [[permanent/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]] | 0      |
 
 { .block-language-dataview}
 

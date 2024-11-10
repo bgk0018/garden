@@ -8,7 +8,7 @@
 - Key, can be null
 - Value, can be null
 - Compression Type
-- [[permanent/Headers - 202303012040\|Headers]]
+- [[projects/Dallas Confluent Practice/Notes/Headers - 202303012040\|Headers]]
 - [[projects/Dallas Confluent Practice/Notes/Partitions - 202405282258\|Partition]] + [[projects/Dallas Confluent Practice/Notes/Offset - 202405282304\|Offset]]
 - Timestamp (system or user set)
 

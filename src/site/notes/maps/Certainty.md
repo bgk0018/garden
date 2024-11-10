@@ -34,8 +34,9 @@
 > [!info]- Concepts I've Broken Out  
 > This section breaks down fundamental concepts into manageable components. It focuses on core principles, terminology, and essential knowledge areas that form the foundation of understanding the subject matter.
 
-| Name | Weight |
-| ---- | ------ |
+| Name                                                                                                                                                                   | Weight |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [[projects/How Minds Change/Even journalism CEOs fall prey to persuasion through facts - 202306201733\|Even journalism CEOs fall prey to persuasion through facts]] | 0      |
 
 { .block-language-dataview}
 

@@ -50,24 +50,25 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Partition Leader - 202405302223\|Partition Leader]]                                                                 | 5      |
 | [[projects/Dallas Confluent Practice/Notes/Topic Durability - 202406011116\|Topic Durability]]                                                                 | 5      |
 | [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405302156\|Delivery Semantics]]                                                             | 4      |
-| [[projects/Dallas Confluent Practice/Notes/At Least Once Delivery - 202303012107\|At Least Once Delivery]]                                                     | 3      |
+| [[projects/Dallas Confluent Practice/Notes/Message Anatomy - 202405302129\|Message Anatomy]]                                                                   | 4      |
+| [[projects/Dallas Confluent Practice/Notes/Message Key - 202303012028\|Message Key]]                                                                           | 4      |
 | [[projects/Dallas Confluent Practice/Notes/Consumer Groups - 202405302143\|Consumer Groups]]                                                                   | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Consumer Offsets - 202405302152\|Consumer Offsets]]                                                                 | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Extended APIs for Developers - 202406021528\|Kafka Extended APIs for Developers]]                             | 3      |
-| [[projects/Dallas Confluent Practice/Notes/Message Key - 202303012028\|Message Key]]                                                                           | 3      |
-| [[projects/Dallas Confluent Practice/Notes/Message Anatomy - 202405302129\|Message Anatomy]]                                                                   | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Reliable Data Delivery - 202407152100\|Reliable Data Delivery]]                                                     | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Topic Replication Factor - 202405302220\|Topic Replication Factor]]                                                 | 3      |
+| [[projects/Dallas Confluent Practice/Notes/At Least Once Delivery - 202303012107\|At Least Once Delivery]]                                                     | 3      |
 | [[projects/Dallas Confluent Practice/Notes/Advanced Topics Configuration - 202406021522\|Advanced Topics Configuration]]                                       | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Broker Discovery - 202405302218\|Broker Discovery]]                                                                 | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Cluster - 202303012114\|Cluster]]                                                                                   | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Consumer Deserializer - 202405302142\|Consumer Deserializer]]                                                       | 2      |
-| [[projects/Dallas Confluent Practice/Notes/Exactly Once Delivery - 202303012110\|Exactly Once Delivery]]                                                       | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Horizontal Scaling - 202302211120\|Horizontal Scaling]]                                                             | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Consumer Groups CLI - 202406011147\|Kafka Consumer Groups CLI]]                                               | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Message Serializer - 202405302131\|Message Serializer]]                                                             | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Schema Registry - 202403301641\|Schema Registry]]                                                                   | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Zookeeper - 202406011120\|Zookeeper]]                                                                               | 2      |
+| [[projects/Dallas Confluent Practice/Notes/At Most Once Delivery - 202303012109\|At Most Once Delivery]]                                                       | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Exactly Once Delivery - 202303012110\|Exactly Once Delivery]]                                                       | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Advertised Listeners - 202406021523\|Advertised Listeners]]                                                         | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Apache Connect Hands-on - 202406021528\|Apache Connect Hands-on]]                                                   | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Avro in Java - 202406021524\|Avro in Java]]                                                                         | 1      |
@@ -107,6 +108,7 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Safe Producers - 202403301634\|Safe Producers]]                                                                     | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Schema Evolution Compatibility Matrix - 202404101240\|Schema Evolution Compatibility Matrix]]                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Zookeeper Setup - 202406021533\|Zookeeper Setup]]                                                                   | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Headers - 202303012040\|Headers]]                                                                                   | 1      |
 | [[projects/Dallas Confluent Practice/Datacouch CCDAK Practice Exam 2 - 202407151909\|Datacouch CCDAK Practice Exam 2]]                                         | 0      |
 | [[projects/Dallas Confluent Practice/Datacouch CCDAK Practice Exam 3 - 202407152030\|Datacouch CCDAK Practice Exam 3]]                                         | 0      |
 | [[projects/Dallas Confluent Practice/Notes/AdminClient - 202407130004\|AdminClient]]                                                                           | 0      |

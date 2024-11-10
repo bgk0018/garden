@@ -23,7 +23,7 @@ This is a [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405
 
 - [[projects/Dallas Confluent Practice/Notes/Offset - 202405282304\|Offsets]] are committed after the [[projects/Dallas Confluent Practice/Notes/Messages - 202406042227\|Message]] is processed
 - If the processing goes wrong, the [[projects/Dallas Confluent Practice/Notes/Messages - 202406042227\|Message]] will be read again
-- This can result in duplicate processing of messages and the [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumer]] needs to be able to reprocess those messages in an [[permanent/Idempotent - 202303012108\|Idempotent]] manner
+- This can result in duplicate processing of messages and the [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumer]] needs to be able to reprocess those messages in an [[projects/Dallas Confluent Practice/Notes/Idempotent - 202303012108\|Idempotent]] manner
 
 
 </div></div>
@@ -37,6 +37,7 @@ This is a [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405
 # At Most Once Delivery
 
 </div>
+
 
 
 
@@ -64,7 +65,7 @@ This is a [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405
 This is a [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405302156\|Delivery Semantics]] in which:
 
 - For Kafka to Kafka workflows: Use the Transactional API
-- Kafka to External System us an [[permanent/Idempotent - 202303012108\|Idempotent]] [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumer]]
+- Kafka to External System us an [[projects/Dallas Confluent Practice/Notes/Idempotent - 202303012108\|Idempotent]] [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumer]]
 
 
 </div></div>
