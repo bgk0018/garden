@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/vault/","tags":["🗺️"],"created":"2024-11-10T17:42:14.940-06:00","updated":"2024-11-10T17:42:30.831-06:00"}
+{"dg-publish":true,"permalink":"/maps/vault/","tags":["🗺️"],"created":"2024-11-10T17:42:14.940-06:00","updated":"2024-11-10T17:48:15.734-06:00"}
 ---
 
 
@@ -34,11 +34,12 @@
 
 | Name                                                                                                         | Weight |
 | ------------------------------------------------------------------------------------------------------------ | ------ |
-| [[permanent/LATCH - 202304281226\|LATCH]]                                                                 | 7      |
+| [[permanent/LATCH - 202304281226\|LATCH]]                                                                 | 8      |
 | [[permanent/Category organizing in Obsidian - 202304281322\|Category organizing in Obsidian]]             | 1      |
 | [[permanent/Hierarchy organizing in Obsidian - 202304281323\|Hierarchy organizing in Obsidian]]           | 1      |
 | [[permanent/Alphabet organizing in Obsidian - 202304281320\|Alphabet organizing in Obsidian]]             | 0      |
 | [[permanent/Find concepts that emerge in Obsidian - 202304281339\|Find concepts that emerge in Obsidian]] | 0      |
+| [[permanent/Time organizing on Obsidian - 202304281321\|Time organizing on Obsidian]]                     | 0      |
 | [[permanent/Idea Compass - 202306081233\|Idea Compass]]                                                   | 0      |
 | [[permanent/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]             | 0      |
 

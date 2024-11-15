@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/structural-versus-nominal-type-system-202403051455/","tags":["📖"],"created":"2024-08-29T16:40:15.096-05:00","updated":"2024-11-08T09:43:56.241-06:00"}
+{"dg-publish":true,"permalink":"/permanent/structural-versus-nominal-type-system-202403051455/","tags":["📖"],"created":"2024-08-29T16:40:15.096-05:00","updated":"2024-11-10T17:52:51.608-06:00"}
 ---
 
-# Structural versus Nominal Type System
+
+# Structural Versus Nominal Type System
 
 From ChatGPT:
 

@@ -59,8 +59,9 @@
 > [!quote]- References I've used  
 > This section maintains a curated list of learning resources including documentation, articles, videos, and other materials that contribute to understanding the topic. It serves as a bibliography of valuable information sources for future reference.
 
-| Title |
-| ----- |
+| Title                                                                                      |
+| ------------------------------------------------------------------------------------------ |
+| [[projects/The Status Game/The Status Game - Will Storr\|The Status Game - Will Storr]] |
 
 { .block-language-dataview}
 
