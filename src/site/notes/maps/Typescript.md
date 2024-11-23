@@ -39,8 +39,8 @@
 | Name                                                                                                                                    | Weight |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [[archive/2024/projects/Understanding Typescript Class/TypeScript - Decorators - 202307241633\|TypeScript - Decorators]]             | 11     |
-| [[archive/2024/projects/Understanding Typescript Class/TypeScript - Generic Function - 202310122041\|TypeScript - Generic Function]] | 0      |
 | [[archive/2024/projects/Understanding Typescript Class/TypeScript - Generic - 202310122037\|TypeScript - Generic]]                   | 0      |
+| [[archive/2024/projects/Understanding Typescript Class/TypeScript - Generic Function - 202310122041\|TypeScript - Generic Function]] | 0      |
 
 { .block-language-dataview}
 

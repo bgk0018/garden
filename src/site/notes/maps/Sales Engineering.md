@@ -23,10 +23,10 @@
 > [!example]- Projects I've Attempted  
 > This section documents hands-on experiences and practical implementations. It includes experiments, proof-of-concepts, and real-world applications that help reinforce understanding through actual usage.
 
-| Name                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------- |
-| [[projects/Southwest Airlines Sales/Southwest Airlines Sales Project\|Southwest Airlines Sales Project]] |
-| [[archive/2024/projects/Fleet Response/Fleet Response Project\|Fleet Response Project]]                  |
+| Name                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------ |
+| [[archive/2024/projects/Southwest Airlines Sales/Southwest Airlines Sales Project\|Southwest Airlines Sales Project]] |
+| [[archive/2024/projects/Fleet Response/Fleet Response Project\|Fleet Response Project]]                               |
 
 { .block-language-dataview}
 
@@ -47,7 +47,7 @@
 
 | Name                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[projects/Southwest Airlines Sales/Sales Meeting Meeting - 202409231530\|Sales Meeting Meeting - 202409231530]]                                                 |
+| [[archive/2024/projects/Southwest Airlines Sales/Sales Meeting Meeting - 202409231530\|Sales Meeting Meeting - 202409231530]]                                    |
 | [[archive/2024/projects/Fleet Response/Fleet Response Intro Meeting - 202409160925\|Fleet Response Intro Meeting - 202409160925]]                                |
 | [[archive/2023/projects/LJBCPA Sales/LJBCPA Sales Meeting - 202311210836\|LJBCPA Sales Meeting - 202311210836]]                                                  |
 | [[archive/2023/projects/Tarrant Appraisal District Sale/TAD Sales Meeting Meeting - 202310261401\|TAD Sales Meeting Meeting - 202310261401]]                     |

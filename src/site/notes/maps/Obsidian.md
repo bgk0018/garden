@@ -36,8 +36,8 @@
 | Name                                                                                             | Weight |
 | ------------------------------------------------------------------------------------------------ | ------ |
 | [[permanent/LATCH - 202304281226\|LATCH]]                                                     | 8      |
-| [[permanent/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]] | 0      |
 | [[permanent/Idea Compass - 202306081233\|Idea Compass]]                                       | 0      |
+| [[permanent/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]] | 0      |
 
 { .block-language-dataview}
 

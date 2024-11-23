@@ -35,47 +35,47 @@
 | Name                                                                                                                           | Weight |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------ |
 | [[permanent/Outcome Orientation - 202304261241\|Creator Orientation]]                                                       | 13     |
-| [[permanent/Problem Orientation - 202304201646\|Problem Orientation]]                                                       | 12     |
 | [[permanent/Problem - 202304261228\|Problem]]                                                                               | 12     |
+| [[permanent/Problem Orientation - 202304201646\|Problem Orientation]]                                                       | 12     |
 | [[permanent/Focus - 202304201649\|focus]]                                                                                   | 11     |
 | [[permanent/Outcome - 202304261242\|Outcome]]                                                                               | 10     |
-| [[permanent/Victim - 202305251726\|Victim]]                                                                                 | 8      |
 | [[permanent/Reaction - 202304261216\|react]]                                                                                | 8      |
+| [[permanent/Victim - 202305251726\|Victim]]                                                                                 | 8      |
 | [[permanent/Inner State - 202304201654\|Inner State]]                                                                       | 7      |
-| [[permanent/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic]]                                               | 6      |
-| [[permanent/Rescuer - 202305271811\|Rescuer]]                                                                               | 6      |
 | [[permanent/Dreaded Drama Triangle - 202305251725\|DDT]]                                                                    | 6      |
-| [[permanent/Result - 202304261252\|Result]]                                                                                 | 5      |
-| [[permanent/Persecutor - 202305271800\|Persecutor]]                                                                         | 5      |
-| [[permanent/Behavior - 202304201655\|Behavior]]                                                                             | 5      |
+| [[permanent/Rescuer - 202305271811\|Rescuer]]                                                                               | 6      |
+| [[permanent/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic]]                                               | 6      |
 | [[permanent/A.I.R. - 202304261249\|A.I.R.]]                                                                                 | 5      |
-| [[permanent/Mindset Shifting - 202306291518\|Mindset Shifting]]                                                             | 4      |
-| [[permanent/FISBE - 202304201647\|FISBE]]                                                                                   | 4      |
-| [[permanent/Creator - 202306271318\|Creator]]                                                                               | 4      |
+| [[permanent/Behavior - 202304201655\|Behavior]]                                                                             | 5      |
+| [[permanent/Persecutor - 202305271800\|Persecutor]]                                                                         | 5      |
+| [[permanent/Result - 202304261252\|Result]]                                                                                 | 5      |
 | [[permanent/Baby Step - 202304261244\|Baby Step]]                                                                           | 4      |
-| [[permanent/Vital Question 1 - 202304171449\|Vital Question 1]]                                                             | 3      |
-| [[permanent/Vital Question 2 - 202304171450\|Vital Question 2]]                                                             | 3      |
-| [[permanent/Vital Question 3 - 202304171451\|Vital Question 3]]                                                             | 3      |
-| [[permanent/Three dimensions of work - 202304171439\|Three dimensions of work]]                                             | 3      |
-| [[permanent/Theory Y - 202304201637\|Theory Y]]                                                                             | 3      |
-| [[permanent/Theory X - 202304201635\|Theory X]]                                                                             | 3      |
-| [[permanent/Reactive Trigger - 202304271152\|Reactive Trigger]]                                                             | 3      |
-| [[permanent/Passion - 202304261243\|Passion]]                                                                               | 3      |
-| [[permanent/Orientation - 202305280800\|Orientation]]                                                                       | 3      |
-| [[permanent/Internal Shift - 202306291522\|Inside-Out Shift]]                                                               | 3      |
-| [[permanent/Intention - 202304261251\|Intention]]                                                                           | 3      |
+| [[permanent/Creator - 202306271318\|Creator]]                                                                               | 4      |
+| [[permanent/FISBE - 202304201647\|FISBE]]                                                                                   | 4      |
+| [[permanent/Mindset Shifting - 202306291518\|Mindset Shifting]]                                                             | 4      |
 | [[permanent/Anxiety - 202304261229\|Anxiety]]                                                                               | 3      |
-| [[permanent/External Shift - 202306291523\|External Shift]]                                                                 | 2      |
-| [[permanent/Dynamic Tension - 202304171455\|Creative Tension]]                                                              | 2      |
-| [[permanent/Coach - 202306271406\|Coach]]                                                                                   | 2      |
+| [[permanent/Intention - 202304261251\|Intention]]                                                                           | 3      |
+| [[permanent/Internal Shift - 202306291522\|Inside-Out Shift]]                                                               | 3      |
+| [[permanent/Orientation - 202305280800\|Orientation]]                                                                       | 3      |
+| [[permanent/Passion - 202304261243\|Passion]]                                                                               | 3      |
+| [[permanent/Reactive Trigger - 202304271152\|Reactive Trigger]]                                                             | 3      |
+| [[permanent/Theory X - 202304201635\|Theory X]]                                                                             | 3      |
+| [[permanent/Theory Y - 202304201637\|Theory Y]]                                                                             | 3      |
+| [[permanent/Three dimensions of work - 202304171439\|Three dimensions of work]]                                             | 3      |
+| [[permanent/Vital Question 2 - 202304171450\|Vital Question 2]]                                                             | 3      |
+| [[permanent/Vital Question 1 - 202304171449\|Vital Question 1]]                                                             | 3      |
+| [[permanent/Vital Question 3 - 202304171451\|Vital Question 3]]                                                             | 3      |
 | [[permanent/Attention - 202304261250\|Attention]]                                                                           | 2      |
-| [[permanent/Victimhood - 202305271757\|Victimhood]]                                                                         | 1      |
-| [[permanent/Thoughts Feelings and Actions Exercise - 202307141112\|Thoughts Feelings and Actions Exercise]]                 | 1      |
-| [[permanent/Reactive Triggers and Strategies Exercise - 202307141117\|Reactive Triggers and Strategies Exercise]]           | 1      |
+| [[permanent/Coach - 202306271406\|Coach]]                                                                                   | 2      |
+| [[permanent/Dynamic Tension - 202304171455\|Creative Tension]]                                                              | 2      |
+| [[permanent/External Shift - 202306291523\|External Shift]]                                                                 | 2      |
 | [[permanent/Going up on the balcony - 202304271153\|Observing]]                                                             | 1      |
-| [[permanent/Focusing on outcomes categorizes your problems - 202304271148\|Focusing on outcomes categorizes your problems]] | 0      |
-| [[permanent/Differences between the Victim and the Creator - 202306271324\|Differences between the Victim and the Creator]] | 0      |
+| [[permanent/Reactive Triggers and Strategies Exercise - 202307141117\|Reactive Triggers and Strategies Exercise]]           | 1      |
+| [[permanent/Thoughts Feelings and Actions Exercise - 202307141112\|Thoughts Feelings and Actions Exercise]]                 | 1      |
+| [[permanent/Victimhood - 202305271757\|Victimhood]]                                                                         | 1      |
 | [[permanent/Behind a Complaint is a Commitment - 202306301446\|Behind a Complaint is a Commitment]]                         | 0      |
+| [[permanent/Differences between the Victim and the Creator - 202306271324\|Differences between the Victim and the Creator]] | 0      |
+| [[permanent/Focusing on outcomes categorizes your problems - 202304271148\|Focusing on outcomes categorizes your problems]] | 0      |
 
 { .block-language-dataview}
 
