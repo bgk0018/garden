@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-monitoring-for-reliability-202407152135/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:08:17.312-06:00","updated":"2024-11-10T13:41:49.798-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-monitoring-for-reliability-202407152135/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:30.976-06:00","updated":"2024-11-10T13:41:49.000-06:00"}
 ---
 
 

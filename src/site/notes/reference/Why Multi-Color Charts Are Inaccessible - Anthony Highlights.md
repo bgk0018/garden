@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/why-multi-color-charts-are-inaccessible-anthony-highlights/","title":"Why Multi-Color Charts Are Inaccessible","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.789-05:00","updated":"2024-11-08T09:44:01.004-06:00"}
+{"dg-publish":true,"permalink":"/reference/why-multi-color-charts-are-inaccessible-anthony-highlights/","title":"Why Multi-Color Charts Are Inaccessible","tags":["✂️","📰"],"created":"2024-02-16T19:23:31.714-06:00","updated":"2024-11-08T09:44:01.000-06:00"}
 ---
 
 # Why Multi-Color Charts Are Inaccessible

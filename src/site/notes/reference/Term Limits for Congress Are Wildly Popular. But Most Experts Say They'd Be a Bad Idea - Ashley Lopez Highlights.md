@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/term-limits-for-congress-are-wildly-popular-but-most-experts-say-they-d-be-a-bad-idea-ashley-lopez-highlights/","title":"Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.888-05:00","updated":"2024-11-08T09:44:00.324-06:00"}
+{"dg-publish":true,"permalink":"/reference/term-limits-for-congress-are-wildly-popular-but-most-experts-say-they-d-be-a-bad-idea-ashley-lopez-highlights/","title":"Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea","tags":["✂️","📰"],"created":"2024-03-01T16:09:41.895-06:00","updated":"2024-11-08T09:44:00.000-06:00"}
 ---
 
 # Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/obsidian/","tags":["🗺️"],"created":"2024-09-10T19:17:29.852-05:00","updated":"2024-11-15T10:19:59.844-06:00"}
+{"dg-publish":true,"permalink":"/maps/obsidian/","tags":["🗺️"],"created":"2024-09-12T16:46:19.290-05:00","updated":"2024-11-15T10:19:59.000-06:00"}
 ---
 
 
@@ -35,8 +35,8 @@
 
 | Name                                                                                             | Weight |
 | ------------------------------------------------------------------------------------------------ | ------ |
-| [[permanent/LATCH - 202304281226\|LATCH]]                                                     | 8      |
-| [[permanent/Idea Compass - 202306081233\|Idea Compass]]                                       | 0      |
+| [[permanent/LATCH - 202304281226\|LATCH]]                                                     | 9      |
+| [[permanent/Idea Compass - 202306081233\|Idea Compass]]                                       | 1      |
 | [[permanent/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]] | 0      |
 
 { .block-language-dataview}

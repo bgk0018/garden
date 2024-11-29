@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-reliability-testing-202407152130/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:07:57.650-06:00","updated":"2024-11-10T13:42:10.208-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-reliability-testing-202407152130/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:30.945-06:00","updated":"2024-11-10T13:42:10.000-06:00"}
 ---
 
 

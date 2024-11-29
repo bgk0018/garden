@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney/","title":"How Minds Change","tags":["📕"],"created":"2024-08-29T16:41:00.977-05:00","updated":"2024-11-08T09:43:57.626-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney/","title":"How Minds Change","tags":["📕"],"created":"2023-09-19T22:08:56.793-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 ![cover|150](http://books.google.com/books/content?id=-qVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)

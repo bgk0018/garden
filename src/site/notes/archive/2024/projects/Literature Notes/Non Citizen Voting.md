@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/non-citizen-voting/","tags":["📖","♣️"],"created":"2024-11-03T23:32:00.340-06:00","updated":"2024-11-08T09:43:57.941-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/non-citizen-voting/","tags":["📖","♣️"],"created":"2024-11-03T21:29:07.285-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 Claims about non-citizen voting represent a key component of broader [[archive/2024/projects/Literature Notes/Election Integrity Claims\|Election Integrity Claims]] narratives, though research shows such incidents are extremely rare.

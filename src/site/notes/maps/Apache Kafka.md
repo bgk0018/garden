@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T20:17:05.233-05:00","updated":"2024-11-21T12:15:16.206-06:00"}
+{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T17:09:11.264-05:00","updated":"2024-11-21T12:15:16.000-06:00"}
 ---
 
 
@@ -89,14 +89,14 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Kafka Connect - 202403301639\|Kafka Connect]]                                                                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Connect Source - 202406022136\|Kafka Connect Source]]                                                         | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Consumer CLI - 202406011144\|Kafka Consumer CLI]]                                                             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Idempotent Producer - 202403301634\|Idempotent Producer]]                                                           | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Internals - 202411021210\|Kafka Internals]]                                                                   | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka KRaft - 202406011123\|Kafka KRaft]]                                                                           | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Multi Cluster and MirrorMaker - 202406021530\|Kafka Multi Cluster and MirrorMaker]]                           | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Producer CLI - 202406011140\|Kafka Producer CLI]]                                                             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Idempotent Producer - 202403301634\|Idempotent Producer]]                                                           | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Security - 202406021530\|Kafka Security]]                                                                     | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Streams for Data Processing - 202406021531\|Kafka Streams for Data Processing]]                               | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Streams - 202403301640\|Kafka Streams]]                                                                       | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Streams for Data Processing - 202406021531\|Kafka Streams for Data Processing]]                               | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Topics CLI - 202406011123\|Kafka Topics CLI]]                                                                 | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka in the Enterprise for Admins - 202406021529\|Kafka in the Enterprise for Admins]]                             | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Metrics Collection - 202406062123\|Metrics Collection]]                                                             | 1      |
@@ -107,8 +107,8 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Resetting Consumer Group Offsets - 202406011212\|Resetting Consumer Group Offsets]]                                 | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Pull Model - 202303012046\|Pull Model]]                                                                             | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Safe Producers - 202403301634\|Safe Producers]]                                                                     | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Schema Evolution Compatibility Matrix - 202404101240\|Schema Evolution Compatibility Matrix]]                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Zookeeper Setup - 202406021533\|Zookeeper Setup]]                                                                   | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Schema Evolution Compatibility Matrix - 202404101240\|Schema Evolution Compatibility Matrix]]                       | 1      |
 | [[projects/Dallas Confluent Practice/Datacouch CCDAK Practice Exam 2 - 202407151909\|Datacouch CCDAK Practice Exam 2]]                                         | 0      |
 | [[projects/Dallas Confluent Practice/Datacouch CCDAK Practice Exam 3 - 202407152030\|Datacouch CCDAK Practice Exam 3]]                                         | 0      |
 | [[projects/Dallas Confluent Practice/Notes/AdminClient - 202407130004\|AdminClient]]                                                                           | 0      |
