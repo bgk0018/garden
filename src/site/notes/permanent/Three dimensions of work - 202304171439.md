@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/three-dimensions-of-work-202304171439/","tags":["📖"],"created":"2024-08-29T16:41:19.738-05:00","updated":"2024-11-10T17:56:05.000-06:00"}
+{"dg-publish":true,"permalink":"/permanent/three-dimensions-of-work-202304171439/","tags":["📖"],"created":"2023-09-19T22:09:13.906-05:00","updated":"2024-11-10T17:56:04.000-06:00"}
 ---
 
 

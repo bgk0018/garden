@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/how-is-status-and-confidence-related-202305090944/","tags":["❓","🍃"],"created":"2024-08-29T16:41:08.814-05:00","updated":"2024-11-10T17:06:35.643-06:00"}
+{"dg-publish":true,"permalink":"/permanent/how-is-status-and-confidence-related-202305090944/","tags":["❓","🍃"],"created":"2023-09-19T22:09:11.936-05:00","updated":"2024-11-10T17:06:35.000-06:00"}
 ---
 
 

@@ -17,8 +17,8 @@
 | [[permanent/Problem Orientation - 202304201646\|Problem Orientation - 202304201646]]                                                                                         | Weight: 12 |
 | [[permanent/Focus - 202304201649\|Focus - 202304201649]]                                                                                                                     | Weight: 11 |
 | [[permanent/Outcome - 202304261242\|Outcome - 202304261242]]                                                                                                                 | Weight: 10 |
+| [[permanent/Victim - 202305251726\|Victim - 202305251726]]                                                                                                                   | Weight: 9  |
 | [[permanent/Reaction - 202304261216\|Reaction - 202304261216]]                                                                                                               | Weight: 8  |
-| [[permanent/Victim - 202305251726\|Victim - 202305251726]]                                                                                                                   | Weight: 8  |
 | [[permanent/Inner State - 202304201654\|Inner State - 202304201654]]                                                                                                         | Weight: 7  |
 | [[permanent/Dreaded Drama Triangle - 202305251725\|Dreaded Drama Triangle - 202305251725]]                                                                                   | Weight: 6  |
 | [[permanent/Rescuer - 202305271811\|Rescuer - 202305271811]]                                                                                                                 | Weight: 6  |

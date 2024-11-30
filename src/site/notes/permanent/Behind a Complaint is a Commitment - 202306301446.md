@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/behind-a-complaint-is-a-commitment-202306301446/","tags":["📖"],"created":"2024-08-29T16:41:03.065-05:00","updated":"2024-11-10T17:04:51.399-06:00"}
+{"dg-publish":true,"permalink":"/permanent/behind-a-complaint-is-a-commitment-202306301446/","tags":["📖"],"created":"2023-09-19T22:09:02.325-05:00","updated":"2024-11-10T17:04:51.000-06:00"}
 ---
 
 

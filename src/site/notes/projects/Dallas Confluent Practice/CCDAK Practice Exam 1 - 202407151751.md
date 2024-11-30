@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/ccdak-practice-exam-1-202407151751/","tags":["♣️/kafka"],"created":"2024-08-29T16:38:00.826-05:00","updated":"2024-11-10T18:09:46.490-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/ccdak-practice-exam-1-202407151751/","tags":["♣️/kafka"],"created":"2024-07-14T11:23:09.820-05:00","updated":"2024-11-10T18:09:46.000-06:00"}
 ---
 
 # CCDAK Practice Exam 1

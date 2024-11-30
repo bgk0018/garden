@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/apache-kafka-series-learn-apache-kafka-for-beginners-v3-202302211109/","title":"Apache Kafka Series - Learn Apache Kafka for Beginners v3","tags":["🎓","⏱️"],"created":"2024-08-29T16:41:19.005-05:00","updated":"2024-11-10T16:22:19.959-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/apache-kafka-series-learn-apache-kafka-for-beginners-v3-202302211109/","title":"Apache Kafka Series - Learn Apache Kafka for Beginners v3","tags":["🎓","⏱️"],"created":"2023-09-19T22:09:15.187-05:00","updated":"2024-11-10T16:22:19.000-06:00"}
 ---
 
 

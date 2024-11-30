@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-evolution-compatibility-matrix-202404101240/","tags":["📖"],"created":"2024-08-29T16:38:59.714-05:00","updated":"2024-11-10T13:47:34.329-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-evolution-compatibility-matrix-202404101240/","tags":["📖"],"created":"2024-04-11T20:57:45.073-05:00","updated":"2024-11-10T13:47:34.000-06:00"}
 ---
 
 

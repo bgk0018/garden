@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explaining-to-myself-yet-again-how-this-note-taking-thing-works-202411291352/","tags":["💡","📫"],"created":"2024-11-29T13:51:43.267-06:00","updated":"2024-11-29T17:17:03.114-06:00"}
+{"dg-publish":true,"permalink":"/explaining-to-myself-yet-again-how-this-note-taking-thing-works-202411291352/","tags":["💡","📫"],"created":"2024-11-29T13:51:43.267-06:00","updated":"2024-11-29T19:48:54.671-06:00"}
 ---
 
 
@@ -59,7 +59,7 @@ That's, basically it. If you're familiar with software development at all, you'l
 - Work on your process by running an experiment
 - Repeat
 
-## But For Real, Get Some Basic Templates
+fff## But For Real, Get Some Basic Templates
 
 I'm going to try and not be too prescriptive across this set of writings, except for this:
 
@@ -198,11 +198,198 @@ Properties I think that help build context and help recall:
 - Parent
 - Tags
 - Challenges
+- Tags (See Categorizing Notes)
 
-So if I come across another conversation where we're talking about type systems, what they are, how they're used, etc. and I need to go dig out my notes on the subject, it's very possible that the things I remember are specifically my colleague and friend Michael Perry prompting the question for me, or maybe just the subject Type System, or maybe in the context of TypeScript, or maybe it was just earlier this week and I can go dig backwards through the dates and find this note (or the note that explains the answer to the question).
+So if I come across another conversation where we're talking about type systems, what they are, how they're used, etc. and I need to go dig out my notes on the subject, it's very possible that the things I remember are specifically my colleague and friend [[people/Michael Perry\|Michael Perry]] prompting the question for me, or maybe just the subject Type System, or maybe in the context of TypeScript, or maybe it was just earlier this week and I can go dig backwards through the dates and find this note (or the note that explains the answer to the question).
 
 You get the idea. Remember, you're leaving breadcrumbs to find your way back to previous context that you found valuable.
 
 ## Categorizing Notes
+
+Categorizing notes is in my mind generally a mutually exclusive process. This is generally denoted as a 'note type' and I treat different note types differently. This is another way I contextualize my notes for rediscovery and recall.
+
+### How I Categorize
+
+For reference, I think this is still an exhaustive list of my note types. I use emojis in tags and tags represent a note type. I mainly do emojis because there's so much text already, I like the little bit of color.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/creations/current-tags-202303181855/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+| Tag          | Description                                                                       |
+| ------------ | --------------------------------------------------------------------------------- |
+| #🗺️         | Map of Content                                                                    |
+| #📖          | Literature Note                                                                   |
+| #💡          | My Idea / Creation                                                                |
+| #❓           | My Question                                                                       |
+| #📫 / #inbox | Inbox                                                                             |
+| #🍃          | Fleeting                                                                          |
+| #👥          | Meeting                                                                           |
+| #⏱️          | Temporal Note                                                                     |
+| #✂️          | Highlights or Quotes                                                              |
+| #📰          | Article                                                                           |
+| #🎓          | Course                                                                            |
+| #🎧          | Podcast                                                                           |
+| #🎥          | Video                                                                             |
+| #📕          | Book                                                                              |
+| #🙂          | Person note in the vault, likely have had personal interaction with               |
+| #🗣️         | Talk                                                                              |
+| #📌          | Location                                                                          |
+| #🚧          | Project                                                                           |
+| #📋          | Task, only used inline, not as a note type                                        |
+| #daily       | Daily journal entry                                                               |
+| #weekly      | Weekly journal entry                                                              |
+| #monthly     | Monthly journal entry                                                             |
+| #quarterly   | Quarterly journal entry                                                           |
+| #yearly      | Yearly journal entry                                                              |
+
+
+</div></div>
+
+
+Sometimes a note ends up with two types on it. It's not preferred, but if I see an old note that seems to be pulling double duty and I don't want to split it out quite yet, it's much easier for me to just mark the note with 2 note types and call it done. "Good enough is good enough", [[people/Tim Rayburn\|Tim Rayburn]].
+
+You can refer to the question example above and see the note type in action.
+
+You don't like this approach? Don't let me stop you from experimenting with something else. You can be as simple or complex in your organizing as you'd like, this has just worked well for me so far.
+
+### Jeebus That's a Lot of Note Types
+
+![Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352-20241129192913779.webp](/img/user/assets/Explaining%20to%20Myself%20Yet%20Again%20How%20This%20Note-Taking%20Thing%20Works%20-%20202411291352-20241129192913779.webp)
+
+Yeah. Agreed. Maybe there's some way to simplify it. For example, I probably don't need all the different types of reference material tagged independently. Articles, classes, videos, books, and podcasts all serve as an input to my system and probably could all be classified as such.
+
+On the other hand, how I go about processing any of that input could vary from type to type. Plus what else am I going to do with all these emojis?
+
+Really there's just a couple categories:
+
+- Reference Notes
+- Temporal Notes
+- Literature Notes
+- Journal Notes
+
+#### Reference Notes
+
+These are notes that basically sit around as pointers in my vault.
+
+- Books
+- Podcasts
+- Articles
+- Videos
+- Projects
+- People
+
+Many of them are generated through a series of different collection processes I use. For example, I use [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) to add a Book Note to the vault. I'll use the [Obsidian Web Clipper](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf?pli=1) to snag articles for "read it later" or videos I want to watch later.
+
+Primarily, once these notes are created, I never touch them again. I want this as reference material. I don't want to go to these things for information about what I think. Likewise, I want to refer to them in notes about what I think (my own personal bibliography).
+
+As I've gotten along in life and my career, there are all these opinions I've synthesized about how I should think about different aspects of both, and for the life of me it gets harder and harder to reference out to where I picked these things up. Nothing is more dissatisfying to me than having to fall back to 'I think it's because...' when attempting to make a persuasive argument.
+
+Hanging onto this reference material, linking to who was responsible for introducing me, etc. makes it easy enough for me to trace back and rebuild the context where that opinion came from.
+
+#### Temporal Notes
+
+These are notes that I took at the time of something transpiring.
+
+- Talk
+- Presentation
+- Watching a video (though that's changing I think)
+- Reading a physical book like a Philistine, whatever
+- "Fleeting" Notes
+
+Technically, meeting notes fall in this category, but I have them broken out as their own note type. If you're looking for absolute consistency in this system you've come to the wrong place.
+
+I will justify meeting notes as a separate entity, as I actually do put a few other constraints on them, I don't for general temporal notes. I'll get into those later when I get down to task and project management .
+
+Either way, these notes usually follow along in time to the content I'm consuming. Reading top to bottom, you can understand generally the order that the event I was recording was being presented in.
+
+I consider these notes as disposable. What I want to be able to do is refer back to them for a short period of time, and then either archive them away or delete them entirely. It's possible these end up informing [[Literature Notes\|Literature Notes]], if they do, I'll need to figure out how to reference that material because sometimes I like to have quotes in the lit notes.
+
+Whatever, giant gaping hole in my current process, sue me.
+
+#### Literature Notes
+
+Atomic Notes.
+
+- Idea Notes
+- Question Notes
+- Literature Notes
+- Maps of Content (Maybe?)
+
+One note represents one idea. Some smart guy came up with it. I think it's mostly from [[reference/How to Take Smart Notes - Sönke Ahrens\|How to Take Smart Notes]]. I never read it, but I watched and listened to a bunch of other smart people talk about it.
+
+Honestly, it's a nice process. This is where I can interlink a bunch of note ideas using my context building process above on a given subject. This allows for a place for other interesting things to be sorted into as well.
+
+For example, I've deep dived into the [[maps/Apache Kafka\|Apache Kafka]] world and a lot of the notes you find in there are literature notes about the content. Since I'm also studying at the time of the writing to get certified, there's a ton of 'flashcards' under each of those notes which worked out well.
+
+Some other supporting notes that technically aren't literature notes in the Sönke Ahrens definition are idea notes which represent my own personal musings, question notes which represent a linkage I'd like to explore at some point but is tangential to the content I'm covering right now, and Maps of Content, which honestly just provide a way to view the 'tree' of note relationships for all the literature notes. Just see the [[maps/Apache Kafka\|Apache Kafka]] or [[maps/The Empowerment Dynamic\|The Empowerment Dynamic]] Maps of Content to understand what I'm saying.
+
+[[permanent/Victim - 202305251726\|Example Literature Note]]:
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/victim-202305251726/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Victim
+
+</div>
+
+
+
+
+# Content
+
+The central role in the [[permanent/Dreaded Drama Triangle - 202305251725\|Dreaded Drama Triangle]].
+
+This is characterized by when something you want you feel powerless to enact.[^1]
+
+This role is driven by the [[permanent/Fear - 202409220942\|Fear]] of a [[permanent/Persecutor - 202305271800\|Persecutor]] and tries to find a [[permanent/Rescuer - 202305271811\|Rescuer]].
+
+There is always a [[permanent/Persecutor - 202305271800\|Persecutor]] when you take on a [[permanent/Victim - 202305251726\|Victim]] role.[^2]
+
+# References
+
+[^1]: 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-521905051" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!QUOTE]  
+>“The central role in the DDT is the role of Victim, Lucas. And here’s a rule you can go by: anytime you find yourself complaining—whenever there is something you want or care about that you feel powerless to have, do, or be—then you know you’re stuck in the Victim role,” ([Location 836](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=836)) #✂️  
+
+</div></div>
+  
+[^2]: 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-521905053" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+>[!QUOTE]  
+>anytime you—or anyone else—inhabits the Victim role, there has to be a Persecutor. ([Location 854](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=854)) #✂️  
+
+</div></div>
+
+
+
+</div></div>
+
+
+#### Journal Notes
+
+These notes are exactly what they sound like. I tend to keep my habit tracking in these notes. It's also where I dump just random things to come back to. Technically I have weekly, monthly, quarterly, and yearly notes as well. I think I originally intended to have these as 'roll ups' of the vault over time and my life.
+
+Frankly, I'm just not there yet. I'm not sure what to track at anything above weekly. The weekly view is nice however for balancing my tasks throughout the week so I don't have 20 things rain down on me when I could've spread them out more.
+
+Example Daily Note:
+
+![Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352-20241129194758135.webp](/img/user/assets/Explaining%20to%20Myself%20Yet%20Again%20How%20This%20Note-Taking%20Thing%20Works%20-%20202411291352-20241129194758135.webp)
+
+Aaaand Weekly
+
+![Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352-20241129194842264.webp](/img/user/assets/Explaining%20to%20Myself%20Yet%20Again%20How%20This%20Note-Taking%20Thing%20Works%20-%20202411291352-20241129194842264.webp)
 
 ## References

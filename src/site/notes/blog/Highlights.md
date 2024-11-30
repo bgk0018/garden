@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/highlights/","created":"2024-08-29T16:41:03.081-05:00","updated":"2024-11-10T14:33:39.709-06:00"}
+{"dg-publish":true,"permalink":"/blog/highlights/","created":"2023-09-19T22:08:54.541-05:00","updated":"2024-11-10T14:33:39.000-06:00"}
 ---
 
 

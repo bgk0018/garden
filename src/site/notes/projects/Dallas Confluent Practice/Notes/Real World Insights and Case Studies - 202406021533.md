@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/real-world-insights-and-case-studies-202406021533/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:54.992-05:00","updated":"2024-11-10T13:47:03.841-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/real-world-insights-and-case-studies-202406021533/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:19:41.212-05:00","updated":"2024-11-10T13:47:03.000-06:00"}
 ---
 
 

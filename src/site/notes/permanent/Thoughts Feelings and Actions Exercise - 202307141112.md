@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/permanent/thoughts-feelings-and-actions-exercise-202307141112/","tags":["📖"],"created":"2024-08-29T16:41:03.003-05:00","updated":"2024-11-10T17:55:43.313-06:00"}
+{"dg-publish":true,"permalink":"/permanent/thoughts-feelings-and-actions-exercise-202307141112/","tags":["📖"],"created":"2023-09-19T22:08:56.778-05:00","updated":"2024-11-10T17:55:43.000-06:00"}
 ---
 
 

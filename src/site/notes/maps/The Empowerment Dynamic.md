@@ -39,8 +39,8 @@
 | [[permanent/Problem Orientation - 202304201646\|Problem Orientation]]                                                       | 12     |
 | [[permanent/Focus - 202304201649\|focus]]                                                                                   | 11     |
 | [[permanent/Outcome - 202304261242\|Outcome]]                                                                               | 10     |
+| [[permanent/Victim - 202305251726\|Victim]]                                                                                 | 9      |
 | [[permanent/Reaction - 202304261216\|react]]                                                                                | 8      |
-| [[permanent/Victim - 202305251726\|Victim]]                                                                                 | 8      |
 | [[permanent/Inner State - 202304201654\|Inner State]]                                                                       | 7      |
 | [[permanent/Dreaded Drama Triangle - 202305251725\|DDT]]                                                                    | 6      |
 | [[permanent/Rescuer - 202305271811\|Rescuer]]                                                                               | 6      |

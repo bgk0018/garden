@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/decker-and-39-s-video-game-rescue-agency-a-m-luzzader-and-anna-m-clark-highlights/","title":"Decker&#39;s Video Game Rescue Agency","tags":["✂️","📚"],"created":"2024-11-10T15:45:54.343-06:00","updated":"2024-11-10T15:45:55.823-06:00"}
+{"dg-publish":true,"permalink":"/notes/decker-and-39-s-video-game-rescue-agency-a-m-luzzader-and-anna-m-clark-highlights/","title":"Decker&#39;s Video Game Rescue Agency","tags":["✂️","📚"],"created":"2024-09-27T17:46:13.566-05:00","updated":"2024-11-10T15:45:55.000-06:00"}
 ---
 
 # Decker&#39;s Video Game Rescue Agency

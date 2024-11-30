@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/high-watermark-and-message-visibility-202407152200/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:12:26.104-06:00","updated":"2024-11-10T13:37:34.594-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/high-watermark-and-message-visibility-202407152200/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:31.153-06:00","updated":"2024-11-10T13:37:34.000-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/i-am-struggling-all-alone-says-a-widowed-ethiopian-mother-of-6-now-there-s-hope-willem-marx-highlights/","title":"'I Am Struggling All Alone,' Says a Widowed Ethiopian Mother of 6. Now There's Hope","tags":["✂️","📰"],"created":"2024-09-09T04:18:47.321-05:00","updated":"2024-11-08T09:43:59.322-06:00"}
+{"dg-publish":true,"permalink":"/reference/i-am-struggling-all-alone-says-a-widowed-ethiopian-mother-of-6-now-there-s-hope-willem-marx-highlights/","title":"'I Am Struggling All Alone,' Says a Widowed Ethiopian Mother of 6. Now There's Hope","tags":["✂️","📰"],"created":"2024-09-08T17:33:21.805-05:00","updated":"2024-11-08T09:43:59.000-06:00"}
 ---
 
 # 'I Am Struggling All Alone,' Says a Widowed Ethiopian Mother of 6. Now There's Hope

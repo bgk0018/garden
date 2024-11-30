@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/k-streams-and-k-tables-simple-operations-stateless-202406021532/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:54.923-05:00","updated":"2024-11-10T13:44:10.744-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/k-streams-and-k-tables-simple-operations-stateless-202406021532/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:20:12.919-05:00","updated":"2024-11-10T13:44:10.000-06:00"}
 ---
 
 
