@@ -54,8 +54,8 @@
 | [[archive/2023/projects/OneTechnology/One Technologies Sale Meeting - 202309221101\|One Technologies Sale Meeting - 202309221101]]                               |
 | [[archive/2023/projects/Influxer Sales/Pawel Conversation Meeting - 202308251351\|Pawel Conversation Meeting - 202308251351]]                                    |
 | [[archive/2023/projects/Influxer Sales/Influxer with Skyler Meeting - 202308231015\|Influxer with Skyler Meeting - 202308231015]]                                |
-| [[archive/2023/projects/Influxer Sales/Influxer Meeting - 202307191309\|Influxer Meeting - 202307191309]]                                                        |
 | [[archive/2023/projects/Influxer Sales/Influxer Meeting - 202308211317\|Influxer Meeting - 202308211317]]                                                        |
+| [[archive/2023/projects/Influxer Sales/Influxer Meeting - 202307191309\|Influxer Meeting - 202307191309]]                                                        |
 | [[archive/2023/projects/OneTechnology/One Technology Architect Discussion Meeting - 202308101451\|One Technology Architect Discussion Meeting - 202308101451]]   |
 | [[archive/2023/projects/OneTechnology/One Technologies Follow Up Meeting - 202307281448\|One Technologies Follow Up Meeting - 202307281448]]                     |
 | [[archive/2023/projects/OneTechnology/One Technologies Client Introduction Meeting - 202307171128\|One Technologies Client Introduction Meeting - 202307171128]] |

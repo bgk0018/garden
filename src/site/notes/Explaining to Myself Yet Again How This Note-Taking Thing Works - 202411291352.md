@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explaining-to-myself-yet-again-how-this-note-taking-thing-works-202411291352/","tags":["💡","📫"],"created":"2024-11-29T13:51:43.267-06:00","updated":"2024-11-29T19:48:54.671-06:00"}
+{"dg-publish":true,"permalink":"/explaining-to-myself-yet-again-how-this-note-taking-thing-works-202411291352/","tags":["💡","📫"],"created":"2024-11-29T13:51:43.267-06:00","updated":"2024-11-29T21:38:32.152-06:00"}
 ---
 
 
@@ -59,11 +59,11 @@ That's, basically it. If you're familiar with software development at all, you'l
 - Work on your process by running an experiment
 - Repeat
 
-fff## But For Real, Get Some Basic Templates
+## But For Real, Get Some Basic Templates
 
 I'm going to try and not be too prescriptive across this set of writings, except for this:
 
-Learn 'Templates' plugin or go big and upgrade to [Templater](https://github.com/SilentVoid13/Templater). This is going to multiply your consistency across notes one hundred-fold Just do it.
+Learn 'Templates' plugin or go big and upgrade to [Templater](https://github.com/SilentVoid13/Templater). This is going to multiply your consistency across notes one hundred-fold. Just do it.
 
 I can make my templater templates available, just ask, just recognize they may only work like 60% in total since they have certain expectations to my vault.
 
@@ -271,7 +271,7 @@ Really there's just a couple categories:
 - Literature Notes
 - Journal Notes
 
-#### Reference Notes
+### Reference Notes
 
 These are notes that basically sit around as pointers in my vault.
 
@@ -290,11 +290,12 @@ As I've gotten along in life and my career, there are all these opinions I've sy
 
 Hanging onto this reference material, linking to who was responsible for introducing me, etc. makes it easy enough for me to trace back and rebuild the context where that opinion came from.
 
-#### Temporal Notes
+### Temporal Notes
 
 These are notes that I took at the time of something transpiring.
 
 - Talk
+- Highlights
 - Presentation
 - Watching a video (though that's changing I think)
 - Reading a physical book like a Philistine, whatever
@@ -306,11 +307,11 @@ I will justify meeting notes as a separate entity, as I actually do put a few ot
 
 Either way, these notes usually follow along in time to the content I'm consuming. Reading top to bottom, you can understand generally the order that the event I was recording was being presented in.
 
-I consider these notes as disposable. What I want to be able to do is refer back to them for a short period of time, and then either archive them away or delete them entirely. It's possible these end up informing [[Literature Notes\|Literature Notes]], if they do, I'll need to figure out how to reference that material because sometimes I like to have quotes in the lit notes.
+I consider these notes as generally disposable. What I want to be able to do is refer back to them for a short period of time, and then either archive them away or delete them entirely. It's possible these end up informing [[Literature Notes\|Literature Notes]], if they do, I'll need to figure out how to reference that material because sometimes I like to have quotes in the lit notes. In fact, highlights of books technically fall in here also, and I definitely want to reference those long term.
 
 Whatever, giant gaping hole in my current process, sue me.
 
-#### Literature Notes
+### Literature Notes
 
 Atomic Notes.
 
@@ -378,7 +379,7 @@ There is always a [[permanent/Persecutor - 202305271800\|Persecutor]] when you t
 </div></div>
 
 
-#### Journal Notes
+### Journal Notes
 
 These notes are exactly what they sound like. I tend to keep my habit tracking in these notes. It's also where I dump just random things to come back to. Technically I have weekly, monthly, quarterly, and yearly notes as well. I think I originally intended to have these as 'roll ups' of the vault over time and my life.
 
@@ -391,5 +392,46 @@ Example Daily Note:
 Aaaand Weekly
 
 ![Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352-20241129194842264.webp](/img/user/assets/Explaining%20to%20Myself%20Yet%20Again%20How%20This%20Note-Taking%20Thing%20Works%20-%20202411291352-20241129194842264.webp)
+
+## Task Management
+
+Task management is relatively easy. Luckily the [Tasks Plugin](https://github.com/obsidian-tasks-group/obsidian-tasks) exists and I use some very basic functionality for it. I used to have a much more complicated setup, but now, I have a singular note that just happens my current list of tasks available. I actually have some work to do in this area. I want a way to remind myself of open projects, and I use a recurring task for this but what ends up actually happening is I just see a flood of... well... this:
+
+![Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352-20241129212149579.webp](/img/user/assets/Explaining%20to%20Myself%20Yet%20Again%20How%20This%20Note-Taking%20Thing%20Works%20-%20202411291352-20241129212149579.webp)
+
+It's not great. I'll solve it. One day.
+
+If you end up getting the Task plugin installed, here's the query I use:
+
+```
+not done
+path does not include templates OR archive
+((due before today) OR (due on today)) OR ((scheduled before today) OR (scheduled on today))
+short mode
+```
+
+The great thing about contextualizing your notes, is you can actually drop tasks into the notes in which they arose. I find this super helpful if I need to link from the task view back to where that task originated from for additional context. If I do it write, I don't need that context, but it's there if I do. These often come from meetings or maybe a problem I'm working on at work in a fleeting note I'm capturing over the life of that problem I'm solving.
+
+You might also notice that all my tasks have an associated project. This is on purpose. 99% of the time a task is never done in isolation of other related work. Does it happen? Occasionally, that's why I said 99%.
+
+## Project Management
+
+Projects took me forever to figure out how I wanted to manage. What the hell is a project anyways? I ended up stealing from [[reference/Getting Things Done - David Allen\|Getting Things Done]] and [[The PARA Method\|The PARA Method]] from [[reference/Building a Second Brain - Tiago Forte\|Building a Second Brain]], or at least from [[Tiago Forte\|Tiago Forte]], I never read the second brain book. Long and short of it;
+
+- Does it take more than one task to accomplish? Project
+- Did someone make a meeting about it? Project
+- Are you producing and hanging onto reference material related to a subject? Project
+
+Reading a book is a project. Planning a trip is a project. Do you have a 'why' and 'what' you're trying to accomplish that requires a 'how'? Congrats, you have a project. Yes, that does mean 'Developing My Note-Taking System' is a project. So make sure you're working on the right thing at the right time.
+
+Projects are like, one of 3 folders in my vault that actually have folders in them on purpose (I hate folders). I didn't full embrace the PARA method, but you bet I stole the idea of using a project folder to group together all related content necessary to complete that project. Once a project is done, I sort through the leftover notes and decide if it's reference material, material that needs to be further broken down, written about, etc., or just archived.
+
+Most stuff goes to archive.
+
+Here's my Apache Kafka Folder:
+
+![Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352-20241129213710552.webp](/img/user/assets/Explaining%20to%20Myself%20Yet%20Again%20How%20This%20Note-Taking%20Thing%20Works%20-%20202411291352-20241129213710552.webp)
+
+Loooooooots of notes in there currently. Eventually I will release it all back into 'genpop' but since I'm actively working on it, it's easier to leave here.
 
 ## References
