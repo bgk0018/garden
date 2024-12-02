@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/maps-of-content/","created":"2024-11-10T15:47:50.039-06:00","updated":"2024-11-10T14:36:00.000-06:00"}
+{"dg-publish":true,"permalink":"/blog/maps-of-content/","created":"2024-11-10T14:33:19.988-06:00","updated":"2024-11-10T14:36:00.960-06:00"}
 ---
 
 
@@ -22,7 +22,6 @@ A Map of Content (MOC) serves as a navigational hub in your digital notes. Like 
 | [[maps/Election 2024\|Election 2024]]                                  | \-          |
 | [[maps/Home Server\|Home Server]]                                      | \-          |
 | [[maps/Learning\|Learning]]                                            | \-          |
-| [[maps\|maps]]                                                         | \-          |
 | [[maps/Obsidian\|Obsidian]]                                            | \-          |
 | [[maps/Psychology\|Psychology]]                                        | \-          |
 | [[maps/Sales Engineering\|Sales Engineering]]                          | \-          |

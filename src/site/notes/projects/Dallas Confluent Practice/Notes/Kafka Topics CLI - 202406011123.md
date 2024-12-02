@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-topics-cli-202406011123/","tags":["♣️/kafka","📖"],"created":"2024-06-01T11:23:48.289-05:00","updated":"2024-11-10T13:42:48.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-topics-cli-202406011123/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:55.152-05:00","updated":"2024-11-10T13:42:48.074-06:00"}
 ---
 
 

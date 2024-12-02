@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["♣️/kafka","📖"],"created":"2024-03-30T16:41:15.157-05:00","updated":"2024-11-10T13:47:55.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-202403301641/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:59.810-05:00","updated":"2024-11-10T13:47:55.884-06:00"}
 ---
 
 

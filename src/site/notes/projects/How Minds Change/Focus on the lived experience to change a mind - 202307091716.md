@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/focus-on-the-lived-experience-to-change-a-mind-202307091716/","tags":["📖"],"created":"2023-09-19T22:08:58.216-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/focus-on-the-lived-experience-to-change-a-mind-202307091716/","tags":["📖"],"created":"2024-08-29T16:41:00.792-05:00","updated":"2024-11-08T09:43:57.613-06:00"}
 ---
 
 # Content

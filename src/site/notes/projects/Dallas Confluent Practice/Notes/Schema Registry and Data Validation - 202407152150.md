@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-and-data-validation-202407152150/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:31.073-06:00","updated":"2024-11-10T13:48:10.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/schema-registry-and-data-validation-202407152150/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:10:03.333-06:00","updated":"2024-11-10T13:48:10.754-06:00"}
 ---
 
 

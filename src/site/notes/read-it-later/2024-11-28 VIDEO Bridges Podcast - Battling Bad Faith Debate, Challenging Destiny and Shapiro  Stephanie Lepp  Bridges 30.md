@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2024-11-28-video-bridges-podcast-battling-bad-faith-debate-challenging-destiny-and-shapiro-stephanie-lepp-bridges-30/","title":"https://i.ytimg.com/vi/VEQFWT2WIPs/maxresdefault.jpg","tags":["🎥"],"created":"2024-11-29T13:44:24.875-06:00","updated":"2024-11-29T13:46:46.340-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2024-11-28-video-bridges-podcast-battling-bad-faith-debate-challenging-destiny-and-shapiro-stephanie-lepp-bridges-30/","title":"https://i.ytimg.com/vi/VEQFWT2WIPs/maxresdefault.jpg","tags":["🎥"],"created":"2024-11-30T19:03:13.575-06:00","updated":"2024-11-30T19:12:13.829-06:00"}
 ---
 
 

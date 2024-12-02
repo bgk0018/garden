@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/zookeeper-setup-202406021533/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:21:54.489-05:00","updated":"2024-11-10T13:52:23.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/zookeeper-setup-202406021533/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:55.040-05:00","updated":"2024-11-10T13:52:23.189-06:00"}
 ---
 
 

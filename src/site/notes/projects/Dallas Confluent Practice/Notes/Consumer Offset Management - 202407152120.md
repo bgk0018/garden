@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-offset-management-202407152120/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:30.578-06:00","updated":"2024-11-10T13:36:03.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-offset-management-202407152120/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:05:47.611-06:00","updated":"2024-11-10T13:36:03.497-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/highlights/","created":"2023-09-19T22:08:54.541-05:00","updated":"2024-11-10T14:33:39.000-06:00"}
+{"dg-publish":true,"permalink":"/blog/highlights/","created":"2024-08-29T16:41:03.081-05:00","updated":"2024-11-10T14:33:39.709-06:00"}
 ---
 
 
@@ -81,5 +81,6 @@
 | [[reference/World's Most Popular Painkiller Raises Heart Attack Risk - Richard Knox Highlights\|World's Most Popular Painkiller Raises Heart Attack Risk - Richard Knox Highlights]]                                                                                                                                                                         |
 | [[reference/‘Everybody Outside of the Top Is Suffering’ How Stress Is Harming America’s Health - Washington Post Highlights\|‘Everybody Outside of the Top Is Suffering’ How Stress Is Harming America’s Health - Washington Post Highlights]]                                                                                                               |
 | [[reference/“Getting Things Done” - web-archive.southampton.ac.uk Highlights\|“Getting Things Done” - web-archive.southampton.ac.uk Highlights]]                                                                                                                                                                                                             |
+| [[notes/Pet Magic - A.M. Luzzader and Joshua Bostwick Highlights\|Pet Magic - A.M. Luzzader and Joshua Bostwick Highlights]]                                                                                                                                                                                                                                 |
 
 { .block-language-dataview}

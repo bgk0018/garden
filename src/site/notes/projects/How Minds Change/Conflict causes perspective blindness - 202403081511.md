@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/conflict-causes-perspective-blindness-202403081511/","tags":["📖"],"created":"2024-03-08T16:54:22.713-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/conflict-causes-perspective-blindness-202403081511/","tags":["📖"],"created":"2024-08-29T16:38:59.354-05:00","updated":"2024-11-08T09:43:57.584-06:00"}
 ---
 
 # Conflict causes perspective blindness
 
-[[people/Lee Ross\|Lee Ross]] noted that when doing conflict resolution where the stakes are high, people rarely consider the other's perspective unless asked to do so.[^1][^2]
+[[reference/Lee Ross\|Lee Ross]] noted that when doing conflict resolution where the stakes are high, people rarely consider the other's perspective unless asked to do so.[^1][^2]
 
 ## References
 

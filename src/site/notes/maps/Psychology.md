@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/psychology/","tags":["🗺️"],"created":"2024-11-12T06:18:07.401-06:00","updated":"2024-11-10T17:41:53.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/psychology/","tags":["🗺️"],"created":"2024-11-10T17:30:07.814-06:00","updated":"2024-11-10T17:41:53.731-06:00"}
 ---
 
 
@@ -12,9 +12,9 @@
 > [!bulb]- Ideas and Questions I've Captured  
 > This section captures brainstorming sessions, potential applications, and questions that emerge during learning. It serves as a space for documenting creative thoughts, implementation possibilities, and areas that need further exploration.
 
-| Name                                                                         |
-| ---------------------------------------------------------------------------- |
-| [[permanent/Is venting beneficial - 202403051533\|Is venting beneficial]] |
+| Name                                                                            |
+| ------------------------------------------------------------------------------- |
+| [[zettelkasten/Is venting beneficial - 202403051533\|Is venting beneficial]] |
 
 { .block-language-dataview}
 
@@ -37,10 +37,10 @@
 | -------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [[projects/How Minds Change/Elaboration - 202307131626\|Elaboration]]                                                         | 2      |
 | [[projects/How Minds Change/Belief-Change Blindness - 202307131621\|Belief-Change Blindness]]                                 | 1      |
-| [[projects/How Minds Change/Consistency Bias - 202307131624\|Consistency Bias]]                                               | 0      |
-| [[projects/How Minds Change/Illusion of explanatory depth - 202307131637\|Illusion of explanatory depth]]                     | 0      |
-| [[projects/How Minds Change/Subjective Experience - 202403151541\|Subjective Experience]]                                     | 0      |
 | [[projects/How Minds Change/The brain sacrifices accuracy for speed - 202307131632\|The brain sacrifices accuracy for speed]] | 0      |
+| [[projects/How Minds Change/Illusion of explanatory depth - 202307131637\|Illusion of explanatory depth]]                     | 0      |
+| [[projects/How Minds Change/Consistency Bias - 202307131624\|Consistency Bias]]                                               | 0      |
+| [[projects/How Minds Change/Subjective Experience - 202403151541\|Subjective Experience]]                                     | 0      |
 
 { .block-language-dataview}
 
@@ -70,8 +70,8 @@
 > [!QUESTION]- Other Files
 > A catch all so I can appropriately categorize files I deemed related but have not appropriately tagged.
 
-| Title                            |
-| -------------------------------- |
-| [[people/Lee Ross\|Lee Ross]] |
+| Title                               |
+| ----------------------------------- |
+| [[reference/Lee Ross\|Lee Ross]] |
 
 { .block-language-dataview}

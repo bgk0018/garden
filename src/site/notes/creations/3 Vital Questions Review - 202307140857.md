@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/creations/3-vital-questions-review-202307140857/","tags":["💡"],"created":"2023-09-19T22:08:56.793-05:00","updated":"2024-11-08T09:43:52.000-06:00"}
+{"dg-publish":true,"permalink":"/creations/3-vital-questions-review-202307140857/","tags":["💡"],"created":"2024-08-29T16:41:02.845-05:00","updated":"2024-11-08T09:43:52.562-06:00"}
 ---
 
 # 3 Vital Questions Review
@@ -27,7 +27,7 @@
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/three-dimensions-of-work-202304171439/#three-dimensions-of-work" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/three-dimensions-of-work-202304171439/#three-dimensions-of-work" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -38,7 +38,7 @@
 
 # Three Dimensions of Work
 
-An observation by [[people/Douglas Engelbart\|Douglas Engelbart]] that every organization has three dimensions of work. Where each affect the next one down.[^1]
+An observation by [[reference/Douglas Engelbart\|Douglas Engelbart]] that every organization has three dimensions of work. Where each affect the next one down.[^1]
 
 - The way we think about how we think, interact, and take action - The design and implementation of the systems, process, and structures that enable work to be done - The production and delivery of products or services
 
@@ -66,7 +66,7 @@ An observation by [[people/Douglas Engelbart\|Douglas Engelbart]] that every org
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/theory-of-employee-motivation-202305280808/#theory-of-employee-motivation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/theory-of-employee-motivation-202305280808/#theory-of-employee-motivation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -77,7 +77,7 @@ An observation by [[people/Douglas Engelbart\|Douglas Engelbart]] that every org
 
 # Theory of Employee Motivation
 
-Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on employee motivation that addresses thinking about how we think, interact, and act. It is composed of [[permanent/Theory X - 202304201635\|Theory X]] and [[permanent/Theory Y - 202304201637\|Theory Y]].[^1]
+Proposed by [[reference/Douglas McGregor\|Douglas McGregor]], the theory focuses on employee motivation that addresses thinking about how we think, interact, and act. It is composed of [[zettelkasten/Theory X - 202304201635\|Theory X]] and [[zettelkasten/Theory Y - 202304201637\|Theory Y]].[^1]
 
 ## References
 
@@ -99,7 +99,7 @@ Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/theory-x-202304201635/#theory-x" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/theory-x-202304201635/#theory-x" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -110,7 +110,7 @@ Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on
 
 # Theory X
 
-[[people/Douglas McGregor\|Douglas McGregor]]'s theory of employee motivation that implies that people are basically lazy and will avoid work if they can and so they need to be controlled and threatened if they do not perform. Employees are seen as [[permanent/Problem - 202304261228\|Problems]].[^1]
+[[reference/Douglas McGregor\|Douglas McGregor]]'s theory of employee motivation that implies that people are basically lazy and will avoid work if they can and so they need to be controlled and threatened if they do not perform. Employees are seen as [[zettelkasten/Problem - 202304261228\|Problems]].[^1]
 
 ## References
 
@@ -132,7 +132,7 @@ Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/theory-y-202304201637/#theory-y" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/theory-y-202304201637/#theory-y" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -143,7 +143,7 @@ Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on
 
 # Theory Y
 
-[[people/Douglas McGregor\|Douglas McGregor]]'s theory of employee motivation that assumes that employees are inherently self-motivated and seek out work to create products and services that meet the needs of others.[^1]
+[[reference/Douglas McGregor\|Douglas McGregor]]'s theory of employee motivation that assumes that employees are inherently self-motivated and seek out work to create products and services that meet the needs of others.[^1]
 
 ## References
 
@@ -165,7 +165,7 @@ Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/change-initiatives-fail-because-we-focus-on-the-wrong-dimension-202304201639/#change-initiatives-fail-because-we-focus-on-the-wrong-dimension" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/change-initiatives-fail-because-we-focus-on-the-wrong-dimension-202304201639/#change-initiatives-fail-because-we-focus-on-the-wrong-dimension" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -176,8 +176,8 @@ Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on
 
 # Change Initiatives Fail Because We Focus on the Wrong Dimension
 
-[[people/David Emerald\|David Emerald]] contends that because we [[permanent/Focus - 202304201649\|focus]] on 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/three-dimensions-of-work-202304171439/#e3071f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+[[reference/David Emerald\|David Emerald]] contends that because we [[zettelkasten/Focus - 202304201649\|focus]] on 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/three-dimensions-of-work-202304171439/#e3071f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -188,7 +188,7 @@ Proposed by [[people/Douglas McGregor\|Douglas McGregor]], the theory focuses on
 and not
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/three-dimensions-of-work-202304171439/#dc9efe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/three-dimensions-of-work-202304171439/#dc9efe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -219,7 +219,7 @@ change initiatives tend to fail.[^1]
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/vital-question-1-202304171449/#vital-question-1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/vital-question-1-202304171449/#vital-question-1" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -230,9 +230,9 @@ change initiatives tend to fail.[^1]
 
 # Vital Question 1
 
-Where are you putting your [[permanent/Focus - 202304201649\|focus]] ? On [[permanent/Problem - 202304261228\|problems]] or outcomes?[^1]
+Where are you putting your [[zettelkasten/Focus - 202304201649\|focus]] ? On [[zettelkasten/Problem - 202304261228\|problems]] or outcomes?[^1]
 
-This question prompts us to upgrade our [[permanent/Problem Orientation - 202304201646\|Problem Orientation]] to an [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation]].[^2]
+This question prompts us to upgrade our [[zettelkasten/Problem Orientation - 202304201646\|Problem Orientation]] to an [[zettelkasten/Outcome Orientation - 202304261241\|Outcome Orientation]].[^2]
 
 ## References
 
@@ -264,7 +264,7 @@ This question prompts us to upgrade our [[permanent/Problem Orientation - 202304
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/vital-question-2-202304171450/#vital-question-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/vital-question-2-202304171450/#vital-question-2" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -315,7 +315,7 @@ There are several layers to this question:[^2]
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/vital-question-3-202304171451/#vital-question-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/vital-question-3-202304171451/#vital-question-3" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -328,7 +328,7 @@ There are several layers to this question:[^2]
 
 What actions are you taking?
 
-Are you merely [[permanent/Reaction - 202304261216\|reacting]] to the [[permanent/Problem - 202304261228\|Problems]] of the moment, or are you taking creative and generative action, including the solving of problems, in service to outcomes?[^1]
+Are you merely [[zettelkasten/Reaction - 202304261216\|reacting]] to the [[zettelkasten/Problem - 202304261228\|Problems]] of the moment, or are you taking creative and generative action, including the solving of problems, in service to outcomes?[^1]
 
 ## References
 
@@ -350,7 +350,7 @@ Are you merely [[permanent/Reaction - 202304261216\|reacting]] to the [[permanen
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/fisbe-202304201647/#fisbe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/fisbe-202304201647/#fisbe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -363,9 +363,9 @@ Are you merely [[permanent/Reaction - 202304261216\|reacting]] to the [[permanen
 
 An acronym that describes how a human operates.[^1]
 
-- [[permanent/Focus - 202304201649\|Focus]]
-- [[permanent/Inner State - 202304201654\|Inner State]]
-- [[permanent/Behavior - 202304201655\|Behavior]]
+- [[zettelkasten/Focus - 202304201649\|Focus]]
+- [[zettelkasten/Inner State - 202304201654\|Inner State]]
+- [[zettelkasten/Behavior - 202304201655\|Behavior]]
 
 <style> .container {font-family: sans-serif; text-align: center;} .button-wrapper button {z-index: 1;height: 40px; width: 100px; margin: 10px;padding: 5px;} .excalidraw .App-menu_top .buttonList { display: flex;} .excalidraw-wrapper { height: 800px; margin: 50px; position: relative;} :root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {transform: none;} </style><script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script><script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@excalidraw/excalidraw@0/dist/excalidraw.production.min.js"></script><div id="FISBE_-_202306301446excalidraw.md1"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.7","elements":[{"type":"ellipse","version":76,"versionNonce":1671171535,"isDeleted":false,"id":"deJ6hHbCRxqSKUTvD_Vya","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-116.75,"y":-253.2421875,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":293,"height":293,"seed":1332747695,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[{"id":"yEsxyAldO9Qv7ZAhuqqIj","type":"arrow"},{"id":"UzSUSIrEAUq-pGc3dCYKq","type":"arrow"}],"updated":1688072115234,"link":null,"locked":false},{"type":"ellipse","version":174,"versionNonce":1045412513,"isDeleted":false,"id":"LzMbOkn6nTja2l6rGyPA2","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":32.75,"y":20.2578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":293,"height":293,"seed":377918625,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[{"id":"UzSUSIrEAUq-pGc3dCYKq","type":"arrow"},{"id":"ecyF61WZgp07ywXYmYO8t","type":"arrow"}],"updated":1688072115234,"link":null,"locked":false},{"type":"ellipse","version":152,"versionNonce":1536654319,"isDeleted":false,"id":"a5dfxX4a-RwaFHVdQkGPd","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-286.25,"y":18.2578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":293,"height":293,"seed":4199969,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[{"id":"yEsxyAldO9Qv7ZAhuqqIj","type":"arrow"},{"id":"ecyF61WZgp07ywXYmYO8t","type":"arrow"}],"updated":1688072115234,"link":null,"locked":false},{"type":"arrow","version":222,"versionNonce":1755430529,"isDeleted":false,"id":"yEsxyAldO9Qv7ZAhuqqIj","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-193.75,"y":16.7578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":79,"height":191,"seed":1147651969,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"startBinding":{"elementId":"a5dfxX4a-RwaFHVdQkGPd","focus":-0.2843166877461253,"gap":11.043644746463798},"endBinding":{"elementId":"deJ6hHbCRxqSKUTvD_Vya","focus":1.0933370535472313,"gap":20.270800801579185},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-8,-97],[71,-191]]},{"type":"arrow","version":423,"versionNonce":977282575,"isDeleted":false,"id":"UzSUSIrEAUq-pGc3dCYKq","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":2.4868619534048033,"x":183.34954325350088,"y":13.46618276722731,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":79,"height":191,"seed":1614625679,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"startBinding":{"elementId":"deJ6hHbCRxqSKUTvD_Vya","focus":-1.0654075255895052,"gap":16.763920867756156},"endBinding":{"elementId":"LzMbOkn6nTja2l6rGyPA2","focus":0.352557856544628,"gap":12.737465925096643},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-8,-97],[71,-191]]},{"type":"arrow","version":370,"versionNonce":633882209,"isDeleted":false,"id":"ecyF61WZgp07ywXYmYO8t","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":4.383715795737418,"x":1.3495432535009826,"y":420.4661827672272,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":79,"height":191,"seed":1121512321,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"startBinding":{"elementId":"LzMbOkn6nTja2l6rGyPA2","focus":-0.8352762829771151,"gap":16.787447957113187},"endBinding":{"elementId":"a5dfxX4a-RwaFHVdQkGPd","focus":0.8053821916853418,"gap":18.682923964510934},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-8,-97],[71,-191]]},{"type":"text","version":47,"versionNonce":781093935,"isDeleted":false,"id":"PiWkXIAb","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-225.75,"y":142.7578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":159.78233337402344,"height":48,"seed":2054200143,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"fontSize":38.4,"fontFamily":1,"text":"Behavior","rawText":"Behavior","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Behavior","lineHeight":1.25,"baseline":34},{"type":"text","version":121,"versionNonce":814928449,"isDeleted":false,"id":"mraceYpY","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-20.641127929687514,"y":-132.2421875,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":105.25436401367188,"height":48,"seed":894115407,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"fontSize":38.4,"fontFamily":1,"text":"Focus","rawText":"Focus","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Focus","lineHeight":1.25,"baseline":34},{"type":"text","version":139,"versionNonce":1953181263,"isDeleted":false,"id":"ahvHs043","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":68.35887207031249,"y":140.7578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":226.86715698242188,"height":48,"seed":2123731713,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"fontSize":38.4,"fontFamily":1,"text":"Inner State","rawText":"Inner State","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Inner State","lineHeight":1.25,"baseline":34}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"hachure","currentItemStrokeWidth":1,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":1,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","scrollX":389.18873645413305,"scrollY":272.11350472495667,"zoom":{"value":1.55},"currentItemRoundness":"round","gridSize":null,"currentStrokeOptions":null,"previousGridSize":null},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("FISBE_-_202306301446excalidraw.md1");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
 
@@ -389,7 +389,7 @@ An acronym that describes how a human operates.[^1]
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/problem-orientation-202304201646/#problem-orientation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/problem-orientation-202304201646/#problem-orientation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -400,11 +400,11 @@ An acronym that describes how a human operates.[^1]
 
 # Problem Orientation
 
-The default mindset of most people and organizations[^1] which focuses on [[permanent/Problem - 202304261228\|Problems]]. [[permanent/Focus - 202304201649\|Focusing]] on these [[permanent/Problem - 202304261228\|Problems]] leads your [[permanent/Inner State - 202304201654\|Inner State]] to some form of anxiety, and leads your [[permanent/Behavior - 202304201655\|Behavior]] to some [[permanent/Reaction - 202304261216\|Reaction]].
+The default mindset of most people and organizations[^1] which focuses on [[zettelkasten/Problem - 202304261228\|Problems]]. [[zettelkasten/Focus - 202304201649\|Focusing]] on these [[zettelkasten/Problem - 202304261228\|Problems]] leads your [[zettelkasten/Inner State - 202304201654\|Inner State]] to some form of anxiety, and leads your [[zettelkasten/Behavior - 202304201655\|Behavior]] to some [[zettelkasten/Reaction - 202304261216\|Reaction]].
 
-The [[permanent/Problem Orientation - 202304201646\|Problem Orientation]] is actually a [[permanent/Problem Orientation - 202304201646\|Victim Orientation]] because we typically feel victimized by the [[permanent/Problem - 202304261228\|Problem]].[^2]
+The [[zettelkasten/Problem Orientation - 202304201646\|Problem Orientation]] is actually a [[zettelkasten/Problem Orientation - 202304201646\|Victim Orientation]] because we typically feel victimized by the [[zettelkasten/Problem - 202304261228\|Problem]].[^2]
 
-When our [[permanent/Anxiety - 202304261229\|Anxiety]] raises, we [[permanent/Reaction - 202304261216\|react]] to calm our [[permanent/Anxiety - 202304261229\|Anxiety]], and when the anxiety is gone, we stop reacting. This causes a rollercoaster effect where the [[permanent/Problem - 202304261228\|Problem]] isn't resolved.[^3]
+When our [[zettelkasten/Anxiety - 202304261229\|Anxiety]] raises, we [[zettelkasten/Reaction - 202304261216\|react]] to calm our [[zettelkasten/Anxiety - 202304261229\|Anxiety]], and when the anxiety is gone, we stop reacting. This causes a rollercoaster effect where the [[zettelkasten/Problem - 202304261228\|Problem]] isn't resolved.[^3]
 
 <style> .container {font-family: sans-serif; text-align: center;} .button-wrapper button {z-index: 1;height: 40px; width: 100px; margin: 10px;padding: 5px;} .excalidraw .App-menu_top .buttonList { display: flex;} .excalidraw-wrapper { height: 800px; margin: 50px; position: relative;} :root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {transform: none;} </style><script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script><script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@excalidraw/excalidraw@0/dist/excalidraw.production.min.js"></script><div id="Problem_Orientation_-_202306301446excalidraw.md1"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.7","elements":[{"type":"ellipse","version":76,"versionNonce":1671171535,"isDeleted":false,"id":"deJ6hHbCRxqSKUTvD_Vya","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-116.75,"y":-253.2421875,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":293,"height":293,"seed":1332747695,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[{"id":"yEsxyAldO9Qv7ZAhuqqIj","type":"arrow"},{"id":"UzSUSIrEAUq-pGc3dCYKq","type":"arrow"}],"updated":1688072115234,"link":null,"locked":false},{"type":"ellipse","version":174,"versionNonce":1045412513,"isDeleted":false,"id":"LzMbOkn6nTja2l6rGyPA2","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":32.75,"y":20.2578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":293,"height":293,"seed":377918625,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[{"id":"UzSUSIrEAUq-pGc3dCYKq","type":"arrow"},{"id":"ecyF61WZgp07ywXYmYO8t","type":"arrow"}],"updated":1688072115234,"link":null,"locked":false},{"type":"ellipse","version":152,"versionNonce":1536654319,"isDeleted":false,"id":"a5dfxX4a-RwaFHVdQkGPd","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-286.25,"y":18.2578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":293,"height":293,"seed":4199969,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[{"id":"yEsxyAldO9Qv7ZAhuqqIj","type":"arrow"},{"id":"ecyF61WZgp07ywXYmYO8t","type":"arrow"}],"updated":1688072115234,"link":null,"locked":false},{"type":"arrow","version":222,"versionNonce":1755430529,"isDeleted":false,"id":"yEsxyAldO9Qv7ZAhuqqIj","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-193.75,"y":16.7578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":79,"height":191,"seed":1147651969,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"startBinding":{"elementId":"a5dfxX4a-RwaFHVdQkGPd","focus":-0.2843166877461253,"gap":11.043644746463798},"endBinding":{"elementId":"deJ6hHbCRxqSKUTvD_Vya","focus":1.0933370535472313,"gap":20.270800801579185},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-8,-97],[71,-191]]},{"type":"arrow","version":423,"versionNonce":977282575,"isDeleted":false,"id":"UzSUSIrEAUq-pGc3dCYKq","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":2.4868619534048033,"x":183.34954325350088,"y":13.46618276722731,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":79,"height":191,"seed":1614625679,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"startBinding":{"elementId":"deJ6hHbCRxqSKUTvD_Vya","focus":-1.0654075255895052,"gap":16.763920867756156},"endBinding":{"elementId":"LzMbOkn6nTja2l6rGyPA2","focus":0.352557856544628,"gap":12.737465925096643},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-8,-97],[71,-191]]},{"type":"arrow","version":370,"versionNonce":633882209,"isDeleted":false,"id":"ecyF61WZgp07ywXYmYO8t","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":4.383715795737418,"x":1.3495432535009826,"y":420.4661827672272,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":79,"height":191,"seed":1121512321,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"startBinding":{"elementId":"LzMbOkn6nTja2l6rGyPA2","focus":-0.8352762829771151,"gap":16.787447957113187},"endBinding":{"elementId":"a5dfxX4a-RwaFHVdQkGPd","focus":0.8053821916853418,"gap":18.682923964510934},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-8,-97],[71,-191]]},{"type":"text","version":56,"versionNonce":2009753505,"isDeleted":false,"id":"PiWkXIAb","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-225.75,"y":142.7578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":161.24156188964844,"height":48,"seed":2054200143,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688072466992,"link":null,"locked":false,"fontSize":38.4,"fontFamily":1,"text":"Reaction","rawText":"Reaction","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Reaction","lineHeight":1.25,"baseline":34},{"type":"text","version":142,"versionNonce":1700318767,"isDeleted":false,"id":"mraceYpY","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-37.882507240032396,"y":-131.5525323275862,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":138.0863494873047,"height":48,"seed":894115407,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688072463377,"link":null,"locked":false,"fontSize":38.4,"fontFamily":1,"text":"Problem","rawText":"Problem","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Problem","lineHeight":1.25,"baseline":34},{"type":"text","version":168,"versionNonce":840360175,"isDeleted":false,"id":"ahvHs043","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":111.1174927599676,"y":142.13712284482756,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":133.823974609375,"height":48,"seed":2123731713,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688072473087,"link":null,"locked":false,"fontSize":38.4,"fontFamily":1,"text":"Anxiety","rawText":"Anxiety","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Anxiety","lineHeight":1.25,"baseline":34},{"type":"text","version":26,"versionNonce":482267599,"isDeleted":false,"id":"D7vNvjMl","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-245.59482758620683,"y":-132.86929036894477,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":22.5,"height":90,"seed":1257907297,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688076162244,"link":null,"locked":false,"fontSize":36,"fontFamily":1,"text":"+\n-","rawText":"+\n-","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"+\n-","lineHeight":1.25,"baseline":76},{"type":"text","version":113,"versionNonce":580626721,"isDeleted":false,"id":"7LENjaLE","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":265.2241379310344,"y":-143.3865317482551,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":22.5,"height":90,"seed":1807859695,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688076166188,"link":null,"locked":false,"fontSize":36,"fontFamily":1,"text":"+\n-","rawText":"+\n-","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"+\n-","lineHeight":1.25,"baseline":76},{"type":"text","version":108,"versionNonce":1202732929,"isDeleted":false,"id":"ruwrPA1q","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":11.431034482758662,"y":369.0272613551931,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":55.295989990234375,"height":45,"seed":1785453825,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688076182703,"link":null,"locked":false,"fontSize":36,"fontFamily":1,"text":"+ -","rawText":"+ -","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"+ -","lineHeight":1.25,"baseline":31}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"hachure","currentItemStrokeWidth":1,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":1,"currentItemFontSize":36,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","scrollX":433.0036010742187,"scrollY":282.4038977473476,"zoom":{"value":1.4000000000000001},"currentItemRoundness":"round","gridSize":null,"currentStrokeOptions":null,"previousGridSize":null},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("Problem_Orientation_-_202306301446excalidraw.md1");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
 
@@ -450,7 +450,7 @@ When our [[permanent/Anxiety - 202304261229\|Anxiety]] raises, we [[permanent/Re
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/problem-202304261228/#problem" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/problem-202304261228/#problem" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -493,7 +493,7 @@ Problems do not just go away. Problems will always be there. [^1][^2]
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/anxiety-202304261229/#anxiety" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/anxiety-202304261229/#anxiety" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -504,7 +504,7 @@ Problems do not just go away. Problems will always be there. [^1][^2]
 
 # Anxiety
 
-Anxiety drives your [[permanent/Behavior - 202304201655\|Behavior]] in the [[permanent/Problem Orientation - 202304201646\|Problem Orientation]] the [[permanent/Problem - 202304261228\|Problem]] itself.[^1]
+Anxiety drives your [[zettelkasten/Behavior - 202304201655\|Behavior]] in the [[zettelkasten/Problem Orientation - 202304201646\|Problem Orientation]] the [[zettelkasten/Problem - 202304261228\|Problem]] itself.[^1]
 
 ## References
 
@@ -526,7 +526,7 @@ Anxiety drives your [[permanent/Behavior - 202304201655\|Behavior]] in the [[per
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/reaction-202304261216/#reaction" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/reaction-202304261216/#reaction" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -537,9 +537,9 @@ Anxiety drives your [[permanent/Behavior - 202304201655\|Behavior]] in the [[per
 
 # Reaction
 
-A [[permanent/Behavior - 202304201655\|Behavior]] caused by [[permanent/Anxiety - 202304261229\|Anxiety]] in your [[permanent/Inner State - 202304201654\|Inner State]] from a [[permanent/Problem - 202304261228\|Problem]] in your [[permanent/Focus - 202304201649\|Focus]]. The four reactions are fight, flight, freeze or appease.[^1]
+A [[zettelkasten/Behavior - 202304201655\|Behavior]] caused by [[zettelkasten/Anxiety - 202304261229\|Anxiety]] in your [[zettelkasten/Inner State - 202304201654\|Inner State]] from a [[zettelkasten/Problem - 202304261228\|Problem]] in your [[zettelkasten/Focus - 202304201649\|Focus]]. The four reactions are fight, flight, freeze or appease.[^1]
 
-Reactions are driven by your need to reduce your [[permanent/Anxiety - 202304261229\|Anxiety]], not removing the [[permanent/Problem - 202304261228\|Problem]].[^2]
+Reactions are driven by your need to reduce your [[zettelkasten/Anxiety - 202304261229\|Anxiety]], not removing the [[zettelkasten/Problem - 202304261228\|Problem]].[^2]
 
 ## References
 
@@ -571,7 +571,7 @@ Reactions are driven by your need to reduce your [[permanent/Anxiety - 202304261
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/outcome-orientation-202304261241/#outcome-orientation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/outcome-orientation-202304261241/#outcome-orientation" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -582,9 +582,9 @@ Reactions are driven by your need to reduce your [[permanent/Anxiety - 202304261
 
 # Outcome Orientation
 
-Outcome orientation is [[permanent/Focus - 202304201649\|focused]] on envisioning an [[permanent/Outcome - 202304261242\|Outcome]] you really care about which causes an [[permanent/Inner State - 202304201654\|Inner State]] of [[permanent/Passion - 202304261243\|Passion]] which gets you thinking about what [[permanent/Baby Step - 202304261244\|Baby Step]] you need to take to get that outcome.[^1]
+Outcome orientation is [[zettelkasten/Focus - 202304201649\|focused]] on envisioning an [[zettelkasten/Outcome - 202304261242\|Outcome]] you really care about which causes an [[zettelkasten/Inner State - 202304201654\|Inner State]] of [[zettelkasten/Passion - 202304261243\|Passion]] which gets you thinking about what [[zettelkasten/Baby Step - 202304261244\|Baby Step]] you need to take to get that outcome.[^1]
 
-Each [[permanent/Baby Step - 202304261244\|Baby Step]] you take will either get you closer or clearer about your outcome, nothing you do is neutral. This is [[permanent/Result - 202304261252\|Result]]s focused.
+Each [[zettelkasten/Baby Step - 202304261244\|Baby Step]] you take will either get you closer or clearer about your outcome, nothing you do is neutral. This is [[zettelkasten/Result - 202304261252\|Result]]s focused.
 
 <style> .container {font-family: sans-serif; text-align: center;} .button-wrapper button {z-index: 1;height: 40px; width: 100px; margin: 10px;padding: 5px;} .excalidraw .App-menu_top .buttonList { display: flex;} .excalidraw-wrapper { height: 800px; margin: 50px; position: relative;} :root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {transform: none;} </style><script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script><script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@excalidraw/excalidraw@0/dist/excalidraw.production.min.js"></script><div id="Outcome_Orientation_-_202306301446excalidraw.md1"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.7","elements":[{"type":"ellipse","version":76,"versionNonce":1671171535,"isDeleted":false,"id":"deJ6hHbCRxqSKUTvD_Vya","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-116.75,"y":-253.2421875,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":293,"height":293,"seed":1332747695,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[{"id":"yEsxyAldO9Qv7ZAhuqqIj","type":"arrow"},{"id":"UzSUSIrEAUq-pGc3dCYKq","type":"arrow"}],"updated":1688072115234,"link":null,"locked":false},{"type":"ellipse","version":174,"versionNonce":1045412513,"isDeleted":false,"id":"LzMbOkn6nTja2l6rGyPA2","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":32.75,"y":20.2578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":293,"height":293,"seed":377918625,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[{"id":"UzSUSIrEAUq-pGc3dCYKq","type":"arrow"},{"id":"ecyF61WZgp07ywXYmYO8t","type":"arrow"}],"updated":1688072115234,"link":null,"locked":false},{"type":"ellipse","version":152,"versionNonce":1536654319,"isDeleted":false,"id":"a5dfxX4a-RwaFHVdQkGPd","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-286.25,"y":18.2578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":293,"height":293,"seed":4199969,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[{"id":"yEsxyAldO9Qv7ZAhuqqIj","type":"arrow"},{"id":"ecyF61WZgp07ywXYmYO8t","type":"arrow"}],"updated":1688072115234,"link":null,"locked":false},{"type":"arrow","version":222,"versionNonce":1755430529,"isDeleted":false,"id":"yEsxyAldO9Qv7ZAhuqqIj","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-193.75,"y":16.7578125,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":79,"height":191,"seed":1147651969,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"startBinding":{"elementId":"a5dfxX4a-RwaFHVdQkGPd","focus":-0.2843166877461253,"gap":11.043644746463798},"endBinding":{"elementId":"deJ6hHbCRxqSKUTvD_Vya","focus":1.0933370535472313,"gap":20.270800801579185},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-8,-97],[71,-191]]},{"type":"arrow","version":423,"versionNonce":977282575,"isDeleted":false,"id":"UzSUSIrEAUq-pGc3dCYKq","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":2.4868619534048033,"x":183.34954325350088,"y":13.46618276722731,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":79,"height":191,"seed":1614625679,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"startBinding":{"elementId":"deJ6hHbCRxqSKUTvD_Vya","focus":-1.0654075255895052,"gap":16.763920867756156},"endBinding":{"elementId":"LzMbOkn6nTja2l6rGyPA2","focus":0.352557856544628,"gap":12.737465925096643},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-8,-97],[71,-191]]},{"type":"arrow","version":370,"versionNonce":633882209,"isDeleted":false,"id":"ecyF61WZgp07ywXYmYO8t","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":4.383715795737418,"x":1.3495432535009826,"y":420.4661827672272,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":79,"height":191,"seed":1121512321,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688072115234,"link":null,"locked":false,"startBinding":{"elementId":"LzMbOkn6nTja2l6rGyPA2","focus":-0.8352762829771151,"gap":16.787447957113187},"endBinding":{"elementId":"a5dfxX4a-RwaFHVdQkGPd","focus":0.8053821916853418,"gap":18.682923964510934},"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[-8,-97],[71,-191]]},{"type":"text","version":97,"versionNonce":99273729,"isDeleted":false,"id":"PiWkXIAb","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-238.1637931034483,"y":141.37850215517238,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":195.22555541992188,"height":48,"seed":2054200143,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688072576474,"link":null,"locked":false,"fontSize":38.4,"fontFamily":1,"text":"Baby Step","rawText":"Baby Step","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Baby Step","lineHeight":1.25,"baseline":34},{"type":"text","version":168,"versionNonce":204703617,"isDeleted":false,"id":"mraceYpY","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-46.8480244814117,"y":-135.69046336206895,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":157.24794006347656,"height":48,"seed":894115407,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688072563534,"link":null,"locked":false,"fontSize":38.4,"fontFamily":1,"text":"Outcome","rawText":"Outcome","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Outcome","lineHeight":1.25,"baseline":34},{"type":"text","version":176,"versionNonce":740931297,"isDeleted":false,"id":"ahvHs043","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":111.1174927599676,"y":142.13712284482756,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":140.31356811523438,"height":48,"seed":2123731713,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688072566675,"link":null,"locked":false,"fontSize":38.4,"fontFamily":1,"text":"Passion","rawText":"Passion","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Passion","lineHeight":1.25,"baseline":34},{"type":"text","version":15,"versionNonce":1190298223,"isDeleted":false,"id":"96sIuYjc","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-250.4224137931034,"y":-131.1451524379103,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":22.5,"height":45,"seed":1747853679,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688076108374,"link":null,"locked":false,"fontSize":36,"fontFamily":1,"text":"+","rawText":"+","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"+","lineHeight":1.25,"baseline":31},{"type":"text","version":73,"versionNonce":481330735,"isDeleted":false,"id":"udAJuyAO","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":263.8448275862068,"y":-138.12791105859995,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":22.5,"height":45,"seed":1098275983,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688076110793,"link":null,"locked":false,"fontSize":36,"fontFamily":1,"text":"+","rawText":"+","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"+","lineHeight":1.25,"baseline":31},{"type":"text","version":137,"versionNonce":1693646319,"isDeleted":false,"id":"1C1Xmy3M","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":25.224137931034477,"y":358.4238130793309,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":22.5,"height":45,"seed":4057167,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688076116215,"link":null,"locked":false,"fontSize":36,"fontFamily":1,"text":"+","rawText":"+","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"+","lineHeight":1.25,"baseline":31}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#1e1e1e","currentItemBackgroundColor":"transparent","currentItemFillStyle":"hachure","currentItemStrokeWidth":1,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":1,"currentItemFontSize":36,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","scrollX":417.3914079337284,"scrollY":275.1953999999358,"zoom":{"value":1.4500000000000002},"currentItemRoundness":"round","gridSize":null,"currentStrokeOptions":null,"previousGridSize":null},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("Outcome_Orientation_-_202306301446excalidraw.md1");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
 
@@ -610,7 +610,7 @@ Each [[permanent/Baby Step - 202304261244\|Baby Step]] you take will either get 
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/outcome-202304261242/#outcome" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/outcome-202304261242/#outcome" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -621,7 +621,7 @@ Each [[permanent/Baby Step - 202304261244\|Baby Step]] you take will either get 
 
 # Outcome
 
-Something you want that creates a [[permanent/Passion - 202304261243\|Passion]] for you to take a [[permanent/Baby Step - 202304261244\|Baby Step]] towards that outcome. The main focus of the [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation]].[^1]
+Something you want that creates a [[zettelkasten/Passion - 202304261243\|Passion]] for you to take a [[zettelkasten/Baby Step - 202304261244\|Baby Step]] towards that outcome. The main focus of the [[zettelkasten/Outcome Orientation - 202304261241\|Outcome Orientation]].[^1]
 
 ## References
 
@@ -643,7 +643,7 @@ Something you want that creates a [[permanent/Passion - 202304261243\|Passion]] 
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/passion-202304261243/#passion" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/passion-202304261243/#passion" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -654,7 +654,7 @@ Something you want that creates a [[permanent/Passion - 202304261243\|Passion]] 
 
 # Passion
 
-The [[permanent/Inner State - 202304201654\|Inner State]] produced when someone cares about the [[permanent/Outcome - 202304261242\|Outcome]] they are [[permanent/Focus - 202304201649\|focused]] on.[^1][^2]
+The [[zettelkasten/Inner State - 202304201654\|Inner State]] produced when someone cares about the [[zettelkasten/Outcome - 202304261242\|Outcome]] they are [[zettelkasten/Focus - 202304201649\|focused]] on.[^1][^2]
 
 ## References
 
@@ -686,7 +686,7 @@ The [[permanent/Inner State - 202304201654\|Inner State]] produced when someone 
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/baby-step-202304261244/#baby-step" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/baby-step-202304261244/#baby-step" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -697,7 +697,7 @@ The [[permanent/Inner State - 202304201654\|Inner State]] produced when someone 
 
 # Baby Step
 
-A [[permanent/Behavior - 202304201655\|Behavior]] that is a small action that takes you closer to the [[permanent/Outcome - 202304261242\|Outcome]] you want.[^1]
+A [[zettelkasten/Behavior - 202304201655\|Behavior]] that is a small action that takes you closer to the [[zettelkasten/Outcome - 202304261242\|Outcome]] you want.[^1]
 
 ## References
 
@@ -719,7 +719,7 @@ A [[permanent/Behavior - 202304201655\|Behavior]] that is a small action that ta
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/a-i-r-202304261249/#a-i-r" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/a-i-r-202304261249/#a-i-r" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -730,11 +730,11 @@ A [[permanent/Behavior - 202304201655\|Behavior]] that is a small action that ta
 
 # A.I.R.
 
-An acronym that stands for the three major distinctions between [[permanent/Problem Orientation - 202304201646\|Problem Orientation]] and [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation]].[^1]
+An acronym that stands for the three major distinctions between [[zettelkasten/Problem Orientation - 202304201646\|Problem Orientation]] and [[zettelkasten/Outcome Orientation - 202304261241\|Outcome Orientation]].[^1]
 
-- [[permanent/Attention - 202304261250\|Attention]]
-- [[permanent/Intention - 202304261251\|Intention]]
-- [[permanent/Result - 202304261252\|Result]]
+- [[zettelkasten/Attention - 202304261250\|Attention]]
+- [[zettelkasten/Intention - 202304261251\|Intention]]
+- [[zettelkasten/Result - 202304261252\|Result]]
 
 ## References
 
@@ -756,7 +756,7 @@ An acronym that stands for the three major distinctions between [[permanent/Prob
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/attention-202304261250/#attention" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/attention-202304261250/#attention" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -767,7 +767,7 @@ An acronym that stands for the three major distinctions between [[permanent/Prob
 
 # Attention
 
-Where you place your [[permanent/Focus - 202304201649\|Focus]].
+Where you place your [[zettelkasten/Focus - 202304201649\|Focus]].
 
 ## References
 
@@ -789,7 +789,7 @@ Where you place your [[permanent/Focus - 202304201649\|Focus]].
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/intention-202304261251/#intention" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/intention-202304261251/#intention" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -800,7 +800,7 @@ Where you place your [[permanent/Focus - 202304201649\|Focus]].
 
 # Intention
 
-Moving away from [[permanent/Problem - 202304261228\|Problems]] you don't want to solve and moving toward an [[permanent/Outcome - 202304261242\|Outcome]] you do want.[^1]
+Moving away from [[zettelkasten/Problem - 202304261228\|Problems]] you don't want to solve and moving toward an [[zettelkasten/Outcome - 202304261242\|Outcome]] you do want.[^1]
 
 ## References
 
@@ -822,7 +822,7 @@ Moving away from [[permanent/Problem - 202304261228\|Problems]] you don't want t
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/result-202304261252/#result" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/result-202304261252/#result" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -833,7 +833,7 @@ Moving away from [[permanent/Problem - 202304261228\|Problems]] you don't want t
 
 # Result
 
-This represents how the different [[permanent/Outcome - 202304261242\|Outcomes]] conclude. Either the result is generative or cyclical.[^1][^2]
+This represents how the different [[zettelkasten/Outcome - 202304261242\|Outcomes]] conclude. Either the result is generative or cyclical.[^1][^2]
 
 ## References
 
@@ -865,7 +865,7 @@ This represents how the different [[permanent/Outcome - 202304261242\|Outcomes]]
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/thoughts-feelings-and-actions-exercise-202307141112/#thoughts-feelings-and-actions-exercise" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/thoughts-feelings-and-actions-exercise-202307141112/#thoughts-feelings-and-actions-exercise" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -876,7 +876,7 @@ This represents how the different [[permanent/Outcome - 202304261242\|Outcomes]]
 
 # Thoughts Feelings and Actions Exercise
 
-An exercise in reflecting on what you're experiencing and how you're acting. If you're feeling anger, frustration or anxiety, you're likely in the [[permanent/Problem Orientation - 202304201646\|Problem Orientation]].[^1]
+An exercise in reflecting on what you're experiencing and how you're acting. If you're feeling anger, frustration or anxiety, you're likely in the [[zettelkasten/Problem Orientation - 202304201646\|Problem Orientation]].[^1]
 
 ## References
 
@@ -905,7 +905,7 @@ An exercise in reflecting on what you're experiencing and how you're acting. If 
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/reactive-triggers-and-strategies-exercise-202307141117/#reactive-triggers-and-strategies-exercise" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/reactive-triggers-and-strategies-exercise-202307141117/#reactive-triggers-and-strategies-exercise" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -916,7 +916,7 @@ An exercise in reflecting on what you're experiencing and how you're acting. If 
 
 # Reactive Triggers and Strategies Exercise
 
-An exercise in reflecting on what things trigger you to react and what strategy you typically react with so that you can try and [[permanent/Mindset Shifting - 202306291518\|shift]] from a [[permanent/Problem Orientation - 202304201646\|Problem Orientation]] to a [[permanent/Outcome Orientation - 202304261241\|Outcome Orientation]].[^1]
+An exercise in reflecting on what things trigger you to react and what strategy you typically react with so that you can try and [[zettelkasten/Mindset Shifting - 202306291518\|shift]] from a [[zettelkasten/Problem Orientation - 202304201646\|Problem Orientation]] to a [[zettelkasten/Outcome Orientation - 202304261241\|Outcome Orientation]].[^1]
 
 ## References
 
@@ -945,7 +945,7 @@ An exercise in reflecting on what things trigger you to react and what strategy 
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/reactive-trigger-202304271152/#reactive-trigger" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/reactive-trigger-202304271152/#reactive-trigger" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -956,7 +956,7 @@ An exercise in reflecting on what things trigger you to react and what strategy 
 
 # Reactive Trigger
 
-Anything that causes you to [[permanent/Reaction - 202304261216\|React]] and use the reactive strategies.[^1]
+Anything that causes you to [[zettelkasten/Reaction - 202304261216\|React]] and use the reactive strategies.[^1]
 
 ## References
 
@@ -978,7 +978,7 @@ Anything that causes you to [[permanent/Reaction - 202304261216\|React]] and use
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/permanent/going-up-on-the-balcony-202304271153/#going-up-on-the-balcony" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/going-up-on-the-balcony-202304271153/#going-up-on-the-balcony" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

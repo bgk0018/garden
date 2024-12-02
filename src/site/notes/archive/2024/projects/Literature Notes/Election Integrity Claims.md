@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/election-integrity-claims/","tags":["📖","♣️"],"created":"2024-11-03T21:29:11.859-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/election-integrity-claims/","tags":["📖","♣️"],"created":"2024-11-03T23:32:00.641-06:00","updated":"2024-11-08T09:43:57.920-06:00"}
 ---
 
 A significant political strategy employed by [[Donald Trump\|Donald Trump]] and allies to question election legitimacy, particularly following the [[2020 Election\|2020 Election]] and leading into [[2024 Election\|2024 Election]].

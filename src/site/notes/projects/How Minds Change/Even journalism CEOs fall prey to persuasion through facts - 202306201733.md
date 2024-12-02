@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/even-journalism-ce-os-fall-prey-to-persuasion-through-facts-202306201733/","tags":["📖"],"created":"2023-09-19T22:09:06.842-05:00","updated":"2024-11-10T16:45:15.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/even-journalism-ce-os-fall-prey-to-persuasion-through-facts-202306201733/","tags":["📖"],"created":"2024-08-29T16:41:08.416-05:00","updated":"2024-11-10T16:45:15.265-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/typescript/","tags":["🗺️"],"created":"2024-09-08T17:06:39.821-05:00","updated":"2024-11-15T10:20:00.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/typescript/","tags":["🗺️"],"created":"2024-11-13T12:13:46.304-06:00","updated":"2024-11-15T10:20:00.429-06:00"}
 ---
 
 
@@ -15,9 +15,9 @@
 > [!bulb]- Ideas and Questions I've Captured  
 > This section captures brainstorming sessions, potential applications, and questions that emerge during learning. It serves as a space for documenting creative thoughts, implementation possibilities, and areas that need further exploration.
 
-| Name                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------ |
-| [[permanent/What is a Structural vs Nominal Type System - 202307311546\|What is a structural vs Nominal Type System]] |
+| Name                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| [[zettelkasten/What is a Structural vs Nominal Type System - 202307311546\|What is a structural vs Nominal Type System]] |
 
 { .block-language-dataview}
 
