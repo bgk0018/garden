@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/maps-of-content/","created":"2024-11-10T14:33:19.988-06:00","updated":"2024-11-10T14:36:00.960-06:00"}
+{"dg-publish":true,"permalink":"/blog/maps-of-content/","created":"2024-11-10T14:33:19.988-06:00","updated":"2024-12-23T10:45:15.648-06:00"}
 ---
 
 
@@ -14,23 +14,20 @@ A Map of Content (MOC) serves as a navigational hub in your digital notes. Like 
 
 ## Available Maps
 
-| Map                                                                       | Description |
-| ------------------------------------------------------------------------- | ----------- |
-| [[maps/Apache Kafka\|Apache Kafka]]                                    | \-          |
-| [[maps/Certainty\|Certainty]]                                          | \-          |
-| [[creations/Current Tags - 202303181855\|Current Tags - 202303181855]] | \-          |
-| [[maps/Election 2024\|Election 2024]]                                  | \-          |
-| [[maps/Home Server\|Home Server]]                                      | \-          |
-| [[maps/Learning\|Learning]]                                            | \-          |
-| [[maps/Obsidian\|Obsidian]]                                            | \-          |
-| [[maps/Psychology\|Psychology]]                                        | \-          |
-| [[maps/Sales Engineering\|Sales Engineering]]                          | \-          |
-| [[maps/Scotland 2024\|Scotland 2024]]                                  | \-          |
-| [[maps/Storytelling\|Storytelling]]                                    | \-          |
-| [[maps/The Empowerment Dynamic\|The Empowerment Dynamic]]              | \-          |
-| [[maps/Typescript\|Typescript]]                                        | \-          |
-| [[maps/Vault\|Vault]]                                                  | \-          |
+| Map                                                          | Description                                                                                                                           |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [[maps/Apache Kafka\|Apache Kafka]]                       | Apache Kafka is a distributed event streaming platform designed for high-throughput, fault-tolerant handling of real-time data feeds. |
+| [[maps/Certainty\|Certainty]]                             | Certainty is an epistemic property of belief. A focus on how strongly a proposition is held as true.                                  |
+| [[maps/Election 2024\|Election 2024]]                     | \-                                                                                                                                    |
+| [[maps/Home Server\|Home Server]]                         | \-                                                                                                                                    |
+| [[maps/Learning\|Learning]]                               | \-                                                                                                                                    |
+| [[maps/Obsidian\|Obsidian]]                               | \-                                                                                                                                    |
+| [[maps/Psychology\|Psychology]]                           | \-                                                                                                                                    |
+| [[maps/Sales Engineering\|Sales Engineering]]             | \-                                                                                                                                    |
+| [[maps/Scotland 2024\|Scotland 2024]]                     | \-                                                                                                                                    |
+| [[maps/Storytelling\|Storytelling]]                       | \-                                                                                                                                    |
+| [[maps/The Empowerment Dynamic\|The Empowerment Dynamic]] | \-                                                                                                                                    |
+| [[maps/Typescript\|Typescript]]                           | \-                                                                                                                                    |
+| [[maps/Vault\|Vault]]                                     | \-                                                                                                                                    |
 
 { .block-language-dataview}
-
-

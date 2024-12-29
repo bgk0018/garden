@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T17:09:11.264-05:00","updated":"2024-11-21T12:15:16.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T20:17:05.233-05:00","updated":"2024-12-23T10:45:14.996-06:00"}
 ---
 
 
 # Apache Kafka
 
 ## Summary
+
  
+
 Apache Kafka is a distributed event streaming platform designed for high-throughput, fault-tolerant handling of real-time data feeds. Originally developed by LinkedIn and later open-sourced, Kafka enables organizations to collect, store, and process large volumes of data across distributed systems. It's particularly well-suited for building real-time streaming data pipelines and applications that adapt to data streams.
 
 ## Exploration
@@ -38,93 +40,93 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 
 | Name                                                                                                                                                              | Weight |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [[projects/Dallas Confluent Practice/Notes/Partitions - 202405282258\|Partitions]]                                                                             | 15     |
 | [[projects/Dallas Confluent Practice/Notes/Broker - 202405302214\|Broker]]                                                                                     | 14     |
-| [[projects/Dallas Confluent Practice/Notes/Partitions - 202405282258\|Partitions]]                                                                             | 14     |
-| [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumer]]                                                                                 | 13     |
 | [[projects/Dallas Confluent Practice/Notes/Topics - 202405282249\|Topics]]                                                                                     | 13     |
+| [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumer]]                                                                                 | 13     |
 | [[projects/Dallas Confluent Practice/Notes/Producer - 202405302120\|Producer]]                                                                                 | 9      |
-| [[projects/Dallas Confluent Practice/Notes/Offset - 202405282304\|Offset]]                                                                                     | 6      |
+| [[projects/Dallas Confluent Practice/Notes/Messages - 202406042227\|Message]]                                                                                  | 7      |
 | [[projects/Dallas Confluent Practice/Notes/Producer Acknowledgement - 202405302231\|Message Acknowledgments]]                                                  | 6      |
-| [[projects/Dallas Confluent Practice/Notes/Messages - 202406042227\|Message]]                                                                                  | 6      |
-| [[projects/Dallas Confluent Practice/Notes/In-sync Replica - 202405302227\|In-sync Replica]]                                                                   | 5      |
-| [[projects/Dallas Confluent Practice/Notes/Partition Leader - 202405302223\|Partition Leader]]                                                                 | 5      |
+| [[projects/Dallas Confluent Practice/Notes/Offset - 202405282304\|Offset]]                                                                                     | 6      |
 | [[projects/Dallas Confluent Practice/Notes/Topic Durability - 202406011116\|Topic Durability]]                                                                 | 5      |
-| [[projects/Dallas Confluent Practice/Notes/At Least Once Delivery - 202303012107\|At Least Once Delivery]]                                                     | 4      |
-| [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405302156\|Delivery Semantics]]                                                             | 4      |
+| [[projects/Dallas Confluent Practice/Notes/Partition Leader - 202405302223\|Partition Leader]]                                                                 | 5      |
+| [[projects/Dallas Confluent Practice/Notes/Message Key - 202303012028\|Message Key]]                                                                           | 5      |
+| [[projects/Dallas Confluent Practice/Notes/In-sync Replica - 202405302227\|In-sync Replica]]                                                                   | 5      |
 | [[projects/Dallas Confluent Practice/Notes/Message Anatomy - 202405302129\|Message Anatomy]]                                                                   | 4      |
-| [[projects/Dallas Confluent Practice/Notes/Message Key - 202303012028\|Message Key]]                                                                           | 4      |
-| [[projects/Dallas Confluent Practice/Notes/Consumer Groups - 202405302143\|Consumer Groups]]                                                                   | 3      |
-| [[projects/Dallas Confluent Practice/Notes/Consumer Offsets - 202405302152\|Consumer Offsets]]                                                                 | 3      |
-| [[projects/Dallas Confluent Practice/Notes/Exactly Once Delivery - 202303012110\|Exactly Once Delivery]]                                                       | 3      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Extended APIs for Developers - 202406021528\|Kafka Extended APIs for Developers]]                             | 3      |
-| [[projects/Dallas Confluent Practice/Notes/Message Serializer - 202405302131\|Message Serializer]]                                                             | 3      |
-| [[projects/Dallas Confluent Practice/Notes/Reliable Data Delivery - 202407152100\|Reliable Data Delivery]]                                                     | 3      |
+| [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405302156\|Delivery Semantics]]                                                             | 4      |
+| [[projects/Dallas Confluent Practice/Notes/At Least Once Delivery - 202303012107\|At Least Once Delivery]]                                                     | 4      |
 | [[projects/Dallas Confluent Practice/Notes/Topic Replication Factor - 202405302220\|Topic Replication Factor]]                                                 | 3      |
-| [[projects/Dallas Confluent Practice/Notes/Advanced Topics Configuration - 202406021522\|Advanced Topics Configuration]]                                       | 2      |
-| [[projects/Dallas Confluent Practice/Notes/At Most Once Delivery - 202303012109\|At Most Once Delivery]]                                                       | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Reliable Data Delivery - 202407152100\|Reliable Data Delivery]]                                                     | 3      |
+| [[projects/Dallas Confluent Practice/Notes/Message Serializer - 202405302131\|Message Serializer]]                                                             | 3      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Extended APIs for Developers - 202406021528\|Kafka Extended APIs for Developers]]                             | 3      |
+| [[projects/Dallas Confluent Practice/Notes/Exactly Once Delivery - 202303012110\|Exactly Once Delivery]]                                                       | 3      |
+| [[projects/Dallas Confluent Practice/Notes/Consumer Offsets - 202405302152\|Consumer Offsets]]                                                                 | 3      |
+| [[projects/Dallas Confluent Practice/Notes/Consumer Groups - 202405302143\|Consumer Groups]]                                                                   | 3      |
+| [[projects/Dallas Confluent Practice/Notes/Zookeeper - 202406011120\|Zookeeper]]                                                                               | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Schema Registry - 202403301641\|Schema Registry]]                                                                   | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Producer Configuration for Reliability - 202407152140\|Producer Configuration for Reliability]]                     | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Consumer Groups CLI - 202406011147\|Kafka Consumer Groups CLI]]                                               | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Horizontal Scaling - 202302211120\|Horizontal Scaling]]                                                             | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Consumer Deserializer - 202405302142\|Consumer Deserializer]]                                                       | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Broker Discovery - 202405302218\|Broker Discovery]]                                                                 | 2      |
 | [[projects/Dallas Confluent Practice/Notes/Cluster - 202303012114\|Cluster]]                                                                                   | 2      |
-| [[projects/Dallas Confluent Practice/Notes/Consumer Deserializer - 202405302142\|Consumer Deserializer]]                                                       | 2      |
-| [[projects/Dallas Confluent Practice/Notes/Horizontal Scaling - 202302211120\|Horizontal Scaling]]                                                             | 2      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Consumer Groups CLI - 202406011147\|Kafka Consumer Groups CLI]]                                               | 2      |
-| [[projects/Dallas Confluent Practice/Notes/Producer Configuration for Reliability - 202407152140\|Producer Configuration for Reliability]]                     | 2      |
-| [[projects/Dallas Confluent Practice/Notes/Schema Registry - 202403301641\|Schema Registry]]                                                                   | 2      |
-| [[projects/Dallas Confluent Practice/Notes/Zookeeper - 202406011120\|Zookeeper]]                                                                               | 2      |
-| [[projects/Dallas Confluent Practice/Notes/Advertised Listeners - 202406021523\|Advertised Listeners]]                                                         | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Apache Connect Hands-on - 202406021528\|Apache Connect Hands-on]]                                                   | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Avro in Java - 202406021524\|Avro in Java]]                                                                         | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Confluent REST Proxy - 202406021526\|Confluent REST Proxy]]                                                         | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Confluent Schema Registry and Kafka REST Proxy - 202406021526\|Confluent Schema Registry and Kafka REST Proxy]]     | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Consumer Group Auto Offset Commit Behavior - 202403301632\|Consumer Group Auto Offset Commit Behavior]]             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Consumer Incremental Cooperative Rebalance - 202403301631\|Consumer Incremental Cooperative Rebalance]]             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Exactly Once Semantics Theory - 202406021527\|Exactly Once Semantics Theory]]                                       | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Headers - 202303012040\|Headers]]                                                                                   | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Idempotent Producer - 202403301634\|Idempotent Producer]]                                                           | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Java Consumer Client - 202406021638\|Java Consumer Client]]                                                         | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Java Producer Client - 202406021637\|Java Producer Client]]                                                         | 1      |
-| [[projects/Dallas Confluent Practice/Notes/KSQL - 202406022143\|KSQL]]                                                                                         | 1      |
-| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Advanced Operations - 202406021531\|KStreams and KTables Advanced Operations]]                 | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka ACLs - 202406021631\|Kafka ACLs]]                                                                             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Simple Operations Stateless - 202406021532\|KStreams and KTables Simple Operations Stateless]] | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Cluster - 202406021527\|Kafka Cluster]]                                                                       | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Connect - 202403301639\|Kafka Connect]]                                                                       | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Connect Source - 202406022136\|Kafka Connect Source]]                                                         | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Consumer CLI - 202406011144\|Kafka Consumer CLI]]                                                             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Internals - 202411021210\|Kafka Internals]]                                                                   | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka KRaft - 202406011123\|Kafka KRaft]]                                                                           | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Multi Cluster and MirrorMaker - 202406021530\|Kafka Multi Cluster and MirrorMaker]]                           | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Producer CLI - 202406011140\|Kafka Producer CLI]]                                                             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Security - 202406021530\|Kafka Security]]                                                                     | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Streams - 202403301640\|Kafka Streams]]                                                                       | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Streams for Data Processing - 202406021531\|Kafka Streams for Data Processing]]                               | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Topics CLI - 202406011123\|Kafka Topics CLI]]                                                                 | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka in the Enterprise for Admins - 202406021529\|Kafka in the Enterprise for Admins]]                             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Metrics Collection - 202406062123\|Metrics Collection]]                                                             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/At Most Once Delivery - 202303012109\|At Most Once Delivery]]                                                       | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Advanced Topics Configuration - 202406021522\|Advanced Topics Configuration]]                                       | 2      |
+| [[projects/Dallas Confluent Practice/Notes/Zookeeper Setup - 202406021533\|Zookeeper Setup]]                                                                   | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Safe Producers - 202403301634\|Safe Producers]]                                                                     | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Resetting Consumer Group Offsets - 202406011212\|Resetting Consumer Group Offsets]]                                 | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Schema Evolution Compatibility Matrix - 202404101240\|Schema Evolution Compatibility Matrix]]                       | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Real World Insights and Case Studies - 202406021533\|Real World Insights and Case Studies]]                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Pull Model - 202303012046\|Pull Model]]                                                                             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Producer Retries - 202403301634\|Producer Retries]]                                                                 | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Producer Batch Settings - 202403301636\|Producer Batch Settings]]                                                   | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Producer Partitioners - 202403301636\|Producer Partitioners]]                                                       | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Producer Retries - 202403301634\|Producer Retries]]                                                                 | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Real World Insights and Case Studies - 202406021533\|Real World Insights and Case Studies]]                         | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Resetting Consumer Group Offsets - 202406011212\|Resetting Consumer Group Offsets]]                                 | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Pull Model - 202303012046\|Pull Model]]                                                                             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Safe Producers - 202403301634\|Safe Producers]]                                                                     | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Schema Evolution Compatibility Matrix - 202404101240\|Schema Evolution Compatibility Matrix]]                       | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Zookeeper Setup - 202406021533\|Zookeeper Setup]]                                                                   | 1      |
-| [[projects/Dallas Confluent Practice/Datacouch CCDAK Practice Exam 2 - 202407151909\|Datacouch CCDAK Practice Exam 2]]                                         | 0      |
-| [[projects/Dallas Confluent Practice/Datacouch CCDAK Practice Exam 3 - 202407152030\|Datacouch CCDAK Practice Exam 3]]                                         | 0      |
-| [[projects/Dallas Confluent Practice/Notes/AdminClient - 202407130004\|AdminClient]]                                                                           | 0      |
-| [[projects/Dallas Confluent Practice/Notes/Consumer Configuration for Reliability - 202407152145\|Consumer Configuration for Reliability]]                     | 0      |
+| [[projects/Dallas Confluent Practice/Notes/Metrics Collection - 202406062123\|Metrics Collection]]                                                             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Advanced Operations - 202406021531\|KStreams and KTables Advanced Operations]]                 | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Security - 202406021530\|Kafka Security]]                                                                     | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Streams for Data Processing - 202406021531\|Kafka Streams for Data Processing]]                               | 1      |
+| [[projects/Dallas Confluent Practice/Notes/KSQL - 202406022143\|KSQL]]                                                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Topics CLI - 202406011123\|Kafka Topics CLI]]                                                                 | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Streams - 202403301640\|Kafka Streams]]                                                                       | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Multi Cluster and MirrorMaker - 202406021530\|Kafka Multi Cluster and MirrorMaker]]                           | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Producer CLI - 202406011140\|Kafka Producer CLI]]                                                             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Internals - 202411021210\|Kafka Internals]]                                                                   | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka KRaft - 202406011123\|Kafka KRaft]]                                                                           | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka in the Enterprise for Admins - 202406021529\|Kafka in the Enterprise for Admins]]                             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Consumer CLI - 202406011144\|Kafka Consumer CLI]]                                                             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Connect - 202403301639\|Kafka Connect]]                                                                       | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Connect Source - 202406022136\|Kafka Connect Source]]                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Cluster - 202406021527\|Kafka Cluster]]                                                                       | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Java Producer Client - 202406021637\|Java Producer Client]]                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Java Consumer Client - 202406021638\|Java Consumer Client]]                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka ACLs - 202406021631\|Kafka ACLs]]                                                                             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Idempotent Producer - 202403301634\|Idempotent Producer]]                                                           | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Headers - 202303012040\|Headers]]                                                                                   | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Exactly Once Semantics Theory - 202406021527\|Exactly Once Semantics Theory]]                                       | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Consumer Incremental Cooperative Rebalance - 202403301631\|Consumer Incremental Cooperative Rebalance]]             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Consumer Group Auto Offset Commit Behavior - 202403301632\|Consumer Group Auto Offset Commit Behavior]]             | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Confluent Schema Registry and Kafka REST Proxy - 202406021526\|Confluent Schema Registry and Kafka REST Proxy]]     | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Confluent REST Proxy - 202406021526\|Confluent REST Proxy]]                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Avro in Java - 202406021524\|Avro in Java]]                                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Apache Connect Hands-on - 202406021528\|Apache Connect Hands-on]]                                                   | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Advertised Listeners - 202406021523\|Advertised Listeners]]                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Simple Operations Stateless - 202406021532\|KStreams and KTables Simple Operations Stateless]] | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Topic Configuration Management - 202407152205\|Topic Configuration Management]]                                     | 0      |
+| [[projects/Dallas Confluent Practice/Notes/Schema Registry and Data Validation - 202407152150\|Schema Evolution]]                                              | 0      |
+| [[projects/Dallas Confluent Practice/Notes/Message Acknowledgments - 202407152115\|Message Acknowledgments]]                                                   | 0      |
+| [[projects/Dallas Confluent Practice/Notes/Log Compaction and Retention - 202407152210\|Log Compaction and Retention]]                                         | 0      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Reliability Testing - 202407152130\|Kafka Reliability Testing]]                                               | 0      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Monitoring for Reliability - 202407152135\|Kafka Monitoring for Reliability]]                                 | 0      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Controller and Leadership - 202407152155\|Broker Roles]]                                                      | 0      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka CLI Tool List - 202406022252\|Kafka CLI Tool List]]                                                           | 0      |
+| [[projects/Dallas Confluent Practice/Notes/In-Sync Replicas Management - 202407152125\|In-Sync Replicas Management]]                                           | 0      |
+| [[projects/Dallas Confluent Practice/Notes/High Watermark and Message Visibility - 202407152200\|High Watermark and Message Visibility]]                       | 0      |
 | [[projects/Dallas Confluent Practice/Notes/Consumer Group Static Group Membership - 202403301632\|Consumer Group Static Group Membership]]                     | 0      |
 | [[projects/Dallas Confluent Practice/Notes/Consumer Offset Management - 202407152120\|Consumer Offset Management]]                                             | 0      |
-| [[projects/Dallas Confluent Practice/Notes/High Watermark and Message Visibility - 202407152200\|High Watermark and Message Visibility]]                       | 0      |
-| [[projects/Dallas Confluent Practice/Notes/In-Sync Replicas Management - 202407152125\|In-Sync Replicas Management]]                                           | 0      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka CLI Tool List - 202406022252\|Kafka CLI Tool List]]                                                           | 0      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Controller and Leadership - 202407152155\|Broker Roles]]                                                      | 0      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Monitoring for Reliability - 202407152135\|Kafka Monitoring for Reliability]]                                 | 0      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Reliability Testing - 202407152130\|Kafka Reliability Testing]]                                               | 0      |
-| [[projects/Dallas Confluent Practice/Notes/Log Compaction and Retention - 202407152210\|Log Compaction and Retention]]                                         | 0      |
-| [[projects/Dallas Confluent Practice/Notes/Message Acknowledgments - 202407152115\|Message Acknowledgments]]                                                   | 0      |
-| [[projects/Dallas Confluent Practice/Notes/Schema Registry and Data Validation - 202407152150\|Schema Evolution]]                                              | 0      |
-| [[projects/Dallas Confluent Practice/Notes/Topic Configuration Management - 202407152205\|Topic Configuration Management]]                                     | 0      |
+| [[projects/Dallas Confluent Practice/Notes/Consumer Configuration for Reliability - 202407152145\|Consumer Configuration for Reliability]]                     | 0      |
+| [[projects/Dallas Confluent Practice/Notes/AdminClient - 202407130004\|AdminClient]]                                                                           | 0      |
+| [[projects/Dallas Confluent Practice/Datacouch CCDAK Practice Exam 3 - 202407152030\|Datacouch CCDAK Practice Exam 3]]                                         | 0      |
+| [[projects/Dallas Confluent Practice/Datacouch CCDAK Practice Exam 2 - 202407151909\|Datacouch CCDAK Practice Exam 2]]                                         | 0      |
 
 { .block-language-dataview}
 
@@ -171,17 +173,17 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | Title                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[projects/Dallas Confluent Practice/CCDAK Practice Exam 1 - 202407151751\|CCDAK Practice Exam 1 - 202407151751]]                                                         |
-| [[projects/Dallas Confluent Practice/Confluent Kafka — Study Cheat Sheet\|Confluent Kafka — Study Cheat Sheet]]                                                           |
 | [[projects/Dallas Confluent Practice/Confluent Developer for Apache Kafka (CCDAK) Exam Questions 2024\|Confluent Developer for Apache Kafka (CCDAK) Exam Questions 2024]] |
+| [[projects/Dallas Confluent Practice/Confluent Kafka — Study Cheat Sheet\|Confluent Kafka — Study Cheat Sheet]]                                                           |
 | [[projects/Dallas Confluent Practice/Datacouch CCDAK Practice Exam 1-ben-laptop\|Datacouch CCDAK Practice Exam 1-ben-laptop]]                                             |
 | [[projects/Dallas Confluent Practice/Notes/Additional Tools and Integrations\|Additional Tools and Integrations]]                                                         |
 | [[projects/Dallas Confluent Practice/Notes/Cluster Management\|Cluster Management]]                                                                                       |
-| [[projects/Dallas Confluent Practice/Notes/Consumers\|Consumers]]                                                                                                         |
 | [[projects/Dallas Confluent Practice/Notes/Data Management and Retention\|Data Management and Retention]]                                                                 |
+| [[projects/Dallas Confluent Practice/Notes/Consumers\|Consumers]]                                                                                                         |
 | [[projects/Dallas Confluent Practice/Notes/Data Processing with Kafka Streams\|Data Processing with Kafka Streams]]                                                       |
 | [[projects/Dallas Confluent Practice/Notes/Fault Tolerance and High Availability\|Fault Tolerance and High Availability]]                                                 |
-| [[projects/Dallas Confluent Practice/Notes/Integrations and Ecosystem\|Integrations and Ecosystem]]                                                                       |
 | [[projects/Dallas Confluent Practice/Notes/Introduction to Apache Kafka\|Introduction to Apache Kafka]]                                                                   |
+| [[projects/Dallas Confluent Practice/Notes/Integrations and Ecosystem\|Integrations and Ecosystem]]                                                                       |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Architecture\|Kafka Architecture]]                                                                                       |
 | [[projects/Dallas Confluent Practice/Notes/Kafka CLI Tools\|Kafka CLI Tools]]                                                                                             |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Configuration and Setup\|Kafka Configuration and Setup]]                                                                 |

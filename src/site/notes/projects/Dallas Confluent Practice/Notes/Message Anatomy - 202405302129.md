@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-anatomy-202405302129/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:41:19.232-05:00","updated":"2024-11-10T13:44:34.925-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-anatomy-202405302129/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:41:19.232-05:00","updated":"2024-12-23T10:32:05.196-06:00"}
 ---
 
 
 # Message Anatomy
 
-- Key, can be null
+- [[projects/Dallas Confluent Practice/Notes/Message Key - 202303012028\|Message Key]], can be null
 - Value, can be null
 - Compression Type
 - [[projects/Dallas Confluent Practice/Notes/Headers - 202303012040\|Headers]]
@@ -15,10 +15,6 @@
 ## References
 
 ## Flashcards
-
-True/False a Message Key can be null:: true
-
-<!--SR:!2024-09-02,67,310-->
 
 True/False a Message Value can be null: true  
 

@@ -22,8 +22,9 @@
 > [!example]- Projects I've Attempted  
 > This section documents hands-on experiences and practical implementations. It includes experiments, proof-of-concepts, and real-world applications that help reinforce understanding through actual usage.
 
-| Name |
-| ---- |
+| Name                                                         |
+| ------------------------------------------------------------ |
+| [[projects/Nexus/Nexus Book Project\|Nexus Book Project]] |
 
 { .block-language-dataview}
 

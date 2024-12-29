@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/analysis-the-truth-about-illegal-immigration-and-crime-washington-post-highlights/","title":"Analysis | the Truth About Illegal Immigration and Crime","tags":["✂️"],"created":"2024-04-06T18:00:58.505-05:00","updated":"2024-11-08T09:43:59.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/analysis-the-truth-about-illegal-immigration-and-crime-washington-post-highlights/","title":"Analysis | the Truth About Illegal Immigration and Crime","tags":["✂️"],"created":"2024-08-29T16:39:01.208-05:00","updated":"2024-11-08T09:43:59.469-06:00"}
 ---
 
 # Analysis | the Truth About Illegal Immigration and Crime

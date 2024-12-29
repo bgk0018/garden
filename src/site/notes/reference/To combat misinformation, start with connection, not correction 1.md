@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/to-combat-misinformation-start-with-connection-not-correction-1/","title":"To combat misinformation, start with connection, not correction","tags":["📰"],"created":"2024-11-03T21:51:50.645-06:00","updated":"2024-11-08T09:44:00.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/to-combat-misinformation-start-with-connection-not-correction-1/","title":"To combat misinformation, start with connection, not correction","tags":["📰"],"created":"2024-11-03T23:32:00.911-06:00","updated":"2024-11-08T09:44:00.762-06:00"}
 ---
 
 # To combat misinformation, start with connection, not correction

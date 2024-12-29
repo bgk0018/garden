@@ -35,8 +35,8 @@
 | Name                                                                                                                              | Weight |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [[zettelkasten/Outcome Orientation - 202304261241\|Creator Orientation]]                                                       | 13     |
-| [[zettelkasten/Problem - 202304261228\|Problem]]                                                                               | 12     |
 | [[zettelkasten/Problem Orientation - 202304201646\|Problem Orientation]]                                                       | 12     |
+| [[zettelkasten/Problem - 202304261228\|Problem]]                                                                               | 12     |
 | [[zettelkasten/Focus - 202304201649\|focus]]                                                                                   | 11     |
 | [[zettelkasten/Outcome - 202304261242\|Outcome]]                                                                               | 10     |
 | [[zettelkasten/Victim - 202305251726\|Victim]]                                                                                 | 9      |
@@ -45,37 +45,37 @@
 | [[zettelkasten/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic]]                                               | 6      |
 | [[zettelkasten/Rescuer - 202305271811\|Rescuer]]                                                                               | 6      |
 | [[zettelkasten/Dreaded Drama Triangle - 202305251725\|DDT]]                                                                    | 6      |
-| [[zettelkasten/Behavior - 202304201655\|Behavior]]                                                                             | 5      |
-| [[zettelkasten/A.I.R. - 202304261249\|A.I.R.]]                                                                                 | 5      |
 | [[zettelkasten/Result - 202304261252\|Result]]                                                                                 | 5      |
 | [[zettelkasten/Persecutor - 202305271800\|Persecutor]]                                                                         | 5      |
-| [[zettelkasten/Baby Step - 202304261244\|Baby Step]]                                                                           | 4      |
-| [[zettelkasten/Creator - 202306271318\|Creator]]                                                                               | 4      |
-| [[zettelkasten/FISBE - 202304201647\|FISBE]]                                                                                   | 4      |
+| [[zettelkasten/Behavior - 202304201655\|Behavior]]                                                                             | 5      |
+| [[zettelkasten/A.I.R. - 202304261249\|A.I.R.]]                                                                                 | 5      |
 | [[zettelkasten/Mindset Shifting - 202306291518\|Mindset Shifting]]                                                             | 4      |
-| [[zettelkasten/Orientation - 202305280800\|Orientation]]                                                                       | 3      |
-| [[zettelkasten/Three dimensions of work - 202304171439\|Three dimensions of work]]                                             | 3      |
-| [[zettelkasten/Internal Shift - 202306291522\|Inside-Out Shift]]                                                               | 3      |
-| [[zettelkasten/Passion - 202304261243\|Passion]]                                                                               | 3      |
-| [[zettelkasten/Intention - 202304261251\|Intention]]                                                                           | 3      |
-| [[zettelkasten/Vital Question 1 - 202304171449\|Vital Question 1]]                                                             | 3      |
-| [[zettelkasten/Theory X - 202304201635\|Theory X]]                                                                             | 3      |
+| [[zettelkasten/FISBE - 202304201647\|FISBE]]                                                                                   | 4      |
+| [[zettelkasten/Creator - 202306271318\|Creator]]                                                                               | 4      |
+| [[zettelkasten/Baby Step - 202304261244\|Baby Step]]                                                                           | 4      |
 | [[zettelkasten/Vital Question 3 - 202304171451\|Vital Question 3]]                                                             | 3      |
-| [[zettelkasten/Anxiety - 202304261229\|Anxiety]]                                                                               | 3      |
-| [[zettelkasten/Reactive Trigger - 202304271152\|Reactive Trigger]]                                                             | 3      |
-| [[zettelkasten/Theory Y - 202304201637\|Theory Y]]                                                                             | 3      |
 | [[zettelkasten/Vital Question 2 - 202304171450\|Vital Question 2]]                                                             | 3      |
-| [[zettelkasten/Attention - 202304261250\|Attention]]                                                                           | 2      |
-| [[zettelkasten/Dynamic Tension - 202304171455\|Creative Tension]]                                                              | 2      |
+| [[zettelkasten/Vital Question 1 - 202304171449\|Vital Question 1]]                                                             | 3      |
+| [[zettelkasten/Three dimensions of work - 202304171439\|Three dimensions of work]]                                             | 3      |
+| [[zettelkasten/Theory Y - 202304201637\|Theory Y]]                                                                             | 3      |
+| [[zettelkasten/Theory X - 202304201635\|Theory X]]                                                                             | 3      |
+| [[zettelkasten/Reactive Trigger - 202304271152\|Reactive Trigger]]                                                             | 3      |
+| [[zettelkasten/Passion - 202304261243\|Passion]]                                                                               | 3      |
+| [[zettelkasten/Orientation - 202305280800\|Orientation]]                                                                       | 3      |
+| [[zettelkasten/Intention - 202304261251\|Intention]]                                                                           | 3      |
+| [[zettelkasten/Internal Shift - 202306291522\|Inside-Out Shift]]                                                               | 3      |
+| [[zettelkasten/Anxiety - 202304261229\|Anxiety]]                                                                               | 3      |
 | [[zettelkasten/External Shift - 202306291523\|External Shift]]                                                                 | 2      |
+| [[zettelkasten/Dynamic Tension - 202304171455\|Creative Tension]]                                                              | 2      |
 | [[zettelkasten/Coach - 202306271406\|Coach]]                                                                                   | 2      |
-| [[zettelkasten/Going up on the balcony - 202304271153\|Observing]]                                                             | 1      |
-| [[zettelkasten/Reactive Triggers and Strategies Exercise - 202307141117\|Reactive Triggers and Strategies Exercise]]           | 1      |
-| [[zettelkasten/Thoughts Feelings and Actions Exercise - 202307141112\|Thoughts Feelings and Actions Exercise]]                 | 1      |
+| [[zettelkasten/Attention - 202304261250\|Attention]]                                                                           | 2      |
 | [[zettelkasten/Victimhood - 202305271757\|Victimhood]]                                                                         | 1      |
-| [[zettelkasten/Behind a Complaint is a Commitment - 202306301446\|Behind a Complaint is a Commitment]]                         | 0      |
+| [[zettelkasten/Thoughts Feelings and Actions Exercise - 202307141112\|Thoughts Feelings and Actions Exercise]]                 | 1      |
+| [[zettelkasten/Reactive Triggers and Strategies Exercise - 202307141117\|Reactive Triggers and Strategies Exercise]]           | 1      |
+| [[zettelkasten/Going up on the balcony - 202304271153\|Observing]]                                                             | 1      |
 | [[zettelkasten/Focusing on outcomes categorizes your problems - 202304271148\|Focusing on outcomes categorizes your problems]] | 0      |
 | [[zettelkasten/Differences between the Victim and the Creator - 202306271324\|Differences between the Victim and the Creator]] | 0      |
+| [[zettelkasten/Behind a Complaint is a Commitment - 202306301446\|Behind a Complaint is a Commitment]]                         | 0      |
 
 { .block-language-dataview}
 

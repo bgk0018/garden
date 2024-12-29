@@ -37,11 +37,11 @@
 | --------------------------------------------------------------------------------------------------------------- | ------ |
 | [[zettelkasten/LATCH - 202304281226\|LATCH]]                                                                 | 9      |
 | [[zettelkasten/Idea Compass - 202306081233\|Idea Compass]]                                                   | 1      |
-| [[zettelkasten/Category organizing in Obsidian - 202304281322\|Category organizing in Obsidian]]             | 1      |
 | [[zettelkasten/Hierarchy organizing in Obsidian - 202304281323\|Hierarchy organizing in Obsidian]]           | 1      |
-| [[zettelkasten/Find concepts that emerge in Obsidian - 202304281339\|Find concepts that emerge in Obsidian]] | 0      |
-| [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]             | 0      |
+| [[zettelkasten/Category organizing in Obsidian - 202304281322\|Category organizing in Obsidian]]             | 1      |
 | [[zettelkasten/Time organizing on Obsidian - 202304281321\|Time organizing on Obsidian]]                     | 0      |
+| [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]             | 0      |
+| [[zettelkasten/Find concepts that emerge in Obsidian - 202304281339\|Find concepts that emerge in Obsidian]] | 0      |
 | [[zettelkasten/Alphabet organizing in Obsidian - 202304281320\|Alphabet organizing in Obsidian]]             | 0      |
 
 { .block-language-dataview}

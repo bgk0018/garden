@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/why-you-procrastinate-it-has-nothing-to-do-with-self-control-new-york-times-highlights/","title":"Why You Procrastinate (It Has Nothing to Do With Self-Control)","tags":["✂️","📰"],"created":"2024-08-29T08:16:25.392-05:00","updated":"2024-11-08T09:44:01.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/why-you-procrastinate-it-has-nothing-to-do-with-self-control-new-york-times-highlights/","title":"Why You Procrastinate (It Has Nothing to Do With Self-Control)","tags":["✂️","📰"],"created":"2024-08-29T16:38:21.642-05:00","updated":"2024-11-08T09:44:01.009-06:00"}
 ---
 
 # Why You Procrastinate (It Has Nothing to Do With Self-Control)

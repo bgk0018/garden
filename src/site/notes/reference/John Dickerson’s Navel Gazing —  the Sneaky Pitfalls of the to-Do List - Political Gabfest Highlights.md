@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/john-dickerson-s-navel-gazing-the-sneaky-pitfalls-of-the-to-do-list-political-gabfest-highlights/","title":"John Dickerson’s Navel Gazing —  the Sneaky Pitfalls of the to-Do List","tags":["✂️","🎧"],"created":"2024-05-12T18:39:31.628-05:00","updated":"2024-11-08T09:43:59.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/john-dickerson-s-navel-gazing-the-sneaky-pitfalls-of-the-to-do-list-political-gabfest-highlights/","title":"John Dickerson’s Navel Gazing —  the Sneaky Pitfalls of the to-Do List","tags":["✂️","🎧"],"created":"2024-08-29T16:38:55.800-05:00","updated":"2024-11-08T09:43:59.992-06:00"}
 ---
 
 # John Dickerson’s Navel Gazing —  the Sneaky Pitfalls of the to-Do List

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/home-server/","tags":["🗺️"],"created":"2024-09-08T17:10:32.473-05:00","updated":"2024-11-15T10:19:59.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/home-server/","tags":["🗺️"],"created":"2024-09-08T20:17:05.251-05:00","updated":"2024-11-15T10:19:59.674-06:00"}
 ---
 
 # Home Server
