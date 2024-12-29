@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/articles/explaining-to-myself-yet-again-how-this-note-taking-thing-works/explaining-to-myself-yet-again-how-this-note-taking-thing-works-202411291352/","tags":["💡","📫"],"created":"2024-11-30T19:03:19.129-06:00","updated":"2024-12-02T16:43:08.022-06:00"}
+{"dg-publish":true,"dg-path":"articles","permalink":"/articles/","title":"Explaining to Myself Yet Again How This Note-Taking Thing Works","tags":["💡","📫"],"created":"2024-11-30T19:03:19.129-06:00","updated":"2024-12-29T17:48:34.145-06:00"}
 ---
 
 

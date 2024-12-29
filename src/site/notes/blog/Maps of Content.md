@@ -22,6 +22,7 @@ A Map of Content (MOC) serves as a navigational hub in your digital notes. Like 
 | [[maps/Home Server\|Home Server]]                         | \-                                                                                                                                    |
 | [[maps/Learning\|Learning]]                               | \-                                                                                                                                    |
 | [[maps/Obsidian\|Obsidian]]                               | \-                                                                                                                                    |
+| [[maps/Persuasion\|Persuasion]]                           | \-                                                                                                                                    |
 | [[maps/Psychology\|Psychology]]                           | \-                                                                                                                                    |
 | [[maps/Sales Engineering\|Sales Engineering]]             | \-                                                                                                                                    |
 | [[maps/Scotland 2024\|Scotland 2024]]                     | \-                                                                                                                                    |

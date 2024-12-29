@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/maps/certainty/","tags":["🗺️"],"created":"2024-09-08T20:17:03.645-05:00","updated":"2024-12-23T10:51:07.282-06:00"}
+{"dg-publish":true,"permalink":"/maps/persuasion/","tags":["🗺️"],"created":"2024-12-29T17:41:00.095-06:00","updated":"2024-12-29T17:41:15.687-06:00"}
 ---
 
 
-# Certainty
+# Persuasion
 
 ## Summary
 
@@ -32,9 +32,8 @@
 > [!info]- Concepts I've Broken Out  
 > This section breaks down fundamental concepts into manageable components. It focuses on core principles, terminology, and essential knowledge areas that form the foundation of understanding the subject matter.
 
-| Name                                                                                                                                                                   | Weight |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [[projects/How Minds Change/Even journalism CEOs fall prey to persuasion through facts - 202306201733\|Even journalism CEOs fall prey to persuasion through facts]] | 0      |
+| Name | Weight |
+| ---- | ------ |
 
 { .block-language-dataview}
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney/","title":"How Minds Change","tags":["📕"],"created":"2024-08-29T16:41:00.977-05:00","updated":"2024-11-08T09:43:57.626-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney/","title":"How Minds Change","tags":["📕"],"created":"2024-08-29T16:41:00.977-05:00","updated":"2024-12-29T17:43:22.478-06:00"}
 ---
+
 
 ![cover|150](http://books.google.com/books/content?id=-qVPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
@@ -8,6 +9,7 @@
 > A brain-bending investigation of why some people never change their minds—and others do in an instant—by the bestselling author of You Are Not So Smart What made a prominent conspiracy-theorist YouTuber finally see that 9/11 was not a hoax? How do voter opinions shift from neutral to resolute? Can widespread social change only take place when a generation dies out? From one of our greatest thinkers on reasoning, HOW MINDS CHANGE is a book about the science, and the experience, of transformation. When self-delusion expert and psychology nerd David McRaney began a book about how to change someone’s mind in one conversation, he never expected to change his own. But then a diehard 9/11 Truther’s conversion blew up his theories—inspiring him to ask not just how to persuade, but why we believe, from the eye of the beholder. Delving into the latest research of psychologists and neuroscientists, HOW MINDS CHANGE explores the limits of reasoning, the power of groupthink, and the effects of deep canvassing. Told with McRaney’s trademark sense of humor, compassion, and scientific curiosity, it’s an eye-opening journey among cult members, conspiracy theorists, and political activists, from Westboro Baptist Church picketers to LGBTQ campaigners in California—that ultimately challenges us to question our own motives and beliefs. In an age of dangerous conspiratorial thinking, can we rise to the occasion with empathy? An expansive, big-hearted journalistic narrative, HOW MINDS CHANGE reaches surprising and thought-provoking conclusions, to demonstrate the rare but transformative circumstances under which minds can change.
 
 # Concepts
+
 | Name                                                                                                                                                          | Weight    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [[projects/How Minds Change/Persuasion - 202307012230\|Persuasion - 202307012230]]                                                                         | Weight: 9 |

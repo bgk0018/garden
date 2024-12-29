@@ -54,8 +54,10 @@
 > [!quote]- References I've used  
 > This section maintains a curated list of learning resources including documentation, articles, videos, and other materials that contribute to understanding the topic. It serves as a bibliography of valuable information sources for future reference.
 
-| Title |
-| ----- |
+| Title                                                                                               |
+| --------------------------------------------------------------------------------------------------- |
+| [[reference/Nexus - Yuval Noah Harari\|Nexus - Yuval Noah Harari]]                               |
+| [[projects/How Minds Change/How Minds Change - David McRaney\|How Minds Change - David McRaney]] |
 
 { .block-language-dataview}
 

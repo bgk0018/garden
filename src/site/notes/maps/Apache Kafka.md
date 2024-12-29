@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T20:17:05.233-05:00","updated":"2024-12-23T10:45:14.996-06:00"}
+{"dg-publish":true,"permalink":"/maps/apache-kafka/","tags":["🗺️"],"created":"2024-09-08T20:17:05.233-05:00","updated":"2024-12-29T17:40:22.435-06:00"}
 ---
 
 
 # Apache Kafka
 
 ## Summary
-
- 
 
 Apache Kafka is a distributed event streaming platform designed for high-throughput, fault-tolerant handling of real-time data feeds. Originally developed by LinkedIn and later open-sourced, Kafka enables organizations to collect, store, and process large volumes of data across distributed systems. It's particularly well-suited for building real-time streaming data pipelines and applications that adapt to data streams.
 
