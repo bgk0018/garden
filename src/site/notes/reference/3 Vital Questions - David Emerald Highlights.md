@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/3-vital-questions-david-emerald-highlights/","title":"3 Vital Questions","tags":["✂️","📚"],"created":"2024-08-29T16:40:15.123-05:00","updated":"2024-11-08T09:43:59.391-06:00"}
+{"dg-publish":true,"permalink":"/reference/3-vital-questions-david-emerald-highlights/","title":"3 Vital Questions","tags":["✂️","📚"],"created":"2024-03-01T16:09:49.154-06:00","updated":"2025-01-02T22:19:19.348-06:00"}
 ---
 
 # 3 Vital Questions
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >Gallup research indicates that there’s approximately $500 billion in lost productivity annually, in the United States alone, due to negative behavior in organizations. Other research has estimated that managers spend as much as 40% of their time dealing with conflict and drama. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B07NGNFVNQ&location=74)) #✂️ 

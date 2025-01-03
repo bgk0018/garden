@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/ai-prompt-engineering-is-dead-httpswww-facebook-com48576411181-highlights/","title":"AI Prompt Engineering Is Dead","tags":["✂️"],"created":"2024-08-29T16:39:00.665-05:00","updated":"2024-11-08T09:43:59.464-06:00"}
+{"dg-publish":true,"permalink":"/reference/ai-prompt-engineering-is-dead-httpswww-facebook-com48576411181-highlights/","title":"AI Prompt Engineering Is Dead","tags":["✂️"],"created":"2024-03-09T16:37:06.475-06:00","updated":"2025-01-02T22:19:19.150-06:00"}
 ---
 
 # AI Prompt Engineering Is Dead
@@ -10,7 +10,7 @@
 - URL: https://spectrum.ieee.org/prompt-engineering-is-dead
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >“Now we have this full machinery, the full loop that’s completed with this reinforcement learning. … This is why we are able to outperform human prompt engineering.” **—Vasudev Lal, [Intel](https://spectrum.ieee.org/tag/intel) Labs** ([View Highlight](https://read.readwise.io/read/01hrhrtf80zt4xw7rcprgxazt5)) #✂️ #👻 ai highlighted 
 { #ref-690392646}

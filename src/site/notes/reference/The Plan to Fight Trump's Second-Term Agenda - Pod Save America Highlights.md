@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-plan-to-fight-trump-s-second-term-agenda-pod-save-america-highlights/","title":"The Plan to Fight Trump's Second-Term Agenda","tags":["✂️","🎧"],"created":"2024-08-29T16:38:14.755-05:00","updated":"2024-11-08T09:44:00.565-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-plan-to-fight-trump-s-second-term-agenda-pod-save-america-highlights/","title":"The Plan to Fight Trump's Second-Term Agenda","tags":["✂️","🎧"],"created":"2024-07-12T16:43:56.989-05:00","updated":"2025-01-02T22:19:19.473-06:00"}
 ---
 
 # The Plan to Fight Trump's Second-Term Agenda
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/d4099ac4-a397-4b78-bac2-c8b997194cba
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 1:07:52](https://share.snipd.com/snip/3a639ea3-677f-45bf-844c-1c7bba9d1ebb)) #✂️ 
 { #ref-737116482}

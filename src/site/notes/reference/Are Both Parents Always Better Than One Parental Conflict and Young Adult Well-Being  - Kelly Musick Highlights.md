@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/are-both-parents-always-better-than-one-parental-conflict-and-young-adult-well-being-kelly-musick-highlights/","title":"Are Both Parents Always Better Than One? Parental Conflict and Young Adult Well-Being *","tags":["✂️"],"created":"2024-08-29T16:39:01.196-05:00","updated":"2024-11-08T09:43:59.479-06:00"}
+{"dg-publish":true,"permalink":"/reference/are-both-parents-always-better-than-one-parental-conflict-and-young-adult-well-being-kelly-musick-highlights/","title":"Are Both Parents Always Better Than One? Parental Conflict and Young Adult Well-Being *","tags":["✂️"],"created":"2024-04-06T18:01:25.412-05:00","updated":"2025-01-02T22:19:19.175-06:00"}
 ---
 
 # Are Both Parents Always Better Than One? Parental Conflict and Young Adult Well-Being *
@@ -10,7 +10,7 @@
 - URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2930824/
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Using data from three waves of the National Survey of Families and Households (N=1,963), we examine associations between adolescent family experiences and young adult well-being across a range of indicators, including schooling, substance use, and family-related transitions. We compare children living with both biological parents, but whose parents differ in how often they argue, to children in stepfather and single-mother families, and we assess the extent to which differences can be understood in terms of family income and parenting practices. Findings suggest that parental conflict is associated with children’s poorer academic achievement, increased substance use, and early family formation and dissolution. ([View Highlight](https://read.readwise.io/read/01httrchfxan0ehyfz16p8dk8f)) #✂️ #👻 ai highlighted 
 { #ref-703218901}

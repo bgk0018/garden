@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/thinking-in-bets-annie-duke-highlights/","title":"Thinking in Bets","tags":["✂️","📚"],"created":"2024-08-29T16:40:14.822-05:00","updated":"2024-11-08T09:44:00.751-06:00"}
+{"dg-publish":true,"permalink":"/reference/thinking-in-bets-annie-duke-highlights/","title":"Thinking in Bets","tags":["✂️","📚"],"created":"2023-09-19T22:08:54.604-05:00","updated":"2025-01-02T22:19:19.501-06:00"}
 ---
 
 # Thinking in Bets
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Why This Isn’t a Poker Book
 >[!QUOTE]  
 >Over time, those world-class poker players taught me to understand what a bet really is: a decision about an uncertain future. The implications of treating decisions as bets made it possible for me to find learning opportunities in uncertain environments. Treating decisions as bets, I discovered, helped me avoid common decision traps, learn from results in a more rational way, and keep emotions out of the process as much as possible. ([Location 120](https://readwise.io/to_kindle?action=open&asin=B074DG9LQF&location=120)) #✂️ 

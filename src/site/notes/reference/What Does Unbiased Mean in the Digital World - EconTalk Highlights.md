@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/what-does-unbiased-mean-in-the-digital-world-econ-talk-highlights/","title":"What Does Unbiased Mean in the Digital World?","tags":["✂️","🎧"],"created":"2024-08-29T16:39:01.008-05:00","updated":"2024-11-08T09:44:00.867-06:00"}
+{"dg-publish":true,"permalink":"/reference/what-does-unbiased-mean-in-the-digital-world-econ-talk-highlights/","title":"What Does Unbiased Mean in the Digital World?","tags":["✂️","🎧"],"created":"2024-03-28T20:53:16.879-05:00","updated":"2025-01-02T22:19:19.503-06:00"}
 ---
 
 # What Does "Unbiased" Mean in the Digital World?
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/f92b9203-cdc7-4402-92c0-e402aaa0dcec
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Episode AI notes
 >1. Embracing complexity and nuance in discussions is important to avoid polarizing views and foster open dialogue.

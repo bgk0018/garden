@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/articles/Explaining to Myself Yet Again How This Note-Taking Thing Works","permalink":"/blog/articles/explaining-to-myself-yet-again-how-this-note-taking-thing-works/","title":"Explaining to Myself Yet Again How This Note-Taking Thing Works","tags":["💡","📫"],"created":"2024-11-30T19:03:19.129-06:00","updated":"2024-12-29T17:51:02.065-06:00"}
+{"dg-publish":true,"dg-path":"blog/articles/Explaining to Myself Yet Again How This Note-Taking Thing Works","permalink":"/blog/articles/explaining-to-myself-yet-again-how-this-note-taking-thing-works/","title":"Explaining to Myself Yet Again How This Note-Taking Thing Works","tags":["🥕"],"created":"2024-11-29T13:51:43.267-06:00","updated":"2025-01-02T22:37:27.689-06:00"}
 ---
 
 
@@ -240,11 +240,11 @@ For reference, I think this is still an exhaustive list of my note types. I use 
 | #📌          | Location                                                                          |
 | #🚧          | Project                                                                           |
 | #📋          | Task, only used inline, not as a note type                                        |
-| #daily       | Daily journal entry                                                               |
-| #weekly      | Weekly journal entry                                                              |
-| #monthly     | Monthly journal entry                                                             |
-| #quarterly   | Quarterly journal entry                                                           |
-| #yearly      | Yearly journal entry                                                              |
+| #📅       | Daily journal entry                                                               |
+| #📅      | Weekly journal entry                                                              |
+| #📅     | Monthly journal entry                                                             |
+| #📅   | Quarterly journal entry                                                           |
+| #📅      | Yearly journal entry                                                              |
 
 
 </div></div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/whoever-tells-the-best-story-wins-annette-simmons-highlights-1/","title":"Whoever Tells the Best Story Wins","tags":["✂️","📚"],"created":"2024-08-29T16:41:03.112-05:00","updated":"2024-11-08T09:44:00.915-06:00"}
+{"dg-publish":true,"permalink":"/reference/whoever-tells-the-best-story-wins-annette-simmons-highlights-1/","title":"Whoever Tells the Best Story Wins","tags":["✂️","📚"],"created":"2024-09-08T18:38:48.810-05:00","updated":"2025-01-02T22:19:22.899-06:00"}
 ---
 
 # Whoever Tells the Best Story Wins
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -719,7 +719,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-08\|2024-09-08]]"
+create-date: "[[archive/2024/journal/daily/2024-09-08\|2024-09-08]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -728,7 +728,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -1439,7 +1439,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-08\|2024-09-08]]"
+create-date: "[[archive/2024/journal/daily/2024-09-08\|2024-09-08]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -1448,7 +1448,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -2159,7 +2159,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-09\|2024-09-09]]"
+create-date: "[[archive/2024/journal/daily/2024-09-09\|2024-09-09]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -2168,7 +2168,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -2879,7 +2879,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-09\|2024-09-09]]"
+create-date: "[[archive/2024/journal/daily/2024-09-09\|2024-09-09]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -2888,7 +2888,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -3599,7 +3599,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-09\|2024-09-09]]"
+create-date: "[[archive/2024/journal/daily/2024-09-09\|2024-09-09]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -3608,7 +3608,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -4319,7 +4319,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-09\|2024-09-09]]"
+create-date: "[[archive/2024/journal/daily/2024-09-09\|2024-09-09]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -4328,7 +4328,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -5039,7 +5039,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-09\|2024-09-09]]"
+create-date: "[[archive/2024/journal/daily/2024-09-09\|2024-09-09]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -5048,7 +5048,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -5759,7 +5759,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-09\|2024-09-09]]"
+create-date: "[[archive/2024/journal/daily/2024-09-09\|2024-09-09]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -5768,7 +5768,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -6479,7 +6479,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-09\|2024-09-09]]"
+create-date: "[[archive/2024/journal/daily/2024-09-09\|2024-09-09]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -6488,7 +6488,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -7199,7 +7199,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-09\|2024-09-09]]"
+create-date: "[[archive/2024/journal/daily/2024-09-09\|2024-09-09]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -7208,7 +7208,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -7919,7 +7919,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-10\|2024-09-10]]"
+create-date: "[[archive/2024/journal/daily/2024-09-10\|2024-09-10]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -7928,7 +7928,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 
@@ -8639,7 +8639,7 @@ url:
 source: "kindle"
 parent: "[[reference/Whoever Tells the Best Story Wins - Annette Simmons\|Whoever Tells the Best Story Wins - Annette Simmons]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-10\|2024-09-10]]"
+create-date: "[[archive/2024/journal/daily/2024-09-10\|2024-09-10]]"
 dg-publish: true
 ---
 # Whoever Tells the Best Story Wins
@@ -8648,7 +8648,7 @@ dg-publish: true
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Introduction
 >[!QUOTE]  
 >The best storytellers learn to use their own emotional responses as divining rods to locate and tap into the emotional responses of others. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B00TRF2QV0&location=75)) #✂️ 

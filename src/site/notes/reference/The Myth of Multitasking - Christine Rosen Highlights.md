@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-myth-of-multitasking-christine-rosen-highlights/","title":"The Myth of Multitasking","tags":["✂️","📰"],"created":"2024-08-29T16:40:15.316-05:00","updated":"2024-11-08T09:44:00.529-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-myth-of-multitasking-christine-rosen-highlights/","title":"The Myth of Multitasking","tags":["✂️","📰"],"created":"2024-03-04T17:54:52.058-06:00","updated":"2025-01-02T22:19:19.469-06:00"}
 ---
 
 # The Myth of Multitasking
@@ -35,7 +35,7 @@
 - URL: https://www.thenewatlantis.com/publications/the-myth-of-multitasking
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Multitasking might also be taking a toll on the economy. One study by researchers at the University of California at Irvine monitored interruptions among office workers; they found that workers took an average of twenty-five minutes to recover from interruptions such as phone calls or answering e-mail and return to their original task. Discussing multitasking with the *New York Times* in 2007, Jonathan B. Spira, an analyst at the business research firm Basex, estimated that extreme multitasking — information overload — costs the U.S. economy $650 billion a year in lost productivity. ([View Highlight](https://read.readwise.io/read/01hr4tje1jmfz838xx2hz10dd5)) #✂️ 
 { #ref-688000038}

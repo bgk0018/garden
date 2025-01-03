@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/what-next-election-workers-in-the-crosshairs-slate-news-highlights/","title":"What Next —  Election Workers in the Crosshairs","tags":["✂️","🎧"],"created":"2024-08-29T16:38:55.896-05:00","updated":"2024-11-08T09:44:00.889-06:00"}
+{"dg-publish":true,"permalink":"/reference/what-next-election-workers-in-the-crosshairs-slate-news-highlights/","title":"What Next —  Election Workers in the Crosshairs","tags":["✂️","🎧"],"created":"2024-06-04T21:11:50.011-05:00","updated":"2025-01-02T22:19:19.569-06:00"}
 ---
 
 # What Next —  Election Workers in the Crosshairs
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/2d2c7f52-3724-40f9-92ed-fe06527613e6
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:10:06](https://share.snipd.com/snip/7bf62b22-b590-49da-9632-121b3bbea79a)) #✂️ 
 { #ref-729030091}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/progress-clocks-bladesinthedark-com-highlights/","title":"Progress Clocks","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.930-05:00","updated":"2024-11-08T09:44:00.160-06:00"}
+{"dg-publish":true,"permalink":"/reference/progress-clocks-bladesinthedark-com-highlights/","title":"Progress Clocks","tags":["✂️","📰"],"created":"2024-03-01T16:09:42.423-06:00","updated":"2025-01-02T22:19:19.468-06:00"}
 ---
 
 # Progress Clocks
@@ -10,7 +10,7 @@
 - URL: https://bladesinthedark.com/progress-clocks
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble. ([View Highlight](https://read.readwise.io/read/01h4bsmkatcka5xgvbrbhejqcr)) #✂️ 
 { #ref-557293318}

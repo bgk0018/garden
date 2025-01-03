@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/john-dickerson-s-navel-gazing-the-sneaky-pitfalls-of-the-to-do-list-political-gabfest-highlights/","title":"John Dickerson’s Navel Gazing —  the Sneaky Pitfalls of the to-Do List","tags":["✂️","🎧"],"created":"2024-08-29T16:38:55.800-05:00","updated":"2024-11-08T09:43:59.992-06:00"}
+{"dg-publish":true,"permalink":"/reference/john-dickerson-s-navel-gazing-the-sneaky-pitfalls-of-the-to-do-list-political-gabfest-highlights/","title":"John Dickerson’s Navel Gazing —  the Sneaky Pitfalls of the to-Do List","tags":["✂️","🎧"],"created":"2024-05-12T18:39:31.628-05:00","updated":"2025-01-02T22:19:19.364-06:00"}
 ---
 
 # John Dickerson’s Navel Gazing —  the Sneaky Pitfalls of the to-Do List
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/68b8ca07-6a5b-419a-8f9b-52ddeafc4f87
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >The Zegarnik Effect and Unfinished Tasks
 >Summary:
@@ -21,7 +21,7 @@
 
 
 ---
-*New highlights added May 13, 2024 at 1:25 PM* #📫
+*New highlights added May 13, 2024 at 1:25 PM* 
 >[!QUOTE]  
 >Episode AI notes
 >1. The Zegarnik effect explains that people tend to remember uncompleted or interrupted tasks better than completed ones, leading to mental tension as our brains have a natural inclination to resolve unfinished tasks. ([Time 0:00:00](https://share.snipd.com/episode-takeaways/dece33fc-c02e-4ebb-b9d6-b92a0fb99788)) #✂️ 

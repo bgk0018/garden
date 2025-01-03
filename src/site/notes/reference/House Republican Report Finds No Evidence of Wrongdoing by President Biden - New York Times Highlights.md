@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/house-republican-report-finds-no-evidence-of-wrongdoing-by-president-biden-new-york-times-highlights/","title":"House Republican Report Finds No Evidence of Wrongdoing by President Biden","tags":["✂️"],"created":"2024-08-29T16:40:15.001-05:00","updated":"2024-11-08T09:43:59.858-06:00"}
+{"dg-publish":true,"permalink":"/reference/house-republican-report-finds-no-evidence-of-wrongdoing-by-president-biden-new-york-times-highlights/","title":"House Republican Report Finds No Evidence of Wrongdoing by President Biden","tags":["✂️"],"created":"2024-03-01T16:09:43.847-06:00","updated":"2025-01-02T22:19:19.326-06:00"}
 ---
 
 # House Republican Report Finds No Evidence of Wrongdoing by President Biden
@@ -9,7 +9,7 @@
 - URL: https://www.nytimes.com/2023/05/10/us/politics/hunter-biden-house-republicans-report.html
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >But on Wednesday, the Republicans conceded that they had yet to find evidence of a specific corrupt action Mr. Biden took in office in connection with any of the business deals his son entered into. Instead, their presentation underscored how little headway top G.O.P. lawmakers have made in finding clear evidence of questionable transactions they can tie to Mr. Biden, their chief political rival. ([View Highlight](https://read.readwise.io/read/01h05bna9sy9pp1t49ynh98sh8)) #✂️ 
 { #ref-527042234}

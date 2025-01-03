@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/atomic-habits-how-to-get-1-better-every-day-james-clear-apb-speakers-highlights/","title":"Atomic Habits: How to Get 1% Better Every Day - James Clear","tags":["✂️","🎥"],"created":"2024-08-29T16:40:15.305-05:00","updated":"2024-11-08T09:43:59.502-06:00"}
+{"dg-publish":true,"permalink":"/reference/atomic-habits-how-to-get-1-better-every-day-james-clear-apb-speakers-highlights/","title":"Atomic Habits: How to Get 1% Better Every Day - James Clear","tags":["✂️","🎥"],"created":"2024-03-01T16:09:48.823-06:00","updated":"2025-01-02T22:19:19.181-06:00"}
 ---
 
 # Atomic Habits: How to Get 1% Better Every Day - James Clear
@@ -36,7 +36,7 @@
 - URL: https://www.youtube.com/watch?v=U_nzqnXWvSo
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >one way to think about it is just kindof basic math like if you just look atthe numbers if you were able to improveby 1% each day for an entire year andthose games compound you would end up 37times better at the end of the year ([View Highlight](https://read.readwise.io/read/01h4bt34qw49nk6ykm3dw4dc4b)) #✂️ 
 { #ref-557296859}

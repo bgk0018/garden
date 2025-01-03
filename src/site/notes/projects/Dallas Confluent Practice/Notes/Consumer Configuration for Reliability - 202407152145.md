@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-configuration-for-reliability-202407152145/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:09:52.327-06:00","updated":"2024-11-10T13:34:50.977-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-configuration-for-reliability-202407152145/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:31.041-06:00","updated":"2024-11-10T13:34:50.000-06:00"}
 ---
 
 

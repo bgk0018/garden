@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/284-awe-dacher-keltner-you-are-not-so-smart-highlights/","title":"284 - Awe - Dacher Keltner","tags":["✂️","🎧"],"created":"2024-08-29T16:39:01.044-05:00","updated":"2024-11-08T09:43:59.375-06:00"}
+{"dg-publish":true,"permalink":"/reference/284-awe-dacher-keltner-you-are-not-so-smart-highlights/","title":"284 - Awe - Dacher Keltner","tags":["✂️","🎧"],"created":"2024-03-31T12:08:50.763-05:00","updated":"2025-01-02T22:19:19.363-06:00"}
 ---
 
 # 284 - Awe - Dacher Keltner
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/444a8085-beaa-4acd-9161-c25789835be9
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:28:01](https://share.snipd.com/snip/d982bb11-eed4-4a04-a3ea-ae44f43c281d)) #✂️ 
 { #ref-700425065}

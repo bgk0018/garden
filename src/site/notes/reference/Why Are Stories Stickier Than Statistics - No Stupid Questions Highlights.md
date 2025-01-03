@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/why-are-stories-stickier-than-statistics-no-stupid-questions-highlights/","title":"Why Are Stories Stickier Than Statistics?","tags":["✂️","🎧"],"created":"2024-09-07T09:48:43.509-05:00","updated":"2024-11-08T09:44:00.994-06:00"}
+{"dg-publish":true,"permalink":"/reference/why-are-stories-stickier-than-statistics-no-stupid-questions-highlights/","title":"Why Are Stories Stickier Than Statistics?","tags":["✂️","🎧"],"created":"2024-09-07T09:50:48.362-05:00","updated":"2025-01-02T22:19:19.568-06:00"}
 ---
 
 # Why Are Stories Stickier Than Statistics?
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/61fd89c8-4051-40de-b4ed-0d7df06c418c
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Stories Resonate, Rules Fade
 >Summary:
@@ -26,7 +26,7 @@
 
 
 ---
-*New highlights added September 7, 2024 at 9:29 PM* #📫
+*New highlights added September 7, 2024 at 9:29 PM* 
 >[!QUOTE]  
 >Episode AI notes
 >1. Stories resonate more than statistics, as human memory thrives on narratives.

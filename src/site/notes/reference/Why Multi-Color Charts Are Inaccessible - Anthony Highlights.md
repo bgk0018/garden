@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/why-multi-color-charts-are-inaccessible-anthony-highlights/","title":"Why Multi-Color Charts Are Inaccessible","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.789-05:00","updated":"2024-11-08T09:44:01.004-06:00"}
+{"dg-publish":true,"permalink":"/reference/why-multi-color-charts-are-inaccessible-anthony-highlights/","title":"Why Multi-Color Charts Are Inaccessible","tags":["✂️","📰"],"created":"2024-02-16T19:23:31.714-06:00","updated":"2025-01-02T22:19:19.512-06:00"}
 ---
 
 # Why Multi-Color Charts Are Inaccessible
@@ -9,7 +9,7 @@
 - URL: https://open.substack.com/pub/uxmovement/p/why-multi-color-marks-are-inaccessible?utm_source=share&utm_medium=android&r=2kccsn
 
 ## Highlights
-#📫
+
 ### Designing for colorblind users
 >[!QUOTE]  
 >To make your charts accessible to colorblind users, don’t use different hues. Instead, use the same hue but vary the saturation and brightness. Doing this will create various shades of the same color with a preserved contrast. ([View Highlight](https://read.readwise.io/read/01h4hyk8vz427t39pj6hpyrdc2)) #✂️ 

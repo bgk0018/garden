@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/to-sell-is-human-daniel-h-pink-highlights/","title":"To Sell Is Human","tags":["✂️","📚"],"created":"2024-08-29T16:40:14.812-05:00","updated":"2024-11-08T09:44:00.778-06:00"}
+{"dg-publish":true,"permalink":"/reference/to-sell-is-human-daniel-h-pink-highlights/","title":"To Sell Is Human","tags":["✂️","📚"],"created":"2023-09-19T22:09:02.310-05:00","updated":"2025-01-02T22:19:19.475-06:00"}
 ---
 
 # To Sell Is Human
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >The lesson here is critical: The purpose of a pitch isn’t necessarily to move others immediately to adopt your idea. The purpose is to offer something so compelling that it begins a conversation, brings the other person in as a participant, and eventually arrives at an outcome that appeals to both of you. In a world where buyers have ample information and an array of choices, the pitch is often the first word, but it’s rarely the last. ([Location 1814](https://readwise.io/to_kindle?action=open&asin=B0087GJ8KM&location=1814)) #✂️ 
 { #ref-518217966}

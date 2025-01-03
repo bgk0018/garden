@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/new-data-show-how-the-pandemic-affected-learning-across-whole-communities-harvard-graduate-school-of-education-highlights/","title":"New Data Show How the Pandemic Affected Learning Across Whole Communities","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.950-05:00","updated":"2024-11-08T09:44:00.099-06:00"}
+{"dg-publish":true,"permalink":"/reference/new-data-show-how-the-pandemic-affected-learning-across-whole-communities-harvard-graduate-school-of-education-highlights/","title":"New Data Show How the Pandemic Affected Learning Across Whole Communities","tags":["✂️","📰"],"created":"2024-03-01T16:09:42.683-06:00","updated":"2025-01-02T22:19:19.417-06:00"}
 ---
 
 # New Data Show How the Pandemic Affected Learning Across Whole Communities
@@ -10,7 +10,7 @@
 - URL: https://www.gse.harvard.edu/news/23/05/new-data-show-how-pandemic-affected-learning-across-whole-communities
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >• Within the typical school district, the declines in test scores were similar for all groups of students, rich and poor, white, Black, Hispanic. And the extent to which schools were closed appears to have had the same effect on all students in a community, regardless of income or race. 
 >• Test scores declined more in places where the COVID death rate was higher, in communities where adults reported feeling more depression and anxiety during the pandemic, and where daily routines of families were most significantly restricted. This is true even in places where schools closed only very briefly at the start of the pandemic. 

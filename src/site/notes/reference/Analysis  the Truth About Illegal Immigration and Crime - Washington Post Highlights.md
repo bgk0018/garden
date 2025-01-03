@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/analysis-the-truth-about-illegal-immigration-and-crime-washington-post-highlights/","title":"Analysis | the Truth About Illegal Immigration and Crime","tags":["✂️"],"created":"2024-08-29T16:39:01.208-05:00","updated":"2024-11-08T09:43:59.469-06:00"}
+{"dg-publish":true,"permalink":"/reference/analysis-the-truth-about-illegal-immigration-and-crime-washington-post-highlights/","title":"Analysis | the Truth About Illegal Immigration and Crime","tags":["✂️"],"created":"2024-04-06T18:00:58.505-05:00","updated":"2025-01-02T22:19:19.166-06:00"}
 ---
 
 # Analysis | the Truth About Illegal Immigration and Crime
@@ -10,7 +10,7 @@
 - URL: https://www.washingtonpost.com/politics/2024/02/29/truth-about-illegal-immigration-crime/
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >But here’s the rub: There is little evidence that immigrants — or even undocumented immigrants — cause more crime. Still, there is enough ambiguity in the data — or so little hard data — that it’s difficult to point to conclusive findings that would change opinions. ([View Highlight](https://read.readwise.io/read/01htsqn93kkz8hzxx6bvcmqejt)) #✂️ #👻 ai highlighted 
 { #ref-703032999}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/after-title-42-turkey-elections-pandemic-learning-loss-up-first-highlights/","title":"After Title 42, Turkey Elections, Pandemic Learning Loss","tags":["✂️","🎧"],"created":"2024-08-29T16:40:15.040-05:00","updated":"2024-11-08T09:43:59.448-06:00"}
+{"dg-publish":true,"permalink":"/reference/after-title-42-turkey-elections-pandemic-learning-loss-up-first-highlights/","title":"After Title 42, Turkey Elections, Pandemic Learning Loss","tags":["✂️","🎧"],"created":"2024-03-01T16:09:49.081-06:00","updated":"2025-01-02T22:19:19.330-06:00"}
 ---
 
 # After Title 42, Turkey Elections, Pandemic Learning Loss
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/a7f862bd-01a4-4be1-91d8-9ca5376353d0
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >How Much Learning Did Students Miss During the Pandemic?
 >Summary:

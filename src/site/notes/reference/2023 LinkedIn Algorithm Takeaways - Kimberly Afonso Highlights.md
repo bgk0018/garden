@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/2023-linked-in-algorithm-takeaways-kimberly-afonso-highlights/","title":"2023 LinkedIn Algorithm Takeaways","tags":["✂️"],"created":"2024-08-29T16:40:15.061-05:00","updated":"2024-11-08T09:43:59.363-06:00"}
+{"dg-publish":true,"permalink":"/reference/2023-linked-in-algorithm-takeaways-kimberly-afonso-highlights/","title":"2023 LinkedIn Algorithm Takeaways","tags":["✂️"],"created":"2024-03-01T16:09:49.177-06:00","updated":"2025-01-02T22:19:19.365-06:00"}
 ---
 
 # 2023 LinkedIn Algorithm Takeaways
@@ -9,7 +9,7 @@
 - URL: https://www.linkedin.com/pulse/2023-linkedin-algorithm-takeaways-kimberly-afonso/
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >![](https://media.licdn.com/dms/image/D4D12AQGMIEm1LAGeJg/article-inline_image-shrink_1000_1488/0/1674477947278?e=1694649600&v=beta&t=1JvapnP-hJiNtPPmJj2mHszMLIgK5XRwdfnIDljhtZM) ([View Highlight](https://read.readwise.io/read/01hpvqs51swkahqvnne675da1q)) #✂️ 
 { #ref-678653915}

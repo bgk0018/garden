@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/why-you-procrastinate-it-has-nothing-to-do-with-self-control-new-york-times-highlights/","title":"Why You Procrastinate (It Has Nothing to Do With Self-Control)","tags":["✂️","📰"],"created":"2024-08-29T16:38:21.642-05:00","updated":"2024-11-08T09:44:01.009-06:00"}
+{"dg-publish":true,"permalink":"/reference/why-you-procrastinate-it-has-nothing-to-do-with-self-control-new-york-times-highlights/","title":"Why You Procrastinate (It Has Nothing to Do With Self-Control)","tags":["✂️","📰"],"created":"2024-08-29T08:16:25.392-05:00","updated":"2025-01-02T22:19:19.562-06:00"}
 ---
 
 # Why You Procrastinate (It Has Nothing to Do With Self-Control)
@@ -9,7 +9,7 @@
 - URL: https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >That self-awareness is a key part of why procrastinating makes us feel so rotten. When we procrastinate, we’re not only aware that we’re avoiding the task in question, but also that doing so is probably a bad idea. And yet, we do it anyway. ([View Highlight](https://read.readwise.io/read/01j6f422w0krpeyrf6za4rjpx8)) #✂️ #👻 ai highlighted 
 { #ref-764888531}

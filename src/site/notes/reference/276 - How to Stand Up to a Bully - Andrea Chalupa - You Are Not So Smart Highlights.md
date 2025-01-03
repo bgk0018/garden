@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/276-how-to-stand-up-to-a-bully-andrea-chalupa-you-are-not-so-smart-highlights/","title":"276 - How to Stand Up to a Bully - Andrea Chalupa","tags":["✂️","🎧"],"created":"2024-08-29T16:40:15.050-05:00","updated":"2024-11-08T09:43:59.369-06:00"}
+{"dg-publish":true,"permalink":"/reference/276-how-to-stand-up-to-a-bully-andrea-chalupa-you-are-not-so-smart-highlights/","title":"276 - How to Stand Up to a Bully - Andrea Chalupa","tags":["✂️","🎧"],"created":"2024-03-01T16:09:49.168-06:00","updated":"2025-01-02T22:19:19.363-06:00"}
 ---
 
 # 276 - How to Stand Up to a Bully - Andrea Chalupa
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/ccbd4513-45ac-4e7d-9703-ba20dc2798c2
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Episode AI notes
 >1. Changing minds requires empathy and understanding that humans are motivated reasoners.

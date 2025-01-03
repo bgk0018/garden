@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/what-is-blooms-taxonomy-202308081447/","tags":["❓"],"created":"2024-08-29T16:41:02.312-05:00","updated":"2024-11-10T17:58:52.804-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/what-is-blooms-taxonomy-202308081447/","tags":["❓"],"created":"2023-09-19T22:08:54.541-05:00","updated":"2024-11-10T17:58:52.000-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/diclofenac-sodium-202305231727/","tags":["📖"],"created":"2024-08-29T16:41:08.761-05:00","updated":"2024-11-10T17:04:34.871-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/diclofenac-sodium-202305231727/","tags":["📖"],"created":"2023-09-19T22:09:09.670-05:00","updated":"2024-11-10T17:04:34.000-06:00"}
 ---
 
 

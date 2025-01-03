@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/less-is-more-agile-beny23-github-io-highlights/","title":"Less Is More Agile","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.982-05:00","updated":"2024-11-08T09:44:00.020-06:00"}
+{"dg-publish":true,"permalink":"/reference/less-is-more-agile-beny23-github-io-highlights/","title":"Less Is More Agile","tags":["✂️","📰"],"created":"2024-03-01T16:09:43.103-06:00","updated":"2025-01-02T22:19:19.408-06:00"}
 ---
 
 # Less Is More Agile
@@ -9,7 +9,7 @@
 - URL: https://beny23.github.io/posts/my_take_on_engineering_room_9/
 
 ## Highlights
-#📫
+
 ### Don’t estimate
 >[!QUOTE]  
 >One of my favourite principles from the agile manifesto is “people over process” - this means people need to be able to make decisions on how they work. As the people who do the work, will best know how to do it.

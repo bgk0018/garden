@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-unhappy-voters-who-could-swing-the-election-the-daily-highlights/","title":"The Unhappy Voters Who Could Swing the Election","tags":["✂️","🎧"],"created":"2024-08-29T16:39:00.643-05:00","updated":"2024-11-08T09:44:00.694-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-unhappy-voters-who-could-swing-the-election-the-daily-highlights/","title":"The Unhappy Voters Who Could Swing the Election","tags":["✂️","🎧"],"created":"2024-03-08T16:54:17.011-06:00","updated":"2025-01-02T22:19:19.474-06:00"}
 ---
 
 # The Unhappy Voters Who Could Swing the Election
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/2b27efb0-48f2-4b56-a51f-71ca8a20a2d2
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:10:42](https://share.snipd.com/snip/c935e561-8b67-4b03-a18d-04c65a8f6335)) #✂️ 
 { #ref-690051516}

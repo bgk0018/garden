@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/vault/","tags":["🗺️"],"created":"2024-11-10T17:42:14.940-06:00","updated":"2024-11-10T17:48:15.734-06:00"}
+{"dg-publish":true,"permalink":"/maps/vault/","tags":["🗺️"],"created":"2024-09-08T17:06:39.821-05:00","updated":"2024-11-10T17:48:15.000-06:00"}
 ---
 
 
@@ -12,9 +12,8 @@
 > [!bulb]- Ideas and Questions I've Captured  
 > This section captures brainstorming sessions, potential applications, and questions that emerge during learning. It serves as a space for documenting creative thoughts, implementation possibilities, and areas that need further exploration.
 
-| Name                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[blog/articles/Explaining to Myself Yet Again How This Note-Taking Thing Works/Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352\|Explaining to Myself Yet Again How This Note-Taking Thing Works]] |
+| Name |
+| ---- |
 
 { .block-language-dataview}
 
@@ -36,13 +35,13 @@
 | Name                                                                                                            | Weight |
 | --------------------------------------------------------------------------------------------------------------- | ------ |
 | [[zettelkasten/LATCH - 202304281226\|LATCH]]                                                                 | 9      |
-| [[zettelkasten/Idea Compass - 202306081233\|Idea Compass]]                                                   | 1      |
-| [[zettelkasten/Hierarchy organizing in Obsidian - 202304281323\|Hierarchy organizing in Obsidian]]           | 1      |
 | [[zettelkasten/Category organizing in Obsidian - 202304281322\|Category organizing in Obsidian]]             | 1      |
-| [[zettelkasten/Time organizing on Obsidian - 202304281321\|Time organizing on Obsidian]]                     | 0      |
-| [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]             | 0      |
-| [[zettelkasten/Find concepts that emerge in Obsidian - 202304281339\|Find concepts that emerge in Obsidian]] | 0      |
+| [[zettelkasten/Hierarchy organizing in Obsidian - 202304281323\|Hierarchy organizing in Obsidian]]           | 1      |
+| [[zettelkasten/Idea Compass - 202306081233\|Idea Compass]]                                                   | 1      |
 | [[zettelkasten/Alphabet organizing in Obsidian - 202304281320\|Alphabet organizing in Obsidian]]             | 0      |
+| [[zettelkasten/Find concepts that emerge in Obsidian - 202304281339\|Find concepts that emerge in Obsidian]] | 0      |
+| [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]             | 0      |
+| [[zettelkasten/Time organizing on Obsidian - 202304281321\|Time organizing on Obsidian]]                     | 0      |
 
 { .block-language-dataview}
 
@@ -73,7 +72,8 @@
 > [!QUESTION]- Other Files
 > A catch all so I can appropriately categorize files I deemed related but have not appropriately tagged.
 
-| Title |
-| ----- |
+| Title                                                                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[blog/articles/Explaining to Myself Yet Again How This Note-Taking Thing Works/Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352\|Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352]] |
 
 { .block-language-dataview}

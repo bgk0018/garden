@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/world-s-most-popular-painkiller-raises-heart-attack-risk-richard-knox-highlights/","title":"World's Most Popular Painkiller Raises Heart Attack Risk","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.776-05:00","updated":"2024-11-08T09:44:01.020-06:00"}
+{"dg-publish":true,"permalink":"/reference/world-s-most-popular-painkiller-raises-heart-attack-risk-richard-knox-highlights/","title":"World's Most Popular Painkiller Raises Heart Attack Risk","tags":["✂️","📰"],"created":"2023-09-19T22:09:01.106-05:00","updated":"2025-01-02T22:19:19.540-06:00"}
 ---
 
 # World's Most Popular Painkiller Raises Heart Attack Risk
@@ -9,7 +9,7 @@
 - URL: https://www.npr.org/sections/health-shots/2013/02/12/171832741/worlds-most-popular-painkiller-raises-heart-attack-risk
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >A slew of studies, though, show [diclofenac](http://www.rxlist.com/voltaren-drug.htm) — sold under the brand names Voltaren, Cambia, Cataflam and Zipsor — is just as likely to cause a heart attack as the discredited painkiller Vioxx (rofecoxib), which was [pulled from the U.S. market](http://www.npr.org/templates/story/story.php?storyId=4054991) in 2004. ([View Highlight](https://read.readwise.io/read/01h14cgf50rkvpd8nf2m7we1yf)) #✂️ 
 { #ref-534832107}
