@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/in-sync-replicas-management-202407152125/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:07:24.716-06:00","updated":"2024-11-10T13:38:06.010-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/in-sync-replicas-management-202407152125/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:30.914-06:00","updated":"2024-12-29T17:55:17.000-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-consumer-cli-202406011144/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:59.786-05:00","updated":"2024-11-10T13:40:54.805-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-consumer-cli-202406011144/","tags":["♣️/kafka","📖"],"created":"2024-03-30T16:26:49.646-05:00","updated":"2024-11-10T13:40:54.000-06:00"}
 ---
 
 

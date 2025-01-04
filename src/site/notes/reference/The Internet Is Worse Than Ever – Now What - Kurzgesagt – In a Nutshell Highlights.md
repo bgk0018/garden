@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-internet-is-worse-than-ever-now-what-kurzgesagt-in-a-nutshell-highlights/","title":"The Internet Is Worse Than Ever – Now What?","tags":["✂️","🎥"],"created":"2024-08-29T16:40:14.854-05:00","updated":"2024-11-08T09:44:00.495-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-internet-is-worse-than-ever-now-what-kurzgesagt-in-a-nutshell-highlights/","title":"The Internet Is Worse Than Ever – Now What?","tags":["✂️","🎥"],"created":"2023-11-30T20:47:37.035-06:00","updated":"2025-01-02T22:19:19.469-06:00"}
 ---
 
 # The Internet Is Worse Than Ever – Now What?
@@ -9,7 +9,7 @@
 - URL: https://www.youtube.com/watch?v=fuFlMtZmvY0
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Extreme filter bubbles seem to be rather rare  Studies that investigated what people actually  look at online or are shown by search engines,   found little evidence that you are ideologically  isolated. It is the exact opposite: Online you  
 >are constantly confronted with opinions  and world views that are not your own. It turns out the place where you are the most  ideologically isolated is your real life,   in the real world, with real people. Your  real world interactions with your friends,   family, colleagues and neighbors are  much less diverse than your online   bubble. The filter bubble exists  in your real life, not online. ([View Highlight](https://read.readwise.io/read/01hggy4fr0gnb7wc1mjney0pb3)) #✂️ 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-controller-and-leadership-202407152155/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:11:13.129-06:00","updated":"2024-11-10T13:41:09.531-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-controller-and-leadership-202407152155/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:31.111-06:00","updated":"2024-11-10T13:41:09.000-06:00"}
 ---
 
 

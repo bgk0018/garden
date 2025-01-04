@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/getting-things-done-david-allen-highlights/","title":"Getting Things Done","tags":["✂️","📚"],"created":"2024-09-12T02:33:42.333-05:00","updated":"2024-11-08T09:43:59.823-06:00"}
+{"dg-publish":true,"permalink":"/reference/getting-things-done-david-allen-highlights/","title":"Getting Things Done","tags":["✂️","📚"],"created":"2024-09-12T16:46:20.181-05:00","updated":"2025-01-02T22:19:19.323-06:00"}
 ---
 
 # Getting Things Done
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-#📫
+
 ### A New Practice for a New Reality
 >[!QUOTE]  
 >The methods I present here are all based on three key objectives: (1) capturing all the things that might need to get done or have usefulness for you—now, later, someday, big, little, or in between—in a logical and trusted system outside your head and off your mind; (2) directing yourself to make front-end decisions about all of the “inputs” you let into your life so that you will always have a workable inventory of “next actions” that you can implement or renegotiate in the moment; and (3) curating and coordinating all of that content, utilizing the recognition of the multiple levels of commitments with yourself and others you will have at play, at any point in time. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=411)) #✂️ 

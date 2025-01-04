@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/getting-things-done-web-archive-southampton-ac-uk-highlights/","title":"“Getting Things Done”","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.766-05:00","updated":"2024-11-08T09:44:01.035-06:00"}
+{"dg-publish":true,"permalink":"/reference/getting-things-done-web-archive-southampton-ac-uk-highlights/","title":"“Getting Things Done”","tags":["✂️","📰"],"created":"2024-03-06T21:15:32.800-06:00","updated":"2025-01-02T22:19:19.516-06:00"}
 ---
 
 # “Getting Things Done”
@@ -10,7 +10,7 @@ func
 - URL: https://web-archive.southampton.ac.uk/cogprints.org/6289/1/Heylighen-Vidal-GTD-Science.pdf
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Allen distinguishes five basic stages in our work:
 >We (1) *collect* things that command our attention; (2) *process* what they mean and what to do with them; and

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-groups-202405302143/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:41:19.216-05:00","updated":"2024-11-10T13:35:31.721-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-groups-202405302143/","tags":["♣️/kafka","📖"],"created":"2023-09-19T22:09:15.109-05:00","updated":"2024-11-10T13:35:31.000-06:00"}
 ---
 
 

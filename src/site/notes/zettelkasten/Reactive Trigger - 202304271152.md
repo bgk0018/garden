@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/reactive-trigger-202304271152/","tags":["📖"],"created":"2024-08-29T16:41:14.677-05:00","updated":"2024-11-10T17:49:58.554-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/reactive-trigger-202304271152/","tags":["📖"],"created":"2023-09-19T22:09:12.030-05:00","updated":"2024-11-10T17:49:58.000-06:00"}
 ---
 
 

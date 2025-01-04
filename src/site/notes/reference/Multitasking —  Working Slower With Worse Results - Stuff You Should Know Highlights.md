@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/multitasking-working-slower-with-worse-results-stuff-you-should-know-highlights/","title":"Multitasking —  Working Slower With Worse Results","tags":["✂️","🎧"],"created":"2024-08-29T16:39:00.764-05:00","updated":"2024-11-08T09:44:00.078-06:00"}
+{"dg-publish":true,"permalink":"/reference/multitasking-working-slower-with-worse-results-stuff-you-should-know-highlights/","title":"Multitasking —  Working Slower With Worse Results","tags":["✂️","🎧"],"created":"2024-03-14T17:01:21.051-05:00","updated":"2025-01-02T22:19:19.413-06:00"}
 ---
 
 # Multitasking —  Working Slower With Worse Results
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/5b13e340-1b88-43af-b747-746244cfdb19
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Episode AI notes
 >1. Focus on One Task at a Time for Higher Quality Work

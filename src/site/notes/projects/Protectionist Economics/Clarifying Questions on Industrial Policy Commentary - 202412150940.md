@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/protectionist-economics/clarifying-questions-on-industrial-policy-commentary-202412150940/","tags":["❓","📫"],"created":"2024-12-15T09:39:54.190-06:00","updated":"2024-12-15T10:03:11.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/protectionist-economics/clarifying-questions-on-industrial-policy-commentary-202412150940/","tags":["❓",null],"created":"2024-12-15T10:42:29.270-06:00","updated":"2025-01-02T22:19:19.629-06:00"}
 ---
 
 

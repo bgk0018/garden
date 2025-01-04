@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/hierarchy-organizing-in-obsidian-202304281323/","tags":["📖"],"created":"2024-08-29T16:41:14.808-05:00","updated":"2024-11-10T17:06:11.504-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/hierarchy-organizing-in-obsidian-202304281323/","tags":["📖"],"created":"2023-09-19T22:09:11.936-05:00","updated":"2024-11-10T17:06:11.000-06:00"}
 ---
 
 

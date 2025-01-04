@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/term-limits-for-congress-are-wildly-popular-but-most-experts-say-they-d-be-a-bad-idea-ashley-lopez-highlights/","title":"Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea","tags":["✂️","📰"],"created":"2024-08-29T16:40:14.888-05:00","updated":"2024-11-08T09:44:00.324-06:00"}
+{"dg-publish":true,"permalink":"/reference/term-limits-for-congress-are-wildly-popular-but-most-experts-say-they-d-be-a-bad-idea-ashley-lopez-highlights/","title":"Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea","tags":["✂️","📰"],"created":"2024-03-01T16:09:41.895-06:00","updated":"2025-01-02T22:19:19.468-06:00"}
 ---
 
 # Term Limits for Congress Are Wildly Popular. But Most Experts Say They'd Be a Bad Idea
@@ -9,7 +9,7 @@
 - URL: https://www.npr.org/2023/10/29/1207593168/congressional-term-limits-explainer
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >"Over 90% of our elections are uncompetitive, meaning we know essentially what party is going to win those elections, no matter what candidates are running," he says. "And so the faster you turn those politicians over, the more often you're going to have to replace them." ([View Highlight](https://read.readwise.io/read/01hf4e0022fm3fcmb97e2ehayq)) #✂️ 
 { #ref-625803765}

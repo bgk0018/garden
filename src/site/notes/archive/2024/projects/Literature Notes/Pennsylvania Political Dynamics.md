@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/pennsylvania-political-dynamics/","tags":["📖","♣️"],"created":"2024-11-03T23:32:00.321-06:00","updated":"2024-11-08T09:43:57.945-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/pennsylvania-political-dynamics/","tags":["📖","♣️"],"created":"2024-11-03T21:28:59.800-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 Pennsylvania's position as a crucial [[Electoral College\|Electoral College]] battleground stems from its unique political geography and demographic makeup.

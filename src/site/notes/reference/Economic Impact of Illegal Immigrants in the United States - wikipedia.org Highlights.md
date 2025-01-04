@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/economic-impact-of-illegal-immigrants-in-the-united-states-wikipedia-org-highlights/","title":"Economic Impact of Illegal Immigrants in the United States","tags":["✂️"],"created":"2024-08-29T16:39:01.184-05:00","updated":"2024-11-08T09:43:59.729-06:00"}
+{"dg-publish":true,"permalink":"/reference/economic-impact-of-illegal-immigrants-in-the-united-states-wikipedia-org-highlights/","title":"Economic Impact of Illegal Immigrants in the United States","tags":["✂️"],"created":"2024-04-06T18:00:58.521-05:00","updated":"2025-01-02T22:19:19.281-06:00"}
 ---
 
 # Economic Impact of Illegal Immigrants in the United States
@@ -10,7 +10,7 @@
 - URL: https://en.m.wikipedia.org/wiki/Economic_impact_of_illegal_immigrants_in_the_United_States
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >**[^](https://en.wikipedia.org/wiki/Economic_impact_of_illegal_immigrants_in_the_United_States#cite_ref-CBO_2007_1-0)** ["The Impact of Unauthorized Immigrants on the Budgets of State and Local Governments"](https://www.cbo.gov/publication/41645). Congressional Budget Office. December 2007. ([View Highlight](https://read.readwise.io/read/01htsqh4qjxztscbbr5dygpsrj)) #✂️ #👻 ai highlighted 
 { #ref-703032140}
