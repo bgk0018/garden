@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/crucial-conversations-joseph-grenny-kerry-patterson-ron-mc-millan-al-switzler-and-emily-gregory-highlights/","title":"Crucial Conversations","tags":["✂️","📚"],"created":"2024-08-29T16:40:15.030-05:00","updated":"2024-11-11T16:44:49.266-06:00"}
+{"dg-publish":true,"permalink":"/reference/crucial-conversations-joseph-grenny-kerry-patterson-ron-mc-millan-al-switzler-and-emily-gregory-highlights/","title":"Crucial Conversations","tags":["✂️","📚"],"created":"2024-03-01T16:09:48.342-06:00","updated":"2025-01-02T22:19:19.230-06:00"}
 ---
 
 # Crucial Conversations
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Now, what makes one of your conversations crucial as opposed to plain vanilla? First, opinions vary. For example, you’re talking with your boss about a possible promotion. She thinks you’re not ready; you think you are. Second, stakes are high. You’re in a meeting with four coworkers, and you’re trying to pick a new marketing strategy. You’ve got to do something different, or your company is in trouble. Third, emotions run strong. You’re in the middle of a casual discussion with your spouse, and he or she brings up an “ugly incident” that took place at yesterday’s neighborhood party. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B093Y3N433&location=130)) #✂️ 
 { #ref-518218007}

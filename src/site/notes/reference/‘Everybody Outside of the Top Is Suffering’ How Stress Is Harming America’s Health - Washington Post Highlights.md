@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/everybody-outside-of-the-top-is-suffering-how-stress-is-harming-america-s-health-washington-post-highlights/","title":"‘Everybody Outside of the Top Is Suffering’: How Stress Is Harming America’s Health","tags":["✂️","📰"],"created":"2024-08-29T16:39:01.128-05:00","updated":"2024-11-08T09:44:01.030-06:00"}
+{"dg-publish":true,"permalink":"/reference/everybody-outside-of-the-top-is-suffering-how-stress-is-harming-america-s-health-washington-post-highlights/","title":"‘Everybody Outside of the Top Is Suffering’: How Stress Is Harming America’s Health","tags":["✂️","📰"],"created":"2024-04-06T18:00:58.584-05:00","updated":"2025-01-02T22:19:19.523-06:00"}
 ---
 
 # ‘Everybody Outside of the Top Is Suffering’: How Stress Is Harming America’s Health
@@ -10,7 +10,7 @@
 - URL: https://www.washingtonpost.com/news/wonk/wp/2016/12/13/everybody-outside-of-the-top-is-suffering-how-stress-is-harming-americas-health/
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >Instead, the researchers track "stress load," an index of certain biological markers such as blood pressure, cholesterol level, and kidney and liver function, that they say are "associated with long-term physiological strain." ([View Highlight](https://read.readwise.io/read/01htspyrtqjddc16npd3ezqx80)) #✂️ 
 { #ref-703030408}

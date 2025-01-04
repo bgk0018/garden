@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/could-trump-curious-black-voters-swing-the-election-pod-save-america-highlights/","title":"Could Trump-Curious Black Voters Swing the Election?","tags":["✂️","🎧"],"created":"2024-09-09T04:18:47.334-05:00","updated":"2024-11-08T09:43:59.610-06:00"}
+{"dg-publish":true,"permalink":"/reference/could-trump-curious-black-voters-swing-the-election-pod-save-america-highlights/","title":"Could Trump-Curious Black Voters Swing the Election?","tags":["✂️","🎧"],"created":"2024-09-08T17:38:44.194-05:00","updated":"2025-01-02T22:19:19.281-06:00"}
 ---
 
 # Could Trump-Curious Black Voters Swing the Election?
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -26,7 +26,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-10\|2024-09-10]]"
+create-date: "[[archive/2024/journal/daily/2024-09-10\|2024-09-10]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -36,7 +36,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -53,7 +53,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-10\|2024-09-10]]"
+create-date: "[[archive/2024/journal/daily/2024-09-10\|2024-09-10]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -63,7 +63,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -80,7 +80,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-10\|2024-09-10]]"
+create-date: "[[archive/2024/journal/daily/2024-09-10\|2024-09-10]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -90,7 +90,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -107,7 +107,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-10\|2024-09-10]]"
+create-date: "[[archive/2024/journal/daily/2024-09-10\|2024-09-10]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -117,7 +117,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -134,7 +134,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-10\|2024-09-10]]"
+create-date: "[[archive/2024/journal/daily/2024-09-10\|2024-09-10]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -144,7 +144,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -161,7 +161,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-10\|2024-09-10]]"
+create-date: "[[archive/2024/journal/daily/2024-09-10\|2024-09-10]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -171,7 +171,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -188,7 +188,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -198,7 +198,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -215,7 +215,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -225,7 +225,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -242,7 +242,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -252,7 +252,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -269,7 +269,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -279,7 +279,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -296,7 +296,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -306,7 +306,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -323,7 +323,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -333,7 +333,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -350,7 +350,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -360,7 +360,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -377,7 +377,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -387,7 +387,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -404,7 +404,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -414,7 +414,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -431,7 +431,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -441,7 +441,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -458,7 +458,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -468,7 +468,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -485,7 +485,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -495,7 +495,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -512,7 +512,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-11\|2024-09-11]]"
+create-date: "[[archive/2024/journal/daily/2024-09-11\|2024-09-11]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -522,7 +522,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -539,7 +539,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -549,7 +549,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -566,7 +566,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -576,7 +576,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -593,7 +593,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -603,7 +603,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -620,7 +620,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -630,7 +630,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -647,7 +647,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -657,7 +657,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -674,7 +674,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -684,7 +684,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -701,7 +701,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -711,7 +711,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -728,7 +728,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -738,7 +738,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -755,7 +755,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -765,7 +765,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -782,7 +782,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -792,7 +792,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -809,7 +809,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -819,7 +819,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -836,7 +836,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -846,7 +846,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -863,7 +863,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -873,7 +873,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -890,7 +890,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -900,7 +900,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -917,7 +917,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-12\|2024-09-12]]"
+create-date: "[[archive/2024/journal/daily/2024-09-12\|2024-09-12]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -927,7 +927,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -944,7 +944,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-13\|2024-09-13]]"
+create-date: "[[archive/2024/journal/daily/2024-09-13\|2024-09-13]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -954,7 +954,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -971,7 +971,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-13\|2024-09-13]]"
+create-date: "[[archive/2024/journal/daily/2024-09-13\|2024-09-13]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -981,7 +981,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -998,7 +998,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-13\|2024-09-13]]"
+create-date: "[[archive/2024/journal/daily/2024-09-13\|2024-09-13]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1008,7 +1008,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1025,7 +1025,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-13\|2024-09-13]]"
+create-date: "[[archive/2024/journal/daily/2024-09-13\|2024-09-13]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1035,7 +1035,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1052,7 +1052,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-13\|2024-09-13]]"
+create-date: "[[archive/2024/journal/daily/2024-09-13\|2024-09-13]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1062,7 +1062,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1079,7 +1079,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-13\|2024-09-13]]"
+create-date: "[[archive/2024/journal/daily/2024-09-13\|2024-09-13]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1089,7 +1089,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1106,7 +1106,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-13\|2024-09-13]]"
+create-date: "[[archive/2024/journal/daily/2024-09-13\|2024-09-13]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1116,7 +1116,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1133,7 +1133,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-13\|2024-09-13]]"
+create-date: "[[archive/2024/journal/daily/2024-09-13\|2024-09-13]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1143,7 +1143,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1160,7 +1160,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-16\|2024-09-16]]"
+create-date: "[[archive/2024/journal/daily/2024-09-16\|2024-09-16]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1170,7 +1170,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1187,7 +1187,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-16\|2024-09-16]]"
+create-date: "[[archive/2024/journal/daily/2024-09-16\|2024-09-16]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1197,7 +1197,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1214,7 +1214,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-16\|2024-09-16]]"
+create-date: "[[archive/2024/journal/daily/2024-09-16\|2024-09-16]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1224,7 +1224,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1241,7 +1241,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-16\|2024-09-16]]"
+create-date: "[[archive/2024/journal/daily/2024-09-16\|2024-09-16]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1251,7 +1251,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1268,7 +1268,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-16\|2024-09-16]]"
+create-date: "[[archive/2024/journal/daily/2024-09-16\|2024-09-16]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1278,7 +1278,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1295,7 +1295,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-16\|2024-09-16]]"
+create-date: "[[archive/2024/journal/daily/2024-09-16\|2024-09-16]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1305,7 +1305,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1322,7 +1322,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-16\|2024-09-16]]"
+create-date: "[[archive/2024/journal/daily/2024-09-16\|2024-09-16]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1332,7 +1332,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1349,7 +1349,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-16\|2024-09-16]]"
+create-date: "[[archive/2024/journal/daily/2024-09-16\|2024-09-16]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1359,7 +1359,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1376,7 +1376,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1386,7 +1386,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1403,7 +1403,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1413,7 +1413,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1430,7 +1430,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1440,7 +1440,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1457,7 +1457,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1467,7 +1467,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1484,7 +1484,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1494,7 +1494,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1511,7 +1511,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1521,7 +1521,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1538,7 +1538,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1548,7 +1548,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1565,7 +1565,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1575,7 +1575,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1592,7 +1592,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1602,7 +1602,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1619,7 +1619,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1629,7 +1629,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1646,7 +1646,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-17\|2024-09-17]]"
+create-date: "[[archive/2024/journal/daily/2024-09-17\|2024-09-17]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1656,7 +1656,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1673,7 +1673,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-18\|2024-09-18]]"
+create-date: "[[archive/2024/journal/daily/2024-09-18\|2024-09-18]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1683,7 +1683,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1700,7 +1700,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-18\|2024-09-18]]"
+create-date: "[[archive/2024/journal/daily/2024-09-18\|2024-09-18]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1710,7 +1710,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1727,7 +1727,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-18\|2024-09-18]]"
+create-date: "[[archive/2024/journal/daily/2024-09-18\|2024-09-18]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1737,7 +1737,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1754,7 +1754,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-18\|2024-09-18]]"
+create-date: "[[archive/2024/journal/daily/2024-09-18\|2024-09-18]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1764,7 +1764,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1781,7 +1781,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-18\|2024-09-18]]"
+create-date: "[[archive/2024/journal/daily/2024-09-18\|2024-09-18]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1791,7 +1791,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}
@@ -1808,7 +1808,7 @@ url: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 source: "snipd"
 parent: "[[Could Trump-Curious Black Voters Swing the Election? - Pod Save America\|Could Trump-Curious Black Voters Swing the Election? - Pod Save America]]"
 related: "[[blog/Highlights\|Highlights]]"
-create-date: "[[journal/1-daily/2024-09-18\|2024-09-18]]"
+create-date: "[[archive/2024/journal/daily/2024-09-18\|2024-09-18]]"
 dg-publish: true
 ---
 # Could Trump-Curious Black Voters Swing the Election?
@@ -1818,7 +1818,7 @@ dg-publish: true
 - URL: https://share.snipd.com/episode/58dd54e2-de13-471d-b766-d3fc4727cbed
 
 ## Highlights
-#📫
+
 >[!QUOTE]  
 >1min Snip ([Time 0:03:37](https://share.snipd.com/snip/11b871be-8bed-4582-8754-ff27d863775a)) #✂️ 
 { #ref-732240417}

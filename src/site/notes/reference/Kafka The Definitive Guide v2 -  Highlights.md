@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/kafka-the-definitive-guide-v2-highlights/","title":"Kafka The Definitive Guide v2","tags":["✂️","📚"],"created":"2024-12-15T09:20:21.757-06:00","updated":"2024-12-29T17:09:14.954-06:00"}
+{"dg-publish":true,"permalink":"/reference/kafka-the-definitive-guide-v2-highlights/","title":"Kafka The Definitive Guide v2","tags":["✂️","📚"],"created":"2024-07-13T13:43:04.220-05:00","updated":"2025-01-02T22:19:19.391-06:00"}
 ---
 
 # Kafka The Definitive Guide v2
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Meet Kafka
 #### Publish/Subscribe Messaging
 >[!QUOTE]  
@@ -2060,7 +2060,7 @@
 ---
 
 
-*New highlights added December 29, 2024 at 5:09 PM* #📫
+*New highlights added December 29, 2024 at 5:09 PM* 
 #### Stream Processing
 #### What Is Stream Processing?
 >[!QUOTE]  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-08-29T16:39:01.420-05:00","updated":"2024-11-08T09:44:00.115-06:00"}
+{"dg-publish":true,"permalink":"/reference/on-being-certain-robert-burton-m-d-highlights/","title":"On Being Certain","tags":["✂️","📚"],"created":"2024-04-14T19:33:41.255-05:00","updated":"2025-01-02T22:19:19.430-06:00"}
 ---
 
 # On Being Certain
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-#📫
+
 ### Preface
 >[!QUOTE]  
 >Despite how certainty feels, it is neither a conscious choice nor even a thought process. Certainty and similar states of “knowing what we know” arise out of involuntary brain mechanisms that, like love or anger, function independently of reason. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=80)) #✂️ 
@@ -17,7 +17,7 @@
 
 ---
 ### The Feeling of Knowing
-*New highlights added April 15, 2024 at 9:50 AM* #📫
+*New highlights added April 15, 2024 at 9:50 AM* 
 >[!QUOTE]  
 >EVERYONE IS FAMILIAR with the most commonly recognized feeling of knowing. When asked a question, you feel strongly that you know an answer that you cannot immediately recall. Psychologists refer to this hard-to-describe but easily recognizable feeling as a tip-of-the-tongue sensation. The frequent accompanying comment as you scan your mental Rolodex for the forgotten name or phone number: “I know it, but I just can’t think of it.” In this example, you are aware of knowing something, without knowing what this sense of knowing refers to. ([Location 133](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=133)) #✂️ 
 { #ref-707163306}
@@ -46,7 +46,7 @@
 #### Out of Sight Is Not Out of Mind
 #### The Challenger Study
 #### Cognitive Dissonance
-*New highlights added April 16, 2024 at 8:56 AM* #📫
+*New highlights added April 16, 2024 at 8:56 AM* 
 >[!QUOTE]  
 >In 1957, Stanford professor of social psychology Leon Festinger introduced the term cognitive dissonance to describe the distressing mental state in which people “find themselves doing things that don’t fit with what they know, or having opinions that do not fit with other opinions they hold.” ([Location 249](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=249)) #✂️ 
 { #ref-707334064}
@@ -77,7 +77,7 @@
 
 ---
 #### Neurotheology
-*New highlights added April 17, 2024 at 9:19 AM* #📫
+*New highlights added April 17, 2024 at 9:19 AM* 
 >[!QUOTE]  
 >The knowledge that the mystical experience is a result of mundane chemistry does not negate the nagging (and lingering) sense of the certainty of God’s existence. Note also that chloroform evoked the sensations of purity and truth without any reference to any specific idea or thought. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=425)) #✂️ 
 { #ref-707911954}
@@ -97,7 +97,7 @@
 
 
 ---
-*New highlights added April 18, 2024 at 2:04 PM* #📫
+*New highlights added April 18, 2024 at 2:04 PM* 
 ##### Déjà Vu and Feelings of Familiarity
 ##### Jamais Vu and Other “Feelings of Strangeness”
 ##### Strangely Familiar—a Duet of Opposites
@@ -120,7 +120,7 @@
 
 
 ---
-*New highlights added April 21, 2024 at 10:43 PM* #📫
+*New highlights added April 21, 2024 at 10:43 PM* 
 >[!QUOTE]  
 >By using these criteria of universality—relatively discrete anatomic localization and easy reproducibility without conscious cognitive input—the feeling of knowing and its kindred feelings should be considered as primary as the states of fear and anger. ([Location 628](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=628)) #✂️ 
 { #ref-709845552}
@@ -129,7 +129,7 @@
 ---
 ### Neural Networks
 ### Modularity and Emergence
-*New highlights added April 24, 2024 at 9:33 AM* #📫
+*New highlights added April 24, 2024 at 9:33 AM* 
 #### Organizing Complexity
 #### Modules
 >[!QUOTE]  
@@ -164,7 +164,7 @@
 
 
 ---
-*New highlights added May 3, 2024 at 9:02 AM* #📫
+*New highlights added May 3, 2024 at 9:02 AM* 
 >[!QUOTE]  
 >Consider the myriad components involved in the acquisition of language, ranging from the visual recognition of symbols and auditory processing of spoken sounds (phonemes) to the sorting out of nuance and implied irony. A racial epithet can be an accusation or a term of endearment, depending upon circumstance, facial expression, body language, and intonation. (Comedian George Carlin has made a career out of forcing us to hear politically loaded words from unanticipated angles.) In the interpretation of a single word, large areas of widely separated but interconnected cortex function as a behavioral unit—hence the applicability of the term module. ([Location 870](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=870)) #✂️ 
 { #ref-714694573}
@@ -206,9 +206,9 @@
 
 ---
 #### Subjective Backward Projection of Time
-*New highlights added May 5, 2024 at 2:02 PM* #📫
+*New highlights added May 5, 2024 at 2:02 PM* 
 ##### “Now” You See It, “Now” You Don’t
-*New highlights added May 7, 2024 at 10:40 AM* #📫
+*New highlights added May 7, 2024 at 10:40 AM* 
 >[!QUOTE]  
 >you bump into a door, the sensory inputs from your nose reach the brain sooner than those from your big toe, yet you perceive hitting the door with your entire body all at once.11 The brain adjusts for these time lags. ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1046)) #✂️ 
 { #ref-716444963}
@@ -223,7 +223,7 @@
 
 ---
 ### Perceptual Thoughts: A Further Clarification
-*New highlights added May 8, 2024 at 9:39 AM* #📫
+*New highlights added May 8, 2024 at 9:39 AM* 
 #### Episodic Versus Semantic Memory
 >[!QUOTE]  
 >Semantic memories include everything from the date and time of the attack on Pearl Harbor and the number of home runs hit by Babe Ruth to your present address and social security number. These are the packets of concrete information that can be externally verified and agreed upon. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1156)) #✂️ 
@@ -268,9 +268,9 @@
 
 ---
 ### The Pleasure of Your Thoughts
-*New highlights added May 9, 2024 at 9:15 AM* #📫
+*New highlights added May 9, 2024 at 9:15 AM* 
 #### The Pleasure Principle
-*New highlights added May 15, 2024 at 9:00 AM* #📫
+*New highlights added May 15, 2024 at 9:00 AM* 
 >[!QUOTE]  
 >The general principle equally applicable to the worst cocaine addiction, stamp collecting, or idle musings is that for a behavior to persist, there must be some brain-mediated reward. ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1243)) #✂️ 
 { #ref-720065133}
@@ -310,7 +310,7 @@
 ---
 #### The Big What-if
 #### Double-Edged Single-Mindedness
-*New highlights added May 16, 2024 at 8:44 AM* #📫
+*New highlights added May 16, 2024 at 8:44 AM* 
 >[!QUOTE]  
 >In being constantly on the lookout for the last word, they often appear as compelled and driven as the worst of addicts. And perhaps they are. Might the know-it-all personality trait be seen as an addiction to the pleasure of the feeling of knowing? ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1372)) #✂️ 
 { #ref-720524752}
@@ -324,7 +324,7 @@
 
 ---
 ### Genes and Thought
-*New highlights added May 17, 2024 at 8:17 AM* #📫
+*New highlights added May 17, 2024 at 8:17 AM* 
 >[!QUOTE]  
 >We are raised believing that reasonable discourse can establish the superiority of one line of thought over another. The underlying presumption is that each of us has an innate faculty of reason that can overcome our perceptual differences and see a problem from the “optimal perspective.” One goal of this book is to dispel this misconception. ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1423)) #✂️ 
 { #ref-721023630}
@@ -338,7 +338,7 @@
 
 ---
 #### Alice in Genetic Wonderland, or Through Hyperbole’s Looking Glass
-*New highlights added May 19, 2024 at 1:30 PM* #📫
+*New highlights added May 19, 2024 at 1:30 PM* 
 >[!QUOTE]  
 >What you can’t know is how the gene affected his thoughts in undetectable ways. An additional piece of history is that the husband’s prior two marriages ended in bitter divorces with both departing wives accusing him of being cowardly, consumed with anxiety, and filled with self-doubt. His self-esteem is lower than his remaining Enron shares. The decision when to leave for the airport kicks his genetic predisposition to be fearful into overdrive, but not in a single direction. He is faced with two competing sets of disaster probabilities—getting to the airport late and missing the flight versus upsetting his new bride by revealing his cowardly neurotic ways. Both risk-reward probabilities are inputted into his hidden layer where they silently duke it out. If the fear of rejection is greater than missing the plane, the husband will quickly agree with his wife. ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1532)) #✂️ 
 { #ref-721866299}
@@ -359,7 +359,7 @@
 
 ---
 ### Sensational Thoughts
-*New highlights added May 28, 2024 at 10:35 AM* #📫
+*New highlights added May 28, 2024 at 10:35 AM* 
 >[!QUOTE]  
 >As an isolated system, thought is doomed to the perpetual “yes, but,” that arises out of not being able to know what you don’t know. Without a circuit breaker, indecision and inaction would rule the day. What is needed is a mental switch that stops infinite ruminations and calms our fears of missing an unknown superior alternative. Such a switch can’t be a thought or we would be back at the same problem. The simplest solution would be a sensation that feels like a thought but isn’t subject to thought’s perpetual self-questioning. ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1711)) #✂️ 
 { #ref-725633909}
@@ -378,7 +378,7 @@
 
 
 ---
-*New highlights added May 29, 2024 at 8:18 AM* #📫
+*New highlights added May 29, 2024 at 8:18 AM* 
 >[!QUOTE]  
 >Conscious thoughts have the embedded sensation of willful effort and intention; unconscious thoughts lack this sensation. Conscious thoughts feel as if they are being thought; unconscious thoughts don’t. Unconscious thoughts that reach consciousness have been prescreened and assigned a higher likelihood of being worth pursuing than those ideas that do not reach consciousness. Unconscious thoughts with a sufficiently high calculated likelihood of correctness will be consciously experienced as feeling right. ([Location 1878](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1878)) #✂️ 
 { #ref-726063683}
@@ -386,7 +386,7 @@
 
 ---
 #### Intuition and Gut Feelings Are Unconscious Thoughts Plus the Feeling of Knowing
-*New highlights added June 1, 2024 at 12:10 PM* #📫
+*New highlights added June 1, 2024 at 12:10 PM* 
 >[!QUOTE]  
 >The most on-the-money observation—that a gut feeling is a deep down conviction that occurs without any underlying sense of knowing why—is nothing more than the description of the feeling of knowing unaccompanied by the awareness of a precipitating thought or a specific line of reasoning. ([Location 1897](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=1897)) #✂️ 
 { #ref-727686985}
@@ -450,7 +450,7 @@
 
 
 ---
-*New highlights added June 2, 2024 at 5:03 PM* #📫
+*New highlights added June 2, 2024 at 5:03 PM* 
 >[!QUOTE]  
 >This discussion isn’t about whether or not unconscious cognition should play a role in our decision making; without unconscious cognition there wouldn’t be any conscious decision making. The issue I have with gut feeling, intuition, and split-second decisions is in believing that we can know when to trust them without having any criteria for determining this trust. A feeling that a decision is right is not the same as providing evidence that it is right. Which brings us to the discussion of the relationship between the myth of the autonomous rational mind and our understanding of objectivity. ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2111)) #✂️ 
 { #ref-728305955}
@@ -484,7 +484,7 @@
 ---
 ### Faith
 #### Welcome to the F Word
-*New highlights added June 13, 2024 at 8:03 AM* #📫
+*New highlights added June 13, 2024 at 8:03 AM* 
 >[!QUOTE]  
 >Whether or not it is appropriate to use the word faith to describe a feeling of “now I know why I’m here,” or “this must be what it’s all about,” it is impossible to overlook the shared qualities of the feeling of knowing, a sense of faith, and feelings of purpose and meaning. All serve as both motivation and reward at the most basic level of thought. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2426)) #✂️ 
 { #ref-733260333}
@@ -505,7 +505,7 @@
 
 
 ---
-*New highlights added June 18, 2024 at 9:08 AM* #📫
+*New highlights added June 18, 2024 at 9:08 AM* 
 >[!QUOTE]  
 >To expect well-reasoned arguments to easily alter personal expressions of purpose is to misunderstand the biology of belief. If there is to be any rapprochement between science and religion, both sides must accept this basic limitation. ([Location 2510](https://readwise.io/to_kindle?action=open&asin=B003J5UJHW&location=2510)) #✂️ 
 { #ref-735267380}

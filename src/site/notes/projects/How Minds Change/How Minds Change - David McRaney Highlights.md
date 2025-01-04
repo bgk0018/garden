@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/","title":"How Minds Change","tags":["✂️","📚"],"created":"2024-08-29T16:40:14.575-05:00","updated":"2024-11-08T09:43:57.621-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/how-minds-change-david-mc-raney-highlights/","title":"How Minds Change","tags":["✂️","📚"],"created":"2024-03-01T16:09:43.824-06:00","updated":"2025-01-02T22:19:19.689-06:00"}
 ---
 
 # How Minds Change
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-#📫
+
 ### INTRODUCTION
 >[!QUOTE]  
 >I started to see the push and pull of our incessant arguing as a form of punctuated equilibrium. That’s what they call it in biology. When creatures have the capacity to change but there’s little encouragement to do so, they remain mostly the same from one generation to the next. But when the pressure to adapt increases, the pace of evolution increases in response. ([Location 159](https://readwise.io/to_kindle?action=open&asin=B093R2CP2V&location=159)) #✂️ 
