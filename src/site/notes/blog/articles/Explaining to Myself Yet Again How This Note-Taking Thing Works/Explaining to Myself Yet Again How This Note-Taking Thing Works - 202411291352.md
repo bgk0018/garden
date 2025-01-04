@@ -114,7 +114,7 @@ A way of organizing information. LATCH stands for:
 
 # References
 
-[[notes/Emergent note taking what ants can teach us about notes\|Emergent note taking what ants can teach us about notes]] 
+[[read-it-later/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] 
 
 [[reference/Information Anxiety - Richard Saul Wurman\|Information Anxiety]]
 
@@ -219,32 +219,31 @@ For reference, I think this is still an exhaustive list of my note types. I use 
 
 
 
-| Tag          | Description                                                                       |
-| ------------ | --------------------------------------------------------------------------------- |
-| #🗺️         | Map of Content                                                                    |
-| #📖          | Literature Note                                                                   |
-| #💡          | My Idea / Creation                                                                |
-| #❓           | My Question                                                                       |
-| #📫 / #inbox | Inbox                                                                             |
-| #🍃          | Fleeting                                                                          |
-| #👥          | Meeting                                                                           |
-| #⏱️          | Temporal Note                                                                     |
-| #✂️          | Highlights or Quotes                                                              |
-| #📰          | Article                                                                           |
-| #🎓          | Course                                                                            |
-| #🎧          | Podcast                                                                           |
-| #🎥          | Video                                                                             |
-| #📕          | Book                                                                              |
-| #🙂          | Person note in the vault, likely have had personal interaction with               |
-| #🗣️         | Talk                                                                              |
-| #📌          | Location                                                                          |
-| #🚧          | Project                                                                           |
-| #📋          | Task, only used inline, not as a note type                                        |
-| #📅       | Daily journal entry                                                               |
-| #📅      | Weekly journal entry                                                              |
-| #📅     | Monthly journal entry                                                             |
-| #📅   | Quarterly journal entry                                                           |
-| #📅      | Yearly journal entry                                                              |
+| Tag          | Description                                                         |
+| ------------ | ------------------------------------------------------------------- |
+| #🗺️         | Map of Content                                                      |
+| #📖          | Literature Note                                                     |
+| #💡          | My Idea / Creation                                                  |
+| #❓           | My Question                                                         |
+| #📫 / #inbox | Inbox                                                               |
+| #🍃          | Fleeting                                                            |
+| #👥          | Meeting                                                             |
+| #⏱️          | Temporal Note                                                       |
+| #✂️          | Highlights or Quotes                                                |
+| #📰          | Article                                                             |
+| #🎓          | Course                                                              |
+| #🎧          | Podcast                                                             |
+| #🎥          | Video                                                               |
+| #📕          | Book                                                                |
+| #🙂          | Person note in the vault, likely have had personal interaction with |
+| #🗣️         | Talk                                                                |
+| #📌          | Location                                                            |
+| #🚧          | Project                                                             |
+| #📋          | Task, only used inline, not as a note type                          |
+| #📅          | Calendar journal entry                                              |
+| #🎹          | Music                                                               |
+| #🥕          | Garden Note                                                         |
+| #🧙‍♂️     | RPG                                                                 |
 
 
 </div></div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/what-is-the-difference-between-category-and-hierarchy-202304281332/","tags":["❓"],"created":"2023-09-19T22:09:11.968-05:00","updated":"2024-12-29T17:38:23.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/what-is-the-difference-between-category-and-hierarchy-202304281332/","tags":["❓"],"created":"2023-09-19T22:09:11.968-05:00","updated":"2025-01-04T14:57:39.147-06:00"}
 ---
 
 
@@ -22,4 +22,4 @@ In the video she associates:
 
 # References
 
-[[notes/Emergent note taking what ants can teach us about notes\|Emergent note taking what ants can teach us about notes]]
+[[read-it-later/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]]

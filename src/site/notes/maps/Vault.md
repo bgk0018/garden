@@ -34,10 +34,10 @@
 
 | Name                                                                                                            | Weight |
 | --------------------------------------------------------------------------------------------------------------- | ------ |
-| [[zettelkasten/LATCH - 202304281226\|LATCH]]                                                                 | 9      |
+| [[zettelkasten/LATCH - 202304281226\|LATCH]]                                                                 | 8      |
+| [[zettelkasten/Idea Compass - 202306081233\|Idea Compass]]                                                   | 1      |
 | [[zettelkasten/Category organizing in Obsidian - 202304281322\|Category organizing in Obsidian]]             | 1      |
 | [[zettelkasten/Hierarchy organizing in Obsidian - 202304281323\|Hierarchy organizing in Obsidian]]           | 1      |
-| [[zettelkasten/Idea Compass - 202306081233\|Idea Compass]]                                                   | 1      |
 | [[zettelkasten/Alphabet organizing in Obsidian - 202304281320\|Alphabet organizing in Obsidian]]             | 0      |
 | [[zettelkasten/Find concepts that emerge in Obsidian - 202304281339\|Find concepts that emerge in Obsidian]] | 0      |
 | [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]             | 0      |
@@ -50,9 +50,9 @@
 > [!note]- Notes I've Taken  
 > This section contains detailed notes from various learning sources such as meetings, workshops, tutorials, and personal observations. It serves as a repository for insights, challenges encountered, and key takeaways from practical experiences.
 
-| Name                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| [[notes/Emergent note taking what ants can teach us about notes\|Emergent note taking what ants can teach us about notes]] |
+| Name                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[read-it-later/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] |
 
 { .block-language-dataview}
 
@@ -61,9 +61,9 @@
 > [!quote]- References I've used  
 > This section maintains a curated list of learning resources including documentation, articles, videos, and other materials that contribute to understanding the topic. It serves as a bibliography of valuable information sources for future reference.
 
-| Title                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------- |
-| [[notes/Emergent note taking what ants can teach us about notes\|Emergent note taking what ants can teach us about notes]] |
+| Title                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[read-it-later/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] |
 
 { .block-language-dataview}
 

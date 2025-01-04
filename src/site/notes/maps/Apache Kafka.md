@@ -143,7 +143,7 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Kafka Test Follow Up Discussion Meeting - 202403291404\|Kafka Test Follow Up Discussion Meeting - 202403291404]]                                           |
 | [[projects/Dallas Confluent Practice/SSKC Session 1 - 202403131206\|SSKC Session 1 - 202403131206]]                                                                                             |
 | [[projects/Dallas Confluent Practice/Confluent - Kafka Practice Primer Meeting - 202403011059\|Confluent - Kafka Practice Primer Meeting - 202403011059]]                                       |
-| [[notes/Build Streaming Applications using SwimOS and Kafka - 202402061825\|Build Streaming Applications using SwimOS and Kafka - 202402061825]]                                                |
+| [[reference/Build Streaming Applications using SwimOS and Kafka - 202402061825\|Build Streaming Applications using SwimOS and Kafka - 202402061825]]                                            |
 | [[projects/Dallas Confluent Practice/Confluent Practice Discussion Meeting - 202401151437\|Confluent Practice Discussion Meeting - 202401151437]]                                               |
 | [[projects/Dallas Confluent Practice/2024 Goals Meeting - 202312201601\|2024 Goals Meeting - 202312201601]]                                                                                     |
 | [[projects/Dallas Confluent Practice/Notes/Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109\|Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109]] |
@@ -158,7 +158,6 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | Title                                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[projects/Dallas Confluent Practice/Notes/Confluent Fundamentals Accreditation\|Confluent Fundamentals Accreditation]]                                                                         |
-| [[notes/Build Streaming Applications using SwimOS and Kafka - 202402061825\|Build Streaming Applications using SwimOS and Kafka - 202402061825]]                                                |
 | [[projects/Dallas Confluent Practice/Kafka The Definitive Guide - Neha Narkhede Gwen Shapira Todd Palino\|Kafka The Definitive Guide - Neha Narkhede Gwen Shapira Todd Palino]]                 |
 | [[projects/Dallas Confluent Practice/Notes/Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109\|Apache Kafka Series - Learn Apache Kafka for Beginners v3 - 202302211109]] |
 

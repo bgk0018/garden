@@ -35,7 +35,7 @@
 
 | Name                                                                                                | Weight |
 | --------------------------------------------------------------------------------------------------- | ------ |
-| [[zettelkasten/LATCH - 202304281226\|LATCH]]                                                     | 9      |
+| [[zettelkasten/LATCH - 202304281226\|LATCH]]                                                     | 8      |
 | [[zettelkasten/Idea Compass - 202306081233\|Idea Compass]]                                       | 1      |
 | [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]] | 0      |
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["🥕","gardenEntry"],"created":"2024-01-21T17:13:14.028-06:00","updated":"2025-01-04T12:02:07.770-06:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["🥕","gardenEntry"],"created":"2024-01-21T17:13:14.028-06:00","updated":"2025-01-04T14:39:13.155-06:00"}
 ---
 
 
@@ -15,5 +15,8 @@ These are markdown files I publish from my [Obsidian](https://obsidian.md) vault
 
 You can start literally anywhere but here's a table of interesting entry points:
 
-- [[blog/Highlights\|Media Highlights]]
-- [[blog/Maps of Content\|Maps of Content]]
+| Link                             | Description                                                         |
+| -------------------------------- | ------------------------------------------------------------------- |
+| [[blog/Articles\|Articles]]                     | A list of articles I've written based on subjects I'm interested in |
+| [[blog/Maps of Content\|Maps of Content]]              | Entry points into different subjects I've thought and researched on |
+| [[blog/Highlights\|Media Highlights]] | Highlights of source material I've clipped over time, mostly books  |

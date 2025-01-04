@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/location-organizing-in-obsidian-202304281319/","tags":["📖"],"created":"2023-09-19T22:09:11.952-05:00","updated":"2024-11-10T17:13:08.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/location-organizing-in-obsidian-202304281319/","tags":["📖"],"created":"2023-09-19T22:09:11.952-05:00","updated":"2025-01-04T14:57:38.937-06:00"}
 ---
 
 
@@ -9,4 +9,4 @@ Based on [[zettelkasten/LATCH - 202304281226\|LATCH]], this is where the note li
 
 # References
 
-[[notes/Emergent note taking what ants can teach us about notes\|Emergent note taking what ants can teach us about notes]] 
+[[read-it-later/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] 

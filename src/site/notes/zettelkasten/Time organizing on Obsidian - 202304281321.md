@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/time-organizing-on-obsidian-202304281321/","tags":["📖"],"created":"2023-09-19T22:09:11.952-05:00","updated":"2024-11-10T17:48:04.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/time-organizing-on-obsidian-202304281321/","tags":["📖"],"created":"2023-09-19T22:09:11.952-05:00","updated":"2025-01-04T14:57:39.052-06:00"}
 ---
 
 
@@ -13,4 +13,4 @@ Based on [[zettelkasten/LATCH - 202304281226\|LATCH]], typically we tie this bac
 
 # References
 
-[[notes/Emergent note taking what ants can teach us about notes\|Emergent note taking what ants can teach us about notes]] 
+[[read-it-later/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] 
