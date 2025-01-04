@@ -11,9 +11,9 @@
 | Name                                                                                                           | Weight    |
 | -------------------------------------------------------------------------------------------------------------- | --------- |
 | [[archive/2024/projects/Literature Notes/Lehigh Valley\|Lehigh Valley]]                                     | Weight: 2 |
-| [[archive/2024/projects/Literature Notes/Pennsylvania Political Dynamics\|Pennsylvania Political Dynamics]] | Weight: 1 |
-| [[archive/2024/projects/Literature Notes/Non Citizen Voting\|Non Citizen Voting]]                           | Weight: 1 |
 | [[archive/2024/projects/Literature Notes/Election Integrity Claims\|Election Integrity Claims]]             | Weight: 1 |
+| [[archive/2024/projects/Literature Notes/Non Citizen Voting\|Non Citizen Voting]]                           | Weight: 1 |
+| [[archive/2024/projects/Literature Notes/Pennsylvania Political Dynamics\|Pennsylvania Political Dynamics]] | Weight: 1 |
 
 { .block-language-dataview}
 
