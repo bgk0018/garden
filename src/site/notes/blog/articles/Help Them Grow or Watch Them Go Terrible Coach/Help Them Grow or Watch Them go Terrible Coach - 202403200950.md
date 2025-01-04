@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/Help Them Grow or Watch Them Go Terrible Coach/Help Them Grow or Watch Them go Terrible Coach - 202403200950.md","permalink":"/articles/help-them-grow-or-watch-them-go-terrible-coach/help-them-grow-or-watch-them-go-terrible-coach-202403200950/","tags":["🥕"],"created":"2024-03-19T19:31:19.207-05:00","updated":"2025-01-04T15:12:44.832-06:00"}
+{"dg-publish":true,"dg-path":"articles","permalink":"/articles/","tags":["🥕"],"created":"2024-03-19T19:31:19.207-05:00","updated":"2025-01-04T15:34:25.669-06:00"}
 ---
 
 

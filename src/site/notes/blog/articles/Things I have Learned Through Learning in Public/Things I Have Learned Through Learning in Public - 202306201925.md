@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/Things I have Learned Through Learning in Public/Things I Have Learned Through Learning in Public - 202306201925.md","permalink":"/articles/things-i-have-learned-through-learning-in-public/things-i-have-learned-through-learning-in-public-202306201925/","tags":["🥕"],"created":"2023-09-19T22:09:06.842-05:00","updated":"2025-01-04T15:25:03.645-06:00"}
+{"dg-publish":true,"dg-path":"articles","permalink":"/articles/","tags":["🥕"],"created":"2023-09-19T22:09:06.842-05:00","updated":"2025-01-04T15:34:44.070-06:00"}
 ---
 
 

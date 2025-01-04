@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/3 Vital Questions Review/3 Vital Questions Review - 202307140857.md","permalink":"/articles/3-vital-questions-review/3-vital-questions-review-202307140857/","tags":["🥕"],"created":"2023-09-19T22:08:56.793-05:00","updated":"2025-01-04T15:04:30.527-06:00"}
+{"dg-publish":true,"dg-path":"articles","permalink":"/articles/","tags":["🥕"],"created":"2023-09-19T22:08:56.793-05:00","updated":"2025-01-04T15:33:52.393-06:00"}
 ---
 
 
