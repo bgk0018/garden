@@ -20,9 +20,9 @@
 | [[zettelkasten/Victim - 202305251726\|Victim - 202305251726]]                                                                                                                   | Weight: 9  |
 | [[zettelkasten/Reaction - 202304261216\|Reaction - 202304261216]]                                                                                                               | Weight: 8  |
 | [[zettelkasten/Inner State - 202304201654\|Inner State - 202304201654]]                                                                                                         | Weight: 7  |
+| [[zettelkasten/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic - 202306271410]]                                                                                 | Weight: 7  |
 | [[zettelkasten/Dreaded Drama Triangle - 202305251725\|Dreaded Drama Triangle - 202305251725]]                                                                                   | Weight: 6  |
 | [[zettelkasten/Rescuer - 202305271811\|Rescuer - 202305271811]]                                                                                                                 | Weight: 6  |
-| [[zettelkasten/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic - 202306271410]]                                                                                 | Weight: 6  |
 | [[zettelkasten/Behavior - 202304201655\|Behavior - 202304201655]]                                                                                                               | Weight: 5  |
 | [[zettelkasten/Result - 202304261252\|Result - 202304261252]]                                                                                                                   | Weight: 5  |
 | [[zettelkasten/Baby Step - 202304261244\|Baby Step - 202304261244]]                                                                                                             | Weight: 4  |

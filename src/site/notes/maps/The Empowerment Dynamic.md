@@ -42,9 +42,9 @@
 | [[zettelkasten/Victim - 202305251726\|Victim]]                                                                                 | 9      |
 | [[zettelkasten/Reaction - 202304261216\|react]]                                                                                | 8      |
 | [[zettelkasten/Inner State - 202304201654\|Inner State]]                                                                       | 7      |
+| [[zettelkasten/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic]]                                               | 7      |
 | [[zettelkasten/Dreaded Drama Triangle - 202305251725\|DDT]]                                                                    | 6      |
 | [[zettelkasten/Rescuer - 202305271811\|Rescuer]]                                                                               | 6      |
-| [[zettelkasten/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic]]                                               | 6      |
 | [[zettelkasten/A.I.R. - 202304261249\|A.I.R.]]                                                                                 | 5      |
 | [[zettelkasten/Behavior - 202304201655\|Behavior]]                                                                             | 5      |
 | [[zettelkasten/Persecutor - 202305271800\|Persecutor]]                                                                         | 5      |

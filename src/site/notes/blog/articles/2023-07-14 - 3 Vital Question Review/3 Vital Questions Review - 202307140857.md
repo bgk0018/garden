@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2023-07-14 - 3 Vital Question Review/3 Vital Questions Review - 202307140857.md","permalink":"/articles/2023-07-14-3-vital-question-review/3-vital-questions-review-202307140857/","title":"2023-07-14 - 3 Vital Question Review","tags":["🥕"],"created":"2024-08-29T16:41:02.845-05:00","updated":"2025-01-05T09:52:57.741-06:00"}
+{"dg-publish":true,"dg-path":"articles/2023-07-14 3 Vital Question Review","permalink":"/articles/2023-07-14-3-vital-question-review/","title":"2023-07-14 - 3 Vital Question Review","tags":["🥕"],"created":"2024-08-29T16:41:02.845-05:00","updated":"2025-01-05T09:59:23.000-06:00"}
 ---
 
 
 # 3 Vital Questions Review
 
 I put together this review in order to go over the book with our interns. This was the first book I've gone through and actually pulled apart and this is one of the outcomes of that process was to generate this review.
+
+If you want a less guided tour, you can checkout the [[zettelkasten/The Empowerment Dynamic - 202306271410\|The Empowerment Dynamic]] map instead.
 
 ---
 

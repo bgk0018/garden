@@ -72,8 +72,8 @@
 > [!QUESTION]- Other Files
 > A catch all so I can appropriately categorize files I deemed related but have not appropriately tagged.
 
-| Title                                                                                                                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[blog/articles/Explaining to Myself Yet Again How This Note-Taking Thing Works/Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352\|Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352]] |
+| Title                                                                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[blog/articles/2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works/Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352\|Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352]] |
 
 { .block-language-dataview}
