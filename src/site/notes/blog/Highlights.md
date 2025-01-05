@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Highlights.md","permalink":"/highlights/","tags":["🥕"],"created":"2024-08-29T16:41:03.081-05:00","updated":"2025-01-05T10:23:37.112-06:00"}
+{"dg-publish":true,"dg-path":"Highlights.md","permalink":"/highlights/","tags":["🥕"],"created":"2024-08-29T16:41:03.081-05:00","updated":"2025-01-05T10:23:46.206-06:00"}
 ---
 
 
