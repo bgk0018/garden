@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/justice-alito-s-upside-down-flag-political-gabfest-highlights/","title":"Justice Alito's Upside Down Flag","tags":["✂️","🎧"],"created":"2024-05-30T21:12:29.135-05:00","updated":"2025-01-02T22:19:19.384-06:00"}
+{"dg-publish":true,"permalink":"/reference/justice-alito-s-upside-down-flag-political-gabfest-highlights/","title":"Justice Alito's Upside Down Flag","tags":["✂️","🎧"],"created":"2024-08-29T16:38:55.840-05:00","updated":"2025-01-02T22:19:19.000-06:00"}
 ---
 
 # Justice Alito's Upside Down Flag

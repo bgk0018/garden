@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/what-is-a-structural-vs-nominal-type-system-202307311546/","tags":["❓"],"created":"2023-09-19T22:08:54.400-05:00","updated":"2024-11-29T17:14:55.342-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/what-is-a-structural-vs-nominal-type-system-202307311546/","tags":["❓"],"created":"2024-08-29T16:41:02.312-05:00","updated":"2024-11-29T17:14:55.000-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/outcome-orientation-202304261241/","tags":["📖"],"created":"2023-09-19T22:09:12.015-05:00","updated":"2024-11-10T17:14:16.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/outcome-orientation-202304261241/","tags":["📖"],"created":"2024-08-29T16:41:14.646-05:00","updated":"2024-11-10T17:14:16.367-06:00"}
 ---
 
 

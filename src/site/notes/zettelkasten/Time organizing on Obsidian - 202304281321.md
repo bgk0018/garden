@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/time-organizing-on-obsidian-202304281321/","tags":["📖"],"created":"2023-09-19T22:09:11.952-05:00","updated":"2025-01-04T14:57:39.052-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/time-organizing-on-obsidian-202304281321/","tags":["📖"],"created":"2024-08-29T16:41:14.508-05:00","updated":"2025-01-04T14:57:39.000-06:00"}
 ---
 
 

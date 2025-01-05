@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/claims-that-millions-of-noncitizens-would-illegally-vote-evaporated-after-trump-s-win/","title":"Claims that millions of noncitizens would illegally vote evaporated after Trump's win","tags":["📰"],"created":"2024-11-29T13:41:24.404-06:00","updated":"2024-11-30T19:12:13.000-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/claims-that-millions-of-noncitizens-would-illegally-vote-evaporated-after-trump-s-win/","title":"Claims that millions of noncitizens would illegally vote evaporated after Trump's win","tags":["📰"],"created":"2024-11-30T19:03:13.512-06:00","updated":"2024-11-30T19:12:13.816-06:00"}
 ---
 
 

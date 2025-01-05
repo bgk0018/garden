@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/exactly-once-semantics-theory-202406021527/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:21:16.229-05:00","updated":"2024-11-10T13:37:10.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/exactly-once-semantics-theory-202406021527/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:54.763-05:00","updated":"2024-11-10T13:37:10.272-06:00"}
 ---
 
 

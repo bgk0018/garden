@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/problem-orientation-202304201646/","tags":["📖"],"created":"2023-09-19T22:09:13.890-05:00","updated":"2024-11-10T17:17:25.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/problem-orientation-202304201646/","tags":["📖"],"created":"2024-08-29T16:41:19.688-05:00","updated":"2024-11-10T17:17:25.628-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/dynamic-tension-202304171455/","tags":["📖"],"created":"2023-09-19T22:09:13.890-05:00","updated":"2024-11-10T17:04:26.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/dynamic-tension-202304171455/","tags":["📖"],"created":"2024-08-29T16:41:19.762-05:00","updated":"2024-11-10T17:04:26.996-06:00"}
 ---
 
 

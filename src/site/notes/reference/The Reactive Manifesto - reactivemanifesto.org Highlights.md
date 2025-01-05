@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-reactive-manifesto-reactivemanifesto-org-highlights/","title":"The Reactive Manifesto","tags":["✂️","📰"],"created":"2024-03-13T18:38:25.323-05:00","updated":"2025-01-02T22:19:19.474-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-reactive-manifesto-reactivemanifesto-org-highlights/","title":"The Reactive Manifesto","tags":["✂️","📰"],"created":"2024-08-29T16:39:00.752-05:00","updated":"2025-01-02T22:19:19.000-06:00"}
 ---
 
 # The Reactive Manifesto

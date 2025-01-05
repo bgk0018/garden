@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/producer-configuration-for-reliability-202407152140/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:31.008-06:00","updated":"2024-11-10T13:46:22.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/producer-configuration-for-reliability-202407152140/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:09:03.173-06:00","updated":"2024-11-10T13:46:22.577-06:00"}
 ---
 
 

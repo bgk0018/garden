@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/there-is-no-now-acm-queue/","title":"There is No Now - ACM Queue","tags":["📰"],"created":"2024-12-29T17:13:13.884-06:00","updated":"2024-12-29T17:13:38.000-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/there-is-no-now-acm-queue/","title":"There is No Now - ACM Queue","tags":["📰"],"created":"2024-12-29T17:13:06.778-06:00","updated":"2024-12-29T17:13:38.044-06:00"}
 ---
 
 

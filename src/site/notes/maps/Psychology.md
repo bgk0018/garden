@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/psychology/","tags":["🗺️"],"created":"2024-11-12T06:18:07.401-06:00","updated":"2024-11-10T17:41:53.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/psychology/","tags":["🗺️"],"created":"2024-11-10T17:30:07.814-06:00","updated":"2024-11-10T17:41:53.731-06:00"}
 ---
 
 

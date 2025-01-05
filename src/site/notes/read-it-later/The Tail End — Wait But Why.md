@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/the-tail-end-wait-but-why/","title":"The Tail End — Wait But Why","tags":["📰"],"created":"2024-12-24T16:17:43.137-06:00","updated":"2024-12-24T22:32:33.000-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/the-tail-end-wait-but-why/","title":"The Tail End — Wait But Why","tags":["📰"],"created":"2024-12-24T22:32:29.698-06:00","updated":"2024-12-24T22:32:33.439-06:00"}
 ---
 
 

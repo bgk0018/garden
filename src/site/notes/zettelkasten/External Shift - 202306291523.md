@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/external-shift-202306291523/","tags":["📖"],"created":"2023-09-19T22:09:02.403-05:00","updated":"2024-11-10T17:04:25.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/external-shift-202306291523/","tags":["📖"],"created":"2024-08-29T16:41:08.605-05:00","updated":"2024-11-10T17:04:25.301-06:00"}
 ---
 
 

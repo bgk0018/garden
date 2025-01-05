@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/ce-os-are-using-return-to-office-mandates-to-mask-poor-management-q-hamirani-highlights/","title":"CEOs Are Using Return to Office Mandates to Mask Poor Management","tags":["✂️"],"created":"2024-03-01T16:09:48.500-06:00","updated":"2025-01-02T22:19:19.209-06:00"}
+{"dg-publish":true,"permalink":"/reference/ce-os-are-using-return-to-office-mandates-to-mask-poor-management-q-hamirani-highlights/","title":"CEOs Are Using Return to Office Mandates to Mask Poor Management","tags":["✂️"],"created":"2024-08-29T16:40:15.136-05:00","updated":"2025-01-02T22:19:19.000-06:00"}
 ---
 
 # CEOs Are Using Return to Office Mandates to Mask Poor Management

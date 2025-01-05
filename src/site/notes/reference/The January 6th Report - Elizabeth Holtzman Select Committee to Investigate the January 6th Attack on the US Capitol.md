@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-january-6th-report-elizabeth-holtzman-select-committee-to-investigate-the-january-6th-attack-on-the-us-capitol/","title":"The January 6th Report","tags":["📕"],"created":"2024-11-14T19:21:29.068-06:00","updated":"2024-11-20T14:45:20.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-january-6th-report-elizabeth-holtzman-select-committee-to-investigate-the-january-6th-attack-on-the-us-capitol/","title":"The January 6th Report","tags":["📕"],"created":"2024-11-14T08:37:20.104-06:00","updated":"2024-11-20T14:45:20.336-06:00"}
 ---
 
 

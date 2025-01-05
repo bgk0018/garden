@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advertised-listeners-202406021523/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:19:10.219-05:00","updated":"2024-11-10T12:52:46.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/advertised-listeners-202406021523/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:54.677-05:00","updated":"2024-11-10T12:52:46.431-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/are-both-parents-always-better-than-one-parental-conflict-and-young-adult-well-being-kelly-musick-highlights/","title":"Are Both Parents Always Better Than One? Parental Conflict and Young Adult Well-Being *","tags":["✂️"],"created":"2024-04-06T18:01:25.412-05:00","updated":"2025-01-02T22:19:19.175-06:00"}
+{"dg-publish":true,"permalink":"/reference/are-both-parents-always-better-than-one-parental-conflict-and-young-adult-well-being-kelly-musick-highlights/","title":"Are Both Parents Always Better Than One? Parental Conflict and Young Adult Well-Being *","tags":["✂️"],"created":"2024-08-29T16:39:01.196-05:00","updated":"2025-01-02T22:19:19.000-06:00"}
 ---
 
 # Are Both Parents Always Better Than One? Parental Conflict and Young Adult Well-Being *
