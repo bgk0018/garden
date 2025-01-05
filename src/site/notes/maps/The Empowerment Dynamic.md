@@ -62,8 +62,8 @@
 | [[zettelkasten/Theory X - 202304201635\|Theory X]]                                                                             | 3      |
 | [[zettelkasten/Theory Y - 202304201637\|Theory Y]]                                                                             | 3      |
 | [[zettelkasten/Three dimensions of work - 202304171439\|Three dimensions of work]]                                             | 3      |
-| [[zettelkasten/Vital Question 2 - 202304171450\|Vital Question 2]]                                                             | 3      |
 | [[zettelkasten/Vital Question 1 - 202304171449\|Vital Question 1]]                                                             | 3      |
+| [[zettelkasten/Vital Question 2 - 202304171450\|Vital Question 2]]                                                             | 3      |
 | [[zettelkasten/Vital Question 3 - 202304171451\|Vital Question 3]]                                                             | 3      |
 | [[zettelkasten/Attention - 202304261250\|Attention]]                                                                           | 2      |
 | [[zettelkasten/Coach - 202306271406\|Coach]]                                                                                   | 2      |

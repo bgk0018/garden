@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/the-brain-sacrifices-accuracy-for-speed-202307131632/","tags":["📖"],"created":"2023-09-19T22:08:58.231-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/the-brain-sacrifices-accuracy-for-speed-202307131632/","tags":["📖"],"created":"2024-08-29T16:41:00.899-05:00","updated":"2024-11-08T09:43:57.688-06:00"}
 ---
 
 # Content

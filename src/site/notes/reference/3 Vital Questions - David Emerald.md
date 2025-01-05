@@ -40,8 +40,8 @@
 | [[zettelkasten/Theory Y - 202304201637\|Theory Y - 202304201637]]                                                                                                               | Weight: 3  |
 | [[zettelkasten/Theory of Employee Motivation - 202305280808\|Theory of Employee Motivation - 202305280808]]                                                                     | Weight: 3  |
 | [[zettelkasten/Three dimensions of work - 202304171439\|Three dimensions of work - 202304171439]]                                                                               | Weight: 3  |
-| [[zettelkasten/Vital Question 2 - 202304171450\|Vital Question 2 - 202304171450]]                                                                                               | Weight: 3  |
 | [[zettelkasten/Vital Question 1 - 202304171449\|Vital Question 1 - 202304171449]]                                                                                               | Weight: 3  |
+| [[zettelkasten/Vital Question 2 - 202304171450\|Vital Question 2 - 202304171450]]                                                                                               | Weight: 3  |
 | [[zettelkasten/Vital Question 3 - 202304171451\|Vital Question 3 - 202304171451]]                                                                                               | Weight: 3  |
 | [[zettelkasten/Attention - 202304261250\|Attention - 202304261250]]                                                                                                             | Weight: 2  |
 | [[zettelkasten/Challenger - 202306271330\|Challenger - 202306271330]]                                                                                                           | Weight: 2  |
