@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/3 Vital Questions Review","permalink":"/articles/3-vital-questions-review/","tags":["🥕"],"created":"2024-08-29T16:41:02.845-05:00","updated":"2025-01-04T23:38:10.000-06:00"}
+{"dg-publish":true,"dg-path":"articles/3 Vital Questions Review","permalink":"/articles/3-vital-questions-review/","title":"2023-07-14 - 3 Vital Question Review","tags":["🥕"],"created":"2024-08-29T16:41:02.845-05:00","updated":"2025-01-05T09:42:53.406-06:00"}
 ---
 
 
