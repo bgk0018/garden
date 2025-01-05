@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2025-01-04 - Yes And Architecture","permalink":"/articles/2025-01-04-yes-and-architecture/","title":"2025-01-04 - Yes And Architecture","tags":["🥕"],"created":"2025-01-05T08:45:14.637-06:00","updated":"2025-01-05T10:09:22.860-06:00"}
+{"dg-publish":true,"dg-path":"articles/2025-01-04 - Yes And Architecture","permalink":"/articles/2025-01-04-yes-and-architecture/","title":"2025-01-04 - Yes And Architecture","tags":["🥕"],"created":"2025-01-05T08:45:14.637-06:00","updated":"2025-01-05T10:09:30.947-06:00"}
 ---
 
 
