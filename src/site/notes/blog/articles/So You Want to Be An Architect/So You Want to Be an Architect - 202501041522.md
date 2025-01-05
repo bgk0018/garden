@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles","permalink":"/articles/","tags":["🥕"],"created":"2025-01-04T15:22:50.429-06:00","updated":"2025-01-04T15:39:49.038-06:00"}
+{"dg-publish":true,"dg-path":"articles/So You Want to Be An Architect/So You Want to Be an Architect - 202501041522.md","permalink":"/articles/so-you-want-to-be-an-architect/so-you-want-to-be-an-architect-202501041522/","tags":["🥕"],"created":"2025-01-04T15:22:50.429-06:00","updated":"2025-01-04T23:24:13.293-06:00"}
 ---
 
 

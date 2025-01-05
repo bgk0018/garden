@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles","permalink":"/articles/","tags":["🥕"],"created":"2023-09-19T22:09:09.545-05:00","updated":"2025-01-04T15:39:46.451-06:00"}
+{"dg-publish":true,"dg-path":"articles/Information asymmetry doesn't accomodate for time spent in the area of sales/Information asymmetry doesnt accomodate for time spent in the area of sales - 202306061130.md","permalink":"/articles/information-asymmetry-doesn-t-accomodate-for-time-spent-in-the-area-of-sales/information-asymmetry-doesnt-accomodate-for-time-spent-in-the-area-of-sales-202306061130/","tags":["🥕"],"created":"2023-09-19T22:09:09.545-05:00","updated":"2025-01-04T23:24:09.125-06:00"}
 ---
 
 
