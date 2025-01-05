@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["🥕","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2024-08-29T16:40:39.661-05:00","updated":"2025-01-05T09:56:52.413-06:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["🥕","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"created":"2024-08-29T16:40:39.661-05:00","updated":"2025-01-05T09:56:52.413-06:00"}
 ---
 
 
