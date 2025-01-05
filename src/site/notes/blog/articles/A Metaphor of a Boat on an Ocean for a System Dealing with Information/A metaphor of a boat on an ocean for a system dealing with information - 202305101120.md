@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/A Metaphor of a Boat on an Ocean for a System Dealing with Information/A metaphor of a boat on an ocean for a system dealing with information - 202305101120.md","permalink":"/articles/a-metaphor-of-a-boat-on-an-ocean-for-a-system-dealing-with-information/a-metaphor-of-a-boat-on-an-ocean-for-a-system-dealing-with-information-202305101120/","tags":["🥕"],"created":"2023-09-19T22:09:11.936-05:00","updated":"2025-01-04T23:23:53.264-06:00"}
+{"dg-publish":true,"dg-path":"articles/A metaphor of a boat on an ocean for a system for dealing with information.md","permalink":"/articles/a-metaphor-of-a-boat-on-an-ocean-for-a-system-for-dealing-with-information/","tags":["🥕"],"created":"2023-09-19T22:09:11.936-05:00","updated":"2025-01-04T23:31:09.017-06:00"}
 ---
 
 
