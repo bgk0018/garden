@@ -83,20 +83,20 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Java Consumer Client - 202406021638\|Java Consumer Client]]                                                         | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Java Producer Client - 202406021637\|Java Producer Client]]                                                         | 1      |
 | [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Advanced Operations - 202406021531\|KStreams and KTables Advanced Operations]]                 | 1      |
-| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Simple Operations Stateless - 202406021532\|KStreams and KTables Simple Operations Stateless]] | 1      |
 | [[projects/Dallas Confluent Practice/Notes/KSQL - 202406022143\|KSQL]]                                                                                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/KStreams and KTables Simple Operations Stateless - 202406021532\|KStreams and KTables Simple Operations Stateless]] | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka ACLs - 202406021631\|Kafka ACLs]]                                                                             | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Cluster - 202406021527\|Kafka Cluster]]                                                                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Connect - 202403301639\|Kafka Connect]]                                                                       | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Connect Source - 202406022136\|Kafka Connect Source]]                                                         | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Consumer CLI - 202406011144\|Kafka Consumer CLI]]                                                             | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Internals - 202411021210\|Kafka Internals]]                                                                   | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Connect Source - 202406022136\|Kafka Connect Source]]                                                         | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka KRaft - 202406011123\|Kafka KRaft]]                                                                           | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Multi Cluster and MirrorMaker - 202406021530\|Kafka Multi Cluster and MirrorMaker]]                           | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Producer CLI - 202406011140\|Kafka Producer CLI]]                                                             | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Security - 202406021530\|Kafka Security]]                                                                     | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Streams - 202403301640\|Kafka Streams]]                                                                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Streams for Data Processing - 202406021531\|Kafka Streams for Data Processing]]                               | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Multi Cluster and MirrorMaker - 202406021530\|Kafka Multi Cluster and MirrorMaker]]                           | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Streams - 202403301640\|Kafka Streams]]                                                                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka in the Enterprise for Admins - 202406021529\|Kafka in the Enterprise for Admins]]                             | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Topics CLI - 202406011123\|Kafka Topics CLI]]                                                                 | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Metrics Collection - 202406062123\|Metrics Collection]]                                                             | 1      |
@@ -104,8 +104,8 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Producer Partitioners - 202403301636\|Producer Partitioners]]                                                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Producer Retries - 202403301634\|Producer Retries]]                                                                 | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Pull Model - 202303012046\|Pull Model]]                                                                             | 1      |
-| [[projects/Dallas Confluent Practice/Notes/Resetting Consumer Group Offsets - 202406011212\|Resetting Consumer Group Offsets]]                                 | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Real World Insights and Case Studies - 202406021533\|Real World Insights and Case Studies]]                         | 1      |
+| [[projects/Dallas Confluent Practice/Notes/Resetting Consumer Group Offsets - 202406011212\|Resetting Consumer Group Offsets]]                                 | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Safe Producers - 202403301634\|Safe Producers]]                                                                     | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Schema Evolution Compatibility Matrix - 202404101240\|Schema Evolution Compatibility Matrix]]                       | 1      |
 | [[projects/Dallas Confluent Practice/Notes/Zookeeper Setup - 202406021533\|Zookeeper Setup]]                                                                   | 1      |
@@ -182,8 +182,8 @@ Apache Kafka is a distributed event streaming platform designed for high-through
 | [[projects/Dallas Confluent Practice/Notes/Integrations and Ecosystem\|Integrations and Ecosystem]]                                                                       |
 | [[projects/Dallas Confluent Practice/Notes/Introduction to Apache Kafka\|Introduction to Apache Kafka]]                                                                   |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Architecture\|Kafka Architecture]]                                                                                       |
-| [[projects/Dallas Confluent Practice/Notes/Kafka Configuration and Setup\|Kafka Configuration and Setup]]                                                                 |
 | [[projects/Dallas Confluent Practice/Notes/Kafka CLI Tools\|Kafka CLI Tools]]                                                                                             |
+| [[projects/Dallas Confluent Practice/Notes/Kafka Configuration and Setup\|Kafka Configuration and Setup]]                                                                 |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Connect\|Kafka Connect]]                                                                                                 |
 | [[projects/Dallas Confluent Practice/Notes/Kafka Internals\|Kafka Internals]]                                                                                             |
 | [[projects/Dallas Confluent Practice/Notes/Monitoring and Metrics\|Monitoring and Metrics]]                                                                               |
