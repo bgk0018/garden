@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/resetting-consumer-group-offsets-202406011212/","tags":["♣️/kafka","📖"],"created":"2024-03-30T16:28:34.618-05:00","updated":"2024-11-10T13:47:18.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/resetting-consumer-group-offsets-202406011212/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:59.818-05:00","updated":"2024-11-10T13:47:18.214-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2023-04-28-video-nicole-van-der-hoeven-emergent-note-taking-what-ants-can-teach-us-about-notes/","title":"Emergent note taking: what ants can teach us about notes","tags":["⏱️","🎥"],"created":"2025-01-04T14:52:35.914-06:00","updated":"2025-01-04T14:59:22.012-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2023-04-28-video-nicole-van-der-hoeven-emergent-note-taking-what-ants-can-teach-us-about-notes/","title":"Emergent note taking: what ants can teach us about notes","tags":["⏱️","🎥"],"created":"2025-01-05T08:44:56.403-06:00","updated":"2025-01-05T08:45:40.230-06:00"}
 ---
 
 

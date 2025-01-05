@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2024-11-25-video-mike-israetel-my-battle-with-crippling-adhd-episode-67/","title":"My Battle With Crippling ADHD | Episode #67","tags":["🎥"],"created":"2025-01-02T22:53:35.370-06:00","updated":"2025-01-02T22:54:09.174-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2024-11-25-video-mike-israetel-my-battle-with-crippling-adhd-episode-67/","title":"My Battle With Crippling ADHD | Episode #67","tags":["🎥"],"created":"2024-12-16T08:31:49.838-06:00","updated":"2025-01-02T22:54:09.000-06:00"}
 ---
 
 

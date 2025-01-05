@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/nexus-yuval-noah-harari-highlights/","title":"Nexus","tags":["✂️","📚"],"created":"2024-12-15T10:42:26.786-06:00","updated":"2025-01-02T22:19:19.420-06:00"}
+{"dg-publish":true,"permalink":"/reference/nexus-yuval-noah-harari-highlights/","title":"Nexus","tags":["✂️","📚"],"created":"2024-12-15T09:21:45.046-06:00","updated":"2025-01-02T22:19:19.000-06:00"}
 ---
 
 # Nexus

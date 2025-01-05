@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/thinking-in-systems-donella-meadows/","title":"Thinking in Systems","tags":["📕"],"created":"2024-12-31T07:43:17.688-06:00","updated":"2024-12-30T09:36:46.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/thinking-in-systems-donella-meadows/","title":"Thinking in Systems","tags":["📕"],"created":"2024-12-30T09:35:30.895-06:00","updated":"2024-12-30T09:36:46.483-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/Yes And Architecture/Yes And Architecture - 202501041529.md","permalink":"/articles/yes-and-architecture/yes-and-architecture-202501041529/","tags":["🥕"],"created":"2025-01-04T15:28:50.159-06:00","updated":"2025-01-04T23:24:25.156-06:00"}
+{"dg-publish":true,"dg-path":"articles/Yes And Architecture/Yes And Architecture - 202501041529.md","permalink":"/articles/yes-and-architecture/yes-and-architecture-202501041529/","tags":["🥕"],"created":"2025-01-05T08:45:14.637-06:00","updated":"2025-01-05T08:45:40.322-06:00"}
 ---
 
 

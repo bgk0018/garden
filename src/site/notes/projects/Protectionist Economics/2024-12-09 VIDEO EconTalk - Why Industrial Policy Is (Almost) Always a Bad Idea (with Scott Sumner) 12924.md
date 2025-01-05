@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/protectionist-economics/2024-12-09-video-econ-talk-why-industrial-policy-is-almost-always-a-bad-idea-with-scott-sumner-12924/","title":"Why Industrial Policy Is (Almost) Always a Bad Idea (with Scott Sumner) 12/9/24","tags":["🎥"],"created":"2024-12-13T21:05:56.745-06:00","updated":"2024-12-15T09:24:11.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/protectionist-economics/2024-12-09-video-econ-talk-why-industrial-policy-is-almost-always-a-bad-idea-with-scott-sumner-12924/","title":"Why Industrial Policy Is (Almost) Always a Bad Idea (with Scott Sumner) 12/9/24","tags":["🎥"],"created":"2024-12-12T21:18:50.085-06:00","updated":"2024-12-15T09:24:11.630-06:00"}
 ---
 
 

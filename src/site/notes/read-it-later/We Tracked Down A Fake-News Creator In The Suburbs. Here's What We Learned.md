@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/we-tracked-down-a-fake-news-creator-in-the-suburbs-here-s-what-we-learned/","title":"We Tracked Down A Fake-News Creator In The Suburbs. Here's What We Learned","tags":["📰"],"created":"2024-12-09T18:01:54.464-06:00","updated":"2024-12-09T18:01:50.000-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/we-tracked-down-a-fake-news-creator-in-the-suburbs-here-s-what-we-learned/","title":"We Tracked Down A Fake-News Creator In The Suburbs. Here's What We Learned","tags":["📰"],"created":"2024-12-09T18:01:49.554-06:00","updated":"2024-12-09T18:01:50.180-06:00"}
 ---
 
 # We Tracked Down A Fake-News Creator In The Suburbs. Here's What We Learned

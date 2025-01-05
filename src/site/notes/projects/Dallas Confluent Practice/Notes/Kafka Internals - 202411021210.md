@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-internals-202411021210/","tags":["♣️/kafka","📖"],"created":"2024-11-02T12:10:10.631-05:00","updated":"2024-11-10T13:41:36.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-internals-202411021210/","tags":["♣️/kafka","📖"],"created":"2024-11-02T12:10:09.866-05:00","updated":"2024-11-10T13:41:36.896-06:00"}
 ---
 
 

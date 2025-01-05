@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/voters-broadly-positive-about-how-elections-were-conducted-in-sharp-contrast-to-2020/","title":"Voters Broadly Positive About How Elections Were Conducted, in Sharp Contrast to 2020","tags":["📰"],"created":"2024-12-08T17:27:11.722-06:00","updated":"2024-12-08T13:01:40.000-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/voters-broadly-positive-about-how-elections-were-conducted-in-sharp-contrast-to-2020/","title":"Voters Broadly Positive About How Elections Were Conducted, in Sharp Contrast to 2020","tags":["📰"],"created":"2024-12-08T17:46:54.466-06:00","updated":"2024-12-08T13:01:40.000-06:00"}
 ---
 
 # Voters Broadly Positive About How Elections Were Conducted, in Sharp Contrast to 2020

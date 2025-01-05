@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/metrics-collection-202406062123/","tags":["♣️/kafka","📖"],"created":"2024-06-06T21:23:25.495-05:00","updated":"2024-11-10T13:45:08.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/metrics-collection-202406062123/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:55.140-05:00","updated":"2024-11-10T13:45:08.906-06:00"}
 ---
 
 

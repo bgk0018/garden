@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-replication-factor-202405302220/","tags":["♣️/kafka","📖"],"created":"2023-09-19T22:09:15.093-05:00","updated":"2024-11-10T13:50:40.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-replication-factor-202405302220/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:41:19.088-05:00","updated":"2024-11-10T13:50:40.027-06:00"}
 ---
 
 

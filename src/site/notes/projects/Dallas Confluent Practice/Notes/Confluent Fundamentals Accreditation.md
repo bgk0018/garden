@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-fundamentals-accreditation/","title":"Confluent Fundamentals Accreditation","tags":["⏱️","🎓"],"created":"2024-06-04T21:14:58.249-05:00","updated":"2024-11-10T16:21:00.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-fundamentals-accreditation/","title":"Confluent Fundamentals Accreditation","tags":["⏱️","🎓"],"created":"2024-08-29T16:38:54.722-05:00","updated":"2024-11-10T16:21:00.273-06:00"}
 ---
 
 

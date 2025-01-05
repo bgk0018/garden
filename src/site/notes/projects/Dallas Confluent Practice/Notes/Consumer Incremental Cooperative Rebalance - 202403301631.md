@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-incremental-cooperative-rebalance-202403301631/","tags":["📖"],"created":"2024-03-30T16:31:38.362-05:00","updated":"2024-11-10T13:35:39.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-incremental-cooperative-rebalance-202403301631/","tags":["📖"],"created":"2024-08-29T16:38:59.674-05:00","updated":"2024-11-10T13:35:39.693-06:00"}
 ---
 
 

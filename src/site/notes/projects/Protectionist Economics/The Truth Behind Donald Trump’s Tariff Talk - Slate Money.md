@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/protectionist-economics/the-truth-behind-donald-trump-s-tariff-talk-slate-money/","title":"The Truth Behind Donald Trump’s Tariff Talk - Slate Money","tags":["🎥"],"created":"2024-12-29T17:27:34.702-06:00","updated":"2024-12-29T17:28:13.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/protectionist-economics/the-truth-behind-donald-trump-s-tariff-talk-slate-money/","title":"The Truth Behind Donald Trump’s Tariff Talk - Slate Money","tags":["🎥"],"created":"2024-12-29T17:27:33.695-06:00","updated":"2024-12-29T17:28:13.963-06:00"}
 ---
 
 

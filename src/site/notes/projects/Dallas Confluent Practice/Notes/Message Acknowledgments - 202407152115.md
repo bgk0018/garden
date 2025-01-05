@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-acknowledgments-202407152115/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:30.539-06:00","updated":"2024-11-10T13:44:28.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-acknowledgments-202407152115/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:05:41.295-06:00","updated":"2024-11-10T13:44:28.655-06:00"}
 ---
 
 

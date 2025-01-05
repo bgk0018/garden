@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/the-lehigh-valley-has-changed-drastically-now-it-could-swing-pennsylvania/","title":"The Lehigh Valley has changed drastically. Now, it could swing Pennsylvania","tags":["📰"],"created":"2024-11-03T21:18:48.535-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/the-lehigh-valley-has-changed-drastically-now-it-could-swing-pennsylvania/","title":"The Lehigh Valley has changed drastically. Now, it could swing Pennsylvania","tags":["📰"],"created":"2024-11-03T23:32:00.302-06:00","updated":"2024-11-08T09:43:57.951-06:00"}
 ---
 
 # The Lehigh Valley has changed drastically. Now, it could swing Pennsylvania

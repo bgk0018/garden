@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/Why I Am Not Catholic/Why I am not Catholic - 202206251130.md","permalink":"/articles/why-i-am-not-catholic/why-i-am-not-catholic-202206251130/","tags":["🥕"],"created":"2023-09-19T22:09:38.253-05:00","updated":"2025-01-04T23:24:20.022-06:00"}
+{"dg-publish":true,"dg-path":"articles/Why I Am Not Catholic/Why I am not Catholic - 202206251130.md","permalink":"/articles/why-i-am-not-catholic/why-i-am-not-catholic-202206251130/","tags":["🥕"],"created":"2024-08-29T16:42:22.363-05:00","updated":"2025-01-04T23:24:20.000-06:00"}
 ---
 
 
