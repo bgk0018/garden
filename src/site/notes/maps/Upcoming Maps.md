@@ -12,7 +12,7 @@ These are high level subjects I'm keeping an eye. They are uncreated notes that 
     at asyncEvalInContext (plugin:dataview:18896:32)
     at DataviewJSRenderer.render (plugin:dataview:18922:19)
     at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1247150)
+    at e.load (app://obsidian.md/app.js:1:1248334)
     at DataviewApi.executeJs (plugin:dataview:19465:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
     at Generator.next (&lt;anonymous&gt;)</pre>

@@ -80,11 +80,11 @@ Note: Some of the links above are affiliate links, which means I may get a small
 | Name                                                                                                  | Weight    |
 | ----------------------------------------------------------------------------------------------------- | --------- |
 | [[zettelkasten/LATCH - 202304281226\|LATCH]]                                                       | Weight: 8 |
-| [[zettelkasten/Category organizing in Obsidian - 202304281322\|Category organizing in Obsidian]]   | Weight: 1 |
 | [[zettelkasten/Hierarchy organizing in Obsidian - 202304281323\|Hierarchy organizing in Obsidian]] | Weight: 1 |
-| [[zettelkasten/Alphabet organizing in Obsidian - 202304281320\|Alphabet organizing in Obsidian]]   | Weight: 0 |
-| [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]   | Weight: 0 |
+| [[zettelkasten/Category organizing in Obsidian - 202304281322\|Category organizing in Obsidian]]   | Weight: 1 |
 | [[zettelkasten/Time organizing on Obsidian - 202304281321\|Time organizing on Obsidian]]           | Weight: 0 |
+| [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]   | Weight: 0 |
+| [[zettelkasten/Alphabet organizing in Obsidian - 202304281320\|Alphabet organizing in Obsidian]]   | Weight: 0 |
 
 { .block-language-dataview}
 
