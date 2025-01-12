@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2023-04-28-video-nicole-van-der-hoeven-emergent-note-taking-what-ants-can-teach-us-about-notes/","title":"Emergent note taking: what ants can teach us about notes","tags":["⏱️","🎥"],"created":"2025-01-05T08:44:56.403-06:00","updated":"2025-01-05T08:45:40.230-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2023-04-28-video-nicole-van-der-hoeven-emergent-note-taking-what-ants-can-teach-us-about-notes/","title":"Emergent note taking: what ants can teach us about notes","tags":["⏱️","🎥"],"created":"2025-01-04T14:52:35.914-06:00","updated":"2025-01-05T08:45:40.000-06:00"}
 ---
 
 
@@ -80,11 +80,11 @@ Note: Some of the links above are affiliate links, which means I may get a small
 | Name                                                                                                  | Weight    |
 | ----------------------------------------------------------------------------------------------------- | --------- |
 | [[zettelkasten/LATCH - 202304281226\|LATCH]]                                                       | Weight: 8 |
-| [[zettelkasten/Hierarchy organizing in Obsidian - 202304281323\|Hierarchy organizing in Obsidian]] | Weight: 1 |
 | [[zettelkasten/Category organizing in Obsidian - 202304281322\|Category organizing in Obsidian]]   | Weight: 1 |
-| [[zettelkasten/Time organizing on Obsidian - 202304281321\|Time organizing on Obsidian]]           | Weight: 0 |
-| [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]   | Weight: 0 |
+| [[zettelkasten/Hierarchy organizing in Obsidian - 202304281323\|Hierarchy organizing in Obsidian]] | Weight: 1 |
 | [[zettelkasten/Alphabet organizing in Obsidian - 202304281320\|Alphabet organizing in Obsidian]]   | Weight: 0 |
+| [[zettelkasten/Location organizing in Obsidian - 202304281319\|Location organizing in Obsidian]]   | Weight: 0 |
+| [[zettelkasten/Time organizing on Obsidian - 202304281321\|Time organizing on Obsidian]]           | Weight: 0 |
 
 { .block-language-dataview}
 

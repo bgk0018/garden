@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2024-01-11 - Home Server Catastrophic Failure Review/Home Server Catastrophic Failure Review  - 202501111145.md","permalink":"/articles/2024-01-11-home-server-catastrophic-failure-review/home-server-catastrophic-failure-review-202501111145/","tags":["🥕"],"created":"2025-01-11T11:45:07.456-06:00","updated":"2025-01-11T18:10:09.407-06:00"}
+{"dg-publish":true,"dg-path":"articles/2025-01-11 - Home Server Catastrophic Failure Review","permalink":"/articles/2025-01-11-home-server-catastrophic-failure-review/","title":"2025-01-11 - Home Server Catastrophic Failure Review","tags":["🥕"],"created":"2025-01-11T11:45:07.456-06:00","updated":"2025-01-11T22:10:38.871-06:00"}
 ---
 
 

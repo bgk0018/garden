@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/the-presidency-above-the-campaign-a-lecture-by-cbs-prime-time-anchor-john-dickerson-the-journalist-s-resource/","title":"The presidency above the campaign: A lecture by CBS Prime Time anchor John Dickerson - The Journalist's Resource","tags":["📰"],"created":"2025-01-05T08:45:14.997-06:00","updated":"2025-01-05T08:16:17.000-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/the-presidency-above-the-campaign-a-lecture-by-cbs-prime-time-anchor-john-dickerson-the-journalist-s-resource/","title":"The presidency above the campaign: A lecture by CBS Prime Time anchor John Dickerson - The Journalist's Resource","tags":["📰"],"created":"2025-01-05T08:44:25.907-06:00","updated":"2025-01-05T08:16:17.000-06:00"}
 ---
 
 # The presidency above the campaign: A lecture by CBS Prime Time anchor John Dickerson - The Journalist's Resource
