@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/multitasking-working-slower-with-worse-results-stuff-you-should-know-highlights/","title":"Multitasking —  Working Slower With Worse Results","tags":["✂️","🎧"],"created":"2024-08-29T16:39:00.764-05:00","updated":"2025-01-02T22:19:19.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/multitasking-working-slower-with-worse-results-stuff-you-should-know-highlights/","title":"Multitasking —  Working Slower With Worse Results","tags":["✂️","🎧"],"created":"2024-03-14T17:01:21.051-05:00","updated":"2025-01-02T22:19:19.413-06:00"}
 ---
 
 # Multitasking —  Working Slower With Worse Results

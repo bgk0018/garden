@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-schema-registry-and-kafka-rest-proxy-202406021526/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:38:54.731-05:00","updated":"2024-11-10T13:34:18.930-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-schema-registry-and-kafka-rest-proxy-202406021526/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:21:37.763-05:00","updated":"2024-11-10T13:34:18.000-06:00"}
 ---
 
 

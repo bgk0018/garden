@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/broker-discovery-202405302218/","tags":["♣️/kafka","📖"],"created":"2024-08-29T16:41:19.066-05:00","updated":"2024-11-10T12:56:29.991-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/broker-discovery-202405302218/","tags":["♣️/kafka","📖"],"created":"2023-09-19T22:09:15.093-05:00","updated":"2024-11-10T12:56:29.000-06:00"}
 ---
 
 

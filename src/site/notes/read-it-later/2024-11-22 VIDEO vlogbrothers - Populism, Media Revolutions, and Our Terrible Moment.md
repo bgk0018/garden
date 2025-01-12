@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2024-11-22-video-vlogbrothers-populism-media-revolutions-and-our-terrible-moment/","title":"Populism, Media Revolutions, and Our Terrible Moment","tags":["🎥"],"created":"2024-11-30T19:03:13.597-06:00","updated":"2025-01-02T22:47:52.000-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2024-11-22-video-vlogbrothers-populism-media-revolutions-and-our-terrible-moment/","title":"Populism, Media Revolutions, and Our Terrible Moment","tags":["🎥"],"created":"2024-11-29T13:45:08.243-06:00","updated":"2025-01-02T22:47:52.410-06:00"}
 ---
 
 

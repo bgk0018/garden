@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/election-2024/","tags":["🗺️"],"created":"2024-11-09T08:18:55.602-06:00","updated":"2024-11-15T10:19:47.967-06:00"}
+{"dg-publish":true,"permalink":"/maps/election-2024/","tags":["🗺️"],"created":"2024-11-09T13:36:12.881-06:00","updated":"2024-11-15T10:19:47.000-06:00"}
 ---
 
 

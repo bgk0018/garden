@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/trump-is-using-election-lies-to-lay-the-groundwork-for-challenging-2024-results-if-he-loses/","title":"Trump is using election lies to lay the groundwork for challenging 2024 results if he loses","tags":["📰"],"created":"2024-11-03T23:32:00.282-06:00","updated":"2024-11-08T09:43:57.957-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/trump-is-using-election-lies-to-lay-the-groundwork-for-challenging-2024-results-if-he-loses/","title":"Trump is using election lies to lay the groundwork for challenging 2024 results if he loses","tags":["📰"],"created":"2024-11-02T11:46:36.427-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 # Trump is using election lies to lay the groundwork for challenging 2024 results if he loses
@@ -11,9 +11,9 @@
 | Name                                                                                                           | Weight    |
 | -------------------------------------------------------------------------------------------------------------- | --------- |
 | [[archive/2024/projects/Literature Notes/Lehigh Valley\|Lehigh Valley]]                                     | Weight: 2 |
-| [[archive/2024/projects/Literature Notes/Pennsylvania Political Dynamics\|Pennsylvania Political Dynamics]] | Weight: 1 |
-| [[archive/2024/projects/Literature Notes/Non Citizen Voting\|Non Citizen Voting]]                           | Weight: 1 |
 | [[archive/2024/projects/Literature Notes/Election Integrity Claims\|Election Integrity Claims]]             | Weight: 1 |
+| [[archive/2024/projects/Literature Notes/Non Citizen Voting\|Non Citizen Voting]]                           | Weight: 1 |
+| [[archive/2024/projects/Literature Notes/Pennsylvania Political Dynamics\|Pennsylvania Political Dynamics]] | Weight: 1 |
 
 { .block-language-dataview}
 

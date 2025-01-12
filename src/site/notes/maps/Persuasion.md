@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/persuasion/","tags":["🗺️"],"created":"2024-12-29T17:41:00.095-06:00","updated":"2024-12-29T17:41:15.687-06:00"}
+{"dg-publish":true,"permalink":"/maps/persuasion/","tags":["🗺️"],"created":"2024-12-29T17:41:03.575-06:00","updated":"2024-12-29T17:41:15.000-06:00"}
 ---
 
 

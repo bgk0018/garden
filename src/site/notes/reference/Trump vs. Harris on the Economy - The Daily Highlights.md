@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/trump-vs-harris-on-the-economy-the-daily-highlights/","title":"Trump vs. Harris on the Economy","tags":["✂️","🎧"],"created":"2024-08-29T16:38:21.629-05:00","updated":"2025-01-02T22:19:19.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/trump-vs-harris-on-the-economy-the-daily-highlights/","title":"Trump vs. Harris on the Economy","tags":["✂️","🎧"],"created":"2024-08-26T20:59:38.760-05:00","updated":"2025-01-02T22:19:19.475-06:00"}
 ---
 
 # Trump vs. Harris on the Economy

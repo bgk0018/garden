@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/kafka-the-definitive-guide-neha-narkhede-gwen-shapira-todd-palino/","title":"Kafka: The Definitive Guide","tags":["📕"],"created":"2024-08-29T16:41:19.001-05:00","updated":"2024-11-10T16:21:36.487-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/kafka-the-definitive-guide-neha-narkhede-gwen-shapira-todd-palino/","title":"Kafka: The Definitive Guide","tags":["📕"],"created":"2023-09-19T22:09:15.172-05:00","updated":"2024-11-10T16:21:36.000-06:00"}
 ---
 
 

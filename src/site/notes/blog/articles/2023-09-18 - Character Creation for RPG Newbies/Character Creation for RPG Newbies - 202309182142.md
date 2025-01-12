@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2023-09-18 - Character Creation for RPG Newbies","permalink":"/articles/2023-09-18-character-creation-for-rpg-newbies/","title":"2023-09-18 - Character Creation for RPG Newbies","tags":["🥕"],"created":"2024-08-29T16:41:02.720-05:00","updated":"2025-01-05T10:35:18.564-06:00"}
+{"dg-publish":true,"dg-path":"articles/2023-09-18 - Character Creation for RPG Newbies","permalink":"/articles/2023-09-18-character-creation-for-rpg-newbies/","title":"2023-09-18 - Character Creation for RPG Newbies","tags":["🥕"],"created":"2023-09-19T22:08:54.604-05:00","updated":"2025-01-05T10:35:18.000-06:00"}
 ---
 
 

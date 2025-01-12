@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works","permalink":"/articles/2024-11-29-explaining-to-myself-yet-again-how-this-note-taking-thing-works/","title":"2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works","tags":["🥕"],"created":"2024-11-30T19:03:19.129-06:00","updated":"2025-01-05T10:01:22.365-06:00"}
+{"dg-publish":true,"dg-path":"articles/2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works","permalink":"/articles/2024-11-29-explaining-to-myself-yet-again-how-this-note-taking-thing-works/","title":"2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works","tags":["🥕"],"created":"2024-11-29T13:51:43.267-06:00","updated":"2025-01-05T10:01:22.000-06:00"}
 ---
 
 
