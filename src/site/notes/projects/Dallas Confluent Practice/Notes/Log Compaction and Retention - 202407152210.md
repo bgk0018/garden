@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/log-compaction-and-retention-202407152210/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:14:03.236-06:00","updated":"2024-11-10T13:44:21.860-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/log-compaction-and-retention-202407152210/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:33.623-06:00","updated":"2024-11-10T13:44:21.000-06:00"}
 ---
 
 

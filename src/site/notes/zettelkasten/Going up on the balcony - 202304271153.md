@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/going-up-on-the-balcony-202304271153/","tags":["📖"],"created":"2024-08-29T16:41:14.789-05:00","updated":"2024-11-10T17:04:03.787-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/going-up-on-the-balcony-202304271153/","tags":["📖"],"created":"2023-09-19T22:09:12.015-05:00","updated":"2024-11-10T17:04:03.000-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2024-12-03-video-jared-henderson-why-we-can-t-focus/","title":"Why we can't focus.","tags":["🎥"],"created":"2024-12-16T08:31:49.850-06:00","updated":"2025-01-02T23:03:36.000-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2024-12-03-video-jared-henderson-why-we-can-t-focus/","title":"Why we can't focus.","tags":["🎥"],"created":"2024-12-15T20:35:54.795-06:00","updated":"2025-01-02T23:03:36.238-06:00"}
 ---
 
 

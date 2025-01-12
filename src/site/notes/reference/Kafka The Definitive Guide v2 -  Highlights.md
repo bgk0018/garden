@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/kafka-the-definitive-guide-v2-highlights/","title":"Kafka The Definitive Guide v2","tags":["✂️","📚"],"created":"2024-12-15T09:20:21.757-06:00","updated":"2025-01-02T22:19:19.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/kafka-the-definitive-guide-v2-highlights/","title":"Kafka The Definitive Guide v2","tags":["✂️","📚"],"created":"2024-07-13T13:43:04.220-05:00","updated":"2025-01-02T22:19:19.391-06:00"}
 ---
 
 # Kafka The Definitive Guide v2

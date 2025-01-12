@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/trump-s-happy-go-lucky-debate-strategy-pod-save-america-highlights/","title":"Trump's Happy-Go-Lucky Debate Strategy","tags":["✂️","🎧"],"created":"2024-09-09T04:22:23.435-05:00","updated":"2025-01-02T22:19:19.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/trump-s-happy-go-lucky-debate-strategy-pod-save-america-highlights/","title":"Trump's Happy-Go-Lucky Debate Strategy","tags":["✂️","🎧"],"created":"2024-09-12T16:46:16.696-05:00","updated":"2025-01-02T22:19:19.478-06:00"}
 ---
 
 # Trump's Happy-Go-Lucky Debate Strategy

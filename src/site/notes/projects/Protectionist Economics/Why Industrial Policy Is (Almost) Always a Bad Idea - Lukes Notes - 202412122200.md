@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/protectionist-economics/why-industrial-policy-is-almost-always-a-bad-idea-lukes-notes-202412122200/","tags":["⏱️"],"created":"2024-12-12T21:59:41.298-06:00","updated":"2024-12-19T20:55:33.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/protectionist-economics/why-industrial-policy-is-almost-always-a-bad-idea-lukes-notes-202412122200/","tags":["⏱️"],"created":"2024-12-13T21:05:56.770-06:00","updated":"2024-12-19T20:55:33.915-06:00"}
 ---
 
 

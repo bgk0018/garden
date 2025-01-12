@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2025-01-04 - So You Want to Be an Architect","permalink":"/articles/2025-01-04-so-you-want-to-be-an-architect/","title":"2025-01-04 - So You Want to Be an Architect","tags":["🥕"],"created":"2025-01-05T08:45:14.385-06:00","updated":"2025-01-05T10:42:37.204-06:00"}
+{"dg-publish":true,"dg-path":"articles/2025-01-04 - So You Want to Be an Architect","permalink":"/articles/2025-01-04-so-you-want-to-be-an-architect/","title":"2025-01-04 - So You Want to Be an Architect","tags":["🥕"],"created":"2025-01-04T15:22:50.429-06:00","updated":"2025-01-05T10:42:37.000-06:00"}
 ---
 
 

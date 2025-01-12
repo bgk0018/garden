@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/find-concepts-that-emerge-in-obsidian-202304281339/","tags":["📖"],"created":"2024-08-29T16:41:14.772-05:00","updated":"2025-01-04T14:57:38.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/find-concepts-that-emerge-in-obsidian-202304281339/","tags":["📖"],"created":"2023-09-19T22:09:11.936-05:00","updated":"2025-01-04T14:57:38.586-06:00"}
 ---
 
 
