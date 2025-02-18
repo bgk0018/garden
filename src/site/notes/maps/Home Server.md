@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/maps/home-server/","tags":["🗺️"],"created":"2024-09-08T17:10:32.473-05:00","updated":"2024-11-15T10:19:59.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/home-server/","tags":["🗺️"],"created":"2024-09-08T20:17:05.251-05:00","updated":"2025-01-11T22:14:50.000-06:00"}
 ---
+
 
 # Home Server
 
@@ -61,7 +62,8 @@
 > [!QUESTION]- Other Files
 > A catch all so I can appropriately categorize files I deemed related but have not appropriately tagged.
 
-| Title |
-| ----- |
+| Title                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[blog/articles/2025-01-11 - Home Server Catastrophic Failure Review/Home Server Catastrophic Failure Review  - 202501111145\|Home Server Catastrophic Failure Review  - 202501111145]] |
 
 { .block-language-dataview}

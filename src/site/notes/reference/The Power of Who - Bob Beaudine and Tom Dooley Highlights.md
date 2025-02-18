@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-power-of-who-bob-beaudine-and-tom-dooley-highlights/","title":"The Power of Who","tags":["✂️","📚"],"created":"2023-09-19T22:08:54.541-05:00","updated":"2025-01-02T22:19:19.470-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-power-of-who-bob-beaudine-and-tom-dooley-highlights/","title":"The Power of Who","tags":["✂️","📚"],"created":"2025-02-10T08:29:21.476-06:00","updated":"2025-02-10T08:30:24.388-06:00"}
 ---
 
 # The Power of Who
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >The “Power of Forgetfulness” has affected too many otherwise successful people. When you forget your “True Authentic Swing,” you can be drawn, inexorably, into an apathetic attitude that breeds cynicism—the tool of the lazy thinker. ([Location 205](https://readwise.io/to_kindle?action=open&asin=B001O7HEF2&location=205)) #✂️ 
 { #ref-518218185}
@@ -483,4 +483,3 @@
 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/risk-factors-protective-factors-and-warning-signs-american-foundation-for-suicide-prevention-highlights/","title":"Risk Factors, Protective Factors, and Warning Signs","tags":["✂️","📰"],"created":"2024-04-06T18:00:58.552-05:00","updated":"2025-01-02T22:19:19.574-06:00"}
+{"dg-publish":true,"permalink":"/reference/risk-factors-protective-factors-and-warning-signs-american-foundation-for-suicide-prevention-highlights/","title":"Risk Factors, Protective Factors, and Warning Signs","tags":["✂️","📰"],"created":"2025-02-10T08:29:21.072-06:00","updated":"2025-02-10T08:30:20.969-06:00"}
 ---
 
 # Risk Factors, Protective Factors, and Warning Signs
@@ -10,7 +10,7 @@
 - URL: https://afsp.org/risk-factors-protective-factors-and-warning-signs/
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >There’s no single cause for suicide. Suicide most often occurs when stressors and health issues converge to create an experience of hopelessness and despair. Depression is the most common condition associated with suicide, and it is often undiagnosed or untreated. Conditions like depression, anxiety, and substance problems, especially when unaddressed, increase risk for suicide. Yet it’s important to note that most people who actively manage their mental health conditions go on to engage in life. ([View Highlight](https://read.readwise.io/read/01htsqanecgysnck8vrde3s2x6)) #✂️ #👻 ai highlighted 
 { #ref-703031805}

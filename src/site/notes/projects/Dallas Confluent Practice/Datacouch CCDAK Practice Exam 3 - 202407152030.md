@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/datacouch-ccdak-practice-exam-3-202407152030/","tags":["📖","♣️/kafka"],"created":"2024-07-14T12:08:08.087-05:00","updated":"2024-11-10T12:31:55.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/datacouch-ccdak-practice-exam-3-202407152030/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:00.793-05:00","updated":"2025-01-26T11:50:29.000-06:00"}
 ---
 
 # Datacouch CCDAK Practice Exam 3
 
 True or False: When consuming messages from Avro based topic, there are special methods needed to communicate with Schema Registry as KafkaAvroSerializer and KafkaAvroDeserializer do not have functionality to do so:: False
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,1,210-->
 
 
 Which of the following defines flatMapValues operation correctly from a Streaming Application perspective?
@@ -15,7 +15,7 @@ Which of the following defines flatMapValues operation correctly from a Streamin
 -  Takes one record and produces zero, one, or more records. You can modify the record keys and values, including their types.
 ?
 Creates a new KStream by transforming the value of each element in the current stream into zero or more different elements in the new stream
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which of the following is the correct command for creating a producer to the topic confluent ?
@@ -24,10 +24,11 @@ Which of the following is the correct command for creating a producer to the top
 -  kafka-console-producer --broker-list localhost:9092 --topic confluent
 ?
 kafka-console-producer --broker-list localhost:9092 --topic confluent
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 True or False: Message Schema is stored in Schema Registry and the schema registry is a lookup that is used by the consumer for each and every message.:: False
+<!--SR:!2025-01-29,5,230-->
 
 
 Which of the following defines reduce operation correctly from a Streaming Application perspective?
@@ -37,15 +38,16 @@ Which of the following defines reduce operation correctly from a Streaming Appli
 -  Takes one record and produces zero, one, or more records. You can modify the record keys and values, including their types.
 ?
 Combines values of the stream using a supplied Reducer into a new, ever updating KTable
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Which of the following is the correct command for creating a consumer to the topic confluent?
 -  kafka-topics --consumer --zookeeper localhost:2181 --partitions 2 --topic confluent
 -  kafka-console-consumer --zookeeper localhost:9092 --topic confluent
--  kafka-console-consumer --bootstrap-server localhost:9092 --topic confluent  
-?  
+-  kafka-console-consumer --bootstrap-server localhost:9092 --topic confluent
+?
 kafka-console-consumer --bootstrap-server localhost:9092 --topic confluent
+<!--SR:!2025-01-27,4,271-->
 
 
 Which of the following snippet will achieve the goal of subscribing iphone, ipad and ipod topics simultaneously?
@@ -57,7 +59,7 @@ Which of the following snippet will achieve the goal of subscribing iphone, ipad
 -  consumer.subscribe(Arrays.asList(“topic.ipod”);
 ?
 consumer.subscribe(Arrays.asList(“topic.iphone”, “topic.ipad”, "topic.ipod"));
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Which method is used to just write streams to a topic in a Kafka Streams Application:
@@ -65,18 +67,20 @@ Which method is used to just write streams to a topic in a Kafka Streams Applica
 -  through()
 -  produce()
 -  consume()
--  subscribe()  
-?  
+-  subscribe()
+?
 to()
+<!--SR:!2025-01-27,1,210-->
 
 
 If a user creates a topic confluent with a replication factor of 4, what does that imply.
 -  Each partition will live on 4 different brokers
 -  Each partition will live on 2 different brokers
 -  4 replicas of the same data will live on 1 broker
--  Each partition will live on 8 different brokers  
-?  
+-  Each partition will live on 8 different brokers
+?
 Each partition will live on 4 different brokers
+<!--SR:!2025-01-25,2,230-->
 
 
 A consumer starts and has auto.offset.reset=latest, and the topic partition currently has data for offsets going from 550 to 800. The consumer group has committed the offset 600 for the topic before. Where will the consumer read from?
@@ -86,7 +90,7 @@ A consumer starts and has auto.offset.reset=latest, and the topic partition curr
 -  600
 ?
 600
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-02-05,16,290-->
 
 
 Which class is instantiated to start processing a stream in the Kafka Streams Application:
@@ -97,11 +101,11 @@ Which class is instantiated to start processing a stream in the Kafka Streams Ap
 -  Confluent Class
 ?
 KafkaStreams Class
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 True or False: Consumer Offset is stored in Zookeeper:: False
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 Schema Registry supports which of the following client protocol?
@@ -111,7 +115,7 @@ Schema Registry supports which of the following client protocol?
 -  FTP
 ?
 HTTP
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which method is used to start the streaming data in a Kafka Streams Application:
@@ -122,7 +126,7 @@ Which method is used to start the streaming data in a Kafka Streams Application:
 -  subscribe
 ?
 start()
-<!--SR:!2024-07-16,1,230-->
+<!--SR:!2025-01-31,7,230-->
 
 
 A topic receives new airline bookings on a travel site. Four applications want to process all the new bookings independently - accounts team, booking team, email team, and recommendations team. The topic has 6 partitions, what would be the ideal way to structure it?
@@ -131,7 +135,7 @@ A topic receives new airline bookings on a travel site. Four applications want t
 -  Create four consumers with each consumer consuming entire data
 ?
 Create four consumer groups for four applications with 6 consumers in each
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 When writing a KafkaProducer, which of the following property is mandatory?
@@ -149,13 +153,14 @@ What is the default value for processing.guarantee in Kafka Streams:
 -  exactly_once
 -  only_once
 -  More_than_once
--  exactly_thrice  
-?  
+-  exactly_thrice
+?
 at_least_once
+<!--SR:!2025-01-28,4,270-->
 
 
 True or False: ACLs is stored in Zookeeper:: True
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 Which field in Avro schema denotes the package name which you will import in your code
@@ -166,7 +171,7 @@ Which field in Avro schema denotes the package name which you will import in you
 -  namespace
 ?
 namespace
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 For Production workloads which is a preferred way to run KSQL:
@@ -174,10 +179,11 @@ For Production workloads which is a preferred way to run KSQL:
 -  Interactive
 ?
 Headless
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 True or False: In spite of just starting a single consumer Kafka still creates a consumer group with a random Id:: True
+<!--SR:!2025-01-28,4,270-->
 
 
 Which setting specifies the minimum number of replicas that should be in-sync for a certain partition to be available for new writes
@@ -187,7 +193,7 @@ Which setting specifies the minimum number of replicas that should be in-sync fo
 -  bootstrap.serves
 ?
 min.insync.replicas
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Which of the following defines TUMBLING operation correctly from a KSQL perspective?
@@ -197,7 +203,7 @@ Which of the following defines TUMBLING operation correctly from a KSQL perspect
 -  Takes one record and produces zero, one, or more records. You can modify the record keys and values, including their types.
 ?
 fixed-sized, non-overlapping windows based on the record's timestamps
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 With 3 zookeeper servers, how many failures can a zookeeper ensemble withstand
@@ -207,7 +213,7 @@ With 3 zookeeper servers, how many failures can a zookeeper ensemble withstand
 -  Zero
 ?
 Zero
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 What is the return type of the object when producer.send() is called?
@@ -218,7 +224,7 @@ What is the return type of the object when producer.send() is called?
 -  Exception
 ?
 Object of class Future\<RecordMetadata\>
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which of the following defines HOPPING operation correctly from a KSQL perspective?
@@ -228,7 +234,7 @@ Which of the following defines HOPPING operation correctly from a KSQL perspecti
 -  Takes one record and produces zero, one, or more records. You can modify the record keys and values, including their types.
 ?
 Fixed-sized, (possibly) overlapping windows based on the record’s timestamps
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 With 5 zookeeper servers, how many failures can a zookeeper ensemble withstand
@@ -238,14 +244,14 @@ With 5 zookeeper servers, how many failures can a zookeeper ensemble withstand
 -  Two
 ?
  Two
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 True or False: Schema Registry runs as a separate JVM process:: True
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 True or False: KSQL is ANSI SQL compliant?:: False
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 An application was sending messages to a topic partition with a replication factor of 3 by connecting to the broker that had partition leader. If the broker in action i.e. one which is hosting the leader goes down, what happens?
@@ -254,7 +260,7 @@ An application was sending messages to a topic partition with a replication fact
 -  The kafka cluster goes down
 ?
 Kafka will gracefully elect a new leader and producer starts publishing to the new leader topic.
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 Removing a field that does not have a default value in an Avro schema is which of the following schema evolution
@@ -262,27 +268,30 @@ Removing a field that does not have a default value in an Avro schema is which o
 -  Forward
 -  Full
 -  None
--  Its an error scenario  
-?  
+-  Its an error scenario
+?
 Backward
+<!--SR:!2025-01-25,1,211-->
 
 
 You want to sink data from a Kafka topic to Google Cloud Storage bucket using Kafka Connect. There are 40 brokers in the cluster, the topic has 10 partitions with replication factor of 3. How many tasks should we ideally configure for Google Cloud storage bucket?
 -  20
 -  40
 -  10
--  2  
-?  
+-  2
+?
 10
+<!--SR:!2025-02-06,12,270-->
 
 
 What would be the implications of increasing the number of partitions for a topic
 -  New messages may head to different partitions
 -  It is not possible to change the number of partitions once topic is created
 -  New partitions will be idle till you restart producer
--  New partitions get more data  
-?  
+-  New partitions get more data
+?
 New messages may head to different partitions
+<!--SR:!2025-01-28,4,270-->
 
 
 Which data format isn't natively available with the Confluent REST Proxy?
@@ -293,7 +302,7 @@ Which data format isn't natively available with the Confluent REST Proxy?
 -  None of above
 ?
 None of above
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-26,1,210-->
 
 
 Which of the following defines `config.storage.topic` correctly from Kafka Connect perspective?
@@ -303,7 +312,7 @@ Which of the following defines `config.storage.topic` correctly from Kafka Conne
 -  topic where ACLs are stored
 ?
 topic where connector and task configuration data are stored
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Which of the following command line interface CLI is used to consume from a particular topic?
@@ -321,7 +330,7 @@ With all the default Kafka settings a Producer tries to send a message with a pa
 -  Kafka cluster crashes
 ?
 MessageSizeTooLarge exception is thrown
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which of the following defines `offset.storage.topic` correctly from Kafka Connect perspective?
@@ -331,7 +340,7 @@ Which of the following defines `offset.storage.topic` correctly from Kafka Conne
 -  Topic where ACLs are stored
 ?
 topic where connector and task configuration offsets are stored
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Which of the following command line interface CLI is used to produce to a particular topic?
@@ -340,33 +349,35 @@ Which of the following command line interface CLI is used to produce to a partic
 -  Kafka-console
 ?
 kafka-console-producer
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 True or False: To send binary data through REST Proxy, the Producer needs to encode the binary data to base 64:: True
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Which of the following defines status.storage.topic correctly from Kafka Connect perspective?
 -  topic where connector and task configuration data are stored
 -  topic where connector and task configuration offsets are stored
 -  topic where connector and task configuration status updates are stored
--  Topic where ACLs are stored  
-?  
+-  Topic where ACLs are stored
+?
 topic where connector and task configuration status updates are stored
+<!--SR:!2025-01-26,3,251-->
 
 
 The purpose of broker-list in the kafka-console-producer command is?
 -  To create initial connection with the cluster
 -  To write to only the nodes that are mentioned in the broker-list
 -  Broker-list is actually not needed when producing messages to kafka
--  To black list the broker-list nodes and write to other nodes  
-?  
+-  To black list the broker-list nodes and write to other nodes
+?
 To create initial connection with the cluster
+<!--SR:!2025-01-28,4,270-->
 
 
 True or False: In a Avro schema, adding an option to enum is a full schema evolution:: False
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which of the following are internal Kafka-Connect topics? Choose Two
@@ -377,7 +388,7 @@ Which of the following are internal Kafka-Connect topics? Choose Two
 ?
 -  connect-offsets
 -  connect-status
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 The rationale behind having a replication factor of 3 for partitions in general is:
@@ -386,11 +397,11 @@ The rationale behind having a replication factor of 3 for partitions in general 
 -  Three is just random, people in the real world prefer replication factor of 2
 ?
 To be able to bring one node down for maintenance and still have failover
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 True or False: The only way to producer messages are flushed to the brokers is based on batching configuration parameters and there is no manual way to flush the messages to the broker:: False
-<!--SR:!2024-07-16,1,230-->
+<!--SR:!2025-01-31,7,230-->
 
 
 What is the difference between KStream and KTable
@@ -400,11 +411,11 @@ What is the difference between KStream and KTable
 -  KTable is a newer API and the older one is KStream
 ?
 KStreams treats records as a record stream and treats new records as something that will be added if keys are same, KTable treats records as changelog system and treats new records with same keys as updates
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 True or False: Each broker in the kafka cluster has a unique broker id:: True
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 The default value of tasks.max in kafka connect is:
@@ -414,7 +425,7 @@ The default value of tasks.max in kafka connect is:
 -  5
 ?
 1
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,3,230-->
 
 
 --from-beginning option gets the data from:
@@ -425,7 +436,7 @@ The default value of tasks.max in kafka connect is:
 -  Since the beginning of the year
 ?
 From beginning but only data that is within retention period
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which method is invoked when message send is acknowledged :
@@ -435,7 +446,7 @@ Which method is invoked when message send is acknowledged :
 -  onSuccess(Metadata metadata, java.lang.Exception exception)
 ?
 onCompletion(RecordMetadata metadata, java.lang.Exception exception)
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 What does RecordMetadata contain? (more than one option can be correct):
@@ -447,7 +458,7 @@ What does RecordMetadata contain? (more than one option can be correct):
 -  Offset
 -  Partition
 -  Topic
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Which are correct signatures of send method(more than one option can be correct):
@@ -458,16 +469,17 @@ Which are correct signatures of send method(more than one option can be correct)
 ?
 -  producer.send(record)
 -  producer.send(record, callback)
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-25,2,230-->
 
 
 Consumer sends Heartbeat to :
 -  Group Leader
 -  Zookeeper
 -  All Brokers
--  Group Coordinator  
-?  
+-  Group Coordinator
+?
 Group Coordinator
+<!--SR:!2025-01-27,4,271-->
 
 
 Long GC Pauses on Broker side can lead to :
@@ -477,7 +489,7 @@ Long GC Pauses on Broker side can lead to :
 -  None of the above
 ?
 Broker can be considered dead by Zookeeper
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 In order to achieve Zero data loss in Kafka, what should be taken care :
@@ -487,7 +499,7 @@ In order to achieve Zero data loss in Kafka, what should be taken care :
 -  None of the above options
 ?
 Commit offsets in onPartitionsRevoked method in ConsumerRebalanceListener
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-25,1,190-->
 
 
 What is the main advantage of storing offsets outside Kafka in a transactional store :
@@ -497,7 +509,7 @@ What is the main advantage of storing offsets outside Kafka in a transactional s
 -  None of the above
 ?
 None of the above
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Where does Schema Registry stores its schemas?
@@ -507,20 +519,21 @@ Where does Schema Registry stores its schemas?
 -  \_\_consumer_offsets topic
 ?
 \_\_schemas topic
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 True/False: Rocks DB is used in Kafka Streams in Stateful Streaming Applications.:: True
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Where does KSQL store its data?
 -  On KSQL Cluster
 -  On Hadoop Cluster
 -  On Local FileSystem
--  On Kafka Cluster  
-?  
+-  On Kafka Cluster
+?
 On Kafka Cluster
+<!--SR:!2025-01-27,4,271-->
 
 
 Which component is responsible for checking liveness of consumer?
@@ -530,16 +543,17 @@ Which component is responsible for checking liveness of consumer?
 -  Zookeeper
 ?
 Group Coordinator
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which of the below components of Kafka doesn’t require cluster installation?
 -  Kafka Core
 -  Kafka SQL
 -  Kafka Connect
--  Kafka Streams  
-?  
+-  Kafka Streams
+?
 Kafka Streams
+<!--SR:!2025-01-25,1,230-->
 
 
 What is the difference between GroupByKey and GroupBy API in KStreams Library? (More than one option is correct)
@@ -550,7 +564,7 @@ What is the difference between GroupByKey and GroupBy API in KStreams Library? (
 ?
 - GroupBy causes always repartition
 -  GroupByKey may cause repartition
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 What is the problem with Stretched Cluster?
@@ -560,16 +574,17 @@ What is the problem with Stretched Cluster?
 -  None of the above
 ?
 High Latency
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 What is the default Quota given to each client?
 -  100 MB/sec
 -  1 GB/sec
 -  100 GB/sec
--  Infinite  
-?  
+-  Infinite
+?
 Infinite
+<!--SR:!2025-01-27,3,250-->
 
 
 Which of the below metrics indicates Consumer lag?
@@ -579,7 +594,7 @@ Which of the below metrics indicates Consumer lag?
 -  Consumer-lag-max
 ?
 Records-lag-max
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 What is the relationship between topic, partition and segment?
@@ -589,7 +604,7 @@ What is the relationship between topic, partition and segment?
 -  One topic can have only one partition and multiple segments.
 ?
 One topic can have multiple partitions and multiple segments.
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-30,7,270-->
 
 
 Which statement is/are true?
@@ -599,7 +614,7 @@ Which statement is/are true?
 -  Kafkacat is an API framework.
 ?
 Kafkacat is a command-line utility.
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-25,2,230-->
 
 
 Kafka is designed to process the messages in real-time, however we can also achieve batch processing in Kafka by tuning in a few parameters. Also there are better performances for batching in , what could be the best reason for the same?
@@ -609,7 +624,7 @@ Kafka is designed to process the messages in real-time, however we can also achi
 -  Compression of messages
 ?
 Reduced RPCs
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 When does a message is marked as committed by the leader?
@@ -619,7 +634,7 @@ When does a message is marked as committed by the leader?
 -  when all the followers are updated upto high water mark.
 ?
 when all the replicas are updated upto high water mark.
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-25,2,230-->
 
 
 What does delivery.timeout.ms define in Kafka?
@@ -629,7 +644,7 @@ What does delivery.timeout.ms define in Kafka?
 -  Amount of time to wait before attempting retry.
 ?
 Maximum time to wait for success or failure after send request.
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-26,2,230-->
 
 
 The snapshot files are used while using ____________.
@@ -639,7 +654,7 @@ The snapshot files are used while using ____________.
 -  None of the above
 ?
 Idempotent Producer
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-30,5,230-->
 
 ## References
 

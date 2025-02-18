@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/rebuilding-dev-ops-from-the-ground-up-the-changelog-software-development-open-source-highlights/","title":"Rebuilding DevOps From the Ground Up","tags":["✂️","🎧"],"created":"2024-03-01T16:09:42.313-06:00","updated":"2025-01-02T22:19:19.574-06:00"}
+{"dg-publish":true,"permalink":"/reference/rebuilding-dev-ops-from-the-ground-up-the-changelog-software-development-open-source-highlights/","title":"Rebuilding DevOps From the Ground Up","tags":["✂️","🎧"],"created":"2025-02-10T08:29:21.027-06:00","updated":"2025-02-10T08:30:20.953-06:00"}
 ---
 
 # Rebuilding DevOps From the Ground Up
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/2bd83cb4-3a90-49bf-8d7e-08b6b3f537a4
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >The Importance of Building a Community: Making Money, Bettering Lives, and Allowing Others to Innovate
 >Key takeaways:
@@ -45,4 +45,3 @@
 
 
 ---
-

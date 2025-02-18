@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/nexus-yuval-noah-harari-highlights/","title":"Nexus","tags":["✂️","📚"],"created":"2024-12-15T10:42:26.786-06:00","updated":"2025-01-02T22:19:19.420-06:00"}
+{"dg-publish":true,"permalink":"/reference/nexus-yuval-noah-harari-highlights/","title":"Nexus","tags":["✂️","📚"],"created":"2025-02-10T08:29:20.930-06:00","updated":"2025-02-10T08:30:19.594-06:00"}
 ---
 
 # Nexus
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-
+#📫
 ### Prologue
 >[!QUOTE]  
 >Our tendency to summon powers we cannot control stems not from individual psychology but from the unique way our species cooperates in large numbers. The main argument of this book is that humankind gains enormous power by building large networks of cooperation, but the way these networks are built predisposes us to use that power unwisely. Our problem, then, is a network problem. Even more specifically, it is an information problem. Information is the glue that holds networks together. (Location 108) #✂️ 
@@ -153,9 +153,6 @@
 
 ---
 ### What Is Information?
-
-
-*New highlights added December 23, 2024 at 10:20 AM* 
 >[!QUOTE]  
 >In everyday usage, “information” is associated with human-made symbols like spoken or written words. (Location 424) #✂️ 
 { #ref-828167517}
@@ -625,8 +622,5 @@
 
 ---
 #### Let’s Kill All the Lawyers
-
-*New highlights added December 29, 2024 at 5:09 PM* 
 #### The Miracle Document
 ### Errors: The Fantasy of Infallibility
-

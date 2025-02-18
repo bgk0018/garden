@@ -1,25 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/reference/progress-clocks-bladesinthedark-com-highlights/","title":"Progress Clocks","tags":["✂️","📰"],"created":"2024-03-01T16:09:42.423-06:00","updated":"2025-01-02T22:19:19.468-06:00"}
+{"dg-publish":true,"permalink":"/reference/progress-clocks-bladesinthedark-com-highlights/","title":"Progress Clocks","tags":["✂️","📰"],"created":"2025-02-10T08:29:20.995-06:00","updated":"2025-02-10T08:30:20.020-06:00"}
 ---
 
 # Progress Clocks
 
 ![cover|150](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 ## Metadata
-- Document Note: Recommended By: [[reference/Eric Huckabay\|Eric Huckabay]]
+- Document Note: Recommended By: [[references/Eric Huckabay\|Eric Huckabay]]
 - URL: https://bladesinthedark.com/progress-clocks
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble. ([View Highlight](https://read.readwise.io/read/01h4bsmkatcka5xgvbrbhejqcr)) #✂️ 
 { #ref-557293318}
-
-
----
->[!QUOTE]  
->Generally, the more complex the problem, the more segments in the progress clock. ([View Highlight](https://read.readwise.io/read/01h4bsmr5r7j671pzg19wnmf5c)) #✂️ 
-{ #ref-557293338}
 
 
 ---
@@ -29,4 +23,3 @@
 
 
 ---
-

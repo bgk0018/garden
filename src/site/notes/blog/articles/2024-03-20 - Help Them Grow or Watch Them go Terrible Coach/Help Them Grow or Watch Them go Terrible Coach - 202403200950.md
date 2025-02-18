@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2024-03-20 - Help Them Grow or Watch Them go Terrible Coach","permalink":"/articles/2024-03-20-help-them-grow-or-watch-them-go-terrible-coach/","title":"2024-03-20 - Help Them Grow or Watch Them go Terrible Coach","tags":["🥕"],"created":"2024-03-19T19:31:19.207-05:00","updated":"2025-01-05T10:02:29.000-06:00"}
+{"dg-publish":true,"dg-path":"articles/2024-03-20 - Help Them Grow or Watch Them go Terrible Coach","permalink":"/articles/2024-03-20-help-them-grow-or-watch-them-go-terrible-coach/","title":"2024-03-20 - Help Them Grow or Watch Them go Terrible Coach","tags":["🥕"],"created":"2024-08-29T16:39:01.228-05:00","updated":"2025-01-05T10:02:29.460-06:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 # Help Them Grow or Watch Them Go Terrible Coach
 
-[[reference/Brene Brown\|Brene Brown]] talks about you often have to spend way more time researching the things that get in the way of what you are after (Dare to Lead is about courage, and mostly about fear) 
+[[references/Brene Brown\|Brene Brown]] talks about you often have to spend way more time researching the things that get in the way of what you are after (Dare to Lead is about courage, and mostly about fear) 
 
 1. Come up with a persona who does everything in their power to violate your principle as laid out in [[archive/2023/projects/HaloMD Technical Assessment V2/Help Them Grow Or Watch Them Go - Beverly Kaye Julie Winkle Giulioni\|Help Them Grow Or Watch Them Go]]
 	1. List out the common actions they'd take

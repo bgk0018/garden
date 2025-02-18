@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-reactive-manifesto-reactivemanifesto-org-highlights/","title":"The Reactive Manifesto","tags":["✂️","📰"],"created":"2024-03-13T18:38:25.323-05:00","updated":"2025-01-02T22:19:19.474-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-reactive-manifesto-reactivemanifesto-org-highlights/","title":"The Reactive Manifesto","tags":["✂️","📰"],"created":"2025-02-10T08:29:21.547-06:00","updated":"2025-02-10T08:30:24.388-06:00"}
 ---
 
 # The Reactive Manifesto
@@ -9,7 +9,7 @@
 - URL: https://www.reactivemanifesto.org/
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >we want systems that are Responsive, Resilient, Elastic and Message Driven. We call these Reactive Systems. ([View Highlight](https://read.readwise.io/read/01hrtcd7m1r9emcjrj8tcjja9x)) #✂️ 
 { #ref-691985238}

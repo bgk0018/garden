@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/is-venting-beneficial-202403051533/","tags":["❓",null],"created":"2024-03-05T17:19:39.807-06:00","updated":"2025-01-02T22:19:19.147-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/is-venting-beneficial-202403051533/","tags":["❓",null],"created":"2024-08-29T16:40:15.084-05:00","updated":"2025-01-02T22:19:19.000-06:00"}
 ---
 
 

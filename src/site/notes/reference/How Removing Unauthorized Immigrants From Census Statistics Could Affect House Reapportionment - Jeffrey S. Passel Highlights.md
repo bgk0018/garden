@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/how-removing-unauthorized-immigrants-from-census-statistics-could-affect-house-reapportionment-jeffrey-s-passel-highlights/","title":"How Removing Unauthorized Immigrants From Census Statistics Could Affect House Reapportionment","tags":["✂️"],"created":"2024-04-06T18:00:58.537-05:00","updated":"2025-01-02T22:19:19.332-06:00"}
+{"dg-publish":true,"permalink":"/reference/how-removing-unauthorized-immigrants-from-census-statistics-could-affect-house-reapportionment-jeffrey-s-passel-highlights/","title":"How Removing Unauthorized Immigrants From Census Statistics Could Affect House Reapportionment","tags":["✂️","📰"],"created":"2025-02-10T08:29:20.156-06:00","updated":"2025-02-10T08:30:23.642-06:00"}
 ---
 
 # How Removing Unauthorized Immigrants From Census Statistics Could Affect House Reapportionment
@@ -10,7 +10,7 @@
 - URL: https://www.pewresearch.org/short-reads/2020/07/24/how-removing-unauthorized-immigrants-from-census-statistics-could-affect-house-reapportionment/
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >If unauthorized immigrants in the U.S. were removed from the 2020 census apportionment count – which the [White House seeks to do](https://www.whitehouse.gov/presidential-actions/memorandum-excluding-illegal-aliens-apportionment-base-following-2020-census/) – three states could each lose a seat they otherwise would have had and three others each could gain one, according to a Pew Research Center analysis based on government records. ([View Highlight](https://read.readwise.io/read/01htsqpxz95g84s6zm8v3gf95r)) #✂️ 
 { #ref-703033075}

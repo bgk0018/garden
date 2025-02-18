@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-myth-of-multitasking-christine-rosen-highlights/","title":"The Myth of Multitasking","tags":["✂️","📰"],"created":"2024-03-04T17:54:52.058-06:00","updated":"2025-01-02T22:19:19.469-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-myth-of-multitasking-christine-rosen-highlights/","title":"The Myth of Multitasking","tags":["✂️","📰"],"created":"2025-02-10T08:29:21.241-06:00","updated":"2025-02-10T08:30:23.600-06:00"}
 ---
 
 # The Myth of Multitasking
@@ -8,10 +8,10 @@
 ## Metadata
 - Document Note: Multitasking has become a popular way of life for many people, and technology has played a significant role in it. However, studies have shown that multitasking can be dangerous, especially while driving, and can even cost the US economy $650 billion a year in lost productivity. A psychiatrist who specializes in attention deficit/hyperactivity disorder has called multitasking a "mythical activity," and bestselling author Timothy Ferriss also touts the benefits of "single-tasking." Multitasking has been found to contribute to the release of stress hormones and adrenaline, which can lead to long-term health problems if not controlled.
    > There is time enough for everything in the course of the day, if you do but one thing at once, but there is not time enough in the year, if you will do two things at a time - [[Chesterfield\|Chesterfield]]
-   >We have always multitasked - inability to walk and chew gum is atime-honored cause for derision - but never so intensely or self-consciously as now. We are multitasking connoisseurs - experts in crowding, pressing, packing, and overlapping distinct activities in our all-too-finite moments. - [[James Gleick\|James Gleick]] in [[reference/Faster - James Gleick\|Faster]]
+   >We have always multitasked - inability to walk and chew gum is atime-honored cause for derision - but never so intensely or self-consciously as now. We are multitasking connoisseurs - experts in crowding, pressing, packing, and overlapping distinct activities in our all-too-finite moments. - [[James Gleick\|James Gleick]] in [[references/Faster - James Gleick\|Faster]]
    A Harvard Business Review "Breakthrough Ideas" from Linda Stone, talks about 'continuous partial attention'.
    > Constantly scanning for opportunities and staying on top of contacts, events, and activities in an effort to miss nothing.
-   > \[Multitasking is a\] mythical activity in which people believe they can perform two or more tasks simultaneously. - [[Edward Hallowell\|Edward Hallowell]] from [[reference/CrazyBusy - Edward M Hallowell MD\|CrazyBusy]]
+   > \[Multitasking is a\] mythical activity in which people believe they can perform two or more tasks simultaneously. - [[Edward Hallowell\|Edward Hallowell]] from [[references/CrazyBusy - Edward M Hallowell MD\|CrazyBusy]]
    [[Edward Hallowell\|Edward Hallowell]] coind the [[Attention Deficit Trait\|Attention Deficit Trait]] or ADT which is rampant in the business world. It's a:
    > Purely a response to the hyperkinetic environment in which we live. Never in history has the human brain been asked to track so many data points. \[This challenge\] can be controlled only by creatively engineering one's environment and one's emotional and physical health. - [[Edward Hallowell\|Edward Hallowell]]
    One study showed that office workers take on average 25 minutes to recover from interruptions.
@@ -24,7 +24,7 @@
    >We have to be aware that there is a cost to the way that our society is changing, that humans are not built to work this way. We're really built to focus. And when we sort of force ourselves to multitask, we're driving ourselves to perhaps be less efficient in the long run even though it sometimes feels like we're being more efficient. [[Russell Poldrack\|Russell Poldrack]]
    **Paying Attention**
    When we talk about multitasking, we are really talking about attention: the art of paying attention, the ability to shift our attention, and, more broadly, to exercise judgement about what objects are worthy of our attention.
-   [[William James\|William James]], psychologist wrote at length about the variest of human attention in [[reference/The Principles of Psychology - William James\|The Principles of Psychology]] such as:
+   [[William James\|William James]], psychologist wrote at length about the variest of human attention in [[references/The Principles of Psychology - William James\|The Principles of Psychology]] such as:
    - Sensorial Attention
    - Intellectual Attention
    - Passive Attention
@@ -35,7 +35,7 @@
 - URL: https://www.thenewatlantis.com/publications/the-myth-of-multitasking
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >Multitasking might also be taking a toll on the economy. One study by researchers at the University of California at Irvine monitored interruptions among office workers; they found that workers took an average of twenty-five minutes to recover from interruptions such as phone calls or answering e-mail and return to their original task. Discussing multitasking with the *New York Times* in 2007, Jonathan B. Spira, an analyst at the business research firm Basex, estimated that extreme multitasking — information overload — costs the U.S. economy $650 billion a year in lost productivity. ([View Highlight](https://read.readwise.io/read/01hr4tje1jmfz838xx2hz10dd5)) #✂️ 
 { #ref-688000038}
@@ -60,4 +60,3 @@
 
 
 ---
-

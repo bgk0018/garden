@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/the-empowerment-dynamic/","tags":["🗺️"],"created":"2024-09-12T16:46:19.274-05:00","updated":"2024-11-10T17:42:07.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/the-empowerment-dynamic/","tags":["🗺️"],"created":"2024-09-10T19:19:04.487-05:00","updated":"2024-11-10T17:42:07.273-06:00"}
 ---
 
 
@@ -62,8 +62,8 @@
 | [[zettelkasten/Theory X - 202304201635\|Theory X]]                                                                             | 3      |
 | [[zettelkasten/Theory Y - 202304201637\|Theory Y]]                                                                             | 3      |
 | [[zettelkasten/Three dimensions of work - 202304171439\|Three dimensions of work]]                                             | 3      |
-| [[zettelkasten/Vital Question 2 - 202304171450\|Vital Question 2]]                                                             | 3      |
 | [[zettelkasten/Vital Question 1 - 202304171449\|Vital Question 1]]                                                             | 3      |
+| [[zettelkasten/Vital Question 2 - 202304171450\|Vital Question 2]]                                                             | 3      |
 | [[zettelkasten/Vital Question 3 - 202304171451\|Vital Question 3]]                                                             | 3      |
 | [[zettelkasten/Attention - 202304261250\|Attention]]                                                                           | 2      |
 | [[zettelkasten/Coach - 202306271406\|Coach]]                                                                                   | 2      |
@@ -94,10 +94,10 @@
 > [!quote]- References I've used  
 > This section maintains a curated list of learning resources including documentation, articles, videos, and other materials that contribute to understanding the topic. It serves as a bibliography of valuable information sources for future reference.
 
-| Title                                                                                 |
-| ------------------------------------------------------------------------------------- |
-| [[reference/3 Vital Questions - David Emerald\|3 Vital Questions - David Emerald]] |
-| [[reference/The Power of Ted - David Emerald\|The Power of Ted - David Emerald]]   |
+| Title                                                                                  |
+| -------------------------------------------------------------------------------------- |
+| [[references/3 Vital Questions - David Emerald\|3 Vital Questions - David Emerald]] |
+| [[references/The Power of Ted - David Emerald\|The Power of Ted - David Emerald]]   |
 
 { .block-language-dataview}
 

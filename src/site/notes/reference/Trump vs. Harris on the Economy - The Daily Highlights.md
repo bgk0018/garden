@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/trump-vs-harris-on-the-economy-the-daily-highlights/","title":"Trump vs. Harris on the Economy","tags":["✂️","🎧"],"created":"2024-08-26T20:59:38.760-05:00","updated":"2025-01-02T22:19:19.475-06:00"}
+{"dg-publish":true,"permalink":"/reference/trump-vs-harris-on-the-economy-the-daily-highlights/","title":"Trump vs. Harris on the Economy","tags":["✂️","🎧"],"created":"2025-02-10T08:30:21.048-06:00","updated":"2025-02-10T08:30:24.615-06:00"}
 ---
 
 # Trump vs. Harris on the Economy
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/dc775592-df75-41e0-b211-189ebd22007b
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >1min Snip ([Time 0:37:50](https://share.snipd.com/snip/84acd173-a739-4f68-8968-96e630817d9c)) #✂️ 
 { #ref-763490713}

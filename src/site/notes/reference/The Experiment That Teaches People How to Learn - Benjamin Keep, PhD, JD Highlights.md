@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-experiment-that-teaches-people-how-to-learn-benjamin-keep-ph-d-jd-highlights/","title":"The Experiment That Teaches People How to Learn","tags":["✂️","🎥"],"created":"2024-03-23T12:31:28.997-05:00","updated":"2024-11-08T09:44:00.000-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-experiment-that-teaches-people-how-to-learn-benjamin-keep-ph-d-jd-highlights/","title":"The Experiment That Teaches People How to Learn","tags":["✂️","🎥"],"created":"2025-02-10T08:29:21.210-06:00","updated":"2025-02-10T08:30:24.546-06:00"}
 ---
 
 # The Experiment That Teaches People How to Learn
@@ -9,7 +9,7 @@
 - URL: https://youtube.com/watch?v=JDb7EqCtlQc&si=sr1YA7HXXMtm5Cz5
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >encoding is what happens when you first try to understand some new material you might be watching a lecture or listening to a podcast or reading a book anything entering into your long-term memory is said to be encoded ([View Highlight](https://read.readwise.io/read/01hsnm4bgyk8w7rwda75ja4exy)) #✂️ 
 { #ref-696710899}

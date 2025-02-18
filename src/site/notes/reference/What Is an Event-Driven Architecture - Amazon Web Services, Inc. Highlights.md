@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/what-is-an-event-driven-architecture-amazon-web-services-inc-highlights/","title":"What Is an Event-Driven Architecture?","tags":["✂️","📰"],"created":"2024-03-13T18:38:25.315-05:00","updated":"2025-01-02T22:19:19.578-06:00"}
+{"dg-publish":true,"permalink":"/reference/what-is-an-event-driven-architecture-amazon-web-services-inc-highlights/","title":"What Is an Event-Driven Architecture?","tags":["✂️","📰"],"created":"2025-02-10T08:30:21.103-06:00","updated":"2025-02-10T08:30:24.873-06:00"}
 ---
 
 # What Is an Event-Driven Architecture?
@@ -9,7 +9,7 @@
 - URL: https://aws.amazon.com/event-driven-architecture/
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >Event-driven architectures have three key components: event producers, event routers, and event consumers. A producer publishes an event to the router, which filters and pushes the events to consumers. Producer services and consumer services are decoupled, which allows them to be scaled, updated, and deployed independently. ([View Highlight](https://read.readwise.io/read/01hrtc2te15wmncyxx7dsxe4hx)) #✂️ 
 { #ref-691984291}

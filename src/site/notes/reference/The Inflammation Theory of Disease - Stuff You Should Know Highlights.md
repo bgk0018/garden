@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-inflammation-theory-of-disease-stuff-you-should-know-highlights/","title":"The Inflammation Theory of Disease","tags":["✂️","🎧"],"created":"2023-09-19T22:09:01.075-05:00","updated":"2025-01-02T22:19:19.469-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-inflammation-theory-of-disease-stuff-you-should-know-highlights/","title":"The Inflammation Theory of Disease","tags":["✂️","🎧"],"created":"2025-02-10T08:29:21.220-06:00","updated":"2025-02-10T08:30:24.560-06:00"}
 ---
 
 # The Inflammation Theory of Disease
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/b09939cf-d83a-4569-b9b2-73452fcbc868
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >The Cost of Chronic Inflammation on Healthcare
 >Key takeaways:
@@ -23,4 +23,3 @@
 
 
 ---
-

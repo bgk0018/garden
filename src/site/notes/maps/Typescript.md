@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/typescript/","tags":["🗺️"],"created":"2024-09-08T17:06:39.821-05:00","updated":"2024-11-15T10:20:00.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/typescript/","tags":["🗺️"],"created":"2024-11-13T12:13:46.304-06:00","updated":"2024-11-15T10:20:00.429-06:00"}
 ---
 
 
@@ -39,8 +39,8 @@
 | Name                                                                                                                                    | Weight |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [[archive/2024/projects/Understanding Typescript Class/TypeScript - Decorators - 202307241633\|TypeScript - Decorators]]             | 11     |
-| [[archive/2024/projects/Understanding Typescript Class/TypeScript - Generic - 202310122037\|TypeScript - Generic]]                   | 0      |
 | [[archive/2024/projects/Understanding Typescript Class/TypeScript - Generic Function - 202310122041\|TypeScript - Generic Function]] | 0      |
+| [[archive/2024/projects/Understanding Typescript Class/TypeScript - Generic - 202310122037\|TypeScript - Generic]]                   | 0      |
 
 { .block-language-dataview}
 

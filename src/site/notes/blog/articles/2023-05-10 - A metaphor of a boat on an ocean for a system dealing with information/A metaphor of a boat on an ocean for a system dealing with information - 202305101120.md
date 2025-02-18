@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2023-05-10 - A metaphor of a boat on an ocean for a system dealing with information","permalink":"/articles/2023-05-10-a-metaphor-of-a-boat-on-an-ocean-for-a-system-dealing-with-information/","title":"2023-05-10 - A metaphor of a boat on an ocean for a system dealing with information","tags":["🥕"],"created":"2023-09-19T22:09:11.936-05:00","updated":"2025-01-05T10:41:27.000-06:00"}
+{"dg-publish":true,"dg-path":"articles/2023-05-10 - A metaphor of a boat on an ocean for a system dealing with information","permalink":"/articles/2023-05-10-a-metaphor-of-a-boat-on-an-ocean-for-a-system-dealing-with-information/","title":"2023-05-10 - A metaphor of a boat on an ocean for a system dealing with information","tags":["🥕"],"created":"2024-08-29T16:41:08.730-05:00","updated":"2025-01-05T10:41:27.195-06:00"}
 ---
 
 
 # Content
 
-One of the things I learned from [[reference/Atomic Habits - James Clear\|Atomic Habits]] that I really like was the quote of:
+One of the things I learned from [[references/Atomic Habits - James Clear\|Atomic Habits]] that I really like was the quote of:
 
 >[!QUOTE]  
 >

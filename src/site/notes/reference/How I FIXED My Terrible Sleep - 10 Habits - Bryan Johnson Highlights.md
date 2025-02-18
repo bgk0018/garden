@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/how-i-fixed-my-terrible-sleep-10-habits-bryan-johnson-highlights/","title":"How I FIXED My Terrible Sleep - 10 Habits","tags":["✂️","🎥"],"created":"2024-04-06T18:00:58.521-05:00","updated":"2025-01-02T22:19:19.327-06:00"}
+{"dg-publish":true,"permalink":"/reference/how-i-fixed-my-terrible-sleep-10-habits-bryan-johnson-highlights/","title":"How I FIXED My Terrible Sleep - 10 Habits","tags":["✂️","🎥"],"created":"2025-02-10T08:29:20.126-06:00","updated":"2025-02-10T08:30:20.996-06:00"}
 ---
 
 # How I FIXED My Terrible Sleep - 10 Habits
@@ -9,7 +9,7 @@
 - URL: https://youtube.com/watch?v=Wk9p3dhMYdk&si=kY1mQf0UaZv8NOj0
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >have a consistent
 >bedtime ([View Highlight](https://read.readwise.io/read/01htsq45v2b52fx24hxpzaabkw)) #✂️ 

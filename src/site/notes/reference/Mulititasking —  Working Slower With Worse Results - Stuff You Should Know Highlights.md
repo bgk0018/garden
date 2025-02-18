@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/mulititasking-working-slower-with-worse-results-stuff-you-should-know-highlights/","title":"Mulititasking —  Working Slower With Worse Results","tags":["✂️","🎧"],"created":"2024-03-05T17:19:39.657-06:00","updated":"2025-01-02T22:19:19.411-06:00"}
+{"dg-publish":true,"permalink":"/reference/mulititasking-working-slower-with-worse-results-stuff-you-should-know-highlights/","title":"Mulititasking —  Working Slower With Worse Results","tags":["✂️","🎧"],"created":"2025-02-10T08:29:20.828-06:00","updated":"2025-02-10T08:30:19.567-06:00"}
 ---
 
 # Mulititasking —  Working Slower With Worse Results
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/5b13e340-1b88-43af-b747-746244cfdb19
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >Focus on One Task at a Time
 >Summary:
@@ -24,4 +24,3 @@
 
 
 ---
-

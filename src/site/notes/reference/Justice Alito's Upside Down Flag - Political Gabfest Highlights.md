@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/justice-alito-s-upside-down-flag-political-gabfest-highlights/","title":"Justice Alito's Upside Down Flag","tags":["✂️","🎧"],"created":"2024-05-30T21:12:29.135-05:00","updated":"2025-01-02T22:19:19.384-06:00"}
+{"dg-publish":true,"permalink":"/reference/justice-alito-s-upside-down-flag-political-gabfest-highlights/","title":"Justice Alito's Upside Down Flag","tags":["✂️","🎧"],"created":"2025-02-10T08:29:20.385-06:00","updated":"2025-02-10T08:30:24.484-06:00"}
 ---
 
 # Justice Alito's Upside Down Flag
@@ -9,7 +9,7 @@
 - URL: https://share.snipd.com/episode/b0d7e8a8-2aad-4e28-995a-d619c8c28813
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >1min Snip ([Time 0:58:37](https://share.snipd.com/snip/90d14fa8-d133-4e24-8e3c-7b7494e02399)) #✂️ 
 { #ref-726051560}

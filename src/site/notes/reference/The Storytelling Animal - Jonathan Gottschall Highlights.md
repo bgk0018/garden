@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference/the-storytelling-animal-jonathan-gottschall-highlights/","title":"The Storytelling Animal","tags":["✂️","📚"],"created":"2023-09-19T22:09:02.310-05:00","updated":"2025-01-02T22:19:19.474-06:00"}
+{"dg-publish":true,"permalink":"/reference/the-storytelling-animal-jonathan-gottschall-highlights/","title":"The Storytelling Animal","tags":["✂️","📚"],"created":"2025-02-10T08:29:21.745-06:00","updated":"2025-02-10T08:30:24.501-06:00"}
 ---
 
 # The Storytelling Animal
@@ -8,7 +8,7 @@
 ## Metadata
 
 ## Highlights
-
+#📫
 >[!QUOTE]  
 >Paley’s book Boys and Girls is about the year she spent trying to get her pupils to behave in a more unisex way. And it is a chronicle of spectacular and amusing failure. None of Paley’s tricks or bribes or clever manipulations worked. For instance, she tried forcing the boys to play in the doll corner and the girls to play in the block corner. The boys proceeded to turn the doll corner into the cockpit of a starship, and the girls built a house out of blocks and resumed their domestic fantasies. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B005LVR6BO&location=543)) #✂️ 
 { #ref-518217833}
@@ -321,4 +321,3 @@
 
 
 ---
-
