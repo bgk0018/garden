@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/the-empowerment-dynamic/","tags":["🗺️"],"created":"2024-09-10T19:19:04.487-05:00","updated":"2024-11-10T17:42:07.273-06:00"}
+{"dg-publish":true,"permalink":"/maps/the-empowerment-dynamic/","tags":["🗺️"],"created":"2025-02-24T16:08:47.660-06:00","updated":"2024-11-10T17:42:07.000-06:00"}
 ---
 
 
@@ -62,8 +62,8 @@
 | [[zettelkasten/Theory X - 202304201635\|Theory X]]                                                                             | 3      |
 | [[zettelkasten/Theory Y - 202304201637\|Theory Y]]                                                                             | 3      |
 | [[zettelkasten/Three dimensions of work - 202304171439\|Three dimensions of work]]                                             | 3      |
-| [[zettelkasten/Vital Question 1 - 202304171449\|Vital Question 1]]                                                             | 3      |
 | [[zettelkasten/Vital Question 2 - 202304171450\|Vital Question 2]]                                                             | 3      |
+| [[zettelkasten/Vital Question 1 - 202304171449\|Vital Question 1]]                                                             | 3      |
 | [[zettelkasten/Vital Question 3 - 202304171451\|Vital Question 3]]                                                             | 3      |
 | [[zettelkasten/Attention - 202304261250\|Attention]]                                                                           | 2      |
 | [[zettelkasten/Coach - 202306271406\|Coach]]                                                                                   | 2      |

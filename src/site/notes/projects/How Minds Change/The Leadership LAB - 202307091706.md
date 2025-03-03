@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/the-leadership-lab-202307091706/","tags":["📖"],"created":"2023-09-19T22:08:58.216-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/the-leadership-lab-202307091706/","tags":["📖"],"created":"2025-02-24T16:17:47.045-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 # Content

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/apache-kafka-course-for-beginners-learn-kafka-online/","title":"Apache Kafka Course for Beginners: Learn Kafka Online","tags":["🎓"],"created":"2025-02-03T08:12:03.063-06:00","updated":"2025-02-04T13:32:53.064-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/apache-kafka-course-for-beginners-learn-kafka-online/","title":"Apache Kafka Course for Beginners: Learn Kafka Online","tags":["🎓"],"created":"2025-02-24T16:09:40.945-06:00","updated":"2025-02-04T13:32:53.000-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/getting-things-done-david-allen-highlights/","title":"Getting Things Done","tags":["✂️","📚"],"created":"2024-09-12T02:33:42.333-05:00","updated":"2025-01-15T09:52:04.186-06:00"}
+{"dg-publish":true,"permalink":"/references/getting-things-done-david-allen-highlights/","title":"Getting Things Done","tags":["✂️","📚"],"created":"2025-02-24T16:09:12.019-06:00","updated":"2025-01-15T09:52:04.000-06:00"}
 ---
 
 # Getting Things Done

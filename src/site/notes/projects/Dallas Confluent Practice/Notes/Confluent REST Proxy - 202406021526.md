@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-rest-proxy-202406021526/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:21:46.166-05:00","updated":"2024-11-10T13:29:04.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-rest-proxy-202406021526/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:20.140-06:00","updated":"2025-01-24T21:28:39.248-06:00"}
 ---
 
 
@@ -35,13 +35,16 @@ Can't create/configure topics with the REST Proxy
 # Flashcards
 
 If I want to send binary data through the REST proxy to topic "test_binary", it needs to be base64 encoded. A consumer connecting directly into the Kafka topic "test_binary" will receive:: binary data
+<!--SR:!2025-01-27,3,250-->
 
 <!--SR:!2024-09-02,67,310-->
 
 What data format isn't natively available with the Confluent REST Proxy?:: Protobuf
+<!--SR:!2025-01-26,2,230-->
 
 <!--SR:!2024-08-30,64,312-->
 
 If I want to send binary data through the REST proxy, it needs to be base64 encoded. Which component needs to encode the binary data into base 64?:: The Producer. The REST Proxy requires to receive data over REST that is already base64 encoded, hence it is the responsibility of the producer
+<!--SR:!2025-01-26,3,250-->
 
 <!--SR:!2024-09-22,69,319-->

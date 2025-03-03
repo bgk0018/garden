@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/upcoming-maps/","created":"2024-11-10T11:58:36.830-06:00","updated":"2025-01-04T14:41:35.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/upcoming-maps/","created":"2025-02-24T16:08:45.416-06:00","updated":"2025-01-04T14:41:35.195-06:00"}
 ---
 
 
@@ -12,7 +12,7 @@ These are high level subjects I'm keeping an eye. They are uncreated notes that 
     at asyncEvalInContext (plugin:dataview:18896:32)
     at DataviewJSRenderer.render (plugin:dataview:18922:19)
     at DataviewJSRenderer.onload (plugin:dataview:18464:14)
-    at e.load (app://obsidian.md/app.js:1:1214143)
+    at e.load (app://obsidian.md/app.js:1:1214099)
     at DataviewApi.executeJs (plugin:dataview:19465:18)
     at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
     at Generator.next (&lt;anonymous&gt;)</pre>

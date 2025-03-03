@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2025-01-04 - Yes And Architecture","permalink":"/articles/2025-01-04-yes-and-architecture/","title":"2025-01-04 - Yes And Architecture","tags":["🥕"],"created":"2025-01-04T15:28:50.159-06:00","updated":"2025-01-06T08:40:45.000-06:00"}
+{"dg-publish":true,"dg-path":"articles/2025-01-04 - Yes And Architecture","permalink":"/articles/2025-01-04-yes-and-architecture/","title":"2025-01-04 - Yes And Architecture","tags":["🥕"],"created":"2025-02-24T16:13:39.604-06:00","updated":"2025-01-06T08:40:45.000-06:00"}
 ---
 
 
@@ -63,7 +63,7 @@ By the end of this talk, participants will gain insights into how the "Yes, and.
 
 By contrast, divergent thinking typically occurs in a spontaneous, free-flowing, ‘non-linear’ manner, such that many ideas are generated in an emergent cognitive fashion. Many possible solutions are explored in a short amount of time, and unexpected connections are drawn. After the process of divergent thinking has been completed, ideas and information are organized and structured using convergent thinking.’
 
-![Yes And Architecture 0000001.webp](/img/user/reference/Yes%20And%20Architecture%200000001.webp)
+![Yes And Architecture 0000001.webp](/img/user/references/Yes%20And%20Architecture%200000001.webp)
 
 - Example of yes and:
 
@@ -188,7 +188,7 @@ Notes:
 
 ---
 
-![Yes And Architecture 0000001.webp](/img/user/reference/Yes%20And%20Architecture%200000001.webp)
+![Yes And Architecture 0000001.webp](/img/user/references/Yes%20And%20Architecture%200000001.webp)
 
 ---
 

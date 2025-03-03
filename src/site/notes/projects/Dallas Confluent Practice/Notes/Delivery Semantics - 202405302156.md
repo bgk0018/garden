@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/delivery-semantics-202405302156/","tags":["♣️/kafka","📖"],"created":"2023-09-19T22:09:15.109-05:00","updated":"2024-11-10T13:36:53.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/delivery-semantics-202405302156/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:21.202-06:00","updated":"2025-01-26T11:50:20.698-06:00"}
 ---
 
 
@@ -76,6 +76,7 @@ This is a [[projects/Dallas Confluent Practice/Notes/Delivery Semantics - 202405
 ## Flashcards
 
 What are the 3 different ways [[projects/Dallas Confluent Practice/Notes/Consumer - 202405302133\|Consumers]] handle message delivery?:: Atleast once, at most once, exactly once
+<!--SR:!2025-02-07,12,270-->
 
 <!--SR:!2024-09-04,69,310-->
 

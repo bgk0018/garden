@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2025-01-11 - Home Server Catastrophic Failure Review/Restore backup failure (zstd decompression).md","permalink":"/articles/2025-01-11-home-server-catastrophic-failure-review/restore-backup-failure-zstd-decompression/","title":"Restore backup failure (zstd decompression)","tags":["📰"],"created":"2025-01-14T09:40:38.013-06:00","updated":"2025-01-11T17:38:53.000-06:00"}
+{"dg-publish":true,"dg-path":"articles/2025-01-11 - Home Server Catastrophic Failure Review/Restore backup failure (zstd decompression).md","permalink":"/articles/2025-01-11-home-server-catastrophic-failure-review/restore-backup-failure-zstd-decompression/","title":"Restore backup failure (zstd decompression)","tags":["📰"],"created":"2025-02-24T16:13:42.131-06:00","updated":"2025-01-11T17:38:53.658-06:00"}
 ---
 
 

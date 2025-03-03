@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/what-are-alternative-facts-202307031638/","tags":["❓"],"created":"2024-08-29T16:41:00.914-05:00","updated":"2024-11-08T09:43:57.705-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/what-are-alternative-facts-202307031638/","tags":["❓"],"created":"2025-02-24T16:17:47.911-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 # Content

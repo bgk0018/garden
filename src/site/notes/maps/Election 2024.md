@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/election-2024/","tags":["🗺️"],"created":"2024-11-09T08:18:55.602-06:00","updated":"2024-11-15T10:19:47.967-06:00"}
+{"dg-publish":true,"permalink":"/maps/election-2024/","tags":["🗺️"],"created":"2025-02-24T16:08:46.336-06:00","updated":"2024-11-15T10:19:47.000-06:00"}
 ---
 
 
@@ -52,9 +52,10 @@
 > [!quote]- References I've used  
 > This section maintains a curated list of learning resources including documentation, articles, videos, and other materials that contribute to understanding the topic. It serves as a bibliography of valuable information sources for future reference.
 
-| Title                                                                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[read-it-later/Trump is using election lies to lay the groundwork for challenging 2024 results if he loses 1\|Trump is using election lies to lay the groundwork for challenging 2024 results if he loses 1]] |
+| Title                                                                                                                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[projects/Tracking Trump Administration/Trump is using election lies to lay the groundwork for challenging 2024 results if he loses 1 1\|Trump is using election lies to lay the groundwork for challenging 2024 results if he loses 1 1]] |
+| [[projects/Tracking Trump Administration/Trump is using election lies to lay the groundwork for challenging 2024 results if he loses 1\|Trump is using election lies to lay the groundwork for challenging 2024 results if he loses 1]]     |
 
 { .block-language-dataview}
 

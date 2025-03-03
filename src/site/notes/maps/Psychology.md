@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/psychology/","tags":["🗺️"],"created":"2024-11-10T17:30:07.814-06:00","updated":"2024-11-10T17:41:53.731-06:00"}
+{"dg-publish":true,"permalink":"/maps/psychology/","tags":["🗺️"],"created":"2025-02-24T16:08:45.249-06:00","updated":"2024-11-10T17:41:53.000-06:00"}
 ---
 
 
@@ -37,10 +37,10 @@
 | -------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | [[projects/How Minds Change/Elaboration - 202307131626\|Elaboration]]                                                         | 2      |
 | [[projects/How Minds Change/Belief-Change Blindness - 202307131621\|Belief-Change Blindness]]                                 | 1      |
+| [[projects/How Minds Change/Consistency Bias - 202307131624\|Consistency Bias]]                                               | 0      |
+| [[projects/How Minds Change/Illusion of explanatory depth - 202307131637\|Illusion of explanatory depth]]                     | 0      |
 | [[projects/How Minds Change/Subjective Experience - 202403151541\|Subjective Experience]]                                     | 0      |
 | [[projects/How Minds Change/The brain sacrifices accuracy for speed - 202307131632\|The brain sacrifices accuracy for speed]] | 0      |
-| [[projects/How Minds Change/Illusion of explanatory depth - 202307131637\|Illusion of explanatory depth]]                     | 0      |
-| [[projects/How Minds Change/Consistency Bias - 202307131624\|Consistency Bias]]                                               | 0      |
 
 { .block-language-dataview}
 

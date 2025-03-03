@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-deserializer-202405302142/","tags":["♣️/kafka","📖"],"created":"2023-09-19T22:09:15.093-05:00","updated":"2024-11-10T13:35:00.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/consumer-deserializer-202405302142/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.199-06:00","updated":"2025-02-02T16:05:15.382-06:00"}
 ---
 
 
@@ -14,5 +14,6 @@ They are used on the value and the [[projects/Dallas Confluent Practice/Notes/Me
 ## Flashcards
 
 Deserializer::: indicates how to transform bytes into objects/data
+<!--SR:!2025-01-25,4,272!2025-01-25,4,270-->
 
 <!--SR:!2024-08-27,49,310!2024-08-25,59,310-->

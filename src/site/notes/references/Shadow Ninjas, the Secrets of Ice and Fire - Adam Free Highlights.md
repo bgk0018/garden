@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/shadow-ninjas-the-secrets-of-ice-and-fire-adam-free-highlights/","title":"Shadow Ninjas, the Secrets of Ice and Fire","tags":["✂️","📚"],"created":"2024-08-29T16:38:55.960-05:00","updated":"2025-01-09T14:55:48.627-06:00"}
+{"dg-publish":true,"permalink":"/references/shadow-ninjas-the-secrets-of-ice-and-fire-adam-free-highlights/","title":"Shadow Ninjas, the Secrets of Ice and Fire","tags":["✂️","📚"],"created":"2025-02-24T16:08:55.308-06:00","updated":"2025-01-09T14:55:48.000-06:00"}
 ---
 
 # Shadow Ninjas, the Secrets of Ice and Fire

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2023-06-20 - Things I Have Learned Through Learning in Public","permalink":"/articles/2023-06-20-things-i-have-learned-through-learning-in-public/","title":"2023-06-20 - Things I Have Learned Through Learning in Public","tags":["🥕"],"created":"2023-09-19T22:09:06.842-05:00","updated":"2025-01-05T10:05:55.000-06:00"}
+{"dg-publish":true,"dg-path":"articles/2023-06-20 - Things I Have Learned Through Learning in Public","permalink":"/articles/2023-06-20-things-i-have-learned-through-learning-in-public/","title":"2023-06-20 - Things I Have Learned Through Learning in Public","tags":["🥕"],"created":"2025-02-24T16:18:03.189-06:00","updated":"2025-01-05T10:05:55.000-06:00"}
 ---
 
 
@@ -12,13 +12,13 @@
 	- Even if you post for yourself, you'll still get an dopamine hit if someone likes or comments, this does motivate you to check more frequently and is potentially an entry to a bad habit
 - Community brings perspective and opportunity
 	- Those who are interested will be involved, those who do not will not engage (Network with those you align with)
-	- This is a type of [[Sharing your what with your who\|Sharing your what with your who]] from [[reference/The Power of Who - Bob Beaudine\|The Power of Who]][^3]
-	- If you are 'learning' in public, it's OK to be wrong, you're learning! Adopt a [[projects/Stagen Learning and Practice/Learner - 202208111646\|Learner Mindset]][^4] per [[reference/Fred Kofman\|Fred Kofman]]
+	- This is a type of [[Sharing your what with your who\|Sharing your what with your who]] from [[references/The Power of Who - Bob Beaudine\|The Power of Who]][^3]
+	- If you are 'learning' in public, it's OK to be wrong, you're learning! Adopt a [[projects/Stagen Learning and Practice/Learner - 202208111646\|Learner Mindset]][^4] per [[references/Fred Kofman\|Fred Kofman]]
 
 # References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/atomic-habits-james-clear-highlights/#ref-518217668" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/atomic-habits-james-clear-highlights/#ref-518217668" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -37,7 +37,7 @@
 </div></div>
 
 [^3]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/the-power-of-who-bob-beaudine-and-tom-dooley-highlights/#ref-518218188" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/the-power-of-who-bob-beaudine-and-tom-dooley-highlights/#ref-518218188" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

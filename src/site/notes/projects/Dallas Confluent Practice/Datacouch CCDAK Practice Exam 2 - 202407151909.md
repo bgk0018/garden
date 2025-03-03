@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/datacouch-ccdak-practice-exam-2-202407151909/","tags":["📖","♣️/kafka"],"created":"2024-07-14T11:23:09.820-05:00","updated":"2024-11-10T12:31:52.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/datacouch-ccdak-practice-exam-2-202407151909/","tags":["📖","♣️/kafka"],"created":"2025-02-24T16:09:40.901-06:00","updated":"2025-01-25T10:18:45.000-06:00"}
 ---
 
 # Datacouch CCDAK Practice Exam 2
@@ -10,9 +10,10 @@ What does Offset mean or correspond to for the Kafka Connector Source for a data
 -  Position in the file
 -  Sequence id
 -  File name
--  Broker Id  
-?  
+-  Broker Id
+?
 Sequence id
+<!--SR:!2025-01-25,1,213-->
 
 
 Topic configurations and ACLs are stored in
@@ -22,7 +23,7 @@ Topic configurations and ACLs are stored in
 -  consumers
 ?
 Zookeeper
-<!--SR:!2024-08-23,17,290-->
+<!--SR:!2025-01-30,10,270-->
 
 
 How do you ensure message ordering if retries>0:
@@ -32,7 +33,7 @@ How do you ensure message ordering if retries>0:
 -  Set max.in.flight.requests.per.connection=0
 ?
 Set max.in.flight.requests.per.connection=1
-<!--SR:!2024-08-21,15,290-->
+<!--SR:!2025-03-21,60,310-->
 
 
 Where does Kafka Connector for JDBC {in a distributed mode} source track its offset?
@@ -43,7 +44,7 @@ Where does Kafka Connector for JDBC {in a distributed mode} source track its off
 -  Local File
 ?
 Special Kafka Topic
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-25,2,230-->
 
 
 The relationship of Broker to Partition with replication factor of 3 is
@@ -53,7 +54,7 @@ The relationship of Broker to Partition with replication factor of 3 is
 -  1:N
 ?
 N:N
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 In a KafkaProducer program our send() was configured with a callback onCompletion. The send was called and the callback parameters has RecordMetadata object that was null. What does this tell us about send method:
@@ -62,7 +63,7 @@ In a KafkaProducer program our send() was configured with a callback onCompletio
 -  Object metadata being null is not enough information to determine if transfer was successful or not
 ?
 Object metadata being null means there was an error during send
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Where does Kafka Connector for HDFS Sink track its offset
@@ -72,19 +73,21 @@ Where does Kafka Connector for HDFS Sink track its offset
 -  HDFS File
 ?
 HDFS File
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-02-01,7,250-->
 
 
 The relationship of Producer to Topic is
 -  1:1
 -  N:N
 -  N:1
--  1:N  
-?  
+-  1:N
+?
 N:N
+<!--SR:!2025-01-28,4,274-->
 
 
 True or False: Key deserializer must be used even if you do not intend to use keys:: True
+<!--SR:!2025-01-28,4,273-->
 
 
 Where does Kafka Connector for Filestream Source track its offset?
@@ -92,9 +95,10 @@ Where does Kafka Connector for Filestream Source track its offset?
 -  Zookeeper
 -  Kafka Broker
 -  HDFS File
--  Local File  
-?  
+-  Local File
+?
 Local File
+<!--SR:!2025-01-29,5,234-->
 
 
 Group memberships for a consumer group are managed by
@@ -105,7 +109,7 @@ Group memberships for a consumer group are managed by
 -  Group Coordinator
 ?
 Group Coordinator
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-02-03,14,290-->
 
 
 AVRO schemas are represented in what format
@@ -116,7 +120,7 @@ AVRO schemas are represented in what format
 -  CSV
 ?
 JSON
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 Which class is used to create a builder object in the Kafka Streams Application:
@@ -127,7 +131,7 @@ Which class is used to create a builder object in the Kafka Streams Application:
 -  Comfluent Class
 ?
 StreamsBuilder Class
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Number of Group Leaders in a single consumer group with 5 consumers is
@@ -138,7 +142,7 @@ Number of Group Leaders in a single consumer group with 5 consumers is
 -  Zero
 ?
 One
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-02-04,15,290-->
 
 
 Which component in Kafka handles schema evolution
@@ -149,7 +153,7 @@ Which component in Kafka handles schema evolution
 -  Rest Proxy
 ?
 Schema Registry
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which of the following Kafka Streams operators are stateless? (Choose 3)
@@ -158,9 +162,10 @@ Which of the following Kafka Streams operators are stateless? (Choose 3)
 -  aggregate
 -  count
 -  filter
--  mapvalues  
-?  
+-  mapvalues
+?
 map, filter, mapvalues
+<!--SR:!2025-01-25,4,273-->
 
 
 With a Range Assignment strategy in place, what will the final outcome look like with given inputs: Topics: foo and bar Partitions: (foo-0 and foo-1) & (bar-0 and bar-1) Consumers: C1, C2, C3
@@ -170,7 +175,7 @@ With a Range Assignment strategy in place, what will the final outcome look like
 -  c1:{foo-0,foo-1},c2:{bar-0,bar-1},c3{}
 ?
 c1:{foo-0,bar-0},c2:{foo-1,bar-1},c3{}
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Consumer is reading data with new schema and data having old Schema is already stored in Kafka. This scenario is an example of which kind of compatibility Schema is written with the following fields: { "name": "suit", "type": "string"}, { "name": "card", "type": "string"} Consumer is expecting the following schema and assumes default for omitted size field { "name": "suit", "type": "string"}, { "name": "card", "type": "string"}, { "name": "size", "type": "string", "default": "" }
@@ -181,7 +186,7 @@ Consumer is reading data with new schema and data having old Schema is already s
 -  Its an error Scenario
 ?
 Forward
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-26,1,190-->
 
 
 Which of the following defines filter operation correctly from a Streaming Application perspective?
@@ -191,16 +196,17 @@ Which of the following defines filter operation correctly from a Streaming Appli
 -  Takes one record and produces zero, one, or more records. You can modify the record keys and values, including their types.
 ?
 Creates a new KStream containing only records from the previous KStream which meet some specified criteria
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 With a Round Robin strategy in place, what will the final outcome look like with given inputs: Topics: foo and bar Partitions: (foo-0 and foo-1) & (bar-0 and bar-1) Consumers: C1, C2, C3
 -  c1:{foo-0,bar-0},c2:{foo-1,bar-1},c3{}
 -  c1:{foo-1,bar-0},c2:{foo-1},c3{bar-0}
 -  Invalid case
--  c1:{foo-0,bar-1},c2:{foo-1},c3{bar-0}  
-?  
+-  c1:{foo-0,bar-1},c2:{foo-1},c3{bar-0}
+?
 c1:{foo-0,bar-1},c2:{foo-1},c3{bar-0}
+<!--SR:!2025-01-25,4,273-->
 
 
 Producers have started to produce new data with new schema and Consumers are still reading data with old schema. The scenario is an example of which kind of compatibility Schema is written with the following fields: { "name": "suit", "type": "string"}, { "name": "card", "type": "string"} Consumer is expecting the following schema and ignores the additional card field { "name": "suit", "type": "string"},
@@ -208,9 +214,10 @@ Producers have started to produce new data with new schema and Consumers are sti
 -  Forward
 -  Full
 -  None
--  Its an error scenario  
-?  
+-  Its an error scenario
+?
 Forward
+<!--SR:!2025-01-25,1,234-->
 
 
 Which of the following defines map operation correctly from a Streaming Application perspective?
@@ -220,7 +227,7 @@ Which of the following defines map operation correctly from a Streaming Applicat
 -  Takes one record and produces zero, one, or more records. You can modify the record keys and values, including their types.
 ?
 Creates a new KStream by transforming each element in the current stream into a different element in the new stream
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 We have a topic with 5 partitions and we have 7 consumers. How many consumers will end up receiving the data
@@ -231,7 +238,7 @@ We have a topic with 5 partitions and we have 7 consumers. How many consumers wi
 -  Zero
 ?
 Five
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Schema registry information is stored in
@@ -241,7 +248,7 @@ Schema registry information is stored in
 -  Consumers
 ?
 \_\_schemas topic
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-30,7,270-->
 
 
 Which of the following defines mapValues operation correctly from a Streaming Application perspective?
@@ -251,15 +258,16 @@ Which of the following defines mapValues operation correctly from a Streaming Ap
 -  Takes one record and produces zero, one, or more records. You can modify the record keys and values, including their types.
 ?
 Creates a new KStream by transforming the value of each element in the current stream into a different element in the new stream
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 We have just installed Confluent Kafka and all the settings are default. After installation we issue the following command: # kafka-console-producer --broker-list :9092 --topic confluent >hello world What will happen once we press enter?
 -  We get error and are thrown out of console
 -  Topic confluent gets created and message is pushed to it
--  We get Topic does not exist error  
-?  
+-  We get Topic does not exist error
+?
 Topic confluent gets created and message is pushed to it
+<!--SR:!2025-01-27,4,275-->
 
 
 Incompatibility with schema is detected and reported by?
@@ -269,7 +277,7 @@ Incompatibility with schema is detected and reported by?
 -  Zookeeper
 ?
 The Confluent Schema Registry
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which of the following defines flatMap operation correctly from a Streaming Application perspective?
@@ -279,7 +287,7 @@ Which of the following defines flatMap operation correctly from a Streaming Appl
 -  Takes one record and produces zero, one, or more records. You can modify the record keys and values, including their types.
 ?
 Takes one record and produces zero, one, or more records. You can modify the record keys and values, including their types.
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 Which of the following is the correct command for creating a topic confluent with 2 partitions?
@@ -288,7 +296,7 @@ Which of the following is the correct command for creating a topic confluent wit
 -  kafka-topics-create --zookeeper localhost:2181 --partitions 2 --topic confluent
 ?
 kafka-topics --create --zookeeper localhost:2181 --partitions 2 --topic confluent
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 What is the Zero copy concept?
@@ -298,11 +306,11 @@ What is the Zero copy concept?
 -  None of these
 ?
 It is computer operation in which CPU doesn’t have to copy data from one memory location to another
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 Are worker processes of Kafka Connect managed by Kafka Brokers?:: False
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 What is the best use case for KTable datatype in KStreams?
@@ -312,16 +320,17 @@ What is the best use case for KTable datatype in KStreams?
 -  None of the above
 ?
 Maintaining Account Balance for each customer
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 What is Transactional Coordinator in Kafka?
 -  A special Broker
 -  A special module on any Broker
 -  A thread running on any Broker
--  A thread running on certain Broker  
-?  
+-  A thread running on certain Broker
+?
 A special module on any Broker
+<!--SR:!2025-01-29,5,234-->
 
 
 What is a connector in Kafka Connect?
@@ -331,16 +340,17 @@ What is a connector in Kafka Connect?
 -  War
 ?
 Jar
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 How to implement authentication in Kafka?
 -  Using Sentry
 -  Using Ranger
 -  Using Zookeeper
--  Using Kerberos  
-?  
+-  Using Kerberos
+?
 Using Kerberos
+<!--SR:!2025-01-28,4,273-->
 
 
 Which of the below is not supported by Kafka?
@@ -350,7 +360,7 @@ Which of the below is not supported by Kafka?
 -  Kerberos with LDAP authentication
 ?
 Data at rest encryption
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 What’s the default path of log4j.properties?
@@ -360,15 +370,16 @@ What’s the default path of log4j.properties?
 -  /etc/kafka
 ?
  /etc/kafka
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-25,2,230-->
 
 Authorization in Kafka is based on how many tuples match?
 -  3
 -  2
 -  4
--  5  
-?  
+-  5
+?
 3
+<!--SR:!2025-01-25,1,215-->
 
 
 How do we identify brokers in a Kafka cluster?
@@ -378,7 +389,7 @@ How do we identify brokers in a Kafka cluster?
 -  Unique JVM Id
 ?
 Broker Id
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 How to compute the number of Partitions?
@@ -388,7 +399,7 @@ How to compute the number of Partitions?
 -  max(p/t,c/t)
 ?
 max(t/p,t/c)
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Which metrics are critical for understanding Broker performance?
@@ -398,16 +409,17 @@ Which metrics are critical for understanding Broker performance?
 -  ISRCount
 ?
 LeaderCount
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-25,2,230-->
 
 
 What is a valid unit of quota in Kafka?
 -  Requests/sec
 -  Bytes/s
 -  Messages/s
--  None of the above  
-?  
+-  None of the above
+?
 Bytes/s
+<!--SR:!2025-01-28,3,253-->
 
 
 How to configure Client quota?
@@ -417,7 +429,7 @@ How to configure Client quota?
 -  Use kafka-admin command
 ?
 Use kafka-configs command
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 The following concept allows Kafka to transfer data from a local file channel to a remote socket channel directly without going through the application space.
@@ -427,7 +439,7 @@ The following concept allows Kafka to transfer data from a local file channel to
 -  Java Heap based cache
 ?
 Zero Copy Data Transfer
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 The default value of auto.commit.interval.ms is:
@@ -438,7 +450,7 @@ The default value of auto.commit.interval.ms is:
 -  60 seconds
 ?
 5 seconds
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Which of the following are run modes for Kafka Connect Choose Two:
@@ -450,10 +462,10 @@ Which of the following are run modes for Kafka Connect Choose Two:
 ?
 - Standalone
 - Distributed
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
-At the end of this code, which all topics will the consumer be sbscribed to: 
+At the end of this code, which all topics will the consumer be sbscribed to:
 ```java
 Properties props = new Properties(); props.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, "broker1:9092"); props.put(ConsumerConfig.GROUP_ID_CONFIG, "samplegroup"); props.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG,StringDeserializer.class); props.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG,StringDeserializer.class);
 KafkaConsumer consumer = new KafkaConsumer<>(props); consumer.subscribe(Arrays.asList("my_topic", "my_other_topic")); consumer.subscribe(Arrays.asList("last_topic"));
@@ -461,9 +473,10 @@ KafkaConsumer consumer = new KafkaConsumer<>(props); consumer.subscribe(Arrays.a
 -  last_topic
 -  my_topic, my_other_topic
 -  Code throws error
--  my_topic, my_other_topic,last_topic  
-?  
+-  my_topic, my_other_topic,last_topic
+?
 last_topic
+<!--SR:!2025-01-27,3,253-->
 
 
 Kafka Connect Configuration in a distributed modes are stored in
@@ -472,9 +485,10 @@ Kafka Connect Configuration in a distributed modes are stored in
 -  /tmp directory on brokers
 -  Consumers
 -  Producers
--  Workers  
-?  
+-  Workers
+?
 Special topic
+<!--SR:!2025-01-26,1,213-->
 
 
 For a topic with a replication factor 5, the number of leaders will be
@@ -485,16 +499,17 @@ For a topic with a replication factor 5, the number of leaders will be
 -  Zero
 ?
 One
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 What should be the configurations looking like for High Throughput for Consumer Fetch Requests:
 -  large fetch.min.bytes and large fetch.wait.max.ms
 -  large fetch.min.bytes and small fetch.wait.max.ms
 -  reasonable fetch.min.bytes and large fetch.wait.max.ms
--  None of the above  
-?  
+-  None of the above
+?
 large fetch.min.bytes and large fetch.wait.max.ms
+<!--SR:!2025-01-27,3,253-->
 
 
 Which of the following is not a streaming framework?
@@ -507,11 +522,11 @@ Which of the following is not a streaming framework?
 ?
 -  Kafka Connect
 -  Hive
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 True or False: All the writes in a replicated partition go to the leader and reads go to the followers:: False
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-28,5,250-->
 
 
 The default value of `max.message.bytes` is:
@@ -521,7 +536,7 @@ The default value of `max.message.bytes` is:
 -  1 KB
 ?
 1 MB
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-25,2,230-->
 
 
 In a Kafka streams application which is the first place where stateful information is stored
@@ -529,9 +544,10 @@ In a Kafka streams application which is the first place where stateful informati
 -  Consumer
 -  Zookeeper
 -  Brokers
--  RocksDb  
-?  
+-  RocksDb
+?
 Brokers
+<!--SR:!2025-01-25,1,234-->
 
 
 Number of Controllers in a 40 broker cluster are
@@ -542,7 +558,7 @@ Number of Controllers in a 40 broker cluster are
 -  Zero
 ?
 One
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 Which class is used to create a Consumer in Kafka:
@@ -553,7 +569,7 @@ Which class is used to create a Consumer in Kafka:
 -  Confluent Class
 ?
 KafkaConsumer Class
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 We have got two records coming in a streaming application (orange,2) and (orange,5) We have decided it to treat them as a KStream and sum up the values. What will be the final result:
@@ -564,25 +580,27 @@ We have got two records coming in a streaming application (orange,2) and (orange
 -  None of the above
 ?
 (orange,7)
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 If a leader for a partition is lost due to failure, the new leader is elected by
 -  Zookeeper
 -  Controller
 -  Producer
--  Consumers  
-?  
+-  Consumers
+?
 Controller
+<!--SR:!2025-01-28,4,273-->
 
 
 How to temporarily stop consumption of new messages and resume it at a later point:
 -  Stopping consumption temporarily is not possible
 -  Use consumer.pause(partitions) and consumer.resume(partitions)
 -  Use consumer.pause(topic) and consumer.resume(topic)
--  Use consumer.pause(message) and consumer.resume(message)  
-?  
+-  Use consumer.pause(message) and consumer.resume(message)
+?
 Use consumer.pause(partitions) and consumer.resume(partitions)
+<!--SR:!2025-01-25,1,234-->
 
 
 We have got two records coming in a streaming application (orange,2) and (orange,5) We have decided it to treat them as a KTable and sum up the values. What will be the final result
@@ -590,9 +608,10 @@ We have got two records coming in a streaming application (orange,2) and (orange
 -  (orange,2)
 -  (orange,5)
 -  (orange,3)
--  None of the above  
-?  
+-  None of the above
+?
 (orange,5)
+<!--SR:!2025-01-25,1,233-->
 
 
 To gain knowledge about who is the leader for which partition, client sends a metadata request. The metadata request is sent to and served by:
@@ -602,7 +621,7 @@ To gain knowledge about who is the leader for which partition, client sends a me
 -  Consumers
 ?
 Any Broker
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-27,5,250-->
 
 
 Kafka uses which format to transport and store data on the brokers
@@ -614,7 +633,7 @@ Kafka uses which format to transport and store data on the brokers
 -  Varchar
 ?
 bytearray
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 Which of the following Kafka Streams operators are stateful? (Choose 3)
@@ -627,7 +646,7 @@ Which of the following Kafka Streams operators are stateful? (Choose 3)
 -  reduce
 -  aggregate
 -  count
-<!--SR:!2024-07-19,4,270-->
+<!--SR:!2025-01-29,7,270-->
 
 
 ## References
