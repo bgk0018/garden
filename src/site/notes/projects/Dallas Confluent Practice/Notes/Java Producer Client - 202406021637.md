@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["♣️/kafka","📖"],"created":"2024-06-02T16:37:45.322-05:00","updated":"2024-11-10T13:38:41.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/java-producer-client-202406021637/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:18.954-06:00","updated":"2025-01-25T10:05:41.000-06:00"}
 ---
 
 
@@ -12,7 +12,6 @@ Both of these are retriable errors, others non-retriable errors. See the full li
 ## Flashcards
 
 Which of the following errors are retriable from a producer perspective? (select two)
-
 - INVALID_REQUIRED_ACKS
 - TOPIC_AUTHORIZATION_FAILED
 - MESSAGE_TOO_LARGE
@@ -21,9 +20,10 @@ Which of the following errors are retriable from a producer perspective? (select
 ?
 - NOT_LEADER_FOR_PARTITION
 - NOT_ENOUGH_REPLICAS
-<!--SR:!2024-08-31,65,310-->
+<!--SR:!2025-02-22,33,290-->
 
 What is returned by a producer.send() call in the Java API?:: `Future<RecordMetadata>` object
+<!--SR:!2025-01-25,1,230-->
 
 <!--SR:!2024-07-20,23,252-->
 
@@ -45,13 +45,11 @@ private class ProducerCallback implements Callback {
 ```
 
 ?
-
 When the broker response is received, Callback is invoked when a broker response is received.
 
 <!--SR:!2024-09-03,68,312-->
 
 Which of the following is true regarding thread safety in the Java Kafka Clients?
-
 - One Consumer needs to run in one thread
 - One Producer needs to be run in one thread
 - One Producer can be safely used in multiple threads
@@ -60,9 +58,10 @@ Which of the following is true regarding thread safety in the Java Kafka Clients
 - One Consumer needs to run in one thread
 - One Producer can be safely used in multiple threads
 KafkaConsumer is not thread-safe, KafkaProducer is thread safe.
-<!--SR:!2024-10-13,68,314-->
+<!--SR:!2025-02-23,34,294-->
 
 What's is true about Kafka brokers and clients from version 0.10.2 onwards?:: A newer client can talk to a newer broker, and an older client can talk to a newer broker. Kafka's new bidirectional client compatibility introduced in 0.10.2 allows this.
+<!--SR:!2025-01-25,1,233-->
 
 <!--SR:!2024-07-20,8,254-->
 
@@ -79,7 +78,6 @@ ProducerRecord<String, String> record =
 ```
 
 ?
-
 - SerializationException
 - BufferExhaustedException
 These are the client side exceptions that may be encountered before message is sent to the broker, and before a future is returned by the .send() method.
@@ -90,12 +88,12 @@ The BufferedExhaustedException in the context of the Java Producer Client librar
 <!--SR:!2024-06-13,1,234-->
 
 If you want to modify the behavior of your producer without modifying the code, you should use:: `ProducerInterceptor`
+<!--SR:!2025-01-25,1,233-->
 
 <!--SR:!2024-07-19,4,286-->
 
 `ProducerInterceptor` has what 2 methods?
-
 ?
-
 - `ProducerRecord<K,V> onSend(ProducerRecord<K, V> record)` Called before the produced record is sent to kafka, can modify the Records being produced
 - `void onAcknowledgement(RecordMetadata metadata, Exception exception)` This methold will be called if and when Kafka responds with an acknowledge for a send. You cannot modify the response
+<!--SR:!2025-01-27,2,199-->

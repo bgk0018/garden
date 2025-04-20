@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-in-the-enterprise-for-admins-202406021529/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:19:46.341-05:00","updated":"2024-11-10T13:41:22.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-in-the-enterprise-for-admins-202406021529/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:21.988-06:00","updated":"2024-11-10T13:41:22.000-06:00"}
 ---
 
 
@@ -54,14 +54,17 @@ Need to setup
 # Flashcards
 
 If you enable an SSL endpoint in Kafka, what feature of Kafka will be lost?:: Zero copy. With SSL, messages will need to be encrypted and decrypted, by being first loaded into the JVM, so you lose the zero copy optimization.
+<!--SR:!2025-02-01,8,268-->
 
 <!--SR:!2024-07-25,16,290-->
 
 What is not a valid authentication mechanism in Kafka?:: SAML
+<!--SR:!2025-01-29,5,230-->
 
 <!--SR:!2024-08-05,27,270-->
 
 What is the protocol used by Kafka clients to securely connect to the Confluent REST Proxy?:: HTTPS (SSL/TLS) TLS - but it is still called SSL.
+<!--SR:!2025-01-26,3,250-->
 
 <!--SR:!2024-07-23,14,290-->
 
@@ -96,7 +99,7 @@ Replication: Active/Active, or Active/Passive (readonly)
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/event-driven-architecture-is-an-integration-model-built-around-the-publication-capture-processing-and-storage-of-application-or-service-events-ibm-com-highlights/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/event-driven-architecture-is-an-integration-model-built-around-the-publication-capture-processing-and-storage-of-application-or-service-events-ibm-com-highlights/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -111,8 +114,6 @@ Replication: Active/Active, or Active/Passive (readonly)
 - URL: https://www.ibm.com/topics/event-driven-architecture?utm_medium=OSocial&utm_source=Youtube&utm_content=000023UA&utm_term=10010608&utm_id=YTDescription-101-What-is-EDA-LH-Event-Driven-Architecture-Guide
 
 ## Highlights
-
-
 
 >[!QUOTE]  
 >**Event messaging or publish/subscribe**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/reliable-data-delivery-202407152100/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:30.612-06:00","updated":"2024-11-10T13:47:11.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/reliable-data-delivery-202407152100/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:18.966-06:00","updated":"2025-01-26T11:44:27.885-06:00"}
 ---
 
 
@@ -95,17 +95,21 @@ What are Kafka's core reliability guarantees?:: 1) Message order in partition 2)
 <!--SR:!2024-07-18,3,250-->
 
 What are the three key broker configurations affecting reliability?:: 1) Replication Factor 2) Unclean Leader Election 3) Minimum In-Sync Replicas
+<!--SR:!2025-01-25,1,232-->
 
 <!--SR:!2024-07-19,4,270-->
 
 What does setting acks=all mean for producers?:: The leader will wait for all in-sync replicas to acknowledge before responding. This provides the strongest durability guarantee but highest latency.
+<!--SR:!2025-01-28,4,270-->
 
 <!--SR:!2024-07-20,5,270-->
 
 What is the main way consumers can lose messages?:: By committing offsets for messages they've read but haven't completely processed yet
+<!--SR:!2025-02-09,14,290-->
 
 <!--SR:!2024-07-21,6,270-->
 
-What does unclean.leader.election.enable=false prevent?:: Prevents out-of-sync replicas from becoming leaders, which could cause data loss but may reduce availability
+What does unclean.leader.election.enable=false prevent?:: Prevents out-of-sync replicas from becoming leaders, which could cause data loss but may improve availability
+<!--SR:!2025-01-28,4,270-->
 
 <!--SR:!2024-07-22,7,270--> 

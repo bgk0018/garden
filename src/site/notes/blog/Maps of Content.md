@@ -18,7 +18,6 @@ A Map of Content (MOC) serves as a navigational hub in your digital notes. Like 
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [[maps/Apache Kafka\|Apache Kafka]]                       | Apache Kafka is a distributed event streaming platform designed for high-throughput, fault-tolerant handling of real-time data feeds. |
 | [[maps/Certainty\|Certainty]]                             | Certainty is an epistemic property of belief. A focus on how strongly a proposition is held as true.                                  |
-| [[maps/Election 2024\|Election 2024]]                     | \-                                                                                                                                    |
 | [[maps/Home Server\|Home Server]]                         | \-                                                                                                                                    |
 | [[maps/Learning\|Learning]]                               | \-                                                                                                                                    |
 | [[maps/Obsidian\|Obsidian]]                               | \-                                                                                                                                    |
@@ -28,7 +27,9 @@ A Map of Content (MOC) serves as a navigational hub in your digital notes. Like 
 | [[maps/Scotland 2024\|Scotland 2024]]                     | \-                                                                                                                                    |
 | [[maps/Storytelling\|Storytelling]]                       | \-                                                                                                                                    |
 | [[maps/The Empowerment Dynamic\|The Empowerment Dynamic]] | \-                                                                                                                                    |
+| [[maps/Trump Presidency\|Trump Presidency]]               | \-                                                                                                                                    |
 | [[maps/Typescript\|Typescript]]                           | \-                                                                                                                                    |
 | [[maps/Vault\|Vault]]                                     | \-                                                                                                                                    |
+| [[maps/Weird West Campaign\|Weird West Campaign]]         | \-                                                                                                                                    |
 
 { .block-language-dataview}

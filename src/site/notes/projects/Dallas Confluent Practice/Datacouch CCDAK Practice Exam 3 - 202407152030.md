@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/datacouch-ccdak-practice-exam-3-202407152030/","tags":["📖","♣️/kafka"],"created":"2024-08-29T16:38:00.793-05:00","updated":"2025-01-26T11:50:29.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/datacouch-ccdak-practice-exam-3-202407152030/","tags":["📖","♣️/kafka"],"created":"2025-02-24T16:09:40.757-06:00","updated":"2025-01-26T11:50:29.943-06:00"}
 ---
 
 # Datacouch CCDAK Practice Exam 3

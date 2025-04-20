@@ -71,8 +71,8 @@
 > [!QUESTION]- Other Files
 > A catch all so I can appropriately categorize files I deemed related but have not appropriately tagged.
 
-| Title                                |
-| ------------------------------------ |
-| [[references/Lee Ross\|Lee Ross]] |
+| Title                                       |
+| ------------------------------------------- |
+| [[references/people/Lee Ross\|Lee Ross]] |
 
 { .block-language-dataview}

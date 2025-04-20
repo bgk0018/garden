@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/starting-strength/form-struggles-202411230937/","tags":["🍃","📫"],"created":"2024-11-23T09:36:58.507-06:00","updated":"2024-11-30T19:12:15.568-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/starting-strength/form-struggles-202411230937/","tags":["🍃","📫"],"created":"2025-02-24T16:22:40.277-06:00","updated":"2024-11-30T19:12:15.000-06:00"}
 ---
 
 

@@ -8,7 +8,7 @@
 
 # Help Them Grow or Watch Them Go Terrible Coach
 
-[[references/Brene Brown\|Brene Brown]] talks about you often have to spend way more time researching the things that get in the way of what you are after (Dare to Lead is about courage, and mostly about fear) 
+[[references/people/Brene Brown\|Brene Brown]] talks about you often have to spend way more time researching the things that get in the way of what you are after (Dare to Lead is about courage, and mostly about fear) 
 
 1. Come up with a persona who does everything in their power to violate your principle as laid out in [[archive/2023/projects/HaloMD Technical Assessment V2/Help Them Grow Or Watch Them Go - Beverly Kaye Julie Winkle Giulioni\|Help Them Grow Or Watch Them Go]]
 	1. List out the common actions they'd take

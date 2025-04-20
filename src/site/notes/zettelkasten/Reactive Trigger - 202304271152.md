@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/reactive-trigger-202304271152/","tags":["📖"],"created":"2023-09-19T22:09:12.030-05:00","updated":"2024-11-10T17:49:58.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/reactive-trigger-202304271152/","tags":["📖"],"created":"2025-02-24T16:09:24.133-06:00","updated":"2024-11-10T17:49:58.000-06:00"}
 ---
 
 
@@ -10,7 +10,7 @@ Anything that causes you to [[zettelkasten/Reaction - 202304261216\|React]] and 
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217228" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217228" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

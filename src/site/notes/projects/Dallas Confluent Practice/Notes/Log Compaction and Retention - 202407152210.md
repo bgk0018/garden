@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/log-compaction-and-retention-202407152210/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:33.623-06:00","updated":"2024-11-10T13:44:21.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/log-compaction-and-retention-202407152210/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.187-06:00","updated":"2025-02-02T15:54:17.846-06:00"}
 ---
 
 
@@ -48,13 +48,16 @@
 ## Flashcards
 
 How often is log compaction evaluated?:: Every time a segment is closed and if enough data is "dirty"
+<!--SR:!2025-01-26,3,250-->
 
 <!--SR:!2024-07-18,3,250-->
 
 What are the two log cleanup policies in Kafka?:: delete (age/size based) and compact (key based)
+<!--SR:!2025-01-27,2,232-->
 
 <!--SR:!2024-07-19,4,250-->
 
 Which retention setting takes precedence when multiple are configured?:: The smallest unit (ms over minutes over hours)
+<!--SR:!2025-01-28,4,270-->
 
 <!--SR:!2024-07-20,5,250--> 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-anatomy-202405302129/","tags":["♣️/kafka","📖"],"created":"2023-09-19T22:09:15.125-05:00","updated":"2024-12-23T10:32:05.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/message-anatomy-202405302129/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.121-06:00","updated":"2025-02-02T15:55:09.257-06:00"}
 ---
 
 
@@ -19,9 +19,11 @@
 True/False a Message Value can be null: true  
 
 The anatomy of a Topic Message:: a key, a value, compression type, headers, partition plus offset and system or user set timestamp
+<!--SR:!2025-01-30,5,230-->
 
 <!--SR:!2024-07-17,8,210-->
 
 Headers are often used for:: lineage to indicate the source of the data in the record and for routing or tracing messages without having to parse the message itself
+<!--SR:!2025-01-25,1,228-->
 
 <!--SR:!2024-07-19,4,272-->

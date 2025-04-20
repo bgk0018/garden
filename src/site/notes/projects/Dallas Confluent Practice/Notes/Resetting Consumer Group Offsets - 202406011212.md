@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/resetting-consumer-group-offsets-202406011212/","tags":["♣️/kafka","📖"],"created":"2024-03-30T16:28:34.618-05:00","updated":"2024-11-10T13:47:18.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/resetting-consumer-group-offsets-202406011212/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.124-06:00","updated":"2025-01-25T10:09:39.000-06:00"}
 ---
 
 
@@ -78,9 +78,11 @@ public class OffsetResetExample {
 ## Flashcards
 
 Using the Kafka Consumer Group CLI Command, how would you reset the consumer group offsets to the earliest?:: `kafka-consumer-groups.sh --bootstrap-server <broker> --group <group_id> --topic <topic> --reset-offsets --to-earliest --execute`
+<!--SR:!2025-01-26,2,210-->
 
 <!--SR:!2024-09-19,66,270-->
 
 Using AdminClient API, how would you reset the consumer group offsets to the earliest?:: `adminClient.alterConsumerGroupOffsets(consumerGroupId, offsetsToReset);`
+<!--SR:!2025-01-26,1,188-->
 
 <!--SR:!2024-07-16,1,130-->

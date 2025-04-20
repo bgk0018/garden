@@ -63,7 +63,7 @@ By the end of this talk, participants will gain insights into how the "Yes, and.
 
 By contrast, divergent thinking typically occurs in a spontaneous, free-flowing, ‘non-linear’ manner, such that many ideas are generated in an emergent cognitive fashion. Many possible solutions are explored in a short amount of time, and unexpected connections are drawn. After the process of divergent thinking has been completed, ideas and information are organized and structured using convergent thinking.’
 
-![Yes And Architecture 0000001.webp](/img/user/references/Yes%20And%20Architecture%200000001.webp)
+![Yes And Architecture 0000001.webp](/img/user/references/tosort/Yes%20And%20Architecture%200000001.webp)
 
 - Example of yes and:
 
@@ -188,7 +188,7 @@ Notes:
 
 ---
 
-![Yes And Architecture 0000001.webp](/img/user/references/Yes%20And%20Architecture%200000001.webp)
+![Yes And Architecture 0000001.webp](/img/user/references/tosort/Yes%20And%20Architecture%200000001.webp)
 
 ---
 

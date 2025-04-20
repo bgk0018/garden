@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-internals-202411021210/","tags":["♣️/kafka","📖"],"created":"2024-11-02T12:10:10.631-05:00","updated":"2024-11-10T13:41:36.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-internals-202411021210/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:21.977-06:00","updated":"2025-01-25T09:57:04.000-06:00"}
 ---
 
 
@@ -70,33 +70,41 @@
 # Flashcards
 
 What are the two types of indexes maintained by Kafka for each partition?:: Offset index (mapping offsets to physical positions) and Timestamp index (mapping timestamps to offsets)
+<!--SR:!2025-01-25,2,225-->
 
 <!--SR:!2024-07-16,3,250-->
 
 How does Kafka prevent split-brain scenarios with controllers?:: Uses controller epoch numbers - each new controller gets a higher number and messages from controllers with old epoch numbers are ignored
+<!--SR:!2025-01-29,5,230-->
 
 <!--SR:!2024-07-17,4,270-->
 
 What happens when a broker loses its ZooKeeper connection?:: Its ephemeral node is automatically removed, but its broker ID still exists in other data structures
+<!--SR:!2025-01-27,3,255-->
 
 <!--SR:!2024-07-18,5,290-->
 
 What are the two portions of a compacted partition?:: Clean portion (previously compacted messages) and Dirty portion (messages written after last compaction)
+<!--SR:!2025-01-25,1,203-->
 
 <!--SR:!2024-07-19,6,310-->
 
 What triggers log compaction in Kafka?:: When the ratio of dirty records reaches the configured threshold (default 50%) and a segment is closed
+<!--SR:!2025-01-26,2,235-->
 
 <!--SR:!2024-07-20,7,330-->
 
 What is the role of the Kafka Controller?:: Responsible for partition leader election, monitoring broker failures, and maintaining cluster metadata
+<!--SR:!2025-01-26,1,183-->
 
 <!--SR:!2024-07-21,8,350-->
 
 How does Kafka handle broker registration in a cluster?:: Each broker creates an ephemeral node in ZooKeeper with a unique broker ID
+<!--SR:!2025-01-29,5,228-->
 
 <!--SR:!2024-07-22,9,370-->
 
 What happens if a Kafka index becomes corrupted?:: It can be safely regenerated from the matching log segment by rereading the messages
+<!--SR:!2025-01-25,1,217-->
 
 <!--SR:!2024-07-23,10,390-->

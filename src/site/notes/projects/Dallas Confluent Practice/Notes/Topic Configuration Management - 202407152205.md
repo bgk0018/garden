@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-configuration-management-202407152205/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:31.199-06:00","updated":"2024-12-29T17:56:54.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-configuration-management-202407152205/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.138-06:00","updated":"2025-01-25T10:18:04.000-06:00"}
 ---
 
 
@@ -46,13 +46,16 @@
 ## Flashcards
 
 What are the three most critical topic configurations for reliability?:: replication.factor, min.insync.replicas, and unclean.leader.election.enable
+<!--SR:!2025-01-25,1,212-->
 
 <!--SR:!2024-07-18,3,250-->
 
 Where are dynamic topic configurations stored?:: In ZooKeeper
+<!--SR:!2025-01-25,4,270-->
 
 <!--SR:!2024-07-19,4,250-->
 
 When does auto.create.topics.enable trigger topic creation?:: When a producer writes messages, a consumer reads messages, or any client requests metadata
+<!--SR:!2025-01-28,3,248-->
 
 <!--SR:!2024-07-20,5,250--> 

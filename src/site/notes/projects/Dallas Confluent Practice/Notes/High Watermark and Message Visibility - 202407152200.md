@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/high-watermark-and-message-visibility-202407152200/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:31.153-06:00","updated":"2024-11-10T13:37:34.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/high-watermark-and-message-visibility-202407152200/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.281-06:00","updated":"2025-01-24T22:25:23.702-06:00"}
 ---
 
 
@@ -42,13 +42,16 @@ The high watermark (HW) is a crucial mechanism in Kafka that:
 ## Flashcards
 
 When does the high watermark advance?:: When all in-sync replicas have replicated the latest offsets
+<!--SR:!2025-01-28,4,270-->
 
 <!--SR:!2024-07-18,3,250-->
 
 Under what conditions will consumers see messages with acks=1?:: When the high watermark has advanced, even if followers haven't replicated yet
+<!--SR:!2025-01-27,3,250-->
 
 <!--SR:!2024-07-19,4,250-->
 
 What's the relationship between high watermark and committed messages?:: Consumers can only read up to the high watermark, which represents committed messages
+<!--SR:!2025-01-27,3,250-->
 
 <!--SR:!2024-07-20,5,250--> 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/in-sync-replica-202405302227/","tags":["♣️/kafka","📖"],"created":"2023-09-19T22:09:15.125-05:00","updated":"2024-11-10T13:37:55.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/in-sync-replica-202405302227/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:21.356-06:00","updated":"2025-02-02T15:54:17.842-06:00"}
 ---
 
 
@@ -14,17 +14,21 @@ The number of ISR is dictated by the [[projects/Dallas Confluent Practice/Notes/
 ## Flashcards
 
 A [[projects/Dallas Confluent Practice/Notes/Broker - 202405302214\|Broker]] who is not a [[projects/Dallas Confluent Practice/Notes/Partition Leader - 202405302223\|Partition Leader]] but contains a replicate of a given [[projects/Dallas Confluent Practice/Notes/Topics - 202405282249\|Topics]]::: [[projects/Dallas Confluent Practice/Notes/In-sync Replica - 202405302227\|In-sync Replica]]
+<!--SR:!2025-01-28,4,274!2025-01-26,3,268-->
 
 <!--SR:!2024-08-26,60,310!2024-09-14,67,310-->
 
 Full ISR::: ISR Count = [[projects/Dallas Confluent Practice/Notes/Topic Replication Factor - 202405302220\|Topic Replication Factor]]
+<!--SR:!2025-01-27,3,269!2025-01-27,3,269-->
 
 <!--SR:!2024-08-30,64,310!2024-08-27,61,310-->
 
 Partial ISR::: ISR Count < [[projects/Dallas Confluent Practice/Notes/Topic Replication Factor - 202405302220\|Topic Replication Factor]]
+<!--SR:!2025-01-25,2,248!2025-01-31,6,230-->
 
 <!--SR:!2024-08-01,35,290!2024-08-12,46,290-->
 
 [[projects/Dallas Confluent Practice/Notes/In-sync Replica - 202405302227\|In-sync Replica]] is involved in leader election by::: being in the candidate pool for partition leader election
+<!--SR:!2000-01-01,1,250!2025-02-03,10,288-->
 
 <!--SR:!2024-09-04,57,310!2024-09-02,55,310-->

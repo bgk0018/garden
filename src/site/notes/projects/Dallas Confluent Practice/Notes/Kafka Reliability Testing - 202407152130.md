@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-reliability-testing-202407152130/","tags":["♣️/kafka","📖"],"created":"2024-11-08T08:58:30.945-06:00","updated":"2024-11-10T13:42:10.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-reliability-testing-202407152130/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:22.367-06:00","updated":"2025-01-25T10:16:19.000-06:00"}
 ---
 
 
@@ -39,13 +39,16 @@ Reliability testing in Kafka involves three key layers:
 ## Flashcards
 
 What are the three layers of Kafka reliability testing?:: Configuration validation, application validation, and production monitoring
+<!--SR:!2025-01-25,1,221-->
 
 <!--SR:!2024-07-18,3,250-->
 
 What tools does Kafka provide for reliability testing?:: VerifiableProducer, VerifiableConsumer, and Trogdor fault injection framework
+<!--SR:!2025-01-31,6,228-->
 
 <!--SR:!2024-07-19,4,250-->
 
 What happens when a broker loses its ZooKeeper connection?:: Its ephemeral node is automatically removed but broker ID remains in other data structures
+<!--SR:!2025-01-26,2,210-->
 
 <!--SR:!2024-07-20,5,250--> 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/data-windowing-in-kafka-streams-202501251120/","tags":["♣️/kafka","📖"],"created":"2025-01-25T11:19:56.625-06:00","updated":"2025-02-02T15:54:17.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/data-windowing-in-kafka-streams-202501251120/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.425-06:00","updated":"2025-02-02T15:54:17.840-06:00"}
 ---
 
 
@@ -23,7 +23,7 @@ All windows also have a grace period component where if an event arrives that co
 
 # References
 
-[[read-it-later/Windowing in Kafka Streams\|Windowing in Kafka Streams]]
+[[projects/Dallas Confluent Practice/Windowing in Kafka Streams\|Windowing in Kafka Streams]]
 
 # Flashcards
 

@@ -9,4 +9,4 @@ Based on [[zettelkasten/LATCH - 202304281226\|LATCH]], this is where the note li
 
 # References
 
-[[references/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] 
+[[references/videos/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] 
