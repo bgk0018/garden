@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/reactive-triggers-and-strategies-exercise-202307141117/","tags":["📖"],"created":"2025-02-24T16:09:23.570-06:00","updated":"2024-11-10T17:50:11.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/reactive-triggers-and-strategies-exercise-202307141117/","tags":["📖"],"created":"2025-02-22T11:20:24.729-06:00","updated":"2024-11-10T17:50:11.000-06:00"}
 ---
 
 

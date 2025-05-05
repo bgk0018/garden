@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/highlights/event-driven-architecture-is-an-integration-model-built-around-the-publication-capture-processing-and-storage-of-application-or-service-events-ibm-com-highlights/","title":"Event-Driven Architecture Is an Integration Model Built Around the Publication, Capture, Processing, and Storage of Application or Service Events","tags":["✂️"],"created":"2025-02-24T16:08:57.734-06:00","updated":"2025-03-11T13:29:31.844-05:00"}
+{"dg-publish":true,"permalink":"/references/highlights/event-driven-architecture-is-an-integration-model-built-around-the-publication-capture-processing-and-storage-of-application-or-service-events-ibm-com-highlights/","title":"Event-Driven Architecture Is an Integration Model Built Around the Publication, Capture, Processing, and Storage of Application or Service Events","tags":["✂️"],"created":"2025-02-22T11:20:12.518-06:00","updated":"2025-03-11T13:29:31.844-05:00"}
 ---
 
 

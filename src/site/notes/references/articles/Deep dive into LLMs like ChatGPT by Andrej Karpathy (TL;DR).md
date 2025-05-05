@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/deep-dive-into-ll-ms-like-chat-gpt-by-andrej-karpathy-tl-dr/","title":"Deep dive into LLMs like ChatGPT by Andrej Karpathy (TL;DR)","tags":["📰"],"created":"2025-02-24T16:09:20.541-06:00","updated":"2025-02-10T08:30:24.000-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/deep-dive-into-ll-ms-like-chat-gpt-by-andrej-karpathy-tl-dr/","title":"Deep dive into LLMs like ChatGPT by Andrej Karpathy (TL;DR)","tags":["📰"],"created":"2025-02-22T11:20:09.185-06:00","updated":"2025-02-10T08:30:24.000-06:00"}
 ---
 
 # Deep dive into LLMs like ChatGPT by Andrej Karpathy (TL;DR)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/the-empowerment-dynamic-202306271410/","tags":["📖"],"created":"2025-02-24T16:09:22.584-06:00","updated":"2024-11-10T17:53:15.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/the-empowerment-dynamic-202306271410/","tags":["📖"],"created":"2025-02-22T11:20:24.876-06:00","updated":"2024-11-10T17:53:15.000-06:00"}
 ---
 
 

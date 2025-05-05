@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/limits-to-growth-1972/","title":"Limits to Growth (1972)","tags":["📰"],"created":"2025-02-24T16:09:20.659-06:00","updated":"2024-12-30T09:36:22.000-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/limits-to-growth-1972/","title":"Limits to Growth (1972)","tags":["📰"],"created":"2025-02-22T11:20:09.253-06:00","updated":"2024-12-30T09:36:22.000-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/highlights/the-experiment-that-teaches-people-how-to-learn-benjamin-keep-ph-d-jd-highlights/","title":"The Experiment That Teaches People How to Learn","tags":["✂️"],"created":"2025-02-24T16:09:14.676-06:00","updated":"2025-03-11T17:52:46.590-05:00"}
+{"dg-publish":true,"permalink":"/references/highlights/the-experiment-that-teaches-people-how-to-learn-benjamin-keep-ph-d-jd-highlights/","title":"The Experiment That Teaches People How to Learn","tags":["✂️"],"created":"2025-02-22T11:20:19.255-06:00","updated":"2025-03-11T17:52:46.590-05:00"}
 ---
 
 # The Experiment That Teaches People How to Learn

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/highlights/the-hero-of-ages-brandon-sanderson-highlights/","tags":["✂️"],"created":"2025-03-30T10:04:30.483-05:00","updated":"2025-03-30T10:04:30.812-05:00"}
+{"dg-publish":true,"permalink":"/references/highlights/the-hero-of-ages-brandon-sanderson-highlights/","tags":["✂️"],"created":"2025-03-30T10:04:31.508-05:00","updated":"2025-03-30T10:04:30.812-05:00"}
 ---
 
 

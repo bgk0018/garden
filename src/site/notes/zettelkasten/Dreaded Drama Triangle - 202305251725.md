@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/dreaded-drama-triangle-202305251725/","tags":["📖"],"created":"2025-02-24T16:09:23.595-06:00","updated":"2024-11-10T17:04:29.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/dreaded-drama-triangle-202305251725/","tags":["📖"],"created":"2025-02-22T11:20:23.785-06:00","updated":"2024-11-10T17:04:29.000-06:00"}
 ---
 
 

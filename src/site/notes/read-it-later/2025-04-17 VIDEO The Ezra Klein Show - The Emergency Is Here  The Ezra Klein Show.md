@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2025-04-17-video-the-ezra-klein-show-the-emergency-is-here-the-ezra-klein-show/","title":"The Emergency Is Here | The Ezra Klein Show","tags":["🎥"],"created":"2025-04-17T08:46:03.966-05:00","updated":"2025-04-17T08:46:04.861-05:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2025-04-17-video-the-ezra-klein-show-the-emergency-is-here-the-ezra-klein-show/","title":"The Emergency Is Here | The Ezra Klein Show","tags":["🎥"],"created":"2025-04-17T08:46:04.996-05:00","updated":"2025-04-17T08:46:04.860-05:00"}
 ---
 
 # The Emergency Is Here | The Ezra Klein Show

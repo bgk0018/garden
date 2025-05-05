@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/structural-versus-nominal-type-system-202403051455/","tags":["📖"],"created":"2025-02-24T16:09:23.938-06:00","updated":"2024-11-10T17:52:51.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/structural-versus-nominal-type-system-202403051455/","tags":["📖"],"created":"2025-02-22T11:20:24.799-06:00","updated":"2024-11-10T17:52:51.000-06:00"}
 ---
 
 

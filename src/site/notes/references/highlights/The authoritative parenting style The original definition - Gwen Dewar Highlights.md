@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/highlights/the-authoritative-parenting-style-the-original-definition-gwen-dewar-highlights/","title":"The authoritative parenting style: The original definition","tags":["✂️"],"created":"2025-02-24T16:08:58.348-06:00","updated":"2025-03-11T17:52:31.731-05:00"}
+{"dg-publish":true,"permalink":"/references/highlights/the-authoritative-parenting-style-the-original-definition-gwen-dewar-highlights/","title":"The authoritative parenting style: The original definition","tags":["✂️"],"created":"2025-02-22T11:20:18.993-06:00","updated":"2025-03-11T17:52:31.731-05:00"}
 ---
 
 # The authoritative parenting style: The original definition

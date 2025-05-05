@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/dynamic-tension-202304171455/","tags":["📖"],"created":"2025-02-24T16:09:21.819-06:00","updated":"2024-11-10T17:04:26.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/dynamic-tension-202304171455/","tags":["📖"],"created":"2025-02-22T11:20:23.818-06:00","updated":"2024-11-10T17:04:26.000-06:00"}
 ---
 
 
@@ -13,6 +13,6 @@ Think of a rubber band between 2 fingers. The farther the separation the more th
 
 # References
 
-[[references/3 Vital Questions - David Emerald Highlights#^ref-518217196\|3 Vital Questions - David Emerald Highlights#^ref-518217196]]  
-[[references/3 Vital Questions - David Emerald Highlights#^ref-518217197\|3 Vital Questions - David Emerald Highlights#^ref-518217197]]  
-[[references/3 Vital Questions - David Emerald Highlights#^ref-518217198\|3 Vital Questions - David Emerald Highlights#^ref-518217198]]
+[[references/highlights/3 Vital Questions - David Emerald Highlights#^ref-518217196\|3 Vital Questions - David Emerald Highlights#^ref-518217196]]  
+[[references/highlights/3 Vital Questions - David Emerald Highlights#^ref-518217197\|3 Vital Questions - David Emerald Highlights#^ref-518217197]]  
+[[references/highlights/3 Vital Questions - David Emerald Highlights#^ref-518217198\|3 Vital Questions - David Emerald Highlights#^ref-518217198]]

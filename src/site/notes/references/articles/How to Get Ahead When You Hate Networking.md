@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/how-to-get-ahead-when-you-hate-networking/","title":"How to Get Ahead When You Hate Networking","tags":["📰"],"created":"2025-02-24T16:09:19.832-06:00","updated":"2024-11-30T19:12:13.000-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/how-to-get-ahead-when-you-hate-networking/","title":"How to Get Ahead When You Hate Networking","tags":["📰"],"created":"2025-02-22T11:20:09.219-06:00","updated":"2024-11-30T19:12:13.000-06:00"}
 ---
 
 

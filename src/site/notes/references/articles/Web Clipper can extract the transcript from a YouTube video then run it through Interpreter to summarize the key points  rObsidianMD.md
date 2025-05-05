@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/web-clipper-can-extract-the-transcript-from-a-you-tube-video-then-run-it-through-interpreter-to-summarize-the-key-points-r-obsidian-md/","title":"Web Clipper can extract the transcript from a YouTube video then run it through Interpreter to summarize the key points : r/ObsidianMD","tags":["📰"],"created":"2025-02-24T16:09:19.550-06:00","updated":"2025-01-09T15:03:58.000-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/web-clipper-can-extract-the-transcript-from-a-you-tube-video-then-run-it-through-interpreter-to-summarize-the-key-points-r-obsidian-md/","title":"Web Clipper can extract the transcript from a YouTube video then run it through Interpreter to summarize the key points : r/ObsidianMD","tags":["📰"],"created":"2025-02-22T11:20:09.343-06:00","updated":"2025-01-09T15:03:58.000-06:00"}
 ---
 
 # Web Clipper can extract the transcript from a YouTube video then run it through Interpreter to summarize the key points : r/ObsidianMD

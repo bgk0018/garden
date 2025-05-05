@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/donald-trump-is-defying-the-supreme-court/","title":"Donald Trump Is Defying The Supreme Court","tags":["📰"],"created":"2025-04-15T08:30:24.779-05:00","updated":"2025-04-15T12:41:09.906-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/donald-trump-is-defying-the-supreme-court/","title":"Donald Trump Is Defying The Supreme Court","tags":["📰"],"created":"2025-04-15T08:18:48.339-05:00","updated":"2025-04-15T12:41:09.906-05:00"}
 ---
 
 

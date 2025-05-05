@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/obsidian/","tags":["🗺️"],"created":"2025-02-24T16:08:46.536-06:00","updated":"2024-11-15T10:19:59.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/obsidian/","tags":["🗺️"],"created":"2025-02-22T11:19:53.339-06:00","updated":"2024-11-15T10:19:59.000-06:00"}
 ---
 
 

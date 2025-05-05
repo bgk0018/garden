@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/the-pygmalion-effect-202409220950/","tags":["♣️","📖"],"created":"2025-02-24T16:09:21.712-06:00","updated":"2024-11-20T14:56:03.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/the-pygmalion-effect-202409220950/","tags":["♣️","📖"],"created":"2025-02-22T11:20:24.911-06:00","updated":"2024-11-20T14:56:03.000-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/highlights/prince-lestat-and-the-realms-of-atlantis-anne-rice-highlights/","tags":["✂️"],"created":"2025-03-30T10:04:51.145-05:00","updated":"2025-03-30T10:04:51.474-05:00"}
+{"dg-publish":true,"permalink":"/references/highlights/prince-lestat-and-the-realms-of-atlantis-anne-rice-highlights/","tags":["✂️"],"created":"2025-03-30T10:04:52.164-05:00","updated":"2025-03-30T10:04:51.474-05:00"}
 ---
 
 

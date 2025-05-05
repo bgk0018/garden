@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/videos/2022-08-12-video-sebastian-lague-how-to-create-a-neural-network-and-train-it-to-identify-doodles/","title":"How to Create a Neural Network (and Train it to Identify Doodles)","tags":["🎥"],"created":"2025-02-24T16:09:20.629-06:00","updated":"2025-01-02T22:47:35.489-06:00"}
+{"dg-publish":true,"permalink":"/references/videos/2022-08-12-video-sebastian-lague-how-to-create-a-neural-network-and-train-it-to-identify-doodles/","title":"How to Create a Neural Network (and Train it to Identify Doodles)","tags":["🎥"],"created":"2025-02-22T11:20:08.928-06:00","updated":"2025-01-02T22:47:35.489-06:00"}
 ---
 
 # How to Create a Neural Network (and Train it to Identify Doodles)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/alphabet-organizing-in-obsidian-202304281320/","tags":["📖"],"created":"2023-09-19T22:09:11.936-05:00","updated":"2025-01-04T14:57:38.397-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/alphabet-organizing-in-obsidian-202304281320/","tags":["📖"],"created":"2025-02-22T11:20:23.487-06:00","updated":"2025-01-04T14:57:38.396-06:00"}
 ---
 
 
@@ -11,4 +11,4 @@ Based on [[zettelkasten/LATCH - 202304281226\|LATCH]], this is less important fo
 
 # References
 
-[[read-it-later/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] 
+[[references/videos/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] 

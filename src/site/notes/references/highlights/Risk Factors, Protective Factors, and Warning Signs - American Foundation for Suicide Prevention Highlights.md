@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/highlights/risk-factors-protective-factors-and-warning-signs-american-foundation-for-suicide-prevention-highlights/","title":"Risk Factors, Protective Factors, and Warning Signs","tags":["✂️"],"created":"2025-02-24T16:09:05.916-06:00","updated":"2025-03-11T17:50:25.352-05:00"}
+{"dg-publish":true,"permalink":"/references/highlights/risk-factors-protective-factors-and-warning-signs-american-foundation-for-suicide-prevention-highlights/","title":"Risk Factors, Protective Factors, and Warning Signs","tags":["✂️"],"created":"2025-02-22T11:20:17.789-06:00","updated":"2025-03-11T17:50:25.351-05:00"}
 ---
 
 # Risk Factors, Protective Factors, and Warning Signs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/focusing-on-outcomes-categorizes-your-problems-202304271148/","tags":["📖"],"created":"2024-08-29T16:41:14.789-05:00","updated":"2024-11-10T17:04:11.167-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/focusing-on-outcomes-categorizes-your-problems-202304271148/","tags":["📖"],"created":"2025-02-22T11:20:24.057-06:00","updated":"2024-11-10T17:04:11.000-06:00"}
 ---
 
 
@@ -9,5 +9,5 @@ By putting your [[zettelkasten/Focus - 202304201649\|focus]] on [[zettelkasten/O
 
 # References
 
-[[reference/3 Vital Questions - David Emerald Highlights#^ref-518217219\|3 Vital Questions - David Emerald Highlights#^ref-518217219]]  
-[[reference/3 Vital Questions - David Emerald Highlights#^ref-518217225\|3 Vital Questions - David Emerald Highlights#^ref-518217225]]
+[[references/highlights/3 Vital Questions - David Emerald Highlights#^ref-518217219\|3 Vital Questions - David Emerald Highlights#^ref-518217219]]  
+[[references/highlights/3 Vital Questions - David Emerald Highlights#^ref-518217225\|3 Vital Questions - David Emerald Highlights#^ref-518217225]]

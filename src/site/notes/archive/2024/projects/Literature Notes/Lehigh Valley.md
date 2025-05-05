@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/lehigh-valley/","tags":["📖","♣️"],"created":"2025-02-24T16:26:04.501-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/lehigh-valley/","tags":["📖","♣️"],"created":"2025-02-22T11:19:48.478-06:00","updated":"2025-05-02T08:20:35.223-05:00"}
 ---
 
 The Lehigh Valley is a key swing region in [[Pennsylvania\|Pennsylvania]], comprising Lehigh and [[Northampton County\|Northampton County]] counties. Located 60 miles north of [[Philadelphia\|Philadelphia]], it has undergone significant economic and demographic transformation.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/highlights/passionate-performance-lee-j-colan-highlights/","tags":["✂️"],"created":"2025-03-30T10:04:24.235-05:00","updated":"2025-03-30T10:04:24.559-05:00"}
+{"dg-publish":true,"permalink":"/references/highlights/passionate-performance-lee-j-colan-highlights/","tags":["✂️"],"created":"2025-03-30T10:04:25.253-05:00","updated":"2025-03-30T10:04:24.559-05:00"}
 ---
 
 

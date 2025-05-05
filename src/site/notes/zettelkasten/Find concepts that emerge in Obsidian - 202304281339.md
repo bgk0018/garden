@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/find-concepts-that-emerge-in-obsidian-202304281339/","tags":["📖"],"created":"2025-02-24T16:09:24.130-06:00","updated":"2025-01-04T14:57:38.586-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/find-concepts-that-emerge-in-obsidian-202304281339/","tags":["📖"],"created":"2025-02-22T11:20:23.950-06:00","updated":"2025-01-04T14:57:38.586-06:00"}
 ---
 
 
@@ -27,4 +27,4 @@ A collection of dataview queries that show those notes that have the most outgoi
 
 # References
 
-[[references/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]]
+[[references/videos/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]]

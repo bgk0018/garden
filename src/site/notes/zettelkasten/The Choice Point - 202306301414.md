@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/the-choice-point-202306301414/","tags":["📖"],"created":"2025-02-24T16:09:20.753-06:00","updated":"2024-11-10T17:53:04.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/the-choice-point-202306301414/","tags":["📖"],"created":"2025-02-22T11:20:24.834-06:00","updated":"2024-11-10T17:53:04.000-06:00"}
 ---
 
 

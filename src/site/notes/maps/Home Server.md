@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/home-server/","tags":["🗺️"],"created":"2025-02-24T16:08:47.143-06:00","updated":"2025-01-11T22:14:50.061-06:00"}
+{"dg-publish":true,"permalink":"/maps/home-server/","tags":["🗺️"],"created":"2025-02-22T11:19:53.288-06:00","updated":"2025-01-11T22:14:50.061-06:00"}
 ---
 
 

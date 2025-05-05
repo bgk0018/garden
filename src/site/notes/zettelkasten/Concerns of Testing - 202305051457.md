@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/concerns-of-testing-202305051457/","tags":["❓"],"created":"2024-08-29T16:41:08.447-05:00","updated":"2024-11-10T17:04:38.320-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/concerns-of-testing-202305051457/","tags":["❓"],"created":"2025-02-22T11:20:23.696-06:00","updated":"2024-11-10T17:04:38.000-06:00"}
 ---
 
 
@@ -9,9 +9,9 @@
 - Data Management (managing test data)
 - ThirdParty management (virtualization)
 
-Where did [[references/Allen Moore\|Allen Moore]] learn about these 3 things?
+Where did [[references/people/Allen Moore\|Allen Moore]] learn about these 3 things?
 
-- [x] #📋 Follow up with [[references/Allen Moore\|Allen Moore]] about [[zettelkasten/Concerns of Testing - 202305051457\|Concerns of Testing]] 📅 2023-05-08 ✅ 2023-05-07
+- [x] #📋 Follow up with [[references/people/Allen Moore\|Allen Moore]] about [[zettelkasten/Concerns of Testing - 202305051457\|Concerns of Testing]] 📅 2023-05-08 ✅ 2023-05-07
 
 Allen said he learned these 3 pillars from his experience.
 

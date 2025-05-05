@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/how-great-leaders-deliver-results-and-build-trusting-relationships/","title":"How Great Leaders Deliver Results And Build Trusting Relationships","tags":["📰"],"created":"2025-02-24T16:09:20.614-06:00","updated":"2025-01-05T08:45:40.000-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/how-great-leaders-deliver-results-and-build-trusting-relationships/","title":"How Great Leaders Deliver Results And Build Trusting Relationships","tags":["📰"],"created":"2025-02-22T11:20:09.204-06:00","updated":"2025-01-05T08:45:40.000-06:00"}
 ---
 
 

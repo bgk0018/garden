@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/storytelling/","tags":["🗺️"],"created":"2025-02-24T16:08:45.079-06:00","updated":"2024-11-15T10:20:00.000-06:00"}
+{"dg-publish":true,"permalink":"/maps/storytelling/","tags":["🗺️"],"created":"2025-02-22T11:19:53.424-06:00","updated":"2024-11-15T10:20:00.000-06:00"}
 ---
 
 
@@ -56,7 +56,7 @@
 
 | Title                                                                                               |
 | --------------------------------------------------------------------------------------------------- |
-| [[references/Nexus - Yuval Noah Harari\|Nexus - Yuval Noah Harari]]                              |
+| [[references/books/Nexus - Yuval Noah Harari\|Nexus - Yuval Noah Harari]]                        |
 | [[projects/How Minds Change/How Minds Change - David McRaney\|How Minds Change - David McRaney]] |
 
 { .block-language-dataview}

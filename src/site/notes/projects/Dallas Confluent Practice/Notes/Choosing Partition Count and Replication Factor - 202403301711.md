@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/choosing-partition-count-and-replication-factor-202403301711/","tags":["📖"],"created":"2025-02-24T16:13:18.989-06:00","updated":"2024-11-10T12:56:39.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/choosing-partition-count-and-replication-factor-202403301711/","tags":["📖"],"created":"2025-02-22T11:19:55.479-06:00","updated":"2024-11-10T12:56:39.000-06:00"}
 ---
 
 

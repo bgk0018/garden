@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/how-to-boost-your-productivity-for-scientific-research-using-obsidian/","title":"How to Boost Your Productivity for Scientific Research Using Obsidian","tags":["📰"],"created":"2025-03-02T17:56:03.292-06:00","updated":"2025-03-02T17:56:14.382-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/how-to-boost-your-productivity-for-scientific-research-using-obsidian/","title":"How to Boost Your Productivity for Scientific Research Using Obsidian","tags":["📰"],"created":"2025-03-02T17:56:04.466-06:00","updated":"2025-03-02T17:56:14.382-06:00"}
 ---
 
 # How to Boost Your Productivity for Scientific Research Using Obsidian
