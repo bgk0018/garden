@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/pentagon-doubles-number-of-news-outlets-to-rotate-out-from-office-spaces/","title":"Pentagon doubles number of news outlets to 'rotate' out from office spaces","tags":["📰"],"created":"2025-02-24T16:15:32.233-06:00","updated":"2025-02-10T08:30:24.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/pentagon-doubles-number-of-news-outlets-to-rotate-out-from-office-spaces/","title":"Pentagon doubles number of news outlets to 'rotate' out from office spaces","tags":["📰"],"created":"2025-05-12T22:56:27.248-05:00","updated":"2025-02-10T08:30:24.000-06:00"}
 ---
 
 # Pentagon doubles number of news outlets to 'rotate' out from office spaces

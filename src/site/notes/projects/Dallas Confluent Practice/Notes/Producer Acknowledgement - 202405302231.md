@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/producer-acknowledgement-202405302231/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.930-06:00","updated":"2025-02-02T18:55:31.445-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/producer-acknowledgement-202405302231/","tags":["♣️/kafka","📖"],"created":"2025-05-12T23:14:29.274-05:00","updated":"2025-02-02T18:55:31.445-06:00"}
 ---
 
 

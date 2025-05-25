@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/starting-strength/starting-strength-mark-rippetoe-lon-kilgore/","title":"Starting Strength","tags":["📕"],"created":"2025-02-24T16:22:40.466-06:00","updated":"2024-11-30T19:12:15.000-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/starting-strength/starting-strength-mark-rippetoe-lon-kilgore/","title":"Starting Strength","tags":["📕"],"created":"2025-05-12T23:15:13.365-05:00","updated":"2024-11-30T19:12:15.000-06:00"}
 ---
 
 

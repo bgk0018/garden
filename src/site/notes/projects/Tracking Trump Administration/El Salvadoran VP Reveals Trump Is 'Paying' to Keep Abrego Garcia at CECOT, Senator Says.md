@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/el-salvadoran-vp-reveals-trump-is-paying-to-keep-abrego-garcia-at-cecot-senator-says/","title":"El Salvadoran VP Reveals Trump Is 'Paying' to Keep Abrego Garcia at CECOT, Senator Says","tags":["📰"],"created":"2025-04-17T08:17:06.375-05:00","updated":"2025-04-17T08:17:07.798-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/el-salvadoran-vp-reveals-trump-is-paying-to-keep-abrego-garcia-at-cecot-senator-says/","title":"El Salvadoran VP Reveals Trump Is 'Paying' to Keep Abrego Garcia at CECOT, Senator Says","tags":["📰"],"created":"2025-05-12T22:56:28.408-05:00","updated":"2025-04-17T08:17:07.797-05:00"}
 ---
 
 # El Salvadoran VP Reveals Trump Is 'Paying' to Keep Abrego Garcia at CECOT, Senator Says

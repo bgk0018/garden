@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works","permalink":"/articles/2024-11-29-explaining-to-myself-yet-again-how-this-note-taking-thing-works/","title":"2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works","tags":["🥕"],"created":"2025-02-24T16:13:40.596-06:00","updated":"2025-01-05T10:01:22.000-06:00"}
+{"dg-publish":true,"dg-path":"articles/2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works","permalink":"/articles/2024-11-29-explaining-to-myself-yet-again-how-this-note-taking-thing-works/","title":"2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works","tags":["🥕"],"created":"2025-05-12T23:14:30.736-05:00","updated":"2025-01-05T10:01:22.000-06:00"}
 ---
 
 
@@ -114,9 +114,9 @@ A way of organizing information. LATCH stands for:
 
 # References
 
-[[references/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] 
+[[references/videos/2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes\|2023-04-28 VIDEO Nicole van der Hoeven - Emergent note taking what ants can teach us about notes]] 
 
-[[references/Information Anxiety - Richard Saul Wurman\|Information Anxiety]]
+[[references/books/Information Anxiety - Richard Saul Wurman\|Information Anxiety]]
 
 
 </div></div>
@@ -200,7 +200,7 @@ Properties I think that help build context and help recall:
 - Challenges
 - Tags (See Categorizing Notes)
 
-So if I come across another conversation where we're talking about type systems, what they are, how they're used, etc. and I need to go dig out my notes on the subject, it's very possible that the things I remember are specifically my colleague and friend [[references/Michael Perry\|Michael Perry]] prompting the question for me, or maybe just the subject Type System, or maybe in the context of TypeScript, or maybe it was just earlier this week and I can go dig backwards through the dates and find this note (or the note that explains the answer to the question).
+So if I come across another conversation where we're talking about type systems, what they are, how they're used, etc. and I need to go dig out my notes on the subject, it's very possible that the things I remember are specifically my colleague and friend [[references/people/Michael Perry\|Michael Perry]] prompting the question for me, or maybe just the subject Type System, or maybe in the context of TypeScript, or maybe it was just earlier this week and I can go dig backwards through the dates and find this note (or the note that explains the answer to the question).
 
 You get the idea. Remember, you're leaving breadcrumbs to find your way back to previous context that you found valuable.
 
@@ -243,13 +243,13 @@ For reference, I think this is still an exhaustive list of my note types. I use 
 | #📅          | Calendar journal entry                                              |
 | #🎹          | Music                                                               |
 | #🥕          | Garden Note                                                         |
-| #🧙‍♂️     | RPG                                                                 |
+| #🧙     | RPG                                                                 |
 
 
 </div></div>
 
 
-Sometimes a note ends up with two types on it. It's not preferred, but if I see an old note that seems to be pulling double duty and I don't want to split it out quite yet, it's much easier for me to just mark the note with 2 note types and call it done. "Good enough is good enough", [[references/Tim Rayburn\|Tim Rayburn]].
+Sometimes a note ends up with two types on it. It's not preferred, but if I see an old note that seems to be pulling double duty and I don't want to split it out quite yet, it's much easier for me to just mark the note with 2 note types and call it done. "Good enough is good enough", [[references/people/Tim Rayburn\|Tim Rayburn]].
 
 You can refer to the question example above and see the note type in action.
 
@@ -317,7 +317,7 @@ Whatever, giant gaping hole in my current process, sue me.
 - Literature Notes
 - Maps of Content (Maybe?)
 
-One note represents one idea. Some smart guy came up with it. I think it's mostly from [[references/How to Take Smart Notes - Sönke Ahrens\|How to Take Smart Notes]]. I never read it, but I watched and listened to a bunch of other smart people talk about it.
+One note represents one idea. Some smart guy came up with it. I think it's mostly from [[references/books/How to Take Smart Notes - Sönke Ahrens\|How to Take Smart Notes]]. I never read it, but I watched and listened to a bunch of other smart people talk about it.
 
 Honestly, it's a nice process. This is where I can interlink a bunch of note ideas using my context building process above on a given subject. This allows for a place for other interesting things to be sorted into as well.
 
@@ -352,7 +352,7 @@ There is always a [[zettelkasten/Persecutor - 202305271800\|Persecutor]] when yo
 # References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/3-vital-questions-david-emerald-highlights/#ref-521905051" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-521905051" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -362,7 +362,7 @@ There is always a [[zettelkasten/Persecutor - 202305271800\|Persecutor]] when yo
 </div></div>
   
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/3-vital-questions-david-emerald-highlights/#ref-521905053" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-521905053" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -413,7 +413,7 @@ You might also notice that all my tasks have an associated project. This is on p
 
 ## Project Management
 
-Projects took me forever to figure out how I wanted to manage. What the hell is a project anyways? I ended up stealing from [[references/Getting Things Done - David Allen\|Getting Things Done]] and [[The PARA Method\|The PARA Method]] from [[references/Building a Second Brain - Tiago Forte\|Building a Second Brain]], or at least from [[Tiago Forte\|Tiago Forte]], I never read the second brain book. Long and short of it;
+Projects took me forever to figure out how I wanted to manage. What the hell is a project anyways? I ended up stealing from [[references/books/Getting Things Done - David Allen\|Getting Things Done]] and [[The PARA Method\|The PARA Method]] from [[references/books/Building a Second Brain - Tiago Forte\|Building a Second Brain]], or at least from [[Tiago Forte\|Tiago Forte]], I never read the second brain book. Long and short of it;
 
 - Does it take more than one task to accomplish? Project
 - Did someone make a meeting about it? Project

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Articles.md","permalink":"/articles/","pinned":true,"tags":["🥕"],"created":"2025-02-22T11:19:50.164-06:00","updated":"2025-01-05T10:22:50.000-06:00"}
+{"dg-publish":true,"dg-path":"Articles.md","permalink":"/articles/","pinned":true,"tags":["🥕"],"created":"2025-05-12T22:55:27.907-05:00","updated":"2025-01-05T10:22:50.000-06:00"}
 ---
 
 
@@ -9,8 +9,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[blog/articles/2025-01-11 - Home Server Catastrophic Failure Review/Home Server Catastrophic Failure Review  - 202501111145\|Home Server Catastrophic Failure Review]]                                                                                                            | 2025-01-11 |
 | [[blog/articles/2025-01-11 - Home Server Catastrophic Failure Review/Restore backup failure (zstd decompression)\|Restore backup failure (zstd decompression)]]                                                                                                                    | 2025-01-11 |
-| [[blog/articles/2025-01-04 - So You Want to Be an Architect/So You Want to Be an Architect - 202501041522\|So You Want to Be an Architect]]                                                                                                                                        | 2025-01-04 |
 | [[blog/articles/2025-01-04 - Yes And Architecture/Yes And Architecture - 202501041529\|Yes And Architecture]]                                                                                                                                                                      | 2025-01-04 |
+| [[blog/articles/2025-01-04 - So You Want to Be an Architect/So You Want to Be an Architect - 202501041522\|So You Want to Be an Architect]]                                                                                                                                        | 2025-01-04 |
 | [[blog/articles/2024-11-29 - Explaining to Myself Yet Again How This Note-Taking Thing Works/Explaining to Myself Yet Again How This Note-Taking Thing Works - 202411291352\|Explaining to Myself Yet Again How This Note-Taking Thing Works]]                                     | 2024-11-29 |
 | [[blog/articles/2024-03-20 - Help Them Grow or Watch Them go Terrible Coach/Help Them Grow or Watch Them go Terrible Coach - 202403200950\|Help Them Grow or Watch Them go Terrible Coach]]                                                                                        | 2024-03-20 |
 | [[blog/articles/2023-09-18 - Character Creation for RPG Newbies/Character Creation for RPG Newbies - 202309182142\|Character Creation for RPG Newbies]]                                                                                                                            | 2023-09-18 |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/bethlehem-steel/","tags":["📖","♣️"],"created":"2025-02-22T11:19:48.413-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/bethlehem-steel/","tags":["📖","♣️"],"created":"2025-05-12T23:15:14.100-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 [[archive/2024/projects/Literature Notes/Bethlehem Steel\|Bethlehem Steel]] represented the industrial might of 20th century America and the subsequent decline of traditional manufacturing. Its transformation mirrors broader changes in the [[American Manufacturing\|American industrial landscape]].

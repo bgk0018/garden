@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/obsidian-tutorial-for-academic-writing/","title":"Obsidian Tutorial for Academic Writing","tags":["📰"],"created":"2025-03-02T17:56:21.523-06:00","updated":"2025-03-02T17:56:22.138-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/obsidian-tutorial-for-academic-writing/","title":"Obsidian Tutorial for Academic Writing","tags":["📰"],"created":"2025-05-12T22:56:55.005-05:00","updated":"2025-03-02T17:56:22.138-06:00"}
 ---
 
 # Obsidian Tutorial for Academic Writing

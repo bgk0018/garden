@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-security-202406021530/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.948-06:00","updated":"2025-01-24T21:25:46.299-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-security-202406021530/","tags":["♣️/kafka","📖"],"created":"2025-05-12T23:14:32.247-05:00","updated":"2025-01-24T21:25:46.299-06:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/what-is-confirmation-bias-202307031640/","tags":["❓"],"created":"2025-02-24T16:17:48.142-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/what-is-confirmation-bias-202307031640/","tags":["❓"],"created":"2025-05-12T22:56:24.507-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 # Content

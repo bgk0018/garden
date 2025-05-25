@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/memory-holing-jan-6-what-happens-when-you-try-to-make-history-vanish/","title":"Memory-Holing Jan. 6: What Happens When You Try to Make History Vanish?","tags":["📰"],"created":"2025-02-24T16:15:32.594-06:00","updated":"2025-02-10T05:34:53.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/memory-holing-jan-6-what-happens-when-you-try-to-make-history-vanish/","title":"Memory-Holing Jan. 6: What Happens When You Try to Make History Vanish?","tags":["📰"],"created":"2025-05-12T22:56:29.583-05:00","updated":"2025-02-10T05:34:53.000-06:00"}
 ---
 
 # Memory-Holing Jan. 6: What Happens When You Try to Make History Vanish?

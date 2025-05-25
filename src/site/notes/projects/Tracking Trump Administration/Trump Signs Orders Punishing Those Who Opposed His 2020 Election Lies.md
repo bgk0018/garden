@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-signs-orders-punishing-those-who-opposed-his-2020-election-lies/","title":"Trump Signs Orders Punishing Those Who Opposed His 2020 Election Lies","tags":["📰"],"created":"2025-04-11T09:07:09.430-05:00","updated":"2025-04-11T09:07:10.392-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-signs-orders-punishing-those-who-opposed-his-2020-election-lies/","title":"Trump Signs Orders Punishing Those Who Opposed His 2020 Election Lies","tags":["📰"],"created":"2025-05-12T22:56:29.174-05:00","updated":"2025-04-11T09:07:10.391-05:00"}
 ---
 
 # Trump Signs Orders Punishing Those Who Opposed His 2020 Election Lies

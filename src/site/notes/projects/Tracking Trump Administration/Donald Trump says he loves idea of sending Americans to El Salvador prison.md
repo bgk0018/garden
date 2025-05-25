@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/donald-trump-says-he-loves-idea-of-sending-americans-to-el-salvador-prison/","title":"Donald Trump says he loves idea of sending Americans to El Salvador prison","tags":["📰"],"created":"2025-04-07T09:59:18.183-05:00","updated":"2025-04-07T07:12:32.177-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/donald-trump-says-he-loves-idea-of-sending-americans-to-el-salvador-prison/","title":"Donald Trump says he loves idea of sending Americans to El Salvador prison","tags":["📰"],"created":"2025-05-12T22:56:29.357-05:00","updated":"2025-04-07T07:12:32.177-05:00"}
 ---
 
 # Donald Trump says he loves idea of sending Americans to El Salvador prison

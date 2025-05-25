@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-extended-ap-is-for-developers-202406021528/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:18:00.312-05:00","updated":"2024-11-10T13:41:15.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/kafka-extended-ap-is-for-developers-202406021528/","tags":["♣️/kafka","📖"],"created":"2025-05-12T23:14:29.379-05:00","updated":"2024-11-10T13:41:15.000-06:00"}
 ---
 
 

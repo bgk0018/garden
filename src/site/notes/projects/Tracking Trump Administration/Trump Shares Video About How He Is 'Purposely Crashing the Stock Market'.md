@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-shares-video-about-how-he-is-purposely-crashing-the-stock-market/","title":"Trump Shares Video About How He Is 'Purposely Crashing the Stock Market'","tags":["📰"],"created":"2025-04-05T09:34:05.498-05:00","updated":"2025-04-05T08:56:48.985-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-shares-video-about-how-he-is-purposely-crashing-the-stock-market/","title":"Trump Shares Video About How He Is 'Purposely Crashing the Stock Market'","tags":["📰"],"created":"2025-05-12T22:56:28.663-05:00","updated":"2025-04-05T08:56:48.985-05:00"}
 ---
 
 # Trump Shares Video About How He Is 'Purposely Crashing the Stock Market'

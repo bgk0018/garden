@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/how-to-doge-the-world-bank-a-primer-tracking-doge/","title":"How to DOGE The World Bank: A Primer – Tracking DOGE","tags":["📰"],"created":"2025-03-05T11:10:02.328-06:00","updated":"2025-03-11T17:07:31.468-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/how-to-doge-the-world-bank-a-primer-tracking-doge/","title":"How to DOGE The World Bank: A Primer – Tracking DOGE","tags":["📰"],"created":"2025-05-12T22:56:29.641-05:00","updated":"2025-03-11T17:07:31.467-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/elon-musk-drastically-drops-doge-s-savings-goal-from-2-trillion-to-150-billion-for-the-year/","title":"Elon Musk drastically drops DOGE’s savings goal from $2 trillion to $150 billion for the year","tags":["📰"],"created":"2025-04-13T08:15:28.943-05:00","updated":"2025-04-13T08:37:18.128-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/elon-musk-drastically-drops-doge-s-savings-goal-from-2-trillion-to-150-billion-for-the-year/","title":"Elon Musk drastically drops DOGE’s savings goal from $2 trillion to $150 billion for the year","tags":["📰"],"created":"2025-05-12T22:56:29.597-05:00","updated":"2025-04-13T08:37:18.128-05:00"}
 ---
 
 # Elon Musk drastically drops DOGE’s savings goal from $2 trillion to $150 billion for the year

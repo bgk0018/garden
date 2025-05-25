@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/four-years-after-the-capitol-riot-why-q-anon-hasn-t-gone-away/","title":"Four years after the Capitol riot, why QAnon hasn't gone away","tags":["📰"],"created":"2025-02-22T11:20:08.667-06:00","updated":"2025-01-09T15:03:06.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/four-years-after-the-capitol-riot-why-q-anon-hasn-t-gone-away/","title":"Four years after the Capitol riot, why QAnon hasn't gone away","tags":["📰"],"created":"2025-05-12T22:56:28.392-05:00","updated":"2025-01-09T15:03:06.000-06:00"}
 ---
 
 

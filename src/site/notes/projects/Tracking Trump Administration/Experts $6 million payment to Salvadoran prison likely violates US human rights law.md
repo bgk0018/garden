@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/experts-6-million-payment-to-salvadoran-prison-likely-violates-us-human-rights-law/","title":"Experts: $6 million payment to Salvadoran prison likely violates US human rights law","tags":["📰"],"created":"2025-04-17T08:17:06.375-05:00","updated":"2025-04-17T08:17:07.787-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/experts-6-million-payment-to-salvadoran-prison-likely-violates-us-human-rights-law/","title":"Experts: $6 million payment to Salvadoran prison likely violates US human rights law","tags":["📰"],"created":"2025-05-12T22:56:28.940-05:00","updated":"2025-04-17T08:17:07.787-05:00"}
 ---
 
 # Experts: $6 million payment to Salvadoran prison likely violates US human rights law

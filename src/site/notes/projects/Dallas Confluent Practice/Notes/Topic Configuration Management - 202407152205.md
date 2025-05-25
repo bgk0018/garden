@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-configuration-management-202407152205/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:19.138-06:00","updated":"2025-01-25T10:18:04.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/topic-configuration-management-202407152205/","tags":["♣️/kafka","📖"],"created":"2025-05-12T23:14:29.462-05:00","updated":"2025-01-25T10:18:04.000-06:00"}
 ---
 
 

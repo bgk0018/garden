@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-takes-seized-boxes-back-to-florida-on-air-force-one-cnn-politics/","title":"Trump takes seized boxes back to Florida on Air Force One | CNN Politics","tags":["📰"],"created":"2025-03-02T07:52:38.211-06:00","updated":"2025-03-02T07:52:38.695-06:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-takes-seized-boxes-back-to-florida-on-air-force-one-cnn-politics/","title":"Trump takes seized boxes back to Florida on Air Force One | CNN Politics","tags":["📰"],"created":"2025-05-12T22:56:29.695-05:00","updated":"2025-03-02T07:52:38.694-06:00"}
 ---
 
 # Trump takes seized boxes back to Florida on Air Force One | CNN Politics

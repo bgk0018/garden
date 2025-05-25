@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/four-top-deputies-to-eric-adams-have-resigned-new-york-mayor-says-cnn-politics/","title":"Four top deputies to Eric Adams have resigned, New York mayor says | CNN Politics","tags":["📰"],"created":"2025-02-24T16:15:32.121-06:00","updated":"2025-02-18T13:50:26.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/four-top-deputies-to-eric-adams-have-resigned-new-york-mayor-says-cnn-politics/","title":"Four top deputies to Eric Adams have resigned, New York mayor says | CNN Politics","tags":["📰"],"created":"2025-05-12T22:56:29.613-05:00","updated":"2025-02-18T13:50:26.000-06:00"}
 ---
 
 # Four top deputies to Eric Adams have resigned, New York mayor says | CNN Politics

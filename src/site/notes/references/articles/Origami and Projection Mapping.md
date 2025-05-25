@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/origami-and-projection-mapping/","title":"Origami and Projection Mapping","tags":["📰"],"created":"2025-02-22T11:20:16.664-06:00","updated":"2024-11-08T09:44:00.000-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/origami-and-projection-mapping/","title":"Origami and Projection Mapping","tags":["📰"],"created":"2025-05-12T22:56:55.427-05:00","updated":"2024-11-08T09:44:00.000-06:00"}
 ---
 
 # Origami and Projection Mapping

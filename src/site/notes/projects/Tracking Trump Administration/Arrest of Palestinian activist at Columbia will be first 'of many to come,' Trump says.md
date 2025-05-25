@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/arrest-of-palestinian-activist-at-columbia-will-be-first-of-many-to-come-trump-says/","title":"Arrest of Palestinian activist at Columbia will be first 'of many to come,' Trump says","tags":["📰"],"created":"2025-03-11T08:56:53.111-05:00","updated":"2025-03-11T18:17:28.275-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/arrest-of-palestinian-activist-at-columbia-will-be-first-of-many-to-come-trump-says/","title":"Arrest of Palestinian activist at Columbia will be first 'of many to come,' Trump says","tags":["📰"],"created":"2025-05-12T22:56:28.132-05:00","updated":"2025-03-11T18:17:28.275-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-says-he-s-revoking-security-clearances-for-people-he-doesn-t-respect/","title":"Trump says he’s revoking security clearances for people he doesn’t ‘respect’","tags":["📰"],"created":"2025-02-24T16:15:33.345-06:00","updated":"2025-02-10T08:30:20.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-says-he-s-revoking-security-clearances-for-people-he-doesn-t-respect/","title":"Trump says he’s revoking security clearances for people he doesn’t ‘respect’","tags":["📰"],"created":"2025-05-12T22:56:29.521-05:00","updated":"2025-02-10T08:30:20.000-06:00"}
 ---
 
 # Trump says he’s revoking security clearances for people he doesn’t ‘respect’

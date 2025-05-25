@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/voters-broadly-positive-about-how-elections-were-conducted-in-sharp-contrast-to-2020/","title":"Voters Broadly Positive About How Elections Were Conducted, in Sharp Contrast to 2020","tags":["📰"],"created":"2025-02-24T16:15:31.989-06:00","updated":"2025-01-09T15:04:00.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/voters-broadly-positive-about-how-elections-were-conducted-in-sharp-contrast-to-2020/","title":"Voters Broadly Positive About How Elections Were Conducted, in Sharp Contrast to 2020","tags":["📰"],"created":"2025-05-12T22:56:28.225-05:00","updated":"2025-01-09T15:04:00.000-06:00"}
 ---
 
 # Voters Broadly Positive About How Elections Were Conducted, in Sharp Contrast to 2020

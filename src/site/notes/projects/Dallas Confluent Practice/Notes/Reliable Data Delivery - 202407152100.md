@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/reliable-data-delivery-202407152100/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:18.966-06:00","updated":"2025-01-26T11:44:27.885-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/reliable-data-delivery-202407152100/","tags":["♣️/kafka","📖"],"created":"2025-05-12T23:14:33.372-05:00","updated":"2025-01-26T11:44:27.885-06:00"}
 ---
 
 

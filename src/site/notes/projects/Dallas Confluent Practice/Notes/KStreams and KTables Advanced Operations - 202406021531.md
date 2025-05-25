@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/k-streams-and-k-tables-advanced-operations-202406021531/","tags":["♣️/kafka","📖"],"created":"2024-06-01T21:21:10.452-05:00","updated":"2024-11-10T13:44:02.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/k-streams-and-k-tables-advanced-operations-202406021531/","tags":["♣️/kafka","📖"],"created":"2025-05-12T23:14:30.372-05:00","updated":"2025-02-02T15:54:17.843-06:00"}
 ---
 
 

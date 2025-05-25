@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/donald-trump-demands-investigations-into-negative-approval-rating-polls/","title":"Donald Trump demands investigations into negative approval rating polls","tags":["📰"],"created":"2025-04-28T08:21:43.578-05:00","updated":"2025-04-28T07:04:38.477-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/donald-trump-demands-investigations-into-negative-approval-rating-polls/","title":"Donald Trump demands investigations into negative approval rating polls","tags":["📰"],"created":"2025-05-12T22:56:28.680-05:00","updated":"2025-04-28T07:04:38.477-05:00"}
 ---
 
 # Donald Trump demands investigations into negative approval rating polls

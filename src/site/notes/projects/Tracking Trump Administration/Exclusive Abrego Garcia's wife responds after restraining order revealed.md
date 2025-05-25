@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/exclusive-abrego-garcia-s-wife-responds-after-restraining-order-revealed/","title":"Exclusive: Abrego Garcia's wife responds after restraining order revealed","tags":["📰"],"created":"2025-04-17T08:17:06.375-05:00","updated":"2025-04-17T08:17:07.787-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/exclusive-abrego-garcia-s-wife-responds-after-restraining-order-revealed/","title":"Exclusive: Abrego Garcia's wife responds after restraining order revealed","tags":["📰"],"created":"2025-05-12T22:56:27.656-05:00","updated":"2025-04-17T08:17:07.787-05:00"}
 ---
 
 # Exclusive: Abrego Garcia's wife responds after restraining order revealed

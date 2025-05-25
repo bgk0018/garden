@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-to-pause-enforcement-of-law-banning-bribery-of-foreign-officials/","title":"Trump to pause enforcement of law banning bribery of foreign officials","tags":["📰"],"created":"2025-02-24T16:15:33.172-06:00","updated":"2025-02-10T17:46:32.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-to-pause-enforcement-of-law-banning-bribery-of-foreign-officials/","title":"Trump to pause enforcement of law banning bribery of foreign officials","tags":["📰"],"created":"2025-05-12T22:56:27.297-05:00","updated":"2025-02-10T17:46:32.000-06:00"}
 ---
 
 # Trump to pause enforcement of law banning bribery of foreign officials

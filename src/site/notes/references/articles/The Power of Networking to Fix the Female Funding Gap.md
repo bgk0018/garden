@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/the-power-of-networking-to-fix-the-female-funding-gap/","title":"The Power of Networking to Fix the Female Funding Gap","tags":["📰"],"created":"2025-02-22T11:20:09.285-06:00","updated":"2024-11-09T08:33:23.000-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/the-power-of-networking-to-fix-the-female-funding-gap/","title":"The Power of Networking to Fix the Female Funding Gap","tags":["📰"],"created":"2025-05-12T22:56:55.712-05:00","updated":"2024-11-09T08:33:23.000-06:00"}
 ---
 
 # The Power of Networking to Fix the Female Funding Gap

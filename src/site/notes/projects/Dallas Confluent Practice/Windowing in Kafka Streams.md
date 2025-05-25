@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/windowing-in-kafka-streams/","title":"Windowing in Kafka Streams","tags":["📰"],"created":"2025-02-22T11:20:09.362-06:00","updated":"2025-01-26T11:40:54.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/windowing-in-kafka-streams/","title":"Windowing in Kafka Streams","tags":["📰"],"created":"2025-05-12T22:56:22.015-05:00","updated":"2025-01-26T11:40:54.000-06:00"}
 ---
 
 

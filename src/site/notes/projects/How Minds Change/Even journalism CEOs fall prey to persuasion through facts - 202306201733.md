@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/even-journalism-ce-os-fall-prey-to-persuasion-through-facts-202306201733/","tags":["📖"],"created":"2023-09-19T22:09:06.842-05:00","updated":"2024-11-10T16:45:15.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/even-journalism-ce-os-fall-prey-to-persuasion-through-facts-202306201733/","tags":["📖"],"created":"2025-05-12T22:56:23.764-05:00","updated":"2024-11-10T16:45:15.000-06:00"}
 ---
 
 
@@ -29,13 +29,4 @@
 
 </div></div>
 
-[^3]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/inside-the-meltdown-at-cnn-mark-peterson-highlights-1/#ref-545506258" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
->[!QUOTE]  
->Licht had not wanted *this*. Sure, he was chasing ratings; in nearly 20 years as a showrunner, ratings had been his currency. But Licht had come to Manchester with bigger ambitions than lifting CNN out of the viewership basement for a single evening in May. He believed that Trump owed his initial political ascent in part to the media’s habit of marginalizing conservative views and Republican voters. That needed to change ahead of 2024. Licht wasn’t scared to bring a bunch of MAGA enthusiasts onto his set—he had remarked to his deputies, in the days before the town hall, about the “extra Trumpy” makeup of the crowd CNN was expecting—and he damn sure wasn’t scared of Trump. The way to deal with a bully like Trump, Licht told his journalists, was to confront him with facts. ([View Highlight](https://read.readwise.io/read/01h2jqjc6w6yj676f3vfwn4pqc)) #✂️  
-
-</div></div>
-]]
+[^3]: ![[Inside the Meltdown at CNN - Mark Peterson Highlights 1#^ref-545506258\|Inside the Meltdown at CNN - Mark Peterson Highlights 1#^ref-545506258]]]]

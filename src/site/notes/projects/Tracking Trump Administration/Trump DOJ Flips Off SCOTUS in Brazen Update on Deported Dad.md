@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-doj-flips-off-scotus-in-brazen-update-on-deported-dad/","title":"Trump DOJ Flips Off SCOTUS in Brazen Update on Deported Dad","tags":["📰"],"created":"2025-04-13T08:37:17.384-05:00","updated":"2025-04-13T08:37:18.107-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-doj-flips-off-scotus-in-brazen-update-on-deported-dad/","title":"Trump DOJ Flips Off SCOTUS in Brazen Update on Deported Dad","tags":["📰"],"created":"2025-05-12T22:56:28.144-05:00","updated":"2025-04-13T08:37:18.106-05:00"}
 ---
 
 # Trump DOJ Flips Off SCOTUS in Brazen Update on Deported Dad

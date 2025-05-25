@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/trump-is-using-election-lies-to-lay-the-groundwork-for-challenging-2024-results-if-he-loses/","title":"Trump is using election lies to lay the groundwork for challenging 2024 results if he loses","tags":["📰"],"created":"2025-02-22T11:19:48.614-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/archive/2024/projects/literature-notes/trump-is-using-election-lies-to-lay-the-groundwork-for-challenging-2024-results-if-he-loses/","title":"Trump is using election lies to lay the groundwork for challenging 2024 results if he loses","tags":["📰"],"created":"2025-05-12T23:15:14.047-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 # Trump is using election lies to lay the groundwork for challenging 2024 results if he loses

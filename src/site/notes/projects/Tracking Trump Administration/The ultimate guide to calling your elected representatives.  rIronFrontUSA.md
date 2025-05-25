@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/the-ultimate-guide-to-calling-your-elected-representatives-r-iron-front-usa/","title":"The ultimate guide to calling your elected representatives. : r/IronFrontUSA","tags":["📰"],"created":"2025-02-24T16:15:32.972-06:00","updated":"2025-02-08T08:48:16.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/the-ultimate-guide-to-calling-your-elected-representatives-r-iron-front-usa/","title":"The ultimate guide to calling your elected representatives. : r/IronFrontUSA","tags":["📰"],"created":"2025-05-12T22:56:29.169-05:00","updated":"2025-02-08T08:48:16.000-06:00"}
 ---
 
 # The ultimate guide to calling your elected representatives. : r/IronFrontUSA

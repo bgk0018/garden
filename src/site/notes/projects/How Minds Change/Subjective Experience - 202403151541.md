@@ -1,23 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/subjective-experience-202403151541/","tags":["📖"],"created":"2024-03-15T16:49:22.153-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/subjective-experience-202403151541/","tags":["📖"],"created":"2025-05-12T22:56:24.563-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 # Subjective Experience
 
-[[reference/Jakob von Uexküll\|Jakob von Uexküll]] coined the term Umwelt to describe individuals subjective experiences.[^1] Each species, and even individuals within a species, have their own umwelt, which is influenced by factors such as their sensory organs, neural processing, behavior, and ecological niche. For example, the umwelt of a bee is vastly different from that of a human, as bees perceive the world primarily through ultraviolet light and chemical cues.
+[[references/people/Jakob von Uexküll\|Jakob von Uexküll]] coined the term Umwelt to describe individuals subjective experiences.[^1] Each species, and even individuals within a species, have their own umwelt, which is influenced by factors such as their sensory organs, neural processing, behavior, and ecological niche. For example, the umwelt of a bee is vastly different from that of a human, as bees perceive the world primarily through ultraviolet light and chemical cues.
 
 Umwelt emphasizes that reality is not objective or universal but rather subjective and individualized, shaped by the unique sensory and cognitive abilities of each organism.
 
 Because you can't experience the world in any other way, then it's likely to understand that how you experience the world is the only way to experience the world.
 
-[[reference/Thomas Nagel\|Thomas Nagel]] made a similar argument in [[reference/What Is It Like to Be a Bat - Thomas Nagel\|What Is It Like to Be a Bat?]]
+[[references/people/Thomas Nagel\|Thomas Nagel]] made a similar argument in [[references/books/What Is It Like to Be a Bat - Thomas Nagel\|What Is It Like to Be a Bat?]]
 
 Other authors:
-- [[reference/Timothy Leary\|Timothy Leary]] - [[zettelkasten/What is a reality tunnel - 202403151601\|What is a reality tunnel]]
-- [[reference/JJ Gibson\|JJ Gibson]] - [[zettelkasten/What is ecological optic - 202403151615\|What is ecological optic]]
-- [[reference/Charles Tart\|Charles Tart]] - [[zettelkasten/What is consensus trance - 202403151616\|What is concensus trance]]
-- [[reference/Immanuel Kant\|Immanuel Kant]] - [[zettelkasten/What is noumenon - 202403151617\|What is noumenon]]
-- [[reference/Daniel Dennett\|Daniel Dennett]] - [[zettelkasten/What is a conscious robot - 202403151617\|What is a conscious robot]]
+- [[references/people/Timothy Leary\|Timothy Leary]] - [[zettelkasten/What is a reality tunnel - 202403151601\|What is a reality tunnel]]
+- [[references/people/JJ Gibson\|JJ Gibson]] - [[zettelkasten/What is ecological optic - 202403151615\|What is ecological optic]]
+- [[references/people/Charles Tart\|Charles Tart]] - [[zettelkasten/What is consensus trance - 202403151616\|What is concensus trance]]
+- [[references/people/Immanuel Kant\|Immanuel Kant]] - [[zettelkasten/What is noumenon - 202403151617\|What is noumenon]]
+- [[references/people/Daniel Dennett\|Daniel Dennett]] - [[zettelkasten/What is a conscious robot - 202403151617\|What is a conscious robot]]
 ## References
 
 [^1]: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-administration-deports-gay-makeup-artist-to-prison-in-el-salvador/","title":"Trump administration deports gay makeup artist to prison in El Salvador","tags":["📰"],"created":"2025-04-08T08:49:23.646-05:00","updated":"2025-04-07T20:26:15.807-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/trump-administration-deports-gay-makeup-artist-to-prison-in-el-salvador/","title":"Trump administration deports gay makeup artist to prison in El Salvador","tags":["📰"],"created":"2025-05-12T22:56:27.456-05:00","updated":"2025-04-07T20:26:15.807-05:00"}
 ---
 
 # Trump administration deports gay makeup artist to prison in El Salvador

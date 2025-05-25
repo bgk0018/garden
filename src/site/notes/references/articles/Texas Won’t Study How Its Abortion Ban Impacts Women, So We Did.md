@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/texas-won-t-study-how-its-abortion-ban-impacts-women-so-we-did/","title":"Texas Won’t Study How Its Abortion Ban Impacts Women, So We Did","tags":["📰"],"created":"2025-02-28T14:10:21.661-06:00","updated":"2025-02-28T14:10:21.135-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/texas-won-t-study-how-its-abortion-ban-impacts-women-so-we-did/","title":"Texas Won’t Study How Its Abortion Ban Impacts Women, So We Did","tags":["📰"],"created":"2025-05-12T22:56:55.967-05:00","updated":"2025-02-28T14:10:21.135-06:00"}
 ---
 
 # Texas Won’t Study How Its Abortion Ban Impacts Women, So We Did

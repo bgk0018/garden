@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/how-minds-change/what-is-a-filter-bubble-202307031642/","tags":["❓"],"created":"2025-02-24T16:17:48.961-06:00","updated":"2024-11-08T09:43:57.000-06:00"}
+{"dg-publish":true,"permalink":"/projects/how-minds-change/what-is-a-filter-bubble-202307031642/","tags":["❓"],"created":"2025-05-12T22:56:23.065-05:00","updated":"2024-11-08T09:43:57.000-06:00"}
 ---
 
 # Content
