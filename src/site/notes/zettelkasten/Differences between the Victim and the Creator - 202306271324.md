@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/differences-between-the-victim-and-the-creator-202306271324/","tags":["📖"],"created":"2025-02-22T11:20:23.743-06:00","updated":"2024-11-10T17:04:32.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/differences-between-the-victim-and-the-creator-202306271324/","tags":["📖"],"created":"2025-02-24T16:09:20.680-06:00","updated":"2024-11-10T17:04:32.000-06:00"}
 ---
 
 

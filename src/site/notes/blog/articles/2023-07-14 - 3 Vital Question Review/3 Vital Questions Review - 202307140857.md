@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"articles/2023-07-14 3 Vital Question Review","permalink":"/articles/2023-07-14-3-vital-question-review/","title":"2023-07-14 - 3 Vital Question Review","tags":["🥕"],"created":"2023-09-19T22:08:56.793-05:00","updated":"2025-01-05T09:59:23.000-06:00"}
+{"dg-publish":true,"dg-path":"articles/2023-07-14 3 Vital Question Review","permalink":"/articles/2023-07-14-3-vital-question-review/","title":"2023-07-14 - 3 Vital Question Review","tags":["🥕"],"created":"2025-02-24T16:15:30.949-06:00","updated":"2025-01-05T09:59:23.000-06:00"}
 ---
 
 
@@ -19,7 +19,7 @@ If you want a less guided tour, you can checkout the [[zettelkasten/The Empowerm
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217186" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217186" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -43,18 +43,18 @@ If you want a less guided tour, you can checkout the [[zettelkasten/The Empowerm
 
 # Three Dimensions of Work
 
-An observation by [[reference/Douglas Engelbart\|Douglas Engelbart]] that every organization has three dimensions of work. Where each affect the next one down.[^1]
+An observation by [[references/people/Douglas Engelbart\|Douglas Engelbart]] that every organization has three dimensions of work. Where each affect the next one down.[^1]
 
 - The way we think about how we think, interact, and take action - The design and implementation of the systems, process, and structures that enable work to be done - The production and delivery of products or services
 
-[[reference/3 Vital Questions - David Emerald\|3 Vital Questions]] focuses on the first bullet.
+[[references/books/3 Vital Questions - David Emerald\|3 Vital Questions]] focuses on the first bullet.
 
 <style> .container {font-family: sans-serif; text-align: center;} .button-wrapper button {z-index: 1;height: 40px; width: 100px; margin: 10px;padding: 5px;} .excalidraw .App-menu_top .buttonList { display: flex;} .excalidraw-wrapper { height: 800px; margin: 50px; position: relative;} :root[dir="ltr"] .excalidraw .layer-ui__wrapper .zen-mode-transition.App-menu_bottom--transition-left {transform: none;} </style><script src="https://cdn.jsdelivr.net/npm/react@17/umd/react.production.min.js"></script><script src="https://cdn.jsdelivr.net/npm/react-dom@17/umd/react-dom.production.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@excalidraw/excalidraw@0/dist/excalidraw.production.min.js"></script><div id="Dimensions_of_Work_-_202306301446excalidraw.md1"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.7","elements":[{"type":"ellipse","version":95,"versionNonce":1309911489,"isDeleted":false,"id":"UZmow2q6z9szYUjaJaiF9","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-180.75,"y":-278.2421875,"strokeColor":"#f08c00","backgroundColor":"transparent","width":554,"height":554,"seed":499734209,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688068794294,"link":null,"locked":false},{"type":"ellipse","version":387,"versionNonce":878365089,"isDeleted":false,"id":"TV0u0-EWG-BFwdd8TpJfj","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-91.75,"y":-176.2421875,"strokeColor":"#f08c00","backgroundColor":"transparent","width":376,"height":376,"seed":1403329569,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688068803699,"link":null,"locked":false},{"type":"ellipse","version":570,"versionNonce":1469820207,"isDeleted":false,"id":"D9pQnEsY-_n0Crv8vNqSA","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-6.75,"y":-85.2421875,"strokeColor":"#f08c00","backgroundColor":"transparent","width":201,"height":201,"seed":1681345231,"groupIds":[],"frameId":null,"roundness":{"type":2},"boundElements":[],"updated":1688068813456,"link":null,"locked":false},{"type":"text","version":322,"versionNonce":719055215,"isDeleted":false,"id":"7mbg2otc","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-17.75,"y":-239.2421875,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":226.4493408203125,"height":40.47826696121398,"seed":525304225,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688068339027,"link":null,"locked":false,"fontSize":16.191306784485594,"fontFamily":1,"text":"Thinking About How We Think\nInteract and Take Action","rawText":"Thinking About How We Think\nInteract and Take Action","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Thinking About How We Think\nInteract and Take Action","lineHeight":1.25,"baseline":34},{"type":"text","version":65,"versionNonce":1601531599,"isDeleted":false,"id":"K0GCwH5v","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":79.25,"y":210.11491939335306,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":35.877227783203125,"height":69.64289310664694,"seed":1603918337,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688068262263,"link":null,"locked":false,"fontSize":55.714314485317544,"fontFamily":1,"text":"C","rawText":"C","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"C","lineHeight":1.25,"baseline":49},{"type":"text","version":118,"versionNonce":1918381391,"isDeleted":false,"id":"6Spxl1GG","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":76.31000518798828,"y":128.93636594667655,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":40.50115966796875,"height":69.64289310664694,"seed":933018863,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688068345238,"link":null,"locked":false,"fontSize":55.714314485317544,"fontFamily":1,"text":"B","rawText":"B","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"B","lineHeight":1.25,"baseline":49},{"type":"text","version":109,"versionNonce":2037150785,"isDeleted":false,"id":"A8cvXc7W","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":74.31000518798828,"y":53.936365946676545,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":36.545745849609375,"height":69.64289310664694,"seed":1923329825,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688068341501,"link":null,"locked":false,"fontSize":55.714314485317544,"fontFamily":1,"text":"A","rawText":"A","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"A","lineHeight":1.25,"baseline":49},{"type":"text","version":154,"versionNonce":1683706433,"isDeleted":false,"id":"SjuuyAmj","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":17.711538461538453,"y":-32.08834134615387,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":163.1556396484375,"height":79.92162564100808,"seed":1995593071,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688068714257,"link":null,"locked":false,"fontSize":15.984325128201615,"fontFamily":1,"text":"Basic Production\nDelivery of Products\nand/or Services\n(The Work)","rawText":"Basic Production\nDelivery of Products\nand/or Services\n(The Work)","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Basic Production\nDelivery of Products\nand/or Services\n(The Work)","lineHeight":1.25,"baseline":74},{"type":"text","version":427,"versionNonce":30892431,"isDeleted":false,"id":"vBPHdWDV","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-13.947273254394531,"y":-130.95755376276776,"strokeColor":"#1e1e1e","backgroundColor":"transparent","width":231.3380889892578,"height":35.384861652190146,"seed":1563547919,"groupIds":[],"frameId":null,"roundness":null,"boundElements":[],"updated":1688068333994,"link":null,"locked":false,"fontSize":14.153944660876059,"fontFamily":1,"text":"Design & Implementation Systems\nProcesses & Structures","rawText":"Design & Implementation Systems\nProcesses & Structures","textAlign":"left","verticalAlign":"top","containerId":null,"originalText":"Design & Implementation Systems\nProcesses & Structures","lineHeight":1.25,"baseline":30}],"appState":{"theme":"dark","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#f08c00","currentItemBackgroundColor":"transparent","currentItemFillStyle":"hachure","currentItemStrokeWidth":1,"currentItemStrokeStyle":"solid","currentItemRoughness":1,"currentItemOpacity":100,"currentItemFontFamily":1,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","scrollX":276.60590676700366,"scrollY":298.0157219381893,"zoom":{"value":1.7000000000000002},"currentItemRoundness":"round","gridSize":null,"currentStrokeOptions":null,"previousGridSize":null},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("Dimensions_of_Work_-_202306301446excalidraw.md1");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
 
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217189" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217189" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -82,12 +82,12 @@ An observation by [[reference/Douglas Engelbart\|Douglas Engelbart]] that every 
 
 # Theory of Employee Motivation
 
-Proposed by [[reference/Douglas McGregor\|Douglas McGregor]], the theory focuses on employee motivation that addresses thinking about how we think, interact, and act. It is composed of [[zettelkasten/Theory X - 202304201635\|Theory X]] and [[zettelkasten/Theory Y - 202304201637\|Theory Y]].[^1]
+Proposed by [[references/people/Douglas McGregor\|Douglas McGregor]], the theory focuses on employee motivation that addresses thinking about how we think, interact, and act. It is composed of [[zettelkasten/Theory X - 202304201635\|Theory X]] and [[zettelkasten/Theory Y - 202304201637\|Theory Y]].[^1]
 
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217190" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217190" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -115,12 +115,12 @@ Proposed by [[reference/Douglas McGregor\|Douglas McGregor]], the theory focuses
 
 # Theory X
 
-[[reference/Douglas McGregor\|Douglas McGregor]]'s theory of employee motivation that implies that people are basically lazy and will avoid work if they can and so they need to be controlled and threatened if they do not perform. Employees are seen as [[zettelkasten/Problem - 202304261228\|Problems]].[^1]
+[[references/people/Douglas McGregor\|Douglas McGregor]]'s theory of employee motivation that implies that people are basically lazy and will avoid work if they can and so they need to be controlled and threatened if they do not perform. Employees are seen as [[zettelkasten/Problem - 202304261228\|Problems]].[^1]
 
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217191" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217191" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -148,12 +148,12 @@ Proposed by [[reference/Douglas McGregor\|Douglas McGregor]], the theory focuses
 
 # Theory Y
 
-[[reference/Douglas McGregor\|Douglas McGregor]]'s theory of employee motivation that assumes that employees are inherently self-motivated and seek out work to create products and services that meet the needs of others.[^1]
+[[references/people/Douglas McGregor\|Douglas McGregor]]'s theory of employee motivation that assumes that employees are inherently self-motivated and seek out work to create products and services that meet the needs of others.[^1]
 
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217192" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217192" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -181,7 +181,7 @@ Proposed by [[reference/Douglas McGregor\|Douglas McGregor]], the theory focuses
 
 # Change Initiatives Fail Because We Focus on the Wrong Dimension
 
-[[reference/David Emerald\|David Emerald]] contends that because we [[zettelkasten/Focus - 202304201649\|focus]] on 
+[[references/people/David Emerald\|David Emerald]] contends that because we [[zettelkasten/Focus - 202304201649\|focus]] on 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/zettelkasten/three-dimensions-of-work-202304171439/#e3071f" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -207,7 +207,7 @@ change initiatives tend to fail.[^1]
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217193" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217193" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -242,7 +242,7 @@ This question prompts us to upgrade our [[zettelkasten/Problem Orientation - 202
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217195" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217195" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -252,7 +252,7 @@ This question prompts us to upgrade our [[zettelkasten/Problem Orientation - 202
 </div></div>
   
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217216" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217216" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -293,7 +293,7 @@ There are several layers to this question:[^2]
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217195" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217195" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -303,7 +303,7 @@ There are several layers to this question:[^2]
 </div></div>
   
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-521905049" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-521905049" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -338,7 +338,7 @@ Are you merely [[zettelkasten/Reaction - 202304261216\|reacting]] to the [[zette
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217195" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217195" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -377,7 +377,7 @@ An acronym that describes how a human operates.[^1]
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217203" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217203" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -418,7 +418,7 @@ When our [[zettelkasten/Anxiety - 202304261229\|Anxiety]] raises, we [[zettelkas
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217201" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217201" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -428,7 +428,7 @@ When our [[zettelkasten/Anxiety - 202304261229\|Anxiety]] raises, we [[zettelkas
 </div></div>
   
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217208" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217208" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -438,7 +438,7 @@ When our [[zettelkasten/Anxiety - 202304261229\|Anxiety]] raises, we [[zettelkas
 </div></div>
 
 [^3]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-521905048" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-521905048" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -471,7 +471,7 @@ Problems do not just go away. Problems will always be there. [^1][^2]
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217211" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217211" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -481,7 +481,7 @@ Problems do not just go away. Problems will always be there. [^1][^2]
 </div></div>
   
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217212" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217212" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -514,7 +514,7 @@ Anxiety drives your [[zettelkasten/Behavior - 202304201655\|Behavior]] in the [[
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217210" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217210" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -549,7 +549,7 @@ Reactions are driven by your need to reduce your [[zettelkasten/Anxiety - 202304
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217209" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217209" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -559,7 +559,7 @@ Reactions are driven by your need to reduce your [[zettelkasten/Anxiety - 202304
 </div></div>
   
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217210" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217210" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -598,7 +598,7 @@ Each [[zettelkasten/Baby Step - 202304261244\|Baby Step]] you take will either g
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217213" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217213" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -631,7 +631,7 @@ Something you want that creates a [[zettelkasten/Passion - 202304261243\|Passion
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217214" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217214" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -664,7 +664,7 @@ The [[zettelkasten/Inner State - 202304201654\|Inner State]] produced when someo
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217214" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217214" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -674,7 +674,7 @@ The [[zettelkasten/Inner State - 202304201654\|Inner State]] produced when someo
 </div></div>
 
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217215" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217215" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -707,7 +707,7 @@ A [[zettelkasten/Behavior - 202304201655\|Behavior]] that is a small action that
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217223" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217223" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -744,7 +744,7 @@ An acronym that stands for the three major distinctions between [[zettelkasten/P
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217217" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217217" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -777,7 +777,7 @@ Where you place your [[zettelkasten/Focus - 202304201649\|Focus]].
 ## References
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217219" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217219" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -810,7 +810,7 @@ Moving away from [[zettelkasten/Problem - 202304261228\|Problems]] you don't wan
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217221" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217221" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -843,7 +843,7 @@ This represents how the different [[zettelkasten/Outcome - 202304261242\|Outcome
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217222" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217222" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -853,7 +853,7 @@ This represents how the different [[zettelkasten/Outcome - 202304261242\|Outcome
 </div></div>
 
 [^2]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217223" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217223" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -886,7 +886,7 @@ An exercise in reflecting on what you're experiencing and how you're acting. If 
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217227" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217227" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -926,7 +926,7 @@ An exercise in reflecting on what things trigger you to react and what strategy 
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217228" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217228" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -966,7 +966,7 @@ Anything that causes you to [[zettelkasten/Reaction - 202304261216\|React]] and 
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217228" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217228" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -994,7 +994,7 @@ Being able to step back and reflect. The more you can observe, the more you will
 ## References
 
 [^1]: 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/reference/3-vital-questions-david-emerald-highlights/#ref-518217229" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/references/highlights/3-vital-questions-david-emerald-highlights/#ref-518217229" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

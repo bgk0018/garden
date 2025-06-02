@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/what-is-an-event-driven-architecture-amazon-web-services-inc-highlights/","title":"What Is an Event-Driven Architecture?","tags":["✂️","📰"],"created":"2025-02-22T11:20:22.013-06:00","updated":"2025-03-11T13:26:53.726-05:00"}
+{"dg-publish":true,"permalink":"/references/articles/what-is-an-event-driven-architecture-amazon-web-services-inc-highlights/","title":"What Is an Event-Driven Architecture?","tags":["✂️","📰"],"created":"2025-02-24T16:09:06.510-06:00","updated":"2025-03-11T13:26:53.726-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2025-02-01-video-unsolicited-advice-pseudoscience-cults-and-social-media-misinformation-in-the-modern-age/","title":"Pseudoscience, Cults, and Social Media: Misinformation in the Modern Age","tags":["🎥"],"created":"2025-03-08T09:29:12.397-06:00","updated":"2025-03-08T09:29:11.923-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2025-02-01-video-unsolicited-advice-pseudoscience-cults-and-social-media-misinformation-in-the-modern-age/","title":"Pseudoscience, Cults, and Social Media: Misinformation in the Modern Age","tags":["🎥"],"created":"2025-03-08T09:29:11.374-06:00","updated":"2025-03-08T09:29:11.923-06:00"}
 ---
 
 # Pseudoscience, Cults, and Social Media: Misinformation in the Modern Age

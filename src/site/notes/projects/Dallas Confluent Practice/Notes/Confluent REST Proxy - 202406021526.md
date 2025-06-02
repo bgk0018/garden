@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-rest-proxy-202406021526/","tags":["♣️/kafka","📖"],"created":"2025-02-22T11:19:55.550-06:00","updated":"2025-01-24T21:28:39.248-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/confluent-rest-proxy-202406021526/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:20.140-06:00","updated":"2025-01-24T21:28:39.248-06:00"}
 ---
 
 

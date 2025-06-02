@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/highlights/event-driven-architecture-develop-with-agility-highlights/","title":"Event-Driven Architecture","tags":["✂️"],"created":"2025-05-12T22:56:35.171-05:00","updated":"2025-01-15T09:52:02.000-06:00"}
+{"dg-publish":true,"permalink":"/references/highlights/event-driven-architecture-develop-with-agility-highlights/","title":"Event-Driven Architecture","tags":["✂️"],"created":"2025-02-24T16:09:10.881-06:00","updated":"2025-01-15T09:52:02.000-06:00"}
 ---
 
 # Event-Driven Architecture

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/change-initiatives-fail-because-we-focus-on-the-wrong-dimension-202304201639/","tags":["📖"],"created":"2025-02-22T11:20:23.663-06:00","updated":"2024-11-10T16:34:30.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/change-initiatives-fail-because-we-focus-on-the-wrong-dimension-202304201639/","tags":["📖"],"created":"2025-02-24T16:09:20.816-06:00","updated":"2024-11-10T16:34:30.000-06:00"}
 ---
 
 

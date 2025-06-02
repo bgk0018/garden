@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/what-is-the-difference-between-category-and-hierarchy-202304281332/","tags":["❓"],"created":"2025-02-22T11:20:25.455-06:00","updated":"2025-01-04T14:57:39.147-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/what-is-the-difference-between-category-and-hierarchy-202304281332/","tags":["❓"],"created":"2025-02-24T16:09:22.721-06:00","updated":"2025-01-04T14:57:39.147-06:00"}
 ---
 
 

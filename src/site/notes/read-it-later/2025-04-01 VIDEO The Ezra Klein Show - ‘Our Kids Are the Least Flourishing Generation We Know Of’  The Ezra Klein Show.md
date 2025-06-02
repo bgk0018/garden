@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2025-04-01-video-the-ezra-klein-show-our-kids-are-the-least-flourishing-generation-we-know-of-the-ezra-klein-show/","title":"‘Our Kids Are the Least Flourishing Generation We Know Of’ | The Ezra Klein Show","tags":["🎥"],"created":"2025-04-06T11:44:48.521-05:00","updated":"2025-04-06T11:44:48.079-05:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2025-04-01-video-the-ezra-klein-show-our-kids-are-the-least-flourishing-generation-we-know-of-the-ezra-klein-show/","title":"‘Our Kids Are the Least Flourishing Generation We Know Of’ | The Ezra Klein Show","tags":["🎥"],"created":"2025-04-06T11:44:47.295-05:00","updated":"2025-04-06T11:44:48.080-05:00"}
 ---
 
 # ‘Our Kids Are the Least Flourishing Generation We Know Of’ | The Ezra Klein Show

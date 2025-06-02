@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/how-is-status-and-confidence-related-202305090944/","tags":["❓"],"created":"2025-05-12T22:55:32.602-05:00","updated":"2024-12-02T16:50:36.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/how-is-status-and-confidence-related-202305090944/","tags":["❓"],"created":"2025-02-24T16:09:20.897-06:00","updated":"2024-12-02T16:50:36.000-06:00"}
 ---
 
 

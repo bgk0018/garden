@@ -1,18 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/maps/upcoming-maps/","created":"2025-02-24T16:08:45.416-06:00","updated":"2025-01-04T14:41:35.195-06:00"}
+{"dg-publish":true,"permalink":"/maps/upcoming-maps/","created":"2025-05-09T07:56:44.795-05:00","updated":"2025-05-08T22:20:45.199-05:00"}
 ---
 
 
 These are high level subjects I'm keeping an eye. They are uncreated notes that are linked to most frequently.
 
-<pre class="dataview dataview-error">Evaluation Error: TypeError: Cannot read properties of null (reading 'path')
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:15:39)
-    at DataviewInlineApi.eval (plugin:dataview:19027:16)
-    at evalInContext (plugin:dataview:19028:7)
-    at asyncEvalInContext (plugin:dataview:19038:32)
-    at DataviewJSRenderer.render (plugin:dataview:19064:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-    at e.load (app://obsidian.md/app.js:1:1214378)
-    at DataviewApi.executeJs (plugin:dataview:19607:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
-    at Generator.next (&lt;anonymous&gt;)</pre>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span data-tag-name="p" class="el-p">Uncreated Link</span><span class="dataview small-text">20</span></th><th class="table-view-th"><span data-tag-name="p" class="el-p">Reference Count</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span data-tag-name="p" class="el-p">Technical Assessment</span></td><td>15</td></tr><tr><td><span data-tag-name="p" class="el-p">Trade Economics</span></td><td>8</td></tr><tr><td><span data-tag-name="p" class="el-p">Industrial Policy</span></td><td>6</td></tr><tr><td><span data-tag-name="p" class="el-p">RPG Encounter</span></td><td>6</td></tr><tr><td><span data-tag-name="p" class="el-p">Interview</span></td><td>5</td></tr><tr><td><span data-tag-name="p" class="el-p">Fitness</span></td><td>5</td></tr><tr><td><span data-tag-name="p" class="el-p">Coaching</span></td><td>4</td></tr><tr><td><span data-tag-name="p" class="el-p">Education</span></td><td>4</td></tr><tr><td><span data-tag-name="p" class="el-p">Leadership</span></td><td>4</td></tr><tr><td><span data-tag-name="p" class="el-p">Sales</span></td><td>4</td></tr><tr><td><span data-tag-name="p" class="el-p">Improving Enterprises</span></td><td>4</td></tr><tr><td><span data-tag-name="p" class="el-p">Performance Management</span></td><td>4</td></tr><tr><td><span data-tag-name="p" class="el-p">Improving</span></td><td>3</td></tr><tr><td><span data-tag-name="p" class="el-p">Latino Political Shift</span></td><td>3</td></tr><tr><td><span data-tag-name="p" class="el-p">Presentation</span></td><td>3</td></tr><tr><td><span data-tag-name="p" class="el-p">Barbell Training</span></td><td>3</td></tr><tr><td><span data-tag-name="p" class="el-p">Note Taking</span></td><td>3</td></tr><tr><td><span data-tag-name="p" class="el-p">Knowledge Management</span></td><td>3</td></tr><tr><td><span data-tag-name="p" class="el-p">Travel</span></td><td>3</td></tr><tr><td><span data-tag-name="p" class="el-p">Vacation</span></td><td>3</td></tr></tbody></table></div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/articles/selfhosted/","title":"selfhosted","tags":["📰"],"created":"2025-05-12T22:56:55.019-05:00","updated":"2025-01-09T14:53:42.000-06:00"}
+{"dg-publish":true,"permalink":"/references/articles/selfhosted/","title":"selfhosted","tags":["📰"],"created":"2025-02-24T16:09:16.998-06:00","updated":"2025-01-09T14:53:42.000-06:00"}
 ---
 
 # selfhosted

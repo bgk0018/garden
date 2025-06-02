@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/hofstede-s-cultural-dimensions-theory-202305072151/","tags":["📖"],"created":"2025-02-22T11:20:24.218-06:00","updated":"2024-11-10T17:03:44.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/hofstede-s-cultural-dimensions-theory-202305072151/","tags":["📖"],"created":"2025-02-24T16:09:23.573-06:00","updated":"2024-11-10T17:03:44.000-06:00"}
 ---
 
 

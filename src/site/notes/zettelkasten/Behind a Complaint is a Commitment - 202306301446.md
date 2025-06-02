@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/behind-a-complaint-is-a-commitment-202306301446/","tags":["📖"],"created":"2025-02-22T11:20:23.599-06:00","updated":"2024-11-10T17:04:51.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/behind-a-complaint-is-a-commitment-202306301446/","tags":["📖"],"created":"2025-02-24T16:09:21.923-06:00","updated":"2024-11-10T17:04:51.000-06:00"}
 ---
 
 

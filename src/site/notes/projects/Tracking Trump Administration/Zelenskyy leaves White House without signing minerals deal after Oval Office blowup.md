@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/zelenskyy-leaves-white-house-without-signing-minerals-deal-after-oval-office-blowup/","title":"Zelenskyy leaves White House without signing minerals deal after Oval Office blowup","tags":["📰"],"created":"2025-03-05T11:34:42.850-06:00","updated":"2025-03-11T18:15:24.472-05:00"}
+{"dg-publish":true,"permalink":"/projects/tracking-trump-administration/zelenskyy-leaves-white-house-without-signing-minerals-deal-after-oval-office-blowup/","title":"Zelenskyy leaves White House without signing minerals deal after Oval Office blowup","tags":["📰"],"created":"2025-03-05T11:34:42.504-06:00","updated":"2025-03-11T18:15:24.472-05:00"}
 ---
 
 

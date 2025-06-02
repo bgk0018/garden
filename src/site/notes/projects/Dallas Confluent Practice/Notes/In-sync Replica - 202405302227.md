@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/in-sync-replica-202405302227/","tags":["♣️/kafka","📖"],"created":"2025-05-12T23:14:33.922-05:00","updated":"2025-02-02T15:54:17.842-06:00"}
+{"dg-publish":true,"permalink":"/projects/dallas-confluent-practice/notes/in-sync-replica-202405302227/","tags":["♣️/kafka","📖"],"created":"2025-02-24T16:13:21.356-06:00","updated":"2025-02-02T15:54:17.842-06:00"}
 ---
 
 

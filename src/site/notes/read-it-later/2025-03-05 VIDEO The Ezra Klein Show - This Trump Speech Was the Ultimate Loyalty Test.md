@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/read-it-later/2025-03-05-video-the-ezra-klein-show-this-trump-speech-was-the-ultimate-loyalty-test/","title":"This Trump Speech Was the Ultimate Loyalty Test","tags":["🎥"],"created":"2025-03-08T09:23:33.462-06:00","updated":"2025-03-08T09:23:33.073-06:00"}
+{"dg-publish":true,"permalink":"/read-it-later/2025-03-05-video-the-ezra-klein-show-this-trump-speech-was-the-ultimate-loyalty-test/","title":"This Trump Speech Was the Ultimate Loyalty Test","tags":["🎥"],"created":"2025-03-08T09:23:32.440-06:00","updated":"2025-03-08T09:23:33.073-06:00"}
 ---
 
 # This Trump Speech Was the Ultimate Loyalty Test

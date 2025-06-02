@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/category-organizing-in-obsidian-202304281322/","tags":["📖"],"created":"2025-02-22T11:20:23.618-06:00","updated":"2025-01-04T14:57:38.464-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/category-organizing-in-obsidian-202304281322/","tags":["📖"],"created":"2025-02-24T16:09:23.148-06:00","updated":"2025-01-04T14:57:38.464-06:00"}
 ---
 
 

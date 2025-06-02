@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/concerns-of-testing-202305051457/","tags":["❓"],"created":"2025-02-22T11:20:23.696-06:00","updated":"2024-11-10T17:04:38.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/concerns-of-testing-202305051457/","tags":["❓"],"created":"2025-02-24T16:09:23.168-06:00","updated":"2024-11-10T17:04:38.000-06:00"}
 ---
 
 

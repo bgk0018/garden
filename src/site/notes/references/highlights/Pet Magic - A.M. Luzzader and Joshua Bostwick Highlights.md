@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/references/highlights/pet-magic-a-m-luzzader-and-joshua-bostwick-highlights/","tags":["✂️"],"created":"2025-05-12T22:56:34.853-05:00","updated":"2025-03-30T10:02:36.030-05:00"}
+{"dg-publish":true,"permalink":"/references/highlights/pet-magic-a-m-luzzader-and-joshua-bostwick-highlights/","tags":["✂️"],"created":"2025-03-30T10:02:35.176-05:00","updated":"2025-03-30T10:02:36.030-05:00"}
 ---
 
 

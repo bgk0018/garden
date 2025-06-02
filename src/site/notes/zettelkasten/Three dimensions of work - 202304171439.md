@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/three-dimensions-of-work-202304171439/","tags":["📖"],"created":"2025-02-22T11:20:24.995-06:00","updated":"2024-11-10T17:56:04.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/three-dimensions-of-work-202304171439/","tags":["📖"],"created":"2025-02-24T16:09:22.116-06:00","updated":"2024-11-10T17:56:04.000-06:00"}
 ---
 
 

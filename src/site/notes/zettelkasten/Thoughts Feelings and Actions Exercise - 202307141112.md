@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/thoughts-feelings-and-actions-exercise-202307141112/","tags":["📖"],"created":"2025-02-22T11:20:24.979-06:00","updated":"2024-11-10T17:55:43.000-06:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/thoughts-feelings-and-actions-exercise-202307141112/","tags":["📖"],"created":"2025-02-24T16:09:21.753-06:00","updated":"2024-11-10T17:55:43.000-06:00"}
 ---
 
 

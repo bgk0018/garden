@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps/trump-presidency/","tags":["🗺️"],"created":"2025-02-22T11:19:53.272-06:00","updated":"2025-03-11T17:03:14.661-05:00"}
+{"dg-publish":true,"permalink":"/maps/trump-presidency/","tags":["🗺️"],"created":"2025-02-24T16:08:46.336-06:00","updated":"2025-03-11T17:03:14.662-05:00"}
 ---
 
 
@@ -57,9 +57,9 @@
 | [[projects/Tracking Trump Administration/‘You see’ Russia broke Trump’s hyped partial Ukraine ceasefire after 1 hour\|‘You see’ Russia broke Trump’s hyped partial Ukraine ceasefire after 1 hour]]                                       |
 | [[projects/Tracking Trump Administration/How to DOGE The World Bank A Primer – Tracking DOGE\|How to DOGE The World Bank A Primer – Tracking DOGE]]                                                                                       |
 | [[projects/Tracking Trump Administration/Zelenskyy leaves White House without signing minerals deal after Oval Office blowup\|Zelenskyy leaves White House without signing minerals deal after Oval Office blowup]]                       |
-| [[references/organizations/American Institute for Economic Research - Wikipedia\|American Institute for Economic Research - Wikipedia]]                                                                                                   |
-| [[projects/Tracking Trump Administration/Will the IMF survive Donald Trump’s presidency\|Will the IMF survive Donald Trump’s presidency]]                                                                                                 |
 | [[projects/Tracking Trump Administration/Trump's Trade of Munitions for Mining Rights Would Hasten Bretton Woods III  The Daily Economy\|Trump's Trade of Munitions for Mining Rights Would Hasten Bretton Woods III  The Daily Economy]] |
+| [[projects/Tracking Trump Administration/Will the IMF survive Donald Trump’s presidency\|Will the IMF survive Donald Trump’s presidency]]                                                                                                 |
+| [[references/organizations/American Institute for Economic Research - Wikipedia\|American Institute for Economic Research - Wikipedia]]                                                                                                   |
 | [[projects/Tracking Trump Administration/Trump is using election lies to lay the groundwork for challenging 2024 results if he loses\|Trump is using election lies to lay the groundwork for challenging 2024 results if he loses]]       |
 
 { .block-language-dataview}
